@@ -1,0 +1,5 @@
+.footer {
+  border-top: 1px solid var(--color-border);
+  min-height: var(--space-10);
+  background: var(--color-white);
+}

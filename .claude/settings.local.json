@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(Remove-Item \"C:\\\\Users\\\\CAMI\\\\Desktop\\\\PROYECTO INMOBILIARIA\\\\dr-horton\\\\src\\\\App.css\" -Force)",
+      "Bash(Remove-Item \"C:\\\\Users\\\\CAMI\\\\Desktop\\\\PROYECTO INMOBILIARIA\\\\dr-horton\\\\src\\\\index.css\" -Force)",
+      "Bash(npm run *)"
+    ]
+  }
+}

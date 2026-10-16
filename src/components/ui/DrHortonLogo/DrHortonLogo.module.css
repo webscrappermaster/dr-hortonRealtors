@@ -1,0 +1,12 @@
+.logo {
+  display: block;
+  width: var(--logo-width-mobile);
+  height: auto;
+  color: var(--color-navy);
+}
+
+@media (min-width: 1024px) {
+  .logo {
+    width: var(--logo-width-desktop);
+  }
+}

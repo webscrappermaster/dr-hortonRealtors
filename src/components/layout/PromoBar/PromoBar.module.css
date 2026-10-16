@@ -1,0 +1,26 @@
+.bar {
+  background: var(--color-promo-bg);
+  height: var(--promo-bar-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-4);
+  color: var(--color-promo-text);
+  font-family: var(--font-promo);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+}
+
+.arrow {
+  transition: transform var(--transition-fast);
+}
+
+.link:hover .arrow {
+  transform: translateX(4px);
+}
