@@ -1,5 +1,190 @@
 .footer {
-  border-top: 1px solid var(--color-border);
-  min-height: var(--space-10);
   background: var(--color-white);
+  color: var(--color-text-primary);
+}
+
+.frame {
+  width: 100%;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-inline: var(--space-4);
+}
+
+/* ── Top bar (nav + social) ────────────────────────────── */
+
+.topBar {
+  padding-block: var(--space-10);
+  border-top: 1px solid var(--color-border);
+}
+
+.footerNav {
+  margin-block: var(--space-6);
+}
+
+.sectionsList {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-8);
+  list-style: none;
+  padding: 0;
+}
+
+.sectionHeading {
+  display: block;
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-3);
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.linkList a {
+  color: var(--color-link);
+  text-decoration: none;
+  font-size: var(--font-size-base);
+  letter-spacing: var(--letter-spacing-wide);
+  transition: color var(--transition-fast);
+}
+
+.linkList a:hover,
+.linkList a:focus-visible {
+  color: var(--color-navy);
+  text-decoration: underline;
+}
+
+/* ── Social icons ──────────────────────────────────────── */
+
+.social {
+  display: flex;
+  gap: var(--space-3);
+  list-style: none;
+  padding: 0;
+  align-items: center;
+}
+
+.socialIcon {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  color: var(--color-icon-social);
+  transition: opacity var(--transition-fast);
+}
+
+.socialIcon:hover,
+.socialIcon:focus-visible {
+  opacity: 0.75;
+}
+
+.socialIcon img {
+  width: 100%;
+  height: 100%;
+}
+
+.socialMobile {
+  display: flex;
+  margin-bottom: var(--space-6);
+  justify-content: center;
+}
+
+.socialDesktop {
+  display: none;
+}
+
+/* ── Bottom bar ────────────────────────────────────────── */
+
+.bottomBar {
+  padding-block: var(--space-6);
+  border-top: 1px solid var(--color-border);
+  background: var(--color-hero-bg);
+}
+
+.legalDesktop {
+  display: none;
+}
+
+.legalInline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-4);
+  list-style: none;
+  padding: 0;
+  margin-top: var(--space-3);
+}
+
+.legalInline a {
+  color: var(--color-link);
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+}
+
+.legalInline a:hover,
+.legalInline a:focus-visible {
+  text-decoration: underline;
+}
+
+.copyright {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  text-align: center;
+  padding-top: var(--space-4);
+}
+
+.eho {
+  display: block;
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: var(--space-2);
+}
+
+/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+
+@media (min-width: 640px) {
+  .sectionsList {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .copyright {
+    text-align: left;
+  }
+
+  .eho {
+    display: inline;
+    margin-right: var(--space-3);
+    margin-bottom: 0;
+  }
+}
+
+/* ── Desktop (≥ 960px) ─────────────────────────────────── */
+
+@media (min-width: 960px) {
+  .sectionsList {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  /* En desktop la columna "Legal Information" se mueve a la bottom bar */
+  .legalMobile {
+    display: none;
+  }
+
+  .legalDesktop {
+    display: block;
+    margin-bottom: var(--space-3);
+  }
+
+  .socialDesktop {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: var(--space-6);
+  }
+
+  .socialMobile {
+    display: none;
+  }
 }

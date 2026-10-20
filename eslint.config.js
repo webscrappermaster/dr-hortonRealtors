@@ -18,4 +18,12 @@ export default defineConfig([
       parserOptions: { ecmaFeatures: { jsx: true } },
     },
   },
+  /* Scripts Node (CLI helpers): usan APIs de Node, no de navegador. */
+  {
+    files: ['scripts/**/*.js'],
+    languageOptions: {
+      globals: { ...globals.node, ...globals.nodeBuiltin },
+      sourceType: 'module',
+    },
+  },
 ])

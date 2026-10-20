@@ -1,0 +1,125 @@
+.wrapper {
+  width: 100%;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: var(--space-10) var(--space-4);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+}
+
+.tile {
+  background: var(--color-tile-bg);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  transition: box-shadow var(--transition-base), transform var(--transition-base);
+}
+
+.tile:hover {
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-2px);
+}
+
+/* "top-squares" del original: dos cuadrados decorativos arriba del heading */
+.tileTopSquares .content::before {
+  content: '';
+  display: block;
+  width: 24px;
+  height: 6px;
+  background: linear-gradient(
+    to right,
+    var(--color-navy) 0 10px,
+    transparent 10px 14px,
+    var(--color-navy) 14px 24px
+  );
+  margin-bottom: var(--space-4);
+}
+
+.content {
+  padding: var(--space-6);
+}
+
+.heading {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-snug);
+  margin-bottom: var(--space-3);
+}
+
+.description {
+  font-size: var(--font-size-md);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-relaxed);
+  margin-bottom: var(--space-4);
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  color: var(--color-link);
+  font-weight: var(--font-weight-semibold);
+  text-decoration: none;
+  letter-spacing: var(--letter-spacing-wide);
+  transition: color var(--transition-fast);
+}
+
+.cta::after {
+  content: '→';
+  font-size: 1.1em;
+  transition: transform var(--transition-fast);
+}
+
+.cta:hover,
+.cta:focus-visible {
+  color: var(--color-navy);
+  text-decoration: underline;
+}
+
+.cta:hover::after,
+.cta:focus-visible::after {
+  transform: translateX(3px);
+}
+
+.heart {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.08em;
+  margin: 0 0.1em;
+}
+
+/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+
+@media (min-width: 640px) {
+  .secondaryGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-6);
+  }
+}
+
+/* ── Desktop (≥ 1024px) ─ grilla: tarjeta grande + 2×2 ───*/
+
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+    align-items: stretch;
+  }
+
+  .tileLarge {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .secondaryGrid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: var(--space-6);
+  }
+}

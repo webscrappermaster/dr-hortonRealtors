@@ -4,7 +4,16 @@
       "Bash(npm install *)",
       "Bash(Remove-Item \"C:\\\\Users\\\\CAMI\\\\Desktop\\\\PROYECTO INMOBILIARIA\\\\dr-horton\\\\src\\\\App.css\" -Force)",
       "Bash(Remove-Item \"C:\\\\Users\\\\CAMI\\\\Desktop\\\\PROYECTO INMOBILIARIA\\\\dr-horton\\\\src\\\\index.css\" -Force)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(grep -oE '\\\\.frame\\\\s*,|\\\\.frame\\\\{[^}]+' main.min.css)",
+      "Bash(mv \"D.R. Horton America's Largest Home Builder _ Homes For Sale_files\" \"original-home-files\")",
+      "Bash(mv \"D.R. Horton America's Largest Home Builder _ Homes For Sale.html\" \"original-home.html\")",
+      "PowerShell(Get-Content *)",
+      "Bash(node scripts/optimize-images.js \"docs/reference/original-home/original-home-files/RTE-Header-Image-Desktop.jpg\" \"src/assets/images/hero/rte-header-desktop.webp\" --width=1920 --quality=85)",
+      "Bash(node scripts/optimize-images.js \"docs/reference/original-home/original-home-files/RTE-Header-Image-Desktop.jpg\" \"src/assets/images/hero/rte-header-mobile.webp\" --width=800 --quality=80)",
+      "Bash(node scripts/optimize-images.js \"docs/mockups/home\" \"src/assets/images/redtag-slider\" --width=1200 --quality=82)",
+      "Bash(node scripts/extract-states.js)",
+      "Bash(curl *)"
     ]
   }
 }

@@ -1,0 +1,123 @@
+.hero {
+  position: relative;
+  width: 100%;
+  background: var(--color-hero-bg);
+  padding-bottom: var(--space-10);
+}
+
+/* ── Imagen ────────────────────────────────────────────── */
+
+.imageWrap {
+  width: 100%;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+}
+
+/* ── Frame (contenido superpuesto bajo la imagen en mobile,
+   superpuesto encima a partir de tablet) ─────────────────── */
+
+.frame {
+  position: relative;
+  width: 100%;
+  max-width: var(--frame-max-width);
+  margin: calc(var(--space-6) * -1) auto 0;
+  padding: var(--space-6) var(--space-5);
+  background: var(--color-white);
+  box-shadow: var(--shadow-search);
+  z-index: 2;
+}
+
+.heading {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-extrabold);
+  line-height: var(--line-height-tight);
+  letter-spacing: var(--letter-spacing-tight);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-2);
+}
+
+.subheading {
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-red);
+  line-height: var(--line-height-snug);
+  margin-bottom: var(--space-6);
+}
+
+.searchWrap {
+  margin-bottom: var(--space-5);
+}
+
+.mapViewWrap {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.mapButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 140px;
+  padding: var(--space-3) var(--space-6);
+  background-color: var(--color-navy-mid);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: var(--letter-spacing-btn);
+  text-decoration: none;
+  border-radius: var(--radius-pill);
+  transition: background-color var(--transition-fast);
+}
+
+.mapButton:hover,
+.mapButton:focus-visible {
+  background-color: var(--color-navy-light);
+}
+
+/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+
+@media (min-width: 640px) {
+  .frame {
+    padding: var(--space-8) var(--space-10);
+    margin-top: calc(var(--space-10) * -1);
+  }
+
+  .heading {
+    font-size: var(--font-size-4xl);
+  }
+}
+
+/* ── Desktop (≥ 960px): el frame se superpone sobre la imagen ─── */
+
+@media (min-width: 960px) {
+  .hero {
+    padding-bottom: var(--space-24);
+  }
+
+  .frame {
+    position: absolute;
+    left: 50%;
+    bottom: var(--space-24);
+    transform: translateX(-50%);
+    margin: 0;
+    padding: var(--space-10) var(--space-12);
+  }
+
+  .heading {
+    font-size: var(--font-size-power);
+    line-height: 1.1;
+  }
+}
+
+@media (min-width: 1250px) {
+  .frame {
+    bottom: var(--space-20);
+  }
+}

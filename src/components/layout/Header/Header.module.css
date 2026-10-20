@@ -1,3 +1,22 @@
+/* ── Skip to main content (accesibilidad) ────────────── */
+
+.skipLink {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  z-index: 999;
+  padding: var(--space-3) var(--space-4);
+  background: var(--color-navy);
+  color: var(--color-white);
+  font-weight: var(--font-weight-semibold);
+  text-decoration: none;
+  transition: top var(--transition-fast);
+}
+
+.skipLink:focus {
+  top: 0;
+}
+
 /* ── Base (mobile-first) ─────────────────────────────── */
 
 .header {
@@ -13,14 +32,20 @@
 }
 
 .inner {
-  position: relative;       /* contiene el dropdown del menú mobile */
+  position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  max-width: var(--max-width);
+  justify-content: flex-start;
+  max-width: var(--content-max-width);
   margin-inline: auto;
   padding-inline: var(--space-4);
   height: var(--header-height);
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
 }
 
 /* ── Logo ────────────────────────────────────────────── */
@@ -29,7 +54,6 @@
   display: flex;
   align-items: center;
   text-decoration: none;
-  color: var(--color-navy);
 }
 
 /* ── Nav (mobile: oculta, desplegable al abrir) ──────── */
@@ -67,13 +91,15 @@
   transition: color var(--transition-fast);
 }
 
-.navLink:hover {
+.navLink:hover,
+.navLink:focus-visible {
   color: var(--color-navy);
 }
 
-/* ── Hamburger ───────────────────────────────────────── */
+/* ── Hamburger animado (converge en una X al abrir) ──── */
 
 .hamburger {
+  position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -92,13 +118,17 @@
   height: 2px;
   background: var(--color-text-primary);
   border-radius: var(--radius-pill);
+  transition: transform var(--transition-fast), opacity var(--transition-fast);
 }
+
+.barOpen1 { transform: translateY(7px) rotate(45deg); }
+.barOpen2 { opacity: 0; }
+.barOpen3 { transform: translateY(-7px) rotate(-45deg); }
 
 /* ── Desktop (≥ 1024px) ──────────────────────────────── */
 
 @media (min-width: 1024px) {
-  .inner {
-    justify-content: flex-start;
+  .left {
     gap: var(--space-10);
   }
 

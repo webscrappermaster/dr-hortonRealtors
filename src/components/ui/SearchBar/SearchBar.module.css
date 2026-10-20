@@ -1,0 +1,71 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+  background: var(--color-white);
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-search);
+}
+
+.input {
+  width: 100%;
+  padding: var(--space-4) var(--space-6);
+  border: none;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  font-family: var(--font-sans);
+  font-size: var(--font-size-input);
+  color: var(--color-text-primary);
+  letter-spacing: var(--letter-spacing-wide);
+  outline: none;
+}
+
+.input::placeholder {
+  color: var(--color-text-primary);
+  letter-spacing: var(--letter-spacing-wide);
+}
+
+.input:focus-visible {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 2px;
+}
+
+.list {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  z-index: 10;
+  max-height: 320px;
+  margin: 0;
+  padding: var(--space-2) 0;
+  background: var(--color-white);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card-hover);
+  list-style: none;
+  overflow-y: auto;
+}
+
+.option {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: var(--space-2) var(--space-6);
+  cursor: pointer;
+  color: var(--color-text-primary);
+  transition: background var(--transition-fast);
+}
+
+.optionActive,
+.option:hover {
+  background: var(--color-hero-bg);
+}
+
+.optionLabel {
+  font-weight: var(--font-weight-medium);
+}
+
+.optionHint {
+  margin-left: var(--space-4);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+}

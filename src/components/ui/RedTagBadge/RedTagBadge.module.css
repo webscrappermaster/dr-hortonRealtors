@@ -1,25 +1,7 @@
 .badge {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 22px;
-  color: var(--color-promo-text);
-}
-
-.shape {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.text {
-  position: relative;
-  padding: 0 var(--space-3) 0 var(--space-2);
-  font-family: var(--font-promo);
-  font-size: var(--font-size-xs);
-  font-weight: var(--font-weight-bold);
-  letter-spacing: 0.02em;
-  line-height: 1;
+  display: inline-block;
+  width: auto;
+  height: 1.4em;
+  color: currentColor;
+  vertical-align: middle;
 }

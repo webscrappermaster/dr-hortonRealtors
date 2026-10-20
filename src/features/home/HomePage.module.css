@@ -1,8 +1,0 @@
-/* Contenedor temporal para test del slider */
-.testSection {
-  max-width: 672px;
-  margin: var(--space-8) auto;
-  padding-inline: var(--space-4);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-}

@@ -1,26 +1,54 @@
 .bar {
   background: var(--color-promo-bg);
-  height: var(--promo-bar-height);
   display: flex;
   align-items: center;
   justify-content: center;
+  min-height: var(--promo-bar-height);
+  padding: var(--space-2) var(--space-3);
 }
 
 .link {
   display: inline-flex;
   align-items: center;
-  gap: var(--space-4);
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
   color: var(--color-promo-text);
   font-family: var(--font-promo);
-  font-size: var(--font-size-sm);
-  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-promo);
+  font-weight: var(--font-weight-semibold);
   text-decoration: none;
+  line-height: 1.2;
+}
+
+.badge {
+  height: 1.2em;
+}
+
+.message {
+  font-weight: var(--font-weight-semibold);
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: var(--font-weight-bold);
 }
 
 .arrow {
+  width: 10px;
+  height: 10px;
   transition: transform var(--transition-fast);
 }
 
-.link:hover .arrow {
-  transform: translateX(4px);
+.link:hover .arrow,
+.link:focus-visible .arrow {
+  transform: translateX(3px);
+}
+
+.link:hover,
+.link:focus-visible {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }

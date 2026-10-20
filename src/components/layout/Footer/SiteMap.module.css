@@ -1,0 +1,160 @@
+.siteMap {
+  background: var(--color-white);
+  padding-block: var(--space-10) var(--space-6);
+  border-top: 1px solid var(--color-border);
+}
+
+.header {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-inline: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+.heading {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-snug);
+}
+
+.frame {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-inline: var(--space-4);
+}
+
+/* ── Lista de estados ────────────────────────────────── */
+
+.statesList {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3) var(--space-6);
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stateItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-block: var(--space-2);
+  border-bottom: 1px solid var(--color-border);
+  transition: opacity var(--transition-fast);
+}
+
+.hiddenState {
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+.stateLink {
+  color: var(--color-link);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-medium);
+  text-decoration: none;
+  letter-spacing: var(--letter-spacing-wide);
+}
+
+.stateLink:hover,
+.stateLink:focus-visible {
+  text-decoration: underline;
+}
+
+.stateToggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-1) var(--space-2);
+  background: transparent;
+  color: var(--color-text-primary);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+}
+
+.stateToggle:hover,
+.stateToggle:focus-visible {
+  background: var(--color-hero-bg);
+}
+
+.chevron {
+  transition: transform var(--transition-fast);
+}
+
+.chevronOpen {
+  transform: rotate(180deg);
+}
+
+/* ── Panel de mercados ─────────────────────────────────── */
+
+.marketsPanel {
+  margin-top: var(--space-8);
+  padding: var(--space-6);
+  background: var(--color-hero-bg);
+  border-radius: var(--radius-md);
+}
+
+.marketsHeading {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-4);
+}
+
+.marketsHeading span {
+  color: var(--color-navy);
+}
+
+.marketsList {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-2) var(--space-4);
+  list-style: none;
+  padding: 0;
+}
+
+.marketLink {
+  color: var(--color-link);
+  font-size: var(--font-size-base);
+  text-decoration: none;
+}
+
+.marketLink:hover,
+.marketLink:focus-visible {
+  text-decoration: underline;
+}
+
+/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+
+@media (min-width: 640px) {
+  .statesList {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .marketsList {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ── Desktop (≥ 960px) ─────────────────────────────────── */
+
+@media (min-width: 960px) {
+  .statesList {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .marketsList {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (min-width: 1250px) {
+  .statesList {
+    grid-template-columns: repeat(6, 1fr);
+  }
+
+  .marketsList {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}

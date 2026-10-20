@@ -18,7 +18,8 @@ body {
   min-height: 100vh;
   line-height: var(--line-height-normal);
   font-family: var(--font-sans);
-  color: var(--color-secondary);
+  color: var(--color-text-primary);
+  font-size: var(--font-size-base);
   background-color: var(--color-white);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
