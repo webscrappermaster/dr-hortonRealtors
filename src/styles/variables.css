@@ -47,6 +47,13 @@
   /* Social icons (relleno negro del original: #2d2c2c) */
   --color-icon-social: #2D2C2C;
 
+  /* Breadcrumbs y textos "oscuros neutros" del original */
+  --color-text-dark:   #2D2C2C;   /* .breadcrumbs a + .internal-page a */
+  --color-text-link:   #0A51C5;   /* .internal-page a.blue-link */
+
+  /* Status de comunidad — color del punto en poi-map / list-view */
+  --color-status-coming-soon:  #01AF53;   /* verde del community-status-color inline */
+
 
   /* ── TIPOGRAFÍA ───────────────────────────────────────── */
 
@@ -64,18 +71,24 @@
 
   /* Escala — valores convertidos ×0.625 desde el original */
   --font-size-xs:        0.75rem;   /* 12px — legal footer */
-  --font-size-sm:        0.8125rem; /* 13px — ::placeholder, textos pequeños */
+  --font-size-sm:        0.8125rem; /* 13px — ::placeholder, breadcrumbs, textos pequeños */
   --font-size-base:      1rem;      /* 16px — equivalente a 1.6rem del original */
   --font-size-promo:     1rem;      /* 16px — texto de PromoBar */
   --font-size-nav:       1rem;      /* 16px — links del header */
   --font-size-input:     1.0625rem; /* 17px — input del map-search (1.7rem original) */
   --font-size-md:        1.125rem;  /* 18px — descripción de tarjetas */
-  --font-size-lg:        1.25rem;   /* 20px — título small de tarjetas */
-  --font-size-xl:        1.5rem;    /* 24px — h2 de tarjetas */
-  --font-size-2xl:       1.75rem;   /* 28px — foot-map-header */
+  --font-size-lg:        1.25rem;   /* 20px — p de .internal-page, título small */
+  --font-size-xl:        1.5rem;    /* 24px — h4 de image-text */
+  --font-size-2xl:       1.75rem;   /* 28px — h2 de internal-tile */
+  --font-size-h3-internal:  1.875rem; /* 30px — h3 de .internal-page */
+  --font-size-h2-internal:  2.125rem; /* 34px — h2 de .internal-page (3.4rem original) */
   --font-size-3xl:       2.5rem;    /* 40px — hero h1 desktop */
+  --font-size-h1-internal:  2.75rem; /* 44px — h1 de .internal-page (4.4rem original) */
   --font-size-4xl:       3rem;      /* 48px — hero h1 wide */
+  --font-size-page-title-md: 3.125rem; /* 50px — .page-title h1 mobile */
+  --font-size-page-title-lg: 6.25rem;  /* 100px — .page-title h1 tablet */
   --font-size-power:     3.95rem;   /* 63.2px — power-statement (6.32rem original) */
+  --font-size-page-title-xl: 9.375rem; /* 150px — .page-title h1 desktop */
 
   /* Interlineado */
   --line-height-tight:   1.15;
@@ -94,9 +107,11 @@
   /* ── RADIOS ───────────────────────────────────────────── */
 
   --radius-sm:   4px;
-  --radius-md:   8px;      /* tiles */
+  --radius-md:   8px;      /* cards base */
   --radius-lg:   12px;
   --radius-xl:   16px;
+  --radius-tile:   15px;   /* .internal-tile y .image-text_image del original */
+  --radius-collage: 10px;  /* .collage-item */
   --radius-pill: 9999px;   /* botón "Map view" y buscador */
 
 
@@ -106,6 +121,9 @@
   --shadow-search:     0 19px 38px rgba(0, 0, 0, 0.35), 0 15px 12px rgba(0, 0, 0, 0.255);
   --shadow-card:       0 2px 12px rgba(0, 0, 0, 0.08);
   --shadow-card-hover: 0 6px 20px rgba(0, 0, 0, 0.15);
+  --shadow-tile:       0 1px 6px rgba(0, 0, 0, 0.06), 0 2px 8px rgba(0, 0, 0, 0.08);  /* .internal-tile */
+  --shadow-tile-hover: 0 4px 14px rgba(0, 0, 0, 0.1), 0 6px 18px rgba(0, 0, 0, 0.12);
+  --shadow-image:      0 2px 6px rgba(0, 0, 0, 0.16), 0 2px 6px rgba(0, 0, 0, 0.23);  /* .image-text_image img */
   --shadow-header:     0 2px 8px rgba(0, 0, 0, 0.12);
   --shadow-none:       none;
 
@@ -129,7 +147,9 @@
   /* ── LAYOUT ───────────────────────────────────────────── */
 
   --frame-max-width:    833px;     /* .map-search .wrapper max-width del original */
-  --content-max-width:  1200px;    /* ancho general del contenido */
+  --content-max-width:  1200px;    /* ancho general del contenido (card-container) */
+  --content-max-width-wide: 1281px; /* .image-text max-width */
+  --content-max-width-collage: 1400px; /* .collage-top1 / .collage-bottom max-width */
   --header-height:         74px;    /* 74px desktop, 58px mobile — del original */
   --header-height-mobile:  58px;
   --promo-bar-height:      45px;    /* padding 5px + contenido ~35px (badge 25px + holgura) */

@@ -1,0 +1,102 @@
+﻿(function ($) {
+	var adapters = $.validator.unobtrusive.adapters;
+	$.validator.addMethod(
+		"eitherorrequiredfieldvalidationtype",
+		function (value, element, params) {
+			// Add code here that checks both fields to make sure one has a value
+			var firstFieldClass = params.firstfieldclass;
+			var secondFieldClass = params.secondfieldclass;
+			var firstField = document.getElementsByClassName(firstFieldClass)[0];
+			var secondField = document.getElementsByClassName(secondFieldClass)[0];
+
+			var firstValue = firstField.value;
+			var secondValue = secondField.value;
+
+			if (firstValue == '' && secondValue == '') {
+				return false;
+			}
+			return true;
+		}
+	);
+
+	adapters.add(
+		"eitherorrequiredfieldvalidationtype",
+		["firstfieldclass", "secondfieldclass"],
+		function (options) {
+			var params = {
+				firstfieldclass: options.params.firstfieldclass,
+				secondfieldclass: options.params.secondfieldclass
+			};
+			options.rules["eitherorrequiredfieldvalidationtype"] = params;
+			options.messages["eitherorrequiredfieldvalidationtype"] = options.message;
+		}
+	);
+
+	var curForm = $(".rte-form-container form");
+	if (curForm.length == 0)
+		curForm = $('.national-promotion-form form');
+	var submitButton = curForm.find("input[type='submit']");
+	var stateDropdown = curForm.find("select[data-sc-field-name='mit_selectedstate']");
+	var marketDropdown = curForm.find("select[data-sc-field-name='mit_selectedareaofinterest']");
+	var cityDropdown = curForm.find("select[data-sc-field-name='mit_selectedcity']");
+	var movingInDropdown = curForm.find("select[data-sc-field-name='moving_in']");
+	var iAmADropdown = curForm.find("select[data-sc-field-name='i_am_a']");
+	var firstNameField = curForm.find("input[data-sc-field-name='first_name']");
+	var lastNameField = curForm.find("input[data-sc-field-name='last_name']");
+	var emailField = curForm.find("input[data-sc-field-name='email']");
+	var phoneField = curForm.find("input[data-sc-field-name='phone_number']");
+
+	// Function to check form validity
+	function checkFormValidity() {
+		console.log("checking form validity");
+		var isValid = curForm.validate().form(); // triggers validation
+		submitButton.prop("disabled", !isValid);
+	}
+
+	// Re-check validity whenever any input/select/textarea changes
+	emailField.on("focusout", function () {
+		checkFormValidity();
+
+		stateDropdown.on("change", function () {
+			setTimeout(function () {
+				checkFormValidity();
+
+				marketDropdown.on("change", function () {
+					checkFormValidity();
+				});
+
+				cityDropdown.on("change", function () {
+					checkFormValidity();
+				});
+			}, 500);
+		});
+
+		marketDropdown.on("change", function () {
+			checkFormValidity();
+		});
+
+		cityDropdown.on("change", function () {
+			checkFormValidity();
+		});
+
+		movingInDropdown.on("change", function () {
+			checkFormValidity();
+		});
+
+		iAmADropdown.on("change", function () {
+			checkFormValidity();
+		});
+
+		lastNameField.on("change", function () {
+			checkFormValidity();
+		});
+
+		firstNameField.on("change", function () {
+			checkFormValidity();
+		});
+
+		phoneField.on("change", function () {
+			checkFormValidity();
+		});
+	});
+})(jQuery);

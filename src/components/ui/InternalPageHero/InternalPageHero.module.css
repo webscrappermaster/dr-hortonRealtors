@@ -1,0 +1,118 @@
+/* InternalPageHero — reemplaza `.internal-page .title` y `.page-title` del original.
+   Tres tamaños:
+     - sm  → H1 44px (como h1 de .internal-page: who-we-are, military-benefits)
+     - md  → H1 50px → 100px → 150px (como .page-title de smart-home / careers)
+     - lg  → mismo md pero con subtítulo prominente */
+
+.hero {
+  width: 100%;
+  padding: var(--space-10) var(--space-6) var(--space-6);
+}
+
+.inner {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}
+
+.align-center .inner {
+  text-align: center;
+}
+
+.align-left .inner {
+  text-align: left;
+}
+
+.eyebrow {
+  font-size: var(--font-size-md);
+  font-weight: var(--font-weight-bold);
+  margin: 0 0 var(--space-3);
+  color: var(--color-text-primary);
+}
+
+.title {
+  margin: 0;
+  color: var(--color-text-primary);
+  line-height: var(--line-height-tight);
+  font-weight: var(--font-weight-bold);
+}
+
+.subtitle {
+  margin: var(--space-4) 0 0;
+  color: var(--color-text-primary);
+  line-height: var(--line-height-snug);
+  font-weight: var(--font-weight-extrabold);
+}
+
+.description {
+  margin: var(--space-4) 0 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  max-width: 600px;
+  line-height: var(--line-height-normal);
+}
+
+.align-center .description {
+  margin-inline: auto;
+}
+
+/* Tamaño sm — equivalente a <h1> dentro de .internal-page.
+   Usado por: who-we-are, military-benefits, services ("We keep home in the family"). */
+.size-sm .title {
+  font-size: var(--font-size-3xl);
+}
+
+.size-sm .subtitle {
+  font-size: var(--font-size-h3-internal);
+}
+
+/* Tamaño md — "page-title" medio: smart-home, careers.
+   Mobile 50px → tablet 100px (clamp conservador). */
+.size-md .title {
+  font-size: var(--font-size-page-title-md);
+  line-height: 0.95;
+}
+
+.size-md .subtitle {
+  font-size: var(--font-size-h3-internal);
+}
+
+/* Tamaño lg — "page-title" hero grande (home-style). Mobile 50px → wide 150px. */
+.size-lg .title {
+  font-size: var(--font-size-page-title-md);
+  line-height: 0.9;
+}
+
+.size-lg .subtitle {
+  font-size: var(--font-size-h3-internal);
+}
+
+@media (min-width: 640px) {
+  .hero {
+    padding: var(--space-12) var(--space-8) var(--space-8);
+  }
+
+  .size-sm .title {
+    font-size: var(--font-size-h1-internal);
+  }
+
+  .size-md .title {
+    font-size: var(--font-size-page-title-lg);
+    line-height: 0.9;
+  }
+
+  .size-lg .title {
+    font-size: var(--font-size-page-title-lg);
+    line-height: 0.9;
+  }
+}
+
+@media (min-width: 1050px) {
+  .hero {
+    padding: var(--space-16) var(--space-10) var(--space-10);
+  }
+
+  .size-lg .title {
+    font-size: var(--font-size-page-title-xl);
+    line-height: 0.85;
+  }
+}

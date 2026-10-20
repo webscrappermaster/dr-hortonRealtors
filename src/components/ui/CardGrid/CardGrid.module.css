@@ -1,0 +1,61 @@
+/* CardGrid — basado en `.card-container` del original (flex-wrap + gap 30-40px). */
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-6);
+  max-width: var(--content-max-width);
+  margin: var(--space-6) auto;
+  padding: 0 var(--space-6);
+  width: 100%;
+}
+
+.align-center {
+  justify-content: center;
+}
+
+.align-start {
+  justify-content: flex-start;
+}
+
+.align-stretch {
+  justify-content: stretch;
+}
+
+/* Mobile: 1 columna siempre */
+.grid > * {
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .grid {
+    gap: var(--space-8);
+    margin: var(--space-10) auto;
+  }
+
+  .cols-2 > * {
+    width: calc(50% - var(--space-4));
+  }
+
+  .cols-3 > * {
+    width: calc(50% - var(--space-4));
+  }
+
+  .cols-4 > * {
+    width: calc(50% - var(--space-4));
+  }
+}
+
+@media (min-width: 960px) {
+  .grid {
+    gap: var(--space-10);
+  }
+
+  .cols-3 > * {
+    width: calc(33.333% - (var(--space-10) * 2 / 3));
+  }
+
+  .cols-4 > * {
+    width: calc(25% - (var(--space-10) * 3 / 4));
+  }
+}

@@ -1,0 +1,56 @@
+/* CollageGrid — basado en `.collage` + `.column` + `.collage-item` del original.
+   Mobile colapsa a 1 columna (apila todo); desktop reparte las columnas
+   recibidas con flex equitativo. */
+
+.collage {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  width: 100%;
+  max-width: var(--content-max-width-collage);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+.align-left {
+  margin-left: 0;
+}
+
+.align-right {
+  margin-right: 0;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.item {
+  width: 100%;
+  overflow: hidden;
+  border-radius: var(--radius-collage);
+}
+
+.item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+@media (min-width: 640px) {
+  .collage {
+    flex-direction: row;
+    gap: var(--space-5);
+    padding: 0 var(--space-6);
+  }
+}
+
+@media (min-width: 1050px) {
+  .collage {
+    gap: var(--space-5);
+  }
+}

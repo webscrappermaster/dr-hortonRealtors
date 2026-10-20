@@ -1,0 +1,110 @@
+/* TileCard — basado en `.internal-tile` + `.internal-tile-content` del original.
+   Fondo blanco, border-radius 15px, sombra sutil, hover eleva ligeramente. */
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-tile-bg);
+  border-radius: var(--radius-tile);
+  box-shadow: var(--shadow-tile);
+  overflow: hidden;
+  transition: box-shadow var(--transition-base), transform var(--transition-base);
+  color: var(--color-text-primary);
+  text-decoration: none;
+  width: 100%;
+}
+
+.linked:hover,
+.linked:focus-visible {
+  box-shadow: var(--shadow-tile-hover);
+  transform: translateY(-2px);
+}
+
+.linked:focus-visible {
+  outline: 2px solid var(--color-text-primary);
+  outline-offset: 3px;
+}
+
+.image {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background: var(--color-hero-bg);
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.content {
+  padding: var(--space-6) var(--space-6) var(--space-8);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  flex: 1 1 auto;
+}
+
+.eyebrow {
+  font-size: var(--font-size-sm);
+  letter-spacing: var(--letter-spacing-wide);
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin: 0;
+  font-weight: var(--font-weight-semibold);
+}
+
+.title {
+  margin: 0;
+  font-size: var(--font-size-2xl);
+  line-height: var(--line-height-snug);
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-bold);
+}
+
+.description {
+  margin: 0;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-snug);
+  color: var(--color-text-primary);
+  font-weight: var(--font-weight-regular);
+}
+
+.cta {
+  margin-top: auto;
+  padding-top: var(--space-3);
+  font-size: var(--font-size-base);
+  color: var(--color-link);
+  font-weight: var(--font-weight-semibold);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Variante "plain" — sin sombra ni hover elevado. Para tiles decorativas
+   dentro de un card-container que ya aporta su propio énfasis. */
+.variant-plain {
+  box-shadow: none;
+  background: transparent;
+}
+
+.variant-plain:hover,
+.variant-plain:focus-visible {
+  box-shadow: none;
+  transform: none;
+}
+
+@media (min-width: 960px) {
+  .content {
+    padding: var(--space-8) var(--space-10) var(--space-10) var(--space-8);
+  }
+
+  .title {
+    font-size: var(--font-size-2xl);
+  }
+
+  .description {
+    font-size: var(--font-size-md);
+  }
+}

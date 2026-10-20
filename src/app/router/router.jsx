@@ -4,6 +4,7 @@ import HomePage from '../../features/home/HomePage'
 import ComingSoon from '../../features/common/ComingSoon'
 import NotFound from '../../features/common/NotFound'
 import LocationPage from '../../features/locations/LocationPage'
+import ComponentsPreviewPage from '../../features/dev'
 
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
@@ -33,6 +34,10 @@ export const router = createBrowserRouter([
         path,
         element: <ComingSoon title={title} />,
       })),
+
+      /* Ruta temporal — preview de componentes nuevos durante el desarrollo.
+         Se elimina junto con src/features/dev al final del proyecto. */
+      { path: 'dev/components', element: <ComponentsPreviewPage /> },
 
       { path: ':state',        element: <LocationPage /> },
       { path: ':state/:area',  element: <LocationPage /> },

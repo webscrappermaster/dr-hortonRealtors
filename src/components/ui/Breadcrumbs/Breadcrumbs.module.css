@@ -1,0 +1,84 @@
+/* Breadcrumbs — basado en `.breadcrumbs` del original.
+   Separador "→" (U+2192) via ::after sobre cada <li>. */
+
+.breadcrumbs {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-dark);
+  letter-spacing: 0.0125em;
+  padding: var(--space-2) var(--space-4);
+  margin: var(--space-5) 0 0;
+  width: fit-content;
+  max-width: 100%;
+}
+
+.breadcrumbs ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.breadcrumbs li {
+  display: inline-flex;
+  align-items: center;
+  margin-right: var(--space-1);
+  font-weight: var(--font-weight-regular);
+}
+
+.breadcrumbs li::after {
+  content: '\2192';
+  margin-left: var(--space-1);
+  margin-right: var(--space-1);
+  color: var(--color-text-dark);
+  font-size: var(--font-size-sm);
+}
+
+.breadcrumbs li:last-child {
+  font-weight: var(--font-weight-semibold);
+  margin-right: 0;
+}
+
+.breadcrumbs li:last-child::after {
+  display: none;
+}
+
+.breadcrumbs a {
+  color: var(--color-text-dark);
+  text-decoration: none;
+  position: relative;
+  padding: 2px 0;
+  transition: color var(--transition-fast);
+}
+
+.breadcrumbs a::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: var(--color-text-dark);
+  opacity: 0.5;
+  transition: height var(--transition-fast), opacity var(--transition-fast);
+}
+
+.breadcrumbs a:hover::after,
+.breadcrumbs a:focus-visible::after {
+  height: 1.5px;
+  opacity: 1;
+}
+
+.breadcrumbs a:focus-visible {
+  outline: 2px solid var(--color-text-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+
+@media (min-width: 640px) {
+  .breadcrumbs {
+    padding: var(--space-2) var(--space-6);
+  }
+}
