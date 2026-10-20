@@ -13,7 +13,10 @@
       "Bash(node scripts/optimize-images.js \"docs/reference/original-home/original-home-files/RTE-Header-Image-Desktop.jpg\" \"src/assets/images/hero/rte-header-mobile.webp\" --width=800 --quality=80)",
       "Bash(node scripts/optimize-images.js \"docs/mockups/home\" \"src/assets/images/redtag-slider\" --width=1200 --quality=82)",
       "Bash(node scripts/extract-states.js)",
-      "Bash(curl *)"
+      "Bash(curl *)",
+      "Bash(npx playwright *)",
+      "PowerShell(Get-Process *)",
+      "Bash(grep -oE '\\\\.hero-search[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__heading[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__text[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-view[ \\\\.{,]*\\\\{[^}]*\\\\}' main.min.css)"
     ]
   }
 }

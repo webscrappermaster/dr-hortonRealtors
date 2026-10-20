@@ -130,10 +130,11 @@
 
   --frame-max-width:    833px;     /* .map-search .wrapper max-width del original */
   --content-max-width:  1200px;    /* ancho general del contenido */
-  --header-height:      76px;
-  --promo-bar-height:   40px;
-  --logo-width-mobile:  120px;
-  --logo-width-desktop: 150px;
+  --header-height:         74px;    /* 74px desktop, 58px mobile — del original */
+  --header-height-mobile:  58px;
+  --promo-bar-height:      40px;
+  --logo-height-mobile:    38px;
+  --logo-height-desktop:   42px;
 
 
   /* ── BREAKPOINTS (referencia — NO usar en @media) ─────── */

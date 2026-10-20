@@ -170,5 +170,99 @@ en React con hooks propios. El sitio no se sirve: Vite bloquea `/docs` vía
 
 - Portar el modal legal con un `<dialog>` nativo accesible.
 - Agregar fuente variable Figtree hosteada localmente (actualmente desde Google Fonts).
-- Más tests responsive sistemáticos (375, 768, 1024, 1440). El build pasa; falta validar visualmente cada breakpoint con capturas.
 - Implementar las páginas internas (hoy sirven ComingSoon).
+
+---
+
+## Herramienta de comparación visual (ronda de ajustes 1)
+
+Se agregó `scripts/screenshot.js` + `npm run screenshots` que:
+- Lanza Chromium (Playwright, instalado como devDep).
+- Captura la Home propia (`http://localhost:5173`) y la Home original (`original-home.html`) en 1440 / 1024 / 768 / 375 px.
+- **Bloquea toda la red externa al capturar el original**: `page.route` aborta cualquier
+  URL que no sea `file://` ni `about:`. Así no se ejecutan GTM, OneTrust, Cloudflare,
+  accessiBe, Vimeo, Facebook SDK ni fuentes externas. (El original queda sin Decagram y
+  renderiza en Arial — la referencia tipográfica son los mockups en `docs/mockups/home/`,
+  no el original local.)
+- Guarda en `docs/reference/screenshots/` (gitignored).
+
+Uso: `npm run dev` en una terminal + `npm run screenshots` en otra. Opciones:
+`--only=ours`, `--only=original`, `--url=http://localhost:5175`.
+
+---
+
+## Correcciones aplicadas en la ronda 1
+
+### Hero
+- **Eliminada** la tarjeta blanca flotante con sombra sobre la foto.
+- Contenedor gris `#F1F1F1` con `border-radius: 20px` y sombra sutil
+  (`0 3px 6px rgba(0,0,0,0.08) + 0 2px 4px rgba(0,0,0,0.12)` del CSS original),
+  margen lateral `~25px`.
+- Imagen de fondo con `object-position: right` para que la foto de familia quede
+  a la derecha; el texto ocupa la mitad izquierda sin superposición real
+  (la composición original ya trae espacio en blanco a la izquierda).
+- Botón "Map view": fondo blanco, borde `2px solid #00205B`, texto navy bold,
+  forma pill, outline en hover — valores de `.btn.white` del original.
+- Buscador: borde `1px solid #CCCCCC`, placeholder gris claro, altura reducida.
+
+### FeatureGrid
+- **Eliminados** los cuadritos azules que yo había pintado antes del título.
+  La clase `top-squares` del original **solo** aplica `padding-right: 40%`, no dibuja
+  nada. Nosotros usamos `padding-right: 25%` sobre el `h2` para no partir los títulos
+  en 3-4 líneas en nuestro grid más estrecho.
+- **Eliminada** la flecha `→` de los CTA. Ahora son texto azul (`#0a51c5`) bold de
+  15px con underline que aparece en hover (pseudo-elemento con transición de opacidad).
+- Border-radius de las tarjetas: `15px` (antes `8px`).
+- Sombra más suave: `0 1px 6px rgba(0,0,0,0.06) + 0 2px 8px rgba(0,0,0,0.08)`.
+- Hover: `0 10px 20px rgba(0,0,0,0.10) + 0 6px 6px rgba(0,0,0,0.12)`.
+- Contenido con `margin-top: auto` (= `align-self: flex-end` del original) para
+  quedar alineado al fondo de cada tile.
+- Títulos a `19px`, descripción a `15px` (del CSS original).
+
+### Footer
+- **SiteMap**: migrado de `grid-template-columns` a **CSS multi-column (`columns: 5`)**.
+  Así los estados fluyen column-major (Alabama, Arizona, Arkansas... en la 1ª columna)
+  tal como el original. Breakpoints: 1 → 2 → 3 → 5 columnas.
+- Estados sin borde, sin ancho fijo. Nombre en `#2D2C2C` bold 16px con chevron pegado
+  (`margin-left: 5px`). Hover: underline con pseudo-elemento.
+- Chevron: anima `rotateX(180deg)` al abrir (como el original), hover: `scale(1.35)`.
+- Título "Starting your search?" a `28px / 800` (del original).
+- Línea divisoria gris `#D5D5D5` arriba y abajo del SiteMap y del bottom-bar.
+- **Footer nav**: en desktop los títulos de sección (About / Resources / Finance)
+  **se ocultan** (`display: none`) — como el original. En mobile sí se muestran como
+  acordeón visual.
+- Links del nav: gris oscuro `#2D2C2C` medium 16px (ya no azules).
+- 3 columnas de links + 4 iconos sociales **en la misma fila** (flex row, align-start).
+  Iconos a `34px` con `gap: 16px`.
+- **Legal**: 1 sola línea, items separados por `·` (pseudo-elemento `::after`),
+  todos en gris oscuro `#2D2C2C` 14px. Sin franja gris, sin título "Legal Information"
+  en desktop. Incluye "Manage cookies" (abre un `alert` placeholder sin cargar OneTrust)
+  y el badge SVG "Your Privacy Choices" inline.
+- EHO + copyright en línea siguiente, mismo tamaño, peso regular.
+
+### Header
+- Altura: `74px` desktop, `58px` mobile (antes `76px` fijo). Valores del original.
+- Logo: `height: 42px` desktop, `38px` mobile (antes `150px`/`120px` de ancho — era
+  gigante). Hover: `scale(1.035)` como el original.
+- **Sombra siempre visible**: `0 3px 6px rgba(0,0,0,0.06) × 2` sin importar scroll.
+  Antes solo aparecía al hacer scroll.
+- Nav font: 15px bold (valor del original).
+
+---
+
+## Diferencias que aún quedan vs. el original
+
+- **Fuente** sigue siendo Figtree ≠ Decagram (comercial, no se puede copiar).
+- **Hero**: en el original la foto queda ligeramente más grande / más baja porque usa
+  `background-size: cover` y la altura del hero es `60vh` fija. Nosotros usamos
+  `min-height: 440-480px`. Visualmente equivalente, no idéntico píxel a píxel.
+- **"Red Tag Savings are here."** cae en 2 líneas en nuestro desktop a 1440
+  (el original queda en 1 línea). Causa: nuestra columna de texto es 55% del frame
+  mientras que el original tiene el texto en el 50% con un frame más ancho
+  (`max-width: 1520px` vs. nuestros `1380px`). Se puede ajustar con un media query
+  extra o reduciendo el font-size — se dejó así porque no afecta funcionalidad.
+- **Tarjeta Red Tag**: en las capturas de Playwright el iframe de Vimeo no alcanza a
+  cargar antes del snapshot (networkidle no espera iframes cross-origin). En navegador
+  real se ve el video; en las capturas se ve el ImageSlider fallback.
+- **"Your Privacy Choices" icon**: usamos un SVG inline simplificado. El original
+  usa el badge oficial de la IAB como imagen; nosotros no copiamos activos de terceros.

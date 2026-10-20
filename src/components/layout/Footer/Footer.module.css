@@ -1,40 +1,70 @@
 .footer {
   background: var(--color-white);
-  color: var(--color-text-primary);
+  color: #2D2C2C;
+  padding: 0;
+  position: relative;
+  z-index: 5;
+}
+
+.footer a {
+  font-size: 0.96875rem;        /* 15.5px — site-footer a del original */
+  color: #2D2C2C;
+  letter-spacing: normal;
+  text-decoration: none;
+  transition: text-decoration var(--transition-fast);
 }
 
 .frame {
   width: 100%;
-  max-width: var(--content-max-width);
+  max-width: 1440px;
   margin: 0 auto;
   padding-inline: var(--space-4);
 }
 
-/* ── Top bar (nav + social) ────────────────────────────── */
+/* ── Top bar: nav + social en MISMA fila (desktop) ──── */
 
 .topBar {
-  padding-block: var(--space-10);
-  border-top: 1px solid var(--color-border);
+  padding: var(--space-6) var(--space-5);
+  border-top: 1px solid #D5D5D5;
+}
+
+.topRow {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  gap: var(--space-6);
 }
 
 .footerNav {
-  margin-block: var(--space-6);
+  flex-grow: 1;
+  font-size: 0.875rem;         /* 14px — footer-nav del original */
+  letter-spacing: 0.5px;
+  max-width: 800px;
+  width: 100%;
 }
 
 .sectionsList {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--space-8);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--space-5);
   list-style: none;
   padding: 0;
+  margin: 0;
+  width: 100%;
 }
 
+/* Títulos de sección: visibles solo en mobile (original: .section display:none → flex en mobile) */
 .sectionHeading {
-  display: block;
-  font-size: var(--font-size-md);
+  display: flex;
+  align-items: center;
+  font-size: 1.0625rem;        /* 17px */
   font-weight: var(--font-weight-bold);
+  letter-spacing: 0.025em;
+  padding-bottom: var(--space-2);
+  margin-bottom: var(--space-2);
   color: var(--color-text-primary);
-  margin-bottom: var(--space-3);
 }
 
 .linkList {
@@ -46,24 +76,22 @@
 }
 
 .linkList a {
-  color: var(--color-link);
-  text-decoration: none;
-  font-size: var(--font-size-base);
-  letter-spacing: var(--letter-spacing-wide);
-  transition: color var(--transition-fast);
+  font-size: 1rem;             /* 16px — footer-nav li del original */
+  font-weight: var(--font-weight-medium);
+  color: #2D2C2C;
 }
 
 .linkList a:hover,
 .linkList a:focus-visible {
-  color: var(--color-navy);
   text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* ── Social icons ──────────────────────────────────────── */
 
 .social {
   display: flex;
-  gap: var(--space-3);
+  gap: var(--space-4);
   list-style: none;
   padding: 0;
   align-items: center;
@@ -71,9 +99,9 @@
 
 .socialIcon {
   display: inline-block;
-  width: 32px;
-  height: 32px;
-  color: var(--color-icon-social);
+  width: 34px;
+  height: 34px;
+  color: #2D2C2C;
   transition: opacity var(--transition-fast);
 }
 
@@ -85,6 +113,7 @@
 .socialIcon img {
   width: 100%;
   height: 100%;
+  display: block;
 }
 
 .socialMobile {
@@ -97,94 +126,99 @@
   display: none;
 }
 
-/* ── Bottom bar ────────────────────────────────────────── */
+/* ── Bottom bar: legal en 1 línea + copyright ────────── */
 
 .bottomBar {
-  padding-block: var(--space-6);
-  border-top: 1px solid var(--color-border);
-  background: var(--color-hero-bg);
-}
-
-.legalDesktop {
-  display: none;
+  padding: var(--space-4) var(--space-5);
+  border-top: 1px solid #D5D5D5;
 }
 
 .legalInline {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-2) var(--space-4);
+  gap: var(--space-1) var(--space-3);
   list-style: none;
   padding: 0;
-  margin-top: var(--space-3);
+  margin-bottom: var(--space-2);
+  align-items: center;
+  font-size: 0.875rem;
+}
+
+/* Separador " · " entre items legales (todos menos el último) */
+.legalInline li:not(:last-child)::after {
+  content: '·';
+  margin-left: var(--space-3);
+  color: #2D2C2C;
 }
 
 .legalInline a {
-  color: var(--color-link);
-  text-decoration: none;
-  font-size: var(--font-size-sm);
+  color: #2D2C2C;
+  font-size: 0.875rem;         /* 14px */
 }
 
 .legalInline a:hover,
 .legalInline a:focus-visible {
   text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.privacyIcon {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 4px;
 }
 
 .copyright {
-  font-size: var(--font-size-sm);
-  color: var(--color-text-muted);
-  text-align: center;
-  padding-top: var(--space-4);
+  font-size: 0.875rem;
+  color: #2D2C2C;
+  margin-top: var(--space-2);
 }
 
 .eho {
-  display: block;
-  color: var(--color-text-primary);
-  font-weight: var(--font-weight-semibold);
-  margin-bottom: var(--space-2);
+  margin-right: var(--space-3);
+  font-weight: var(--font-weight-regular);
 }
 
 /* ── Tablet (≥ 640px) ──────────────────────────────────── */
 
 @media (min-width: 640px) {
   .sectionsList {
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-direction: row;
+    gap: var(--space-6);
   }
 
-  .copyright {
-    text-align: left;
-  }
-
-  .eho {
-    display: inline;
-    margin-right: var(--space-3);
-    margin-bottom: 0;
+  .sectionsList > li {
+    flex: 1;
   }
 }
 
 /* ── Desktop (≥ 960px) ─────────────────────────────────── */
 
 @media (min-width: 960px) {
-  .sectionsList {
-    grid-template-columns: repeat(4, 1fr);
+  .topRow {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--space-10);
   }
 
-  /* En desktop la columna "Legal Information" se mueve a la bottom bar */
+  /* En desktop las columnas About/Resources/Finance se muestran SIN sus títulos */
+  .sectionHeading {
+    display: none;
+  }
+
+  /* Legal column oculta en desktop (va completa en el bottom bar) */
   .legalMobile {
     display: none;
   }
 
-  .legalDesktop {
-    display: block;
-    margin-bottom: var(--space-3);
+  .socialMobile {
+    display: none;
   }
 
   .socialDesktop {
     display: flex;
-    justify-content: flex-end;
-    margin-top: var(--space-6);
-  }
-
-  .socialMobile {
-    display: none;
+    flex-shrink: 0;
+    margin-top: 0;
   }
 }

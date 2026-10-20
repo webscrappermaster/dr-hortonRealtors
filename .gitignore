@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Capturas de comparación visual (generadas por scripts/screenshot.js)
+docs/reference/screenshots/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

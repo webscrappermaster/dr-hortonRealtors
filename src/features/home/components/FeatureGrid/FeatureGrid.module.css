@@ -2,114 +2,136 @@
   width: 100%;
   max-width: var(--content-max-width);
   margin: 0 auto;
-  padding: var(--space-10) var(--space-4);
+  padding: var(--space-6) var(--space-4);
 }
 
 .grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: var(--space-6);
+  gap: var(--space-5);
 }
+
+/* ── Tile base ──────────────────────────────────────── */
 
 .tile {
   background: var(--color-tile-bg);
-  border-radius: var(--radius-md);
-  box-shadow: var(--shadow-card);
+  border-radius: 15px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06), 0 2px 8px rgba(0, 0, 0, 0.08);
   overflow: hidden;
-  transition: box-shadow var(--transition-base), transform var(--transition-base);
+  transition: box-shadow var(--transition-base);
+  display: flex;
+  flex-direction: column;
 }
 
 .tile:hover {
-  box-shadow: var(--shadow-card-hover);
-  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.10), 0 6px 6px rgba(0, 0, 0, 0.12);
 }
 
-/* "top-squares" del original: dos cuadrados decorativos arriba del heading */
-.tileTopSquares .content::before {
-  content: '';
-  display: block;
-  width: 24px;
-  height: 6px;
-  background: linear-gradient(
-    to right,
-    var(--color-navy) 0 10px,
-    transparent 10px 14px,
-    var(--color-navy) 14px 24px
-  );
-  margin-bottom: var(--space-4);
+/* top-squares en el original aplica padding-right: 40% al heading para que el título
+   se parta en 2 líneas. En nuestro grid más estrecho reducimos a 25% para no
+   partirlo en 3-4 líneas. */
+.tileTopSquares .heading {
+  padding-right: 25%;
 }
+
+/* ── Contenido alineado abajo (align-self: flex-end del original) ─── */
 
 .content {
   padding: var(--space-6);
+  margin-top: auto;    /* empuja el contenido al pie del tile */
 }
 
 .heading {
-  font-size: var(--font-size-xl);
+  font-size: 1.1875rem;  /* ~19px */
   font-weight: var(--font-weight-bold);
   color: var(--color-text-primary);
-  line-height: var(--line-height-snug);
-  margin-bottom: var(--space-3);
+  line-height: 1.25;
+  margin-bottom: var(--space-2);
 }
 
 .description {
-  font-size: var(--font-size-md);
+  font-size: 0.9375rem;  /* ~15px */
   color: var(--color-text-primary);
-  line-height: var(--line-height-relaxed);
+  line-height: 1.5;
   margin-bottom: var(--space-4);
 }
 
+/* Link azul: #0a51c5, 15px, bold, sin flecha, underline aparece en hover */
 .cta {
-  display: inline-flex;
-  align-items: center;
-  gap: var(--space-1);
-  color: var(--color-link);
-  font-weight: var(--font-weight-semibold);
+  position: relative;
+  display: inline-block;
+  width: fit-content;
+  color: #0a51c5;
+  font-size: 0.9375rem;
+  font-weight: var(--font-weight-bold);
   text-decoration: none;
-  letter-spacing: var(--letter-spacing-wide);
   transition: color var(--transition-fast);
 }
 
 .cta::after {
-  content: '→';
-  font-size: 1.1em;
-  transition: transform var(--transition-fast);
-}
-
-.cta:hover,
-.cta:focus-visible {
-  color: var(--color-navy);
-  text-decoration: underline;
+  position: absolute;
+  content: '';
+  left: 0;
+  right: 0;
+  bottom: -3px;
+  height: 1.5px;
+  background: #0a51c5;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
 .cta:hover::after,
 .cta:focus-visible::after {
-  transform: translateX(3px);
+  opacity: 1;
 }
 
+/* Heart SVG — 24px en las pequeñas (top-squares .heart), 45px en la grande */
 .heart {
   display: inline-block;
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.08em;
-  margin: 0 0.1em;
+  height: 20px;
+  width: auto;
+  padding: 0 3px 3px;
+  vertical-align: -0.15em;
 }
 
-/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+/* ── Tarjeta grande (Red Tag con video Vimeo) ──────── */
+
+.tileLarge {
+  display: flex;
+  flex-direction: column;
+}
+
+.tileLarge .heading {
+  font-size: 1.5rem;
+}
+
+/* ── Secondary grid base (mobile stack) ───────────── */
+
+.secondaryGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-5);
+}
+
+/* ── Tablet (≥ 640px) ──────────────────────────────── */
 
 @media (min-width: 640px) {
   .secondaryGrid {
-    display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: var(--space-6);
   }
 }
 
-/* ── Desktop (≥ 1024px) ─ grilla: tarjeta grande + 2×2 ───*/
+/* ── Desktop (≥ 1024px) — grid: tarjeta grande + 2×2 ─ */
 
 @media (min-width: 1024px) {
+  .wrapper {
+    padding: var(--space-6) var(--space-5);
+  }
+
   .grid {
     grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
     align-items: stretch;
+    gap: var(--space-5);
   }
 
   .tileLarge {
@@ -120,6 +142,10 @@
   .secondaryGrid {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
-    gap: var(--space-6);
+    gap: var(--space-5);
+  }
+
+  .content {
+    padding: var(--space-8);
   }
 }

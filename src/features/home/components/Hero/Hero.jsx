@@ -11,8 +11,10 @@ function Hero() {
 
   return (
     <section className={styles.hero} aria-labelledby="hero-heading">
-      <div className={styles.imageWrap}>
-        <picture>
+      <div className={styles.frame}>
+        {/* Imagen de fondo: la composición original ya trae la foto a la derecha
+            y espacio blanco a la izquierda, no se superpone con el texto. */}
+        <picture className={styles.imageWrap}>
           <source media="(max-width: 639px)" srcSet={image.mobile} />
           <img
             src={image.desktop}
@@ -22,26 +24,24 @@ function Hero() {
             fetchPriority="high"
           />
         </picture>
-      </div>
 
-      <div className={styles.frame}>
-        <h1 id="hero-heading" className={styles.heading}>
-          {heading}
-        </h1>
-        <h2 className={styles.subheading}>{subheading}</h2>
+        <div className={styles.content}>
+          <h1 id="hero-heading" className={styles.heading}>
+            {heading}
+          </h1>
+          <h2 className={styles.subheading}>{subheading}</h2>
 
-        <div className={styles.searchWrap}>
-          <SearchBar
-            placeholder={searchCfg.placeholder}
-            ariaLabel={searchCfg.ariaLabel}
-            suggestions={suggestions}
-            onQueryChange={search}
-            onSelect={(item) => navigate(item.to)}
-            minChars={2}
-          />
-        </div>
+          <div className={styles.searchWrap}>
+            <SearchBar
+              placeholder={searchCfg.placeholder}
+              ariaLabel={searchCfg.ariaLabel}
+              suggestions={suggestions}
+              onQueryChange={search}
+              onSelect={(item) => navigate(item.to)}
+              minChars={2}
+            />
+          </div>
 
-        <div className={styles.mapViewWrap}>
           <Link
             to={mapButton.to}
             className={styles.mapButton}

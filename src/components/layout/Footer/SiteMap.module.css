@@ -1,35 +1,36 @@
 .siteMap {
-  background: var(--color-white);
-  padding-block: var(--space-10) var(--space-6);
-  border-top: 1px solid var(--color-border);
+  padding: var(--space-6) var(--space-5);
+  border-top: 1px solid #D5D5D5;
 }
 
 .header {
-  max-width: var(--content-max-width);
+  max-width: 1440px;
   margin: 0 auto;
-  padding-inline: var(--space-4);
-  margin-bottom: var(--space-8);
+  padding: var(--space-6) 0 0 0;
 }
 
 .heading {
-  font-size: var(--font-size-2xl);
-  font-weight: var(--font-weight-bold);
+  width: fit-content;
+  font-size: 1.75rem;        /* 28px — foot-map-header del original */
+  font-weight: var(--font-weight-extrabold);
+  letter-spacing: 0.01em;
+  line-height: 1.35;
+  margin: var(--space-4) 0;
   color: var(--color-text-primary);
-  line-height: var(--line-height-snug);
 }
+
+/* ── Grilla de estados: CSS multi-column para fluir column-major ──
+   El original usa `columns: 5` en desktop, con `break-inside: avoid`
+   para que cada estado quede contenido. */
 
 .frame {
-  max-width: var(--content-max-width);
-  margin: 0 auto;
-  padding-inline: var(--space-4);
+  max-width: 1440px;
+  margin: 0 auto var(--space-6);
+  columns: 1;
+  column-gap: var(--space-6);
 }
 
-/* ── Lista de estados ────────────────────────────────── */
-
 .statesList {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-3) var(--space-6);
   list-style: none;
   padding: 0;
   margin: 0;
@@ -37,10 +38,11 @@
 
 .stateItem {
   display: flex;
+  flex-direction: row;
   align-items: center;
-  justify-content: space-between;
-  padding-block: var(--space-2);
-  border-bottom: 1px solid var(--color-border);
+  width: fit-content;
+  padding-top: 10px;
+  break-inside: avoid;
   transition: opacity var(--transition-fast);
 }
 
@@ -50,56 +52,72 @@
 }
 
 .stateLink {
-  color: var(--color-link);
-  font-size: var(--font-size-base);
-  font-weight: var(--font-weight-medium);
+  position: relative;
+  color: #2D2C2C;
+  font-size: 1rem;             /* 16px — state-footer-item a del original */
+  font-weight: var(--font-weight-semibold);
   text-decoration: none;
-  letter-spacing: var(--letter-spacing-wide);
+  letter-spacing: normal;
 }
 
-.stateLink:hover,
-.stateLink:focus-visible {
-  text-decoration: underline;
+.stateLink::after {
+  position: absolute;
+  content: '';
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #2D2C2C;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
+.stateLink:hover::after,
+.stateLink:focus-visible::after {
+  opacity: 1;
+}
+
+/* Chevron pegado al nombre, no al borde de un contenedor */
 .stateToggle {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: var(--space-1) var(--space-2);
+  margin: 4px 0 2px 5px;
+  padding: 0 2px 0 0;
   background: transparent;
-  color: var(--color-text-primary);
-  border-radius: var(--radius-sm);
+  border: none;
   cursor: pointer;
+  color: #2D2C2C;
+  transition: transform 300ms ease-in-out;
 }
 
-.stateToggle:hover,
-.stateToggle:focus-visible {
-  background: var(--color-hero-bg);
+.stateToggle:hover {
+  transform: scale(1.35);
 }
 
 .chevron {
-  transition: transform var(--transition-fast);
+  display: block;
 }
 
-.chevronOpen {
-  transform: rotate(180deg);
+/* Rotación del chevron abierto (el original usa rotateX) */
+.stateToggleOpen {
+  transform: rotateX(180deg);
+}
+
+.stateToggleOpen:hover {
+  transform: rotateX(180deg) scale(1.35);
 }
 
 /* ── Panel de mercados ─────────────────────────────────── */
 
 .marketsPanel {
-  margin-top: var(--space-8);
-  padding: var(--space-6);
-  background: var(--color-hero-bg);
-  border-radius: var(--radius-md);
+  max-width: 1440px;
+  margin: var(--space-6) auto;
 }
 
 .marketsHeading {
-  font-size: var(--font-size-lg);
+  font-size: 1.25rem;        /* 20px — site-map-markets h4 del original */
   font-weight: var(--font-weight-bold);
-  color: var(--color-text-primary);
+  margin-top: 0;
   margin-bottom: var(--space-4);
+  letter-spacing: normal;
 }
 
 .marketsHeading span {
@@ -107,54 +125,53 @@
 }
 
 .marketsList {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: var(--space-2) var(--space-4);
   list-style: none;
   padding: 0;
+  columns: 1;
+  column-gap: var(--space-6);
 }
 
 .marketLink {
-  color: var(--color-link);
-  font-size: var(--font-size-base);
+  display: block;
+  position: relative;
+  color: #2D2C2C;
+  font-size: 1rem;
+  font-weight: var(--font-weight-regular);
   text-decoration: none;
+  margin: 0 var(--space-6) 10px 0;
+  width: fit-content;
 }
 
-.marketLink:hover,
-.marketLink:focus-visible {
-  text-decoration: underline;
+.marketLink::after {
+  position: absolute;
+  content: '';
+  top: calc(100% + 2px);
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #2D2C2C;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-/* ── Tablet (≥ 640px) ──────────────────────────────────── */
+.marketLink:hover::after,
+.marketLink:focus-visible::after {
+  opacity: 1;
+}
+
+/* ── Breakpoints — originales 640 / 960 / 1250 ─────────── */
 
 @media (min-width: 640px) {
-  .statesList {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  .marketsList {
-    grid-template-columns: repeat(3, 1fr);
-  }
+  .frame        { columns: 2; }
+  .marketsList  { columns: 2; }
 }
 
-/* ── Desktop (≥ 960px) ─────────────────────────────────── */
-
 @media (min-width: 960px) {
-  .statesList {
-    grid-template-columns: repeat(4, 1fr);
-  }
-
-  .marketsList {
-    grid-template-columns: repeat(4, 1fr);
-  }
+  .frame        { columns: 3; }
+  .marketsList  { columns: 3; }
 }
 
 @media (min-width: 1250px) {
-  .statesList {
-    grid-template-columns: repeat(6, 1fr);
-  }
-
-  .marketsList {
-    grid-template-columns: repeat(5, 1fr);
-  }
+  .frame        { columns: 5; }
+  .marketsList  { columns: 5; }
 }

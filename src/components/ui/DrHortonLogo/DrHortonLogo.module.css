@@ -1,11 +1,16 @@
 .logo {
   display: block;
-  width: var(--logo-width-mobile);
-  height: auto;
+  height: var(--logo-height-mobile);
+  width: auto;
+  transition: transform 0.2s ease-out;
+}
+
+.logo:hover {
+  transform: scale(1.035);
 }
 
 @media (min-width: 1024px) {
   .logo {
-    width: var(--logo-width-desktop);
+    height: var(--logo-height-desktop);
   }
 }
