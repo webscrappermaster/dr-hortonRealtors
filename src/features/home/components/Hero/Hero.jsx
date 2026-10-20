@@ -12,8 +12,6 @@ function Hero() {
   return (
     <section className={styles.hero} aria-labelledby="hero-heading">
       <div className={styles.frame}>
-        {/* Imagen de fondo: la composición original ya trae la foto a la derecha
-            y espacio blanco a la izquierda, no se superpone con el texto. */}
         <picture className={styles.imageWrap}>
           <source media="(max-width: 639px)" srcSet={image.mobile} />
           <img

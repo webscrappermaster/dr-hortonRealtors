@@ -253,16 +253,90 @@ Uso: `npm run dev` en una terminal + `npm run screenshots` en otra. Opciones:
 ## Diferencias que aún quedan vs. el original
 
 - **Fuente** sigue siendo Figtree ≠ Decagram (comercial, no se puede copiar).
-- **Hero**: en el original la foto queda ligeramente más grande / más baja porque usa
-  `background-size: cover` y la altura del hero es `60vh` fija. Nosotros usamos
-  `min-height: 440-480px`. Visualmente equivalente, no idéntico píxel a píxel.
-- **"Red Tag Savings are here."** cae en 2 líneas en nuestro desktop a 1440
-  (el original queda en 1 línea). Causa: nuestra columna de texto es 55% del frame
-  mientras que el original tiene el texto en el 50% con un frame más ancho
-  (`max-width: 1520px` vs. nuestros `1380px`). Se puede ajustar con un media query
-  extra o reduciendo el font-size — se dejó así porque no afecta funcionalidad.
-- **Tarjeta Red Tag**: en las capturas de Playwright el iframe de Vimeo no alcanza a
-  cargar antes del snapshot (networkidle no espera iframes cross-origin). En navegador
-  real se ve el video; en las capturas se ve el ImageSlider fallback.
 - **"Your Privacy Choices" icon**: usamos un SVG inline simplificado. El original
   usa el badge oficial de la IAB como imagen; nosotros no copiamos activos de terceros.
+
+---
+
+## Correcciones aplicadas en la ronda 2 (referencia: live-hero / live-footer)
+
+### A1 — PromoBar
+- Badge "redtag" ahora a `height: 25px` (`--promo-badge-height`, valor real de
+  `.banner-logo svg` del original). Flecha a `height: 10px` (`--promo-arrow-height`).
+- Barra a `min-height: 45px` con padding `5px 25px`.
+- Texto: 16px bold, letter-spacing 0.05em, gap de 10px badge↔texto.
+
+### A2 — Header
+- Nav links: `17px / 600 (semibold)` color `#333`, letter-spacing `0.01em`.
+- Gap desktop entre items: `28px` + `padding-left: 28px` del nav
+  (equivalente a `margin-right: 24px` del `main-nav li` original).
+
+### A3 — Hero
+- Contenedor gris `#F1F1F1` ahora VISIBLE (antes la imagen tapaba todo).
+  Fix: `<img>` absoluto con `object-fit: contain` + `object-position: right` —
+  la foto se pega al borde derecho y el gris queda visible en la zona del texto.
+- Padding exterior del hero: `30px` lateral y superior.
+- Altura: `60vh` con `min-height: 440px / max-height: 620px` para centrar texto.
+- Max-width del frame: `1520px` (como el original) — permite que H1 quepa en 1 línea.
+- Title y subtitle con peso 800. Subtitle pegado al title (margin reducido).
+- SearchBar: altura `66px`, `border-radius: 43px` (valor real),
+  SIN borde, placeholder gris medio `#8A8A8A` 17px, padding-left `28px`.
+- Botón Map view: fondo blanco SIN borde, pill, sombra `0 3px 6px rgba(0,0,0,0.16)`,
+  texto navy bold 16px, dimensiones `~110×42px`. Hover: sombra más intensa + lift.
+
+### A4 — Footer alineación
+- `SiteMap` y `topBar/bottomBar` ahora comparten `padding-inline: 55px` y
+  `max-width: 1440px` → título del sitemap, estados, links, sociales y legal
+  todo pegado al mismo margen izquierdo/derecho.
+
+### A5 — Footer links y sociales
+- Links: `17px / 500` color `#333`, `line-height: 1.3`, `gap: 20px` entre items
+  (≈ 39px línea a línea).
+- Social icons: `34px × 34px` con `gap: 34px`.
+- SVGs sociales **reescritos sin círculo de fondo** — ahora son logos sólidos
+  en `currentColor` (`#333`) matcheando el live. Pinterest ya no tiene fondo blanco.
+
+### A6 — Footer legal
+- **Eliminado** el `border-top` del bottom-bar — ya no hay línea gris encima.
+- Separador cambió de `·` a `•` (bullet) con `margin: 0 10px`.
+- Orden exacto: Privacy policy • Terms of use • [icono] Your privacy choices •
+  Legal notices • Licensing and state notices • Manage cookies • Accessibility •
+  EPA Consent Decree.
+- Icono "Your privacy choices": SVG inline `30×14` — pill azul `#06f` con círculo
+  blanco ✓ a la izquierda y círculo blanco ✗ a la derecha (recreación del badge
+  CCPA oficial). Posicionado **a la izquierda** del texto.
+- Tamaño: `15px / #333`. EHO y copyright a `15px / regular` separados por `•`.
+
+### B1 — Modal legal
+- `src/components/ui/LegalModal/` con `<dialog>` nativo accesible:
+  - `showModal()` → foco atrapado dentro, Escape nativo del dialog, clic en backdrop
+    cierra, foco devuelto al link que lo abrió (`returnFocusTo`), scroll del body
+    bloqueado (`useBodyScrollLock`).
+  - Carga el notice en un iframe apuntando al mismo URL `privacy-central.securiti.ai`
+    del original.
+  - Botón close con aria-label.
+- "Manage cookies" abre el modal con un mensaje placeholder (sin cargar OneTrust).
+- "EPA Consent Decree" sigue siendo navegación interna con `<Link>`.
+
+### B2 — Title en 1 línea
+- Max-width del frame del hero subido a `1520px` como el original. H1 ahora cabe
+  en 1 línea en 1440 y 1250.
+
+### B3 — Capturas con Vimeo
+- `scripts/screenshot.js` acepta `--wait-iframes` (opcional, valor en ms, default 5000).
+  Espera a que los iframes terminen de cargar antes de capturar. Usado en las
+  capturas finales → la tarjeta Red Tag muestra el video real de Vimeo.
+
+### B4 — Pesos
+- H1 y H2 del hero: `800` (extrabold). Título del SiteMap también `800`. Matchean el live.
+
+---
+
+## Pendientes documentados (B5) — no se hacen ahora
+
+- **Páginas internas** (hoy sirven `ComingSoon`): se construirán como módulos propios
+  cuando se definan las vistas de cada ruta.
+- **SearchBar contra API real**: cuando exista backend; hoy busca contra
+  `statesIndex.js` local.
+- **Fuente Figtree servida localmente** (hoy desde Google Fonts) — para evitar la
+  dependencia de red y mejorar FOIT/FOUT.

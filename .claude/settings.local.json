@@ -16,7 +16,14 @@
       "Bash(curl *)",
       "Bash(npx playwright *)",
       "PowerShell(Get-Process *)",
-      "Bash(grep -oE '\\\\.hero-search[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__heading[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__text[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-view[ \\\\.{,]*\\\\{[^}]*\\\\}' main.min.css)"
+      "Bash(grep -oE '\\\\.hero-search[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__heading[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-search__text[ \\\\.{,]*\\\\{[^}]*\\\\}|\\\\.map-view[ \\\\.{,]*\\\\{[^}]*\\\\}' main.min.css)",
+      "Bash(node -e \"const sharp = require\\('sharp'\\); sharp\\('docs/reference/original-home/original-home-files/RTE-Header-Image-Desktop.jpg'\\).metadata\\(\\).then\\(m => console.log\\(m.width + 'x' + m.height, 'aspect', \\(m.width/m.height\\).toFixed\\(2\\)\\)\\)\")",
+      "Bash(node -e \"const sharp = require\\('sharp'\\); sharp\\('src/assets/images/hero/rte-header-desktop.webp'\\).metadata\\(\\).then\\(m => console.log\\('desktop:', m.width + 'x' + m.height, 'aspect', \\(m.width/m.height\\).toFixed\\(2\\)\\)\\)\")",
+      "Bash(node -e \"const sharp = require\\('sharp'\\); sharp\\('docs/reference/screenshots/ours-1440.png'\\).metadata\\(\\).then\\(async m => { const h = m.height; await sharp\\('docs/reference/screenshots/ours-1440.png'\\).extract\\({left: 0, top: h-400, width: m.width, height: 400}\\).toFile\\('docs/reference/screenshots/ours-1440-footer.png'\\); console.log\\('done, size:', m.width + 'x' + h\\); }\\)\")",
+      "Bash(node *)",
+      "Bash(file saved_resource saved_resource.html)",
+      "Bash(head -c 200 saved_resource)",
+      "Bash(timeout 10 cmd /c \"until curl -sf http://localhost:5173 >nul 2>&1; do ping -n 1 127.0.0.1 >nul; done\")"
     ]
   }
 }

@@ -132,7 +132,9 @@
   --content-max-width:  1200px;    /* ancho general del contenido */
   --header-height:         74px;    /* 74px desktop, 58px mobile — del original */
   --header-height-mobile:  58px;
-  --promo-bar-height:      40px;
+  --promo-bar-height:      45px;    /* padding 5px + contenido ~35px (badge 25px + holgura) */
+  --promo-badge-height:    25px;    /* .banner-logo svg height del original */
+  --promo-arrow-height:    10px;    /* .banner-arrow svg height del original */
   --logo-height-mobile:    38px;
   --logo-height-desktop:   42px;
 

@@ -29,6 +29,8 @@ const args = Object.fromEntries(
 )
 const only = args.only                               // 'ours' | 'original'
 const oursUrl = args.url || 'http://localhost:5173'
+const waitIframes = 'wait-iframes' in args           // --wait-iframes
+const iframeTimeout = Number(args['wait-iframes']) || 5000
 
 async function captureOurs(browser) {
   for (const width of WIDTHS) {
@@ -41,6 +43,23 @@ async function captureOurs(browser) {
       await context.close()
       throw err
     }
+
+    /* --wait-iframes: espera a que el iframe de Vimeo (u otros cross-origin)
+       termine de cargar, o hasta `iframeTimeout` ms (default 5000). */
+    if (waitIframes) {
+      try {
+        await page.waitForFunction(() => {
+          const frames = Array.from(document.querySelectorAll('iframe'))
+          if (!frames.length) return true
+          return frames.every(f => f.contentDocument?.readyState === 'complete' || f.getAttribute('src'))
+        }, { timeout: iframeTimeout })
+      } catch {
+        /* timeout alcanzado — seguimos y capturamos de todos modos */
+      }
+      /* Extra: pequeño delay para el primer frame del video */
+      await page.waitForTimeout(1200)
+    }
+
     const out = path.join(OUT_DIR, `ours-${width}.png`)
     await page.screenshot({ path: out, fullPage: true })
     console.log(`  ✓ ${out}`)

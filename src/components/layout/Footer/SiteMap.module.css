@@ -1,11 +1,12 @@
+/* Alineado al mismo margen del footer-nav (55px). */
 .siteMap {
-  padding: var(--space-6) var(--space-5);
-  border-top: 1px solid #D5D5D5;
+  padding-block: var(--space-6);
+  padding-inline: 55px;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .header {
-  max-width: 1440px;
-  margin: 0 auto;
   padding: var(--space-6) 0 0 0;
 }
 
@@ -24,8 +25,7 @@
    para que cada estado quede contenido. */
 
 .frame {
-  max-width: 1440px;
-  margin: 0 auto var(--space-6);
+  margin: 0 0 var(--space-6);
   columns: 1;
   column-gap: var(--space-6);
 }
@@ -41,7 +41,7 @@
   flex-direction: row;
   align-items: center;
   width: fit-content;
-  padding-top: 10px;
+  padding-top: 18px;         /* separa items verticalmente — ~39px línea a línea con 16px font */
   break-inside: avoid;
   transition: opacity var(--transition-fast);
 }
@@ -108,8 +108,7 @@
 /* ── Panel de mercados ─────────────────────────────────── */
 
 .marketsPanel {
-  max-width: 1440px;
-  margin: var(--space-6) auto;
+  margin: var(--space-6) 0;
 }
 
 .marketsHeading {
