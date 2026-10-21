@@ -52,7 +52,7 @@
 }
 
 .heading {
-  color: #3A3A3A;
+  color: var(--color-heading-hero);
   font-weight: var(--font-weight-extrabold);  /* 800 */
   font-size: 2rem;
   line-height: 1.1;

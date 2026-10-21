@@ -53,7 +53,7 @@
 
 .stateLink {
   position: relative;
-  color: #2D2C2C;
+  color: var(--color-text-dark);
   font-size: 1rem;             /* 16px — state-footer-item a del original */
   font-weight: var(--font-weight-semibold);
   text-decoration: none;
@@ -67,7 +67,7 @@
   left: 0;
   right: 0;
   height: 1px;
-  background: #2D2C2C;
+  background: var(--color-text-dark);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
@@ -84,7 +84,7 @@
   background: transparent;
   border: none;
   cursor: pointer;
-  color: #2D2C2C;
+  color: var(--color-text-dark);
   transition: transform 300ms ease-in-out;
 }
 
@@ -133,7 +133,7 @@
 .marketLink {
   display: block;
   position: relative;
-  color: #2D2C2C;
+  color: var(--color-text-dark);
   font-size: 1rem;
   font-weight: var(--font-weight-regular);
   text-decoration: none;
@@ -148,7 +148,7 @@
   left: 0;
   right: 0;
   height: 1px;
-  background: #2D2C2C;
+  background: var(--color-text-dark);
   opacity: 0;
   transition: opacity 0.3s ease;
 }

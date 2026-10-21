@@ -56,12 +56,12 @@
   margin-bottom: var(--space-4);
 }
 
-/* Link azul: #0a51c5, 15px, bold, sin flecha, underline aparece en hover */
+/* Link azul: var(--color-text-link), 15px, bold, sin flecha, underline aparece en hover */
 .cta {
   position: relative;
   display: inline-block;
   width: fit-content;
-  color: #0a51c5;
+  color: var(--color-text-link);
   font-size: 0.9375rem;
   font-weight: var(--font-weight-bold);
   text-decoration: none;
@@ -75,7 +75,7 @@
   right: 0;
   bottom: -3px;
   height: 1.5px;
-  background: #0a51c5;
+  background: var(--color-text-link);
   opacity: 0;
   transition: opacity 0.3s ease;
 }
