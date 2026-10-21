@@ -1,11 +1,9 @@
 .gallery {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 9;
-  background: var(--color-hero-bg);
-  overflow: hidden;
   outline: none;
   border-radius: var(--radius-md);
+  overflow: hidden;
 }
 
 .gallery:focus-visible {
@@ -13,10 +11,14 @@
   outline-offset: 2px;
 }
 
+/* ── Imagen principal ─────────────────────────────────── */
+
 .mainSlide {
   position: relative;
   width: 100%;
-  height: 100%;
+  aspect-ratio: 16 / 9;
+  background: var(--color-hero-bg);
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -41,6 +43,8 @@
   height: 64px;
   pointer-events: none;
 }
+
+/* ── Flechas ──────────────────────────────────────────── */
 
 .arrow {
   position: absolute;
@@ -78,6 +82,8 @@
 .arrowPrev { left: var(--space-3); }
 .arrowNext { right: var(--space-3); }
 
+/* ── Contador ─────────────────────────────────────────── */
+
 .counter {
   position: absolute;
   bottom: var(--space-3);
@@ -90,6 +96,67 @@
   border-radius: var(--radius-pill);
   pointer-events: none;
 }
+
+/* ── Tira de miniaturas ───────────────────────────────── */
+
+.thumbs {
+  display: flex;
+  gap: 2px;
+  background: var(--color-text-primary);
+}
+
+.thumb {
+  flex: 0 0 calc(100% / 7);
+  aspect-ratio: 4 / 3;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background: var(--color-hero-bg);
+  opacity: 0.7;
+  transition: opacity var(--transition-fast);
+}
+
+.thumb:hover,
+.thumbActive {
+  opacity: 1;
+}
+
+.thumbActive::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 3px solid var(--color-white);
+  pointer-events: none;
+}
+
+.thumbImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.thumbPlaceholder {
+  width: 100%;
+  height: 100%;
+  background: var(--color-hero-bg);
+}
+
+.thumbVideoIcon {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-white);
+  font-size: var(--font-size-lg);
+  pointer-events: none;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+/* ── Responsive ───────────────────────────────────────── */
 
 @media (min-width: 640px) {
   .arrow {

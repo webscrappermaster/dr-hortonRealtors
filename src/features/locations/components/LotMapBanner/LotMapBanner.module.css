@@ -1,0 +1,24 @@
+.section {
+  padding: var(--space-8) 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.heading {
+  font-size: var(--font-size-h3-internal);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin: 0 0 var(--space-6);
+}
+
+.imageWrap {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+}

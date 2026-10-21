@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from 'react'
 import styles from './PropertyGallery.module.css'
 
+const MAX_THUMBS = 7
+
 function PlayIcon() {
   return (
     <svg className={styles.playIcon} viewBox="0 0 64 64" aria-hidden="true">
@@ -33,6 +35,7 @@ function PropertyGallery({ items = [], communityName = '' }) {
 
   const current = items[index]
   const isVideo = current?.type === 'video'
+  const thumbItems = items.slice(0, MAX_THUMBS)
 
   return (
     <div
@@ -42,6 +45,7 @@ function PropertyGallery({ items = [], communityName = '' }) {
       aria-label={`${communityName} gallery`}
       tabIndex={0}
     >
+      {/* Imagen principal */}
       <div className={styles.mainSlide}>
         {current?.imageUrl ? (
           <img
@@ -53,31 +57,61 @@ function PropertyGallery({ items = [], communityName = '' }) {
           <div className={styles.placeholder} aria-hidden="true" />
         )}
         {isVideo && <PlayIcon />}
+
+        <button
+          type="button"
+          className={`${styles.arrow} ${styles.arrowPrev}`}
+          onClick={prev}
+          aria-label="Previous photo"
+          disabled={total <= 1}
+        >
+          <svg viewBox="0 0 10 18" aria-hidden="true">
+            <path d="M9 1 1 9l8 8" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+
+        <button
+          type="button"
+          className={`${styles.arrow} ${styles.arrowNext}`}
+          onClick={next}
+          aria-label="Next photo"
+          disabled={total <= 1}
+        >
+          <svg viewBox="0 0 10 18" aria-hidden="true">
+            <path d="M1 1l8 8-8 8" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+
+        <div className={styles.counter} aria-live="polite" aria-atomic="true">
+          {index + 1} / {total}
+        </div>
       </div>
 
-      <button
-        type="button"
-        className={`${styles.arrow} ${styles.arrowPrev}`}
-        onClick={prev}
-        aria-label="Previous photo"
-        disabled={total <= 1}
-      >
-        <svg viewBox="0 0 10 18" aria-hidden="true"><path d="M9 1 1 9l8 8" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" /></svg>
-      </button>
-
-      <button
-        type="button"
-        className={`${styles.arrow} ${styles.arrowNext}`}
-        onClick={next}
-        aria-label="Next photo"
-        disabled={total <= 1}
-      >
-        <svg viewBox="0 0 10 18" aria-hidden="true"><path d="M1 1l8 8-8 8" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" /></svg>
-      </button>
-
-      <div className={styles.counter} aria-live="polite" aria-atomic="true">
-        {index + 1} / {total}
-      </div>
+      {/* Tira de miniaturas — muestra los primeros MAX_THUMBS items */}
+      {thumbItems.length > 1 && (
+        <div className={styles.thumbs} role="list" aria-label="Gallery thumbnails">
+          {thumbItems.map((item, i) => (
+            <button
+              key={i}
+              type="button"
+              role="listitem"
+              className={`${styles.thumb}${i === index ? ` ${styles.thumbActive}` : ''}`}
+              onClick={() => setIndex(i)}
+              aria-label={item.alt || `Photo ${i + 1}`}
+              aria-pressed={i === index}
+            >
+              {item.imageUrl ? (
+                <img src={item.imageUrl} alt="" loading="lazy" className={styles.thumbImg} />
+              ) : (
+                <div className={styles.thumbPlaceholder} aria-hidden="true" />
+              )}
+              {item.type === 'video' && (
+                <span className={styles.thumbVideoIcon} aria-hidden="true">▶</span>
+              )}
+            </button>
+          ))}
+        </div>
+      )}
     </div>
   )
 }

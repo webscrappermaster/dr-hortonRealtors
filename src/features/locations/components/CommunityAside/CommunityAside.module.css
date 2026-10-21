@@ -1,0 +1,90 @@
+.aside {
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+
+.heading {
+  font-size: var(--font-size-md);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin: 0 0 var(--space-4);
+}
+
+.hours {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-5);
+  line-height: var(--line-height-relaxed);
+}
+
+.tourBtn {
+  display: block;
+  width: 100%;
+  background: var(--color-navy);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: var(--letter-spacing-btn);
+  text-transform: uppercase;
+  padding: var(--space-4) var(--space-6);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+  margin-bottom: var(--space-4);
+}
+
+.tourBtn:hover {
+  background: var(--color-navy-dark);
+}
+
+.contactRow {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+
+.phone {
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  text-decoration: none;
+}
+
+.phone:hover {
+  text-decoration: underline;
+}
+
+.twuBtn {
+  background: none;
+  border: 1px solid var(--color-navy);
+  color: var(--color-navy);
+  font-family: var(--font-sans);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  letter-spacing: var(--letter-spacing-btn);
+  text-transform: uppercase;
+  padding: var(--space-3) var(--space-5);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-fast), color var(--transition-fast);
+}
+
+.twuBtn:hover {
+  background: var(--color-navy);
+  color: var(--color-white);
+}
+
+.twuNotice {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: var(--space-4) 0 0;
+  padding: var(--space-3) var(--space-4);
+  background: var(--color-hero-bg);
+  border-radius: var(--radius-md);
+}
