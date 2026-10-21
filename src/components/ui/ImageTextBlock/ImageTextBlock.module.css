@@ -50,6 +50,11 @@
   margin-bottom: var(--space-2);
 }
 
+.icon-logo {
+  width: auto;
+  max-width: 200px;
+}
+
 .eyebrow {
   font-size: var(--font-size-lg);
   font-weight: var(--font-weight-bold);

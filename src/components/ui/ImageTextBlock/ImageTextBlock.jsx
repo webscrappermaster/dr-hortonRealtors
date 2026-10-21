@@ -12,7 +12,7 @@ function ImageTextBlock({
   imageAlt = '',
   icon,
   iconAlt = '',
-  iconStyle,
+  iconVariant,
   eyebrow,
   title,
   description,
@@ -55,7 +55,7 @@ function ImageTextBlock({
       </div>
       <div className={styles.text}>
         <div className={styles.textContent}>
-          {icon && <img src={icon} alt={iconAlt} className={styles.icon} style={iconStyle} />}
+          {icon && <img src={icon} alt={iconAlt} className={`${styles.icon}${iconVariant ? ` ${styles[`icon-${iconVariant}`]}` : ''}`} />}
           {eyebrow && <p className={styles.eyebrow}>{eyebrow}</p>}
           {title && <h2 className={styles.title}>{title}</h2>}
           {description && <p className={styles.description}>{description}</p>}

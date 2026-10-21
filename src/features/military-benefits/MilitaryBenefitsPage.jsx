@@ -5,8 +5,6 @@ import MilitaryBenefitsForm from './components/MilitaryBenefitsForm'
 import { lead, tiles, testimonial, vaLoans } from './data/militaryBenefits'
 import styles from './MilitaryBenefitsPage.module.css'
 
-const DHI_LOGO_STYLE = { width: 'auto', maxWidth: '200px' }
-
 function MilitaryBenefitsPage() {
   return (
     <main id="main-content" tabIndex={-1} className={styles.page}>
@@ -50,7 +48,7 @@ function MilitaryBenefitsPage() {
         imageAlt={vaLoans.imageAlt}
         icon={vaLoans.logo}
         iconAlt={vaLoans.logoAlt}
-        iconStyle={DHI_LOGO_STYLE}
+        iconVariant="logo"
         title={vaLoans.heading}
         description={vaLoans.paragraph}
         cta={{ label: vaLoans.cta.label, href: vaLoans.cta.href, external: true }}
