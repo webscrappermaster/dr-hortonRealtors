@@ -97,6 +97,9 @@ function LocationMapInner({
               {comm.priceFrom && (
                 <span className={styles.popupPrice}>{formatPrice(comm.priceFrom)}</span>
               )}
+              {comm.location?.locationPrecision === 'city' && (
+                <span className={styles.popupApprox}>Approximate location</span>
+              )}
               <Link to={href} className={styles.popupLink}>
                 View community
               </Link>

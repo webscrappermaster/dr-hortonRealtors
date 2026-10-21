@@ -15,8 +15,20 @@
       "blurb": "<p>Atlanta is an alluring destination for those seeking a balanced lifestyle filled with opportunity, culture, and connectivity. With affordable housing options and a reputation as a tech industry hotspot, Atlanta offers dynamic career prospects while maintaining a focus on community and family. For those considering a move, D.R. Hortonâ€™s new construction homes provide thoughtfully designed living spaces that cater to professionals, families, and retirees alike, promising comfort and modern convenience. From its beautifully diverse neighborhoods to its flourishing cultural scene, Atlanta delivers the best Southern charms with urban sophistication. Hartsfield-Jackson Atlanta International Airport, one of the busiest airports in the world, provides unparalleled domestic and international travel access.</p>",
       "totalResults": 482,
       "resultsRadiusMiles": 68,
-      "center": { "lat": 33.7711945, "lng": -84.39054 },
-      "cities": ["atlanta", "hapeville", "mableton", "decatur", "macon", "griffin", "locust-grove", "buckhead"],
+      "center": {
+        "lat": 33.7711945,
+        "lng": -84.39054
+      },
+      "cities": [
+        "atlanta",
+        "hapeville",
+        "mableton",
+        "decatur",
+        "macon",
+        "griffin",
+        "locust-grove",
+        "buckhead"
+      ],
       "communities": [
         {
           "slug": "benteen-reserve",
@@ -34,10 +46,22 @@
           "tag": null,
           "priceFrom": 437000,
           "availableHomesCount": 12,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 3.5, "max": 3.5 },
-          "garages": { "min": 1, "max": 2 },
-          "stories": { "min": 3, "max": 3 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 3.5,
+            "max": 3.5
+          },
+          "garages": {
+            "min": 1,
+            "max": 2
+          },
+          "stories": {
+            "min": 3,
+            "max": 3
+          },
           "sqftFrom": 1697,
           "cardImage": "HighRes_Benteen_Reserve_Model_Web_04.webp",
           "gallery": null,
@@ -49,7 +73,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.702741,
+            "lng": -84.382853,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "towns-at-monroe",
@@ -67,10 +95,22 @@
           "tag": null,
           "priceFrom": 334000,
           "availableHomesCount": 7,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 2.5, "max": 2.5 },
-          "garages": { "min": 1, "max": 1 },
-          "stories": { "min": 2, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 1,
+            "max": 1
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
           "sqftFrom": 1418,
           "cardImage": "Towns_at_Monroe_Web_01.webp",
           "gallery": null,
@@ -82,7 +122,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.79266,
+            "lng": -84.44801,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "ashwood-springs",
@@ -100,10 +144,22 @@
           "tag": null,
           "priceFrom": 320000,
           "availableHomesCount": 6,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 2.5, "max": 2.5 },
-          "garages": { "min": 1, "max": 1 },
-          "stories": { "min": 2, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 1,
+            "max": 1
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
           "sqftFrom": 1418,
           "cardImage": "Towns_at_Monroe_Web_12.webp",
           "gallery": null,
@@ -115,7 +171,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.705434,
+            "lng": -84.544076,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "townes-at-asbury",
@@ -133,10 +193,22 @@
           "tag": null,
           "priceFrom": 399000,
           "availableHomesCount": 9,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 3.5, "max": 3.5 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 3, "max": 3 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 3.5,
+            "max": 3.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 3,
+            "max": 3
+          },
           "sqftFrom": 1798,
           "cardImage": "500kb_Townes_Exterior.webp",
           "gallery": null,
@@ -148,7 +220,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.655199,
+            "lng": -84.381774,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "villages-at-oakshire",
@@ -166,10 +242,22 @@
           "tag": null,
           "priceFrom": 358000,
           "availableHomesCount": null,
-          "beds": { "min": 4, "max": 5 },
-          "baths": { "min": 2, "max": 3 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1774,
           "cardImage": "Cali_rendering_.webp",
           "gallery": null,
@@ -181,7 +269,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.660973,
+            "lng": -84.393475,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "forest-valley",
@@ -214,7 +306,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.660361,
+            "lng": -84.386502,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "mableton-station",
@@ -232,10 +328,22 @@
           "tag": null,
           "priceFrom": 370000,
           "availableHomesCount": 14,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 3.5, "max": 3.5 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 3, "max": 3 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 3.5,
+            "max": 3.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 3,
+            "max": 3
+          },
           "sqftFrom": 1977,
           "cardImage": "Mableton_Station_Townhome_Model_Web_01_-_Edited.webp",
           "gallery": null,
@@ -247,7 +355,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.815023,
+            "lng": -84.553798,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "harvest-park",
@@ -265,10 +377,22 @@
           "tag": null,
           "priceFrom": 339000,
           "availableHomesCount": 5,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 2.5, "max": 2.5 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 2, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
           "sqftFrom": 1910,
           "cardImage": "exterior_model.webp",
           "gallery": null,
@@ -280,7 +404,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.690867,
+            "lng": -84.248622,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "creekview",
@@ -298,10 +426,22 @@
           "tag": null,
           "priceFrom": 365000,
           "availableHomesCount": 3,
-          "beds": { "min": 4, "max": 5 },
-          "baths": { "min": 2, "max": 3 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1862,
           "cardImage": "Creekview_model_exterior_images_8-18-26_04.webp",
           "gallery": null,
@@ -313,7 +453,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.622488,
+            "lng": -84.523908,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "woodbury-park",
@@ -331,10 +475,22 @@
           "tag": null,
           "priceFrom": 289000,
           "availableHomesCount": 3,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 2.5, "max": 2.5 },
-          "garages": { "min": 1, "max": 1 },
-          "stories": { "min": 2, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 1,
+            "max": 1
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
           "sqftFrom": 1508,
           "cardImage": "Woodbury_Park_The_Pearson_II_model_011.webp",
           "gallery": null,
@@ -346,7 +502,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.700272,
+            "lng": -84.539348,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "walden-ridge",
@@ -379,7 +539,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 32.732373,
+            "lng": -83.671449,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "fox-crossing",
@@ -397,10 +561,22 @@
           "tag": null,
           "priceFrom": 300000,
           "availableHomesCount": null,
-          "beds": { "min": 3, "max": 4 },
-          "baths": { "min": 2, "max": 2.5 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1714,
           "cardImage": "Cali_334_Expedition_Dr_lot_32_001_cropped.webp",
           "gallery": null,
@@ -412,7 +588,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.204432,
+            "lng": -84.239735,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "bridle-creek",
@@ -430,10 +610,22 @@
           "tag": null,
           "priceFrom": 374000,
           "availableHomesCount": 4,
-          "beds": { "min": 4, "max": 5 },
-          "baths": { "min": 2.5, "max": 4.5 },
-          "garages": { "min": 2, "max": 3 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 4.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 2220,
           "cardImage": "Halton_100_Weymouth_Dr_lot_125_004.webp",
           "gallery": null,
@@ -445,7 +637,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.35046,
+            "lng": -84.109119,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "evergreen-crossing",
@@ -463,10 +659,22 @@
           "tag": null,
           "priceFrom": 383000,
           "availableHomesCount": 6,
-          "beds": { "min": 4, "max": 5 },
-          "baths": { "min": 2.5, "max": 4 },
-          "garages": { "min": 2, "max": 3 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 4
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1942,
           "cardImage": "Evergreen_Crossing_Lot_111_Savannah_1.webp",
           "gallery": null,
@@ -478,7 +686,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.345298,
+            "lng": -84.104391,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "locust-grove-station---cedar-ridge",
@@ -496,10 +708,22 @@
           "tag": null,
           "priceFrom": 342000,
           "availableHomesCount": 6,
-          "beds": { "min": 4, "max": 5 },
-          "baths": { "min": 2, "max": 3 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1862,
           "cardImage": "Cedar_Ridge_Lot_109_Hayden_01.webp",
           "gallery": null,
@@ -511,7 +735,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.351072,
+            "lng": -84.116092,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "oak-ridge-meadows",
@@ -529,10 +757,22 @@
           "tag": null,
           "priceFrom": 347000,
           "availableHomesCount": 6,
-          "beds": { "min": 2, "max": 4 },
-          "baths": { "min": 2, "max": 3 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 2,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1796,
           "cardImage": "Arlington_C4_Morning_Mist_front.webp",
           "gallery": null,
@@ -544,7 +784,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.354719,
+            "lng": -84.103564,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "kingston-ranch",
@@ -562,10 +806,22 @@
           "tag": null,
           "priceFrom": 331000,
           "availableHomesCount": 3,
-          "beds": { "min": 3, "max": 5 },
-          "baths": { "min": 2, "max": 4.5 },
-          "garages": { "min": 2, "max": 3 },
-          "stories": { "min": 1, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 4.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
           "sqftFrom": 1942,
           "cardImage": "Kingston_Ranch_at_Lake_Oconee_lot_2_The_Grover_01_Zoom.webp",
           "gallery": null,
@@ -577,7 +833,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 33.520284,
+            "lng": -83.33353,
+            "locationPrecision": "city"
+          }
         }
       ]
     },
@@ -590,7 +850,10 @@
       "blurb": null,
       "totalResults": null,
       "resultsRadiusMiles": null,
-      "cities": ["perry", "bonaire"],
+      "cities": [
+        "perry",
+        "bonaire"
+      ],
       "communities": [
         {
           "slug": "arlington-station",
@@ -608,10 +871,22 @@
           "tag": null,
           "priceFrom": 241000,
           "availableHomesCount": null,
-          "beds": { "min": 3, "max": 4 },
-          "baths": { "min": 2.5, "max": 2.5 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 2, "max": 2 },
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
           "sqftFrom": 1498,
           "cardImage": "Tatum_A1_Prince_George_front.webp",
           "gallery": null,
@@ -623,7 +898,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 32.586171,
+            "lng": -83.655082,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "cottages-at-blue-ridge",
@@ -641,10 +920,22 @@
           "tag": null,
           "priceFrom": 251000,
           "availableHomesCount": 4,
-          "beds": { "min": 3, "max": 4 },
-          "baths": { "min": 2, "max": 2 },
-          "garages": { "min": 2, "max": 2 },
-          "stories": { "min": 1, "max": 1 },
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 1
+          },
           "sqftFrom": 1419,
           "cardImage": "Cali_208_Harrow_Drive_lot_191_white_cabs_001.webp",
           "gallery": null,
@@ -656,7 +947,11 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 32.544622,
+            "lng": -83.593676,
+            "locationPrecision": "city"
+          }
         },
         {
           "slug": "remington-chase",
@@ -674,10 +969,22 @@
           "tag": null,
           "priceFrom": 217000,
           "availableHomesCount": 4,
-          "beds": { "min": 3, "max": 3 },
-          "baths": { "min": 2, "max": 2 },
-          "garages": { "min": 1, "max": 1 },
-          "stories": { "min": 1, "max": 1 },
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2,
+            "max": 2
+          },
+          "garages": {
+            "min": 1,
+            "max": 1
+          },
+          "stories": {
+            "min": 1,
+            "max": 1
+          },
           "sqftFrom": 1046,
           "cardImage": "RemingtonChase_Lot70A_EdgewoodExpress_A_6.webp",
           "gallery": null,
@@ -689,10 +996,13 @@
           "floorPlans": null,
           "availableHomes": null,
           "relatedMoveIns": null,
-          "location": null
+          "location": {
+            "lat": 32.440068,
+            "lng": -83.748603,
+            "locationPrecision": "city"
+          }
         }
       ]
     }
   ]
 }
-

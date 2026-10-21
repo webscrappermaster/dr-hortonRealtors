@@ -26,6 +26,14 @@
   color: var(--color-text-muted);
 }
 
+.popupApprox {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.6875rem;
+  font-style: italic;
+  color: var(--color-text-muted);
+}
+
 .popupLink {
   display: inline-block;
   font-size: var(--font-size-sm);
