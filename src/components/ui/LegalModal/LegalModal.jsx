@@ -13,14 +13,14 @@ function LegalModal({ title, src, children, returnFocusTo, onClose }) {
 
   useBodyScrollLock(true)
 
-  /* Apertura/cierre ligados solo al ciclo de vida del componente. */
+  /* Apertura ligada al mount. Sin cleanup de dialog.close(): el portal retira el
+     <dialog> del DOM al desmontarse sin disparar 'close', evitando que el listener
+     de Effect 2 llame a onClose() durante el desmontaje simulado de StrictMode,
+     lo que causaría setModal(null) antes del remount y el modal nunca volvería a abrirse. */
   useEffect(() => {
     const dialog = dialogRef.current
     if (!dialog) return
     dialog.showModal()
-    return () => {
-      if (dialog.open) dialog.close()
-    }
   }, [])
 
   /* Listeners actualizados cuando cambian los callbacks del padre. */
@@ -71,14 +71,14 @@ function LegalModal({ title, src, children, returnFocusTo, onClose }) {
                 referrerPolicy="no-referrer"
               />
               <div className={styles.iframeFallback}>
-                <span>¿No se carga el documento?</span>
+                <span>Document not loading?</span>
                 <a
                   href={src}
                   target="_blank"
                   rel="noopener noreferrer"
                   className={styles.iframeFallbackLink}
                 >
-                  Abrir en una pestaña nueva ↗
+                  Open in a new tab ↗
                 </a>
               </div>
             </>

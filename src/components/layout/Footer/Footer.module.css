@@ -141,8 +141,9 @@
   /* NO border-top: en el live solo hay una línea arriba del footer-nav */
 }
 
+/* A <640px los links legales viven en legalMobile (nav); el bottom bar los oculta. */
 .legalInline {
-  display: flex;
+  display: none;
   flex-wrap: wrap;
   gap: 0;                    /* el separador • se maneja via ::after */
   list-style: none;
@@ -217,6 +218,15 @@
   .sectionsList > li {
     flex: 1;
   }
+
+  /* Desde 640px los links legales pasan al bottom bar; la columna móvil se oculta. */
+  .legalMobile {
+    display: none;
+  }
+
+  .legalInline {
+    display: flex;
+  }
 }
 
 /* ── Desktop (≥ 960px) ─────────────────────────────────── */
@@ -230,10 +240,6 @@
 
   /* En desktop los títulos de sección se ocultan */
   .sectionHeading {
-    display: none;
-  }
-
-  .legalMobile {
     display: none;
   }
 
