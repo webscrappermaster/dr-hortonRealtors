@@ -5,6 +5,8 @@ import MilitaryBenefitsForm from './components/MilitaryBenefitsForm'
 import { lead, tiles, testimonial, vaLoans } from './data/militaryBenefits'
 import styles from './MilitaryBenefitsPage.module.css'
 
+const DHI_LOGO_STYLE = { width: 'auto', maxWidth: '200px' }
+
 function MilitaryBenefitsPage() {
   return (
     <main id="main-content" tabIndex={-1} className={styles.page}>
@@ -20,6 +22,7 @@ function MilitaryBenefitsPage() {
         cta={{ label: lead.cta.label, href: lead.cta.anchor }}
         imageSide="right"
         variant="lead"
+        ctaVariant="plain"
       />
 
       <section className={styles.tiles} aria-label="Military buyer benefits">
@@ -47,10 +50,12 @@ function MilitaryBenefitsPage() {
         imageAlt={vaLoans.imageAlt}
         icon={vaLoans.logo}
         iconAlt={vaLoans.logoAlt}
+        iconStyle={DHI_LOGO_STYLE}
         title={vaLoans.heading}
         description={vaLoans.paragraph}
         cta={{ label: vaLoans.cta.label, href: vaLoans.cta.href, external: true }}
         imageSide="right"
+        ctaVariant="plain"
       />
 
       <section id="contact-form" className={styles.formSection} aria-labelledby="form-heading">

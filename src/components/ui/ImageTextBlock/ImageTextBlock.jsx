@@ -12,6 +12,7 @@ function ImageTextBlock({
   imageAlt = '',
   icon,
   iconAlt = '',
+  iconStyle,
   eyebrow,
   title,
   description,
@@ -19,6 +20,7 @@ function ImageTextBlock({
   disclaimer,
   imageSide = 'left',
   variant = 'default',
+  ctaVariant = 'default',
 }) {
   const classes = [
     styles.block,
@@ -28,17 +30,19 @@ function ImageTextBlock({
     .filter(Boolean)
     .join(' ')
 
+  const ctaClass = [styles.cta, ctaVariant === 'plain' && styles.ctaPlain].filter(Boolean).join(' ')
+
   const renderCta = () => {
     if (!cta) return null
     if (cta.external) {
       return (
-        <a className={styles.cta} href={cta.href} target="_blank" rel="noopener noreferrer">
+        <a className={ctaClass} href={cta.href} target="_blank" rel="noopener noreferrer">
           {cta.label}
         </a>
       )
     }
     return (
-      <Link className={styles.cta} to={cta.href}>
+      <Link className={ctaClass} to={cta.href}>
         {cta.label}
       </Link>
     )
@@ -51,7 +55,7 @@ function ImageTextBlock({
       </div>
       <div className={styles.text}>
         <div className={styles.textContent}>
-          {icon && <img src={icon} alt={iconAlt} className={styles.icon} />}
+          {icon && <img src={icon} alt={iconAlt} className={styles.icon} style={iconStyle} />}
           {eyebrow && <p className={styles.eyebrow}>{eyebrow}</p>}
           {title && <h2 className={styles.title}>{title}</h2>}
           {description && <p className={styles.description}>{description}</p>}

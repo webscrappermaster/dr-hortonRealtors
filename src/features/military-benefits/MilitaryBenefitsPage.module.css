@@ -4,7 +4,7 @@
 
 .tiles {
   padding: var(--space-10) var(--space-page-x);
-  background: var(--color-hero-bg);
+  background: var(--color-page-bg);
 }
 
 .formSection {

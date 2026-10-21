@@ -104,6 +104,13 @@
   margin: var(--space-3) 0 0;
 }
 
+/* Variante sin mayúsculas ni letter-spacing (ej: military-benefits, careers) */
+.ctaPlain {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: var(--font-size-base);
+}
+
 /* Variante "lead-block": padding interno más generoso, como el bloque hero
    de military-benefits y real-estate-agents. */
 .variant-lead {
