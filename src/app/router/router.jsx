@@ -1,9 +1,20 @@
 import { createBrowserRouter } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import MainLayout from '../../components/layout/MainLayout'
 import HomePage from '../../features/home/HomePage'
 import ComingSoon from '../../features/common/ComingSoon'
 import NotFound from '../../features/common/NotFound'
 import LocationPage from '../../features/locations/LocationPage'
+
+/* Placeholder de comunidad individual hasta la Etapa 6. */
+function CommunityComingSoon() {
+  const { community } = useParams()
+  const name = community
+    ?.split('-')
+    .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ')
+  return <ComingSoon title={name ?? 'Community'} subtitle="Community page coming soon" />
+}
 import ComponentsPreviewPage from '../../features/dev'
 import ServicesPage from '../../features/services'
 import CustomerCarePage from '../../features/customer-care'
@@ -48,8 +59,9 @@ export const router = createBrowserRouter([
          Se elimina junto con src/features/dev al final del proyecto. */
       { path: 'dev/components', element: <ComponentsPreviewPage /> },
 
-      { path: ':state',        element: <LocationPage /> },
-      { path: ':state/:area',  element: <LocationPage /> },
+      { path: ':state',                            element: <LocationPage /> },
+      { path: ':state/:area',                      element: <LocationPage /> },
+      { path: ':state/:area/:city/:community',     element: <CommunityComingSoon /> },
 
       { path: '*', element: <NotFound /> },
     ],
