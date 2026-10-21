@@ -1,0 +1,72 @@
+.meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+  margin: var(--space-2) 0 var(--space-4);
+  flex-wrap: wrap;
+}
+
+.marketCount {
+  font-size: var(--font-size-base);
+  color: var(--color-text-muted);
+}
+
+.mapToggle {
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.mapToggle:hover,
+.mapToggle:focus-visible {
+  background: var(--color-hero-bg);
+}
+
+@media (min-width: 1281px) {
+  .mapToggle {
+    display: none;
+  }
+}
+
+.notice {
+  margin: 0 0 var(--space-6);
+  font-size: var(--font-size-base);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.areaGrid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--space-4);
+}
+
+.areaCard {
+  display: flex;
+  align-items: center;
+  padding: var(--space-4) var(--space-5);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-card);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  text-decoration: none;
+  transition: box-shadow var(--transition-fast), transform var(--transition-fast);
+}
+
+.areaCard:hover,
+.areaCard:focus-visible {
+  box-shadow: var(--shadow-card-hover);
+  transform: translateY(-1px);
+}

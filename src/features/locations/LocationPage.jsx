@@ -2,12 +2,13 @@ import { useParams } from 'react-router-dom'
 import { getState, getArea } from './data/locationLoader'
 import StatePage from './pages/StatePage'
 import AreaPage from './pages/AreaPage'
-import ComingSoon from '../common/ComingSoon'
+import StatePageEmpty from './pages/StatePageEmpty'
+import AreaPageEmpty from './pages/AreaPageEmpty'
 import NotFound from '../common/NotFound'
 
 /* Resuelve /:state y /:state/:area.
    - JSON enriquecido → StatePage / AreaPage con datos reales.
-   - Slug válido en statesIndex sin JSON → ComingSoon.
+   - Slug válido sin JSON → StatePageEmpty / AreaPageEmpty con plantilla completa.
    - Slug inexistente → NotFound. */
 function LocationPage() {
   const { state: stateSlug, area: areaSlug } = useParams()
@@ -16,22 +17,20 @@ function LocationPage() {
   if (!stateData) return <NotFound />
 
   if (!areaSlug) {
-    /* Estado con datos JSON → página real */
     if (stateData.markets?.some(m => m.communities?.length > 0)) {
       return <StatePage stateData={stateData} />
     }
-    return <ComingSoon title={stateData.name} subtitle={`${stateData.markets?.length ?? 0} markets available`} />
+    return <StatePageEmpty stateData={stateData} />
   }
 
   const areaData = getArea(stateSlug, areaSlug)
   if (!areaData) return <NotFound />
 
-  /* Área con datos JSON → página real */
   if (areaData.communities?.length > 0) {
     return <AreaPage stateData={stateData} areaData={areaData} />
   }
 
-  return <ComingSoon title={areaData.name} subtitle={`In ${stateData.name}`} />
+  return <AreaPageEmpty stateData={stateData} areaData={areaData} />
 }
 
 export default LocationPage

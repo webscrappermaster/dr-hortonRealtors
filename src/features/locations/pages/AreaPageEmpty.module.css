@@ -1,0 +1,47 @@
+.mapToggle {
+  display: inline-block;
+  margin: var(--space-3) 0 var(--space-5);
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.mapToggle:hover,
+.mapToggle:focus-visible {
+  background: var(--color-hero-bg);
+}
+
+@media (min-width: 1281px) {
+  .mapToggle {
+    display: none;
+  }
+}
+
+.notice {
+  margin: var(--space-4) 0 var(--space-6);
+  font-size: var(--font-size-base);
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.backLink {
+  display: inline-flex;
+  align-items: center;
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.backLink:hover,
+.backLink:focus-visible {
+  color: var(--color-navy-dark);
+  text-decoration: underline;
+}
