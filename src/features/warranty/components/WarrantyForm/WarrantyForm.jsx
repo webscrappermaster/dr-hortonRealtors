@@ -402,30 +402,27 @@ function WarrantyForm() {
   const [values, setValues] = useState(INITIAL)
   const [errors, setErrors] = useState({})
   const [submitted, setSubmitted] = useState(false)
-  const [suggestions, setSuggestions] = useState([])
   const stepTitleRef = useRef(null)
+
+  /* estado derivado: sugerencias mock cuando ZIP tiene 5 dígitos válidos */
+  const suggestions = !values.notListed && /^\d{5}$/.test(values.zip)
+    ? MOCK_ADDRESSES.map(a => `${a} ${values.zip}`)
+    : []
 
   /* desplazar foco al título al cambiar de paso */
   useEffect(() => {
     stepTitleRef.current?.focus()
   }, [step])
 
-  /* activar sugerencias mock cuando ZIP tiene 5 dígitos */
-  useEffect(() => {
-    if (!values.notListed && /^\d{5}$/.test(values.zip)) {
-      setSuggestions(MOCK_ADDRESSES.map(a => `${a} ${values.zip}`))
-    } else {
-      setSuggestions([])
-      setValues(prev => ({ ...prev, address: '' }))
-    }
-  }, [values.zip, values.notListed])
-
   function handleChange(e) {
     const { name, value, type, checked } = e.target
-    setValues(prev => ({
-      ...prev,
-      [name]: type === 'checkbox' ? checked : value,
-    }))
+    const newVal = type === 'checkbox' ? checked : value
+    setValues(prev => {
+      const next = { ...prev, [name]: newVal }
+      /* limpiar address cuando cambia zip o notListed para evitar desincronía */
+      if (name === 'zip' || name === 'notListed') next.address = ''
+      return next
+    })
     setErrors(prev => {
       const next = { ...prev }
       delete next[name]
@@ -435,7 +432,6 @@ function WarrantyForm() {
 
   function handleAddressSelect(addr) {
     setValues(prev => ({ ...prev, address: addr }))
-    setSuggestions([])
   }
 
   function setFiles(updater) {

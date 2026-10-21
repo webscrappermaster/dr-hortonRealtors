@@ -17,8 +17,6 @@ function PropertyGallery({ items = [], communityName = '' }) {
   const containerRef = useRef(null)
 
   const total = items.length
-  if (!total) return null
-
   const prev = () => setIndex(i => (i - 1 + total) % total)
   const next = () => setIndex(i => (i + 1) % total)
 
@@ -32,6 +30,8 @@ function PropertyGallery({ items = [], communityName = '' }) {
     el.addEventListener('keydown', onKey)
     return () => el.removeEventListener('keydown', onKey)
   })
+
+  if (!total) return null
 
   const current = items[index]
   const isVideo = current?.type === 'video'
