@@ -160,9 +160,6 @@ en React con hooks propios. El sitio no se sirve: Vite bloquea `/docs` vía
 - **`site-alert` → PromoBar:** el original lo renderiza como `<button>` con
   `data-link`; nosotros usamos `<Link>` dentro de un `<div role="complementary">`.
   Semánticamente correcto y accesible (los lectores reconocen el enlace).
-- **Modal legal:** el original tiene un lightbox + iframe para notices legales
-  (`#legal-modal`); todavía no está portado — los legal links abren en nueva pestaña
-  directamente al mismo URL de securiti.ai que usaría el iframe.
 
 ---
 
@@ -332,10 +329,34 @@ Uso: `npm run dev` en una terminal + `npm run screenshots` en otra. Opciones:
 
 ---
 
+## Páginas internas implementadas (Etapas 2–4)
+
+Cada ruta dejó de servir `ComingSoon` y tiene su propio módulo en `src/features/`.
+
+| Ruta | Módulo | Componentes clave |
+|---|---|---|
+| `/who-we-are` | `who-we-are` | `InternalPageHero` (sm), `ImageTextBlock`, `SliderCards` |
+| `/customer-care` | `customer-care` | `InternalPageHero` (md), `CardGrid + TileCard`, `FormField / FormSelect` |
+| `/smart-home` | `smart-home` | `InternalPageHero` (md, left), slider de dispositivos, grid de features |
+| `/real-estate-agents` | `real-estate-agents` | hero con título grande en 2 líneas, collage, 3 tarjetas |
+| `/military-benefits` | `military-benefits` | lead `ImageTextBlock`, 3 TileCards, testimonial, VA Loans, `MilitaryBenefitsForm` |
+| `/red-tag-event` | `red-tag-event` | `InternalPageHero`, `RedTagForm` (simulado, validación accesible) |
+
+Formularios simulados: validación en cliente (requeridos, email, teléfono con máscara),
+mensajes de error accesibles (`aria-invalid`, `aria-describedby`), mensaje de agradecimiento
+al enviar. Sin envío ni persistencia de datos.
+
+### Decisiones compartidas
+
+- `InternalPageHero`: 3 variantes de tamaño (`sm` / `md` / `lg`) y alineación (`left` / `center`).
+- `ImageTextBlock`: prop `ctaVariant="plain"` para botones sin uppercase ni letter-spacing; `iconVariant="logo"` para logos anchos (DHI Mortgage, ≤200px).
+- `useForm(INITIAL, RULES)`: hook genérico de formulario. Para campos condicionales (instalaciones militares) se usa estado local extra.
+- `scripts/screenshot.js` acepta `--pages=slug:path` (slug es el nombre del directorio de referencia, path es la ruta en el dev server; ej: `home:/`).
+
+---
+
 ## Pendientes documentados (B5) — no se hacen ahora
 
-- **Páginas internas** (hoy sirven `ComingSoon`): se construirán como módulos propios
-  cuando se definan las vistas de cada ruta.
 - **SearchBar contra API real**: cuando exista backend; hoy busca contra
   `statesIndex.js` local.
 - **Fuente Figtree servida localmente** (hoy desde Google Fonts) — para evitar la
