@@ -51,11 +51,12 @@ const communityPins = georgiaData.markets.flatMap(market =>
   (market.communities || [])
     .filter(c => c.location)
     .map(c => ({
-      key:  c.slug,
-      lat:  c.location.lat,
-      lng:  c.location.lng,
-      name: c.name,
-      href: `/georgia/${market.slug}/${c.citySlug}/${c.slug}`,
+      key:       c.slug,
+      lat:       c.location.lat,
+      lng:       c.location.lng,
+      name:      c.name,
+      href:      `/georgia/${market.slug}/${c.citySlug}/${c.slug}`,
+      isExact:   c.location.locationPrecision === 'exact',
     }))
 )
 
@@ -107,7 +108,7 @@ function GlobalMapInner() {
             <Popup>
               <div className={styles.popup}>
                 <strong className={styles.popupName}>{pin.name}</strong>
-                <span className={styles.popupApprox}>Approximate location</span>
+                {!pin.isExact && <span className={styles.popupApprox}>Approximate location</span>}
                 <Link to={pin.href} className={styles.popupLink}>
                   View community
                 </Link>
