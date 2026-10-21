@@ -245,11 +245,11 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
   _Scripts_: `extract-location.js` para regenerar JSONs desde HTML de referencia.
 - 5b: **COMPLETADA** ✓ Leaflet + OpenStreetMap (sin API key). `LocationMap` (lazy, Suspense) con `LocationMapInner` — pins `DivIcon`, popup nombre/precio/link, `fitBounds` automático. `MapPlaceholder` cuando no hay coordenadas. Vista dividida en desktop ≥1281px: mapa sticky izquierda (`calc(100% - 920px)`), lista derecha (max 920px). Móvil/tablet: lista sola con botón "Map view" (toggle, `aria-pressed`). Sincronización hover tarjeta ↔ pin (resaltado navy ring + pin rojo escalado). `extract-location.js` actualizado con `extractCenter` (JSON-LD).
 
-### Etapa 6 · Community page — **grande**
-- Agregar ruta `/:state/:area/:city/:community` en el router.
-- Datos reales de `jackson-landing`.
-- Componentes: `PropertyGallery`, `CommunityHero`, `CommunityAside`, `AmenitiesList`, `SchoolsList`, `LotMapBanner`, `FloorPlanCard`, `AvailableHomeCard`, `PromoCard`.
-- Enganchar el `RFIForm` del paso 5a y el botón "Request a tour" (abre el mismo modal con contexto de comunidad).
+### Etapa 6 · Community page — **COMPLETADA** ✓
+- Ruta `/:state/:area/:city/:community` → `CommunityPage` (reemplaza `CommunityComingSoon`).
+- Datos reales de `jackson-landing` en `communities/georgia/jackson-landing.json`.
+- Componentes completos: `PropertyGallery` (thumbnail strip 7 fotos), `CommunityHero`, `CommunityAside` (RFIModal + aviso Text-With-Us), `PromoCard`, `AmenitiesList` (expand/collapse), `SchoolsList`, `LotMapBanner`, `FloorPlanCard`, `AvailableHomeCard`.
+- `CommunityPage`: breadcrumbs → galería → hero+aside (sticky desktop) → promo → about → amenities → schools → lot map → floor plans → available homes. Mapa pequeño con `LocationMap` en el aside. Comunidades sin detalle muestran plantilla + "More details coming soon". Comunidad inexistente → `NotFound`.
 
 ### Etapa 7 · Customer care family — **mediana**
 - `CareTabs` compartido.

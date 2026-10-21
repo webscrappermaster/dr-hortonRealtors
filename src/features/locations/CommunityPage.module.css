@@ -1,0 +1,145 @@
+.page {
+  padding-top: var(--space-6);
+  padding-bottom: var(--space-20);
+}
+
+.container {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-page-x);
+}
+
+/* ── Galería ──────────────────────────────────────────── */
+
+.galleryWrap {
+  margin-bottom: var(--space-6);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+/* ── Hero + Aside ─────────────────────────────────────── */
+
+.heroAside {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  margin-bottom: var(--space-8);
+}
+
+.heroCol {
+  min-width: 0;
+}
+
+.asideCol {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+/* Mapa pequeño dentro del aside */
+.miniMap {
+  height: 240px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+}
+
+/* ── Secciones genéricas ──────────────────────────────── */
+
+.section {
+  padding: var(--space-8) 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.sectionTitle {
+  font-size: var(--font-size-h3-internal);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  margin: 0 0 var(--space-6);
+}
+
+/* ── About ────────────────────────────────────────────── */
+
+.about {
+  padding: var(--space-8) 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.aboutPara {
+  font-size: var(--font-size-base);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4);
+  max-width: 72ch;
+}
+
+.aboutPara:last-child {
+  margin-bottom: 0;
+}
+
+/* ── Grilla de planos ─────────────────────────────────── */
+
+.plansGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+}
+
+/* ── Grilla de casas disponibles ──────────────────────── */
+
+.homesGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+}
+
+/* ── Coming soon ──────────────────────────────────────── */
+
+.comingSoon {
+  padding: var(--space-12) var(--space-6);
+  text-align: center;
+}
+
+.comingSoonText {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+/* ── Responsive ───────────────────────────────────────── */
+
+@media (min-width: 640px) {
+  .plansGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .homesGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .heroAside {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .heroCol {
+    flex: 1;
+  }
+
+  .asideCol {
+    flex: 0 0 320px;
+    position: sticky;
+    top: calc(var(--header-height) + var(--space-6));
+  }
+
+  .plansGrid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .homesGrid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
