@@ -234,10 +234,11 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
 - `who-we-are` → slider My Story convertido de grid estático a `SliderCards`. Commit `etapa 3: who-we-are slider`.
 - **Adelanto de Etapa 4**: `FormField`, `FormSelect`, `FormCheckboxGroup`, `FormLayout` (src/components/ui/Form/) y `useForm` hook (src/hooks/) creados e incluidos en el commit `etapa 3: red-tag-event`. La Etapa 4 los reutiliza directamente.
 
-### Etapa 4 · Forms base + Military benefits — **mediana**
+### Etapa 4 · Military benefits — **COMPLETADA** ✓
 - ~~`FormField`, `FormSelect`, `FormCheckboxGroup`, `FormLayout` en `src/components/ui/Form/`.~~ *(ya creados en Etapa 3)*
 - ~~Hook `useForm` o similar en `src/hooks/`.~~ *(ya creado en Etapa 3)*
-- `military-benefits` como primera página con form (lead `ImageTextBlock` + 3 `TileCard` + form de contacto específico).
+- `military-benefits`: lead `ImageTextBlock` (imagen derecha, flag icon, h1, CTA → #contact-form) + 3 `TileCard` de beneficios + testimonial `ImageTextBlock` (Ocampo Family) + VA loans `ImageTextBlock` (logo DHI Mortgage, CTA externo) + `MilitaryBenefitsForm` (First/Last/Email/Phone + Military branch + Current status + Installation condicional por rama). Commit `etapa 4: military-benefits`.
+- **Nota City field**: el select "City" en `RedTagForm` queda deshabilitado con placeholder "Available in a future update"; se completará en Etapa 5 junto con los datos de ubicaciones.
 
 ### Etapa 5 · Esquema de ubicaciones + State/Area — **grande** (dividible en 5a y 5b)
 - 5a: Preparar árbol de datos para Georgia (`georgia.json` + ≥1 área: `atlanta`). Loader en `src/features/locations/data/`. Templates nuevos `StatePage` y `AreaPage` con breadcrumbs + results header + grid de `CommunityCard` + blurb + `Pagination` (client-side). RFI modal reutilizando los componentes de Etapa 4.
