@@ -2,6 +2,7 @@ import { useNavigate } from 'react-router-dom'
 import SearchBar from '../../components/ui/SearchBar'
 import { useLocationSearch } from '../locations/hooks/useLocationSearch'
 import GlobalMap from './components/GlobalMap'
+import HomeTilesGrid from './components/HomeTilesGrid'
 import styles from './GlobalMapPage.module.css'
 
 function GlobalMapPage() {
@@ -28,6 +29,8 @@ function GlobalMapPage() {
       </div>
 
       <GlobalMap />
+
+      <HomeTilesGrid />
     </main>
   )
 }
