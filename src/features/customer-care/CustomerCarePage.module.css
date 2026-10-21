@@ -14,8 +14,16 @@
   margin: 0;
   color: var(--color-text-primary);
   font-size: var(--font-size-page-title-md);
-  line-height: var(--line-height-tight);
-  font-weight: var(--font-weight-bold);
+  line-height: 1;
+  font-weight: var(--font-weight-extrabold);
+}
+
+/* Wrapper que inyecta custom properties para los TileCard internos:
+   80px de padding top (equivale a .internal-tile-content del original)
+   y título a 20px (tamaño por defecto de .internal-tile-content h2). */
+.careGrid {
+  --tile-pad-top: 5rem;
+  --tile-title-size: var(--font-size-lg);
 }
 
 @media (min-width: 640px) {
@@ -28,8 +36,10 @@
   }
 
   .title h1 {
+    /* max-width: 500px fuerza el salto de línea igual que el original */
+    max-width: 500px;
     font-size: var(--font-size-page-title-lg);
-    line-height: 0.95;
+    line-height: 1;
   }
 }
 

@@ -10,11 +10,13 @@ function CustomerCarePage() {
         <h1>{hero.title}</h1>
       </header>
 
-      <CardGrid columns={4} align="stretch">
-        {tiles.map(tile => (
-          <TileCard key={tile.title} {...tile} ctaStyle="link" />
-        ))}
-      </CardGrid>
+      <div className={styles.careGrid}>
+        <CardGrid columns={4} align="stretch">
+          {tiles.map(tile => (
+            <TileCard key={tile.title} {...tile} ctaStyle="link" />
+          ))}
+        </CardGrid>
+      </div>
     </div>
   )
 }

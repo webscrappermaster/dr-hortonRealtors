@@ -40,7 +40,7 @@
 }
 
 .content {
-  padding: var(--space-6) var(--space-6) var(--space-8);
+  padding: var(--tile-pad-top, var(--space-6)) var(--space-6) var(--space-8);
   display: flex;
   flex-direction: column;
   gap: var(--space-3);
@@ -58,7 +58,7 @@
 
 .title {
   margin: 0;
-  font-size: var(--font-size-2xl);
+  font-size: var(--tile-title-size, var(--font-size-2xl));
   line-height: var(--line-height-snug);
   color: var(--color-text-primary);
   font-weight: var(--font-weight-bold);
@@ -128,11 +128,11 @@
 
 @media (min-width: 960px) {
   .content {
-    padding: var(--space-8) var(--space-10) var(--space-10) var(--space-8);
+    padding: var(--tile-pad-top, var(--space-8)) var(--space-10) var(--space-10) var(--space-8);
   }
 
   .title {
-    font-size: var(--font-size-2xl);
+    font-size: var(--tile-title-size, var(--font-size-2xl));
   }
 
   .description {
