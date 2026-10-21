@@ -1,0 +1,70 @@
+.wrapper {
+  padding: 2.5rem var(--space-page-x);
+  background: var(--color-hero-bg);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.formTitle {
+  font-size: var(--font-size-h2-internal);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+  margin: 0 0 1.5rem;
+  line-height: 1.2;
+  max-width: var(--content-max-width);
+  margin-inline: auto;
+  margin-bottom: 1.5rem;
+}
+
+.submitBtn {
+  display: inline-block;
+  padding: 0.75rem 2.5rem;
+  background: var(--color-navy);
+  color: var(--color-text-inverse);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-bold);
+  font-family: var(--font-sans);
+  border: none;
+  border-radius: var(--radius-pill);
+  cursor: pointer;
+  transition: background 0.15s;
+  flex-shrink: 0;
+}
+
+.submitBtn:hover,
+.submitBtn:focus-visible {
+  background: var(--color-navy-dark);
+  outline: none;
+}
+
+.disclaimer {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-muted);
+  margin: 0;
+  line-height: 1.5;
+  max-width: 50rem;
+}
+
+/* ── Thank you ──────────────────────────────────────────── */
+.thankYou {
+  padding: 3rem var(--space-page-x);
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.thankYou h2 {
+  font-size: var(--font-size-h2-internal);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+  margin: 0;
+}
+
+.thankYou p {
+  font-size: var(--font-size-md);
+  color: var(--color-text-primary);
+  margin: 0;
+}

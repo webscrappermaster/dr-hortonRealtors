@@ -12,11 +12,11 @@ import WhoWeArePage from '../../features/who-we-are'
 import SmartHomePage from '../../features/smart-home'
 import RealEstateAgentsPage from '../../features/real-estate-agents'
 import RedTagEventPage from '../../features/red-tag-event'
+import MilitaryBenefitsPage from '../../features/military-benefits'
 
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
-  { path: 'military-benefits',   title: 'Military benefits' },
   { path: 'globalmap',           title: 'Map view' },
   { path: 'contact-us-page',     title: 'Contact' },
   { path: 'warranty',            title: 'Warranty' },
@@ -39,6 +39,7 @@ export const router = createBrowserRouter([
       { path: 'smart-home',           element: <SmartHomePage /> },
       { path: 'real-estate-agents',   element: <RealEstateAgentsPage /> },
       { path: 'red-tag-event',        element: <RedTagEventPage /> },
+      { path: 'military-benefits',   element: <MilitaryBenefitsPage /> },
       { path: 'services',      element: <ServicesPage /> },
       { path: 'customer-care', element: <CustomerCarePage /> },
       { path: 'careers',       element: <CareersPage /> },
