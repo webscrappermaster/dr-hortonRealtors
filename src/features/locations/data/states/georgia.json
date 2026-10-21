@@ -27,7 +27,8 @@
         "macon",
         "griffin",
         "locust-grove",
-        "buckhead"
+        "buckhead",
+        "jefferson"
       ],
       "communities": [
         {
@@ -837,6 +838,55 @@
             "lat": 33.520284,
             "lng": -83.33353,
             "locationPrecision": "city"
+          }
+        },
+        {
+          "slug": "jackson-landing",
+          "name": "Jackson Landing",
+          "stateSlug": "georgia",
+          "areaSlug": "atlanta",
+          "citySlug": "jefferson",
+          "cityName": "Jefferson",
+          "zip": "30549",
+          "address": "126 Bullock Pass, Jefferson, GA 30549",
+          "phone": "770-373-4505",
+          "hours": "Mon–Sat 10:00 AM–6:00 PM | Sun 12:00 PM–6:00 PM",
+          "series": "Express Series",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 392200,
+          "availableHomesCount": 7,
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1774,
+          "cardImage": "Kingston_Ranch_at_Lake_Oconee_lot_13_The_Hayden_exteriors_001.webp",
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "relatedMoveIns": null,
+          "location": {
+            "lat": 34.10082,
+            "lng": -83.62191,
+            "locationPrecision": "exact"
           }
         }
       ]

@@ -3,7 +3,7 @@
  * extract-location.js
  *
  * Extrae comunidades de los HTMLs de referencia de D.R. Horton y genera un
- * JSON parcial de StateEntry / AreaEntry listo para revisar y completar.
+ * JSON parcial de StateEntry / AreaEntry / CommunityDetail listo para revisar.
  *
  * Uso:
  *   node scripts/extract-location.js state <html> <stateSlug>
@@ -12,19 +12,25 @@
  *   node scripts/extract-location.js area <html> <stateSlug> <areaSlug>
  *     Ej: node scripts/extract-location.js area docs/reference/area-atlanta/area-atlanta.html georgia atlanta
  *
- * Salida: JSON impreso en stdout. Redirigir a src/features/locations/data/states/<state>.json
- * o revisar y fusionar manualmente.
+ *   node scripts/extract-location.js community <html>
+ *     Ej: node scripts/extract-location.js community docs/reference/community-jackson-landing/community-jackson-landing.html
  *
- * Nota: solo extrae lo que está en el HTML del listado (tarjetas). Los datos de la
- * página de comunidad (address, phone, hours, gallery, floorPlans, etc.) quedan en null.
+ * Salida: JSON impreso en stdout.
+ * Nota: solo extrae lo que está en el HTML guardado. El modo community extrae
+ * gallery, about, amenities, schools, promoSlot, floorPlans y availableHomes.
  */
 
 import { readFileSync } from 'node:fs'
 
 const [, , mode, htmlPath, stateSlug, areaSlug] = process.argv
 
-if (!mode || !htmlPath || !stateSlug) {
-  console.error('Uso: node scripts/extract-location.js <state|area> <html> <stateSlug> [areaSlug]')
+if (!mode || !htmlPath) {
+  console.error('Uso: node scripts/extract-location.js <state|area|community> <html> [stateSlug] [areaSlug]')
+  process.exit(1)
+}
+
+if ((mode === 'state' || mode === 'area') && !stateSlug) {
+  console.error('Se necesita stateSlug para modos state y area')
   process.exit(1)
 }
 
@@ -178,6 +184,154 @@ function extractTotal(html) {
   return m ? Number(m[1]) : null
 }
 
+/* ── Extracción de detalle de comunidad ─────────────────── */
+
+function extractGallery(html) {
+  const items = []
+  /* Imágenes del grid principal (desktop), excluye los (1) del carrusel móvil */
+  const PHOTO_RE = /class="property-gallery property-photo[^"]*"[^>]*>[\s\S]*?<img[^>]+alt="([^"]*)"[^>]+src="\.\/[^"]*-files\/([^"(]+\.jpg)"/g
+  let m
+  while ((m = PHOTO_RE.exec(html)) !== null) {
+    const [, alt, src] = m
+    if (src.includes('(')) continue
+    items.push({ type: 'photo', filename: src.replace(/\.(jpe?g|png)$/, '.webp'), alt: alt || '' })
+  }
+  /* Video */
+  const vidM = /property-gallery property-video[^"]*"[^>]*data-url="([^"]+)"[\s\S]*?<img[^>]+alt="([^"]*)"[^>]+src="\.\/[^"]*-files\/([^"(]+\.jpg)"/g.exec(html)
+  if (vidM) {
+    const [, videoUrl, alt, src] = vidM
+    items.push({ type: 'video', filename: src.replace(/\.(jpe?g|png)$/, '.webp'), alt: alt || 'Community video', videoUrl })
+  }
+  return items
+}
+
+function extractAbout(html) {
+  const m = /class="community-main-details_about"[\s\S]*?<p>([\s\S]*?)<\/p>[\s\S]*?<div class="slide-content[^"]*">([\s\S]*?)<\/div>/i.exec(html)
+  if (!m) return null
+  const clean = s => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim()
+  return `${clean(m[1])}\n\n${clean(m[2])}`
+}
+
+function extractAmenities(html) {
+  const block = /<ul class="amenities">([\s\S]*?)<\/ul>/i.exec(html)
+  if (!block) return []
+  const items = []
+  const LI_RE = /<li>([^<]+)<\/li>/g
+  let m
+  while ((m = LI_RE.exec(block[1])) !== null) items.push(m[1].trim())
+  return items
+}
+
+function extractSchools(html) {
+  const block = /<div class="schoolsDiv">([\s\S]*?)<\/div>/i.exec(html)
+  if (!block) return []
+  const schools = []
+  /* Cada escuela está en un <p>: nombre<br>tipo | grados <span class="distance">N mi.</span> */
+  const P_RE = /<p>([\s\S]*?)<\/p>/g
+  let m
+  while ((m = P_RE.exec(block[1])) !== null) {
+    const inner = m[1]
+    const name = extractText(inner, /^([^<\n]+)/)
+    const type = extractText(inner, /<br>\s*([^<|]+?)\s*<span class="vert-divider">/)
+    const grades = extractText(inner, /vert-divider">\|<\/span>\s*([^<]+?)\s*<span class="distance">/)
+    const distM = /distance">([\d.]+) mi/.exec(inner)
+    schools.push({
+      name: name ? name.trim() : null,
+      type: type ? type.trim() : null,
+      grades: grades ? grades.trim() : null,
+      distanceMi: distM ? Number(distM[1]) : null,
+    })
+  }
+  return schools
+}
+
+function extractPromo(html) {
+  const m = /<div class="promo[^"]*"[\s\S]*?<img src="\.\/[^"]*-files\/([^"(]+\.jpg)"[^>]*>[\s\S]*?<span class="promo-title">([^<]+)<\/span>[\s\S]*?<span class="promo-desc">([^<]+)<\/span>(?:[\s\S]*?<span class="promo-disclaimer">([^<]+)<\/span>)?/i.exec(html)
+  if (!m) return null
+  return {
+    image: m[1].replace(/\.(jpe?g|png)$/, '.webp'),
+    title: m[2].trim(),
+    description: m[3].trim(),
+    disclaimer: m[4] ? m[4].trim() : null,
+  }
+}
+
+function extractLotMap(html) {
+  /* El lot map está referenciado solo como botón; la imagen del site map está en la galería
+     como Jackson-Landing-PH1-DR-Site-Map-WEB-061325.jpg */
+  const m = /community-jackson-landing-files\/(Jackson-Landing[^"]+\.jpg)/.exec(html)
+  return m ? m[1].replace(/\.(jpe?g|png)$/, '.webp') : null
+}
+
+function extractFloorPlans(html) {
+  const block = /<div[^>]*id="floorplans"[^>]*>([\s\S]*?)<\/section>/i.exec(html)
+  if (!block) return []
+  const plans = []
+  const CARD_RE = /<div class="card-content">([\s\S]*?)<\/div>\s*<\/div>\s*<\/a>/g
+  let m
+  while ((m = CARD_RE.exec(block[1])) !== null) {
+    const inner = m[1]
+    const name = extractText(inner, /<h2>([^<]+)<\/h2>/)
+    const priceRaw = extractText(inner, /<h3>Starting in the\s+\$([\d]+)s<\/h3>/)
+    const statsM = /<p class="stats">([\s\S]*?)<\/p>\s*<p class="stats">([\s\S]*?)<\/p>/g.exec(inner)
+    const clean = s => s ? s.replace(/<[^>]+>/g, '|').replace(/\|+/g, ' ').trim() : ''
+    const line1 = statsM ? clean(statsM[1]) : ''
+    const line2 = statsM ? clean(statsM[2]) : ''
+    const numM = (str, kw) => { const r = new RegExp(`(\\d+(?:\\.\\d+)?)\\s*${kw}`); const x = r.exec(str); return x ? Number(x[1]) : null }
+    plans.push({
+      name: name || null,
+      priceFrom: priceRaw ? Number(priceRaw) * 1000 : null,
+      beds: numM(line1, 'Bed'),
+      baths: numM(line1, 'Bath'),
+      garages: numM(line1, 'Garage'),
+      stories: numM(line2, 'Story'),
+      sqft: numM(line2, 'Sq'),
+      image: null,
+    })
+  }
+  return plans
+}
+
+function extractAvailableHomes(html) {
+  /* Usa el JSON embebido en el script de SortQmis, que tiene todos los QMIs */
+  const m = /var model = (\{[\s\S]*?\});\s*var apiUrl/.exec(html)
+  if (!m) return []
+  try {
+    const model = JSON.parse(m[1])
+    return (model.Items || []).map(item => ({
+      address: item.Address || null,
+      cityStateZip: item.CityStateZip || null,
+      planName: item.PlanName ? item.PlanName.replace(/Express$/i, '').trim() : null,
+      price: item.Status === 'Under Contract' ? null : item.Price || null,
+      wasPrice: item.OriginalPrice || null,
+      beds: item.NumberOfBedrooms || null,
+      baths: item.NumberOfBathrooms || null,
+      garages: item.NumberOfGarages || null,
+      stories: item.NumberOfStories || null,
+      sqft: item.SquareFootage || null,
+      lot: item.LotNumber || null,
+      status: item.Status === 'Under Contract' ? 'under-contract' : 'available',
+      isRte: !!(item.QmiBadge && item.QmiBadge.Text),
+      image: null,
+    }))
+  } catch {
+    return []
+  }
+}
+
+function extractCommunityDetail(html) {
+  return {
+    gallery: extractGallery(html),
+    about: extractAbout(html),
+    amenities: extractAmenities(html),
+    schools: extractSchools(html),
+    lotMapFilename: extractLotMap(html),
+    promoSlot: extractPromo(html),
+    floorPlans: extractFloorPlans(html),
+    availableHomes: extractAvailableHomes(html),
+  }
+}
+
 /* ── Main ────────────────────────────────────────────────── */
 
 if (mode === 'state') {
@@ -230,7 +384,10 @@ if (mode === 'state') {
     communities,
   }
   console.log(JSON.stringify(result, null, 2))
+} else if (mode === 'community') {
+  const result = extractCommunityDetail(html)
+  console.log(JSON.stringify(result, null, 2))
 } else {
-  console.error('Modo desconocido. Usa: state | area')
+  console.error('Modo desconocido. Usa: state | area | community')
   process.exit(1)
 }
