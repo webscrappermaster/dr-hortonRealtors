@@ -241,7 +241,8 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
 - **Nota City field**: el select "City" en `RedTagForm` queda deshabilitado con placeholder "Available in a future update"; se completará en Etapa 5 junto con los datos de ubicaciones.
 
 ### Etapa 5 · Esquema de ubicaciones + State/Area — **grande** (dividible en 5a y 5b)
-- 5a: Preparar árbol de datos para Georgia (`georgia.json` + ≥1 área: `atlanta`). Loader en `src/features/locations/data/`. Templates nuevos `StatePage` y `AreaPage` con breadcrumbs + results header + grid de `CommunityCard` + blurb + `Pagination` (client-side). RFI modal reutilizando los componentes de Etapa 4.
+- 5a: **COMPLETADA** ✓ `georgia.json` (20 comunidades: 17 en atlanta, 3 en macon-area) + loader con fallback a statesIndex + `StatePage`/`AreaPage` con breadcrumbs, filtros, paginación client-side, RFI modal y blurb. Ruta `/:state/:area/:city/:community` → CommunityComingSoon. City select del RedTagForm rellenado desde JSON.  
+  _Scripts_: `extract-location.js` para regenerar JSONs desde HTML de referencia.
 - 5b: `MapPlaceholder` (SVG o imagen estática por área) con marker list simple. Dejar enganche para una futura integración de Google Maps.
 
 ### Etapa 6 · Community page — **grande**
