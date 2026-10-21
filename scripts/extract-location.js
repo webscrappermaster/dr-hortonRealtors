@@ -81,6 +81,16 @@ function mapStatus(raw) {
   return 'now-selling'
 }
 
+/* Extrae coordenadas del JSON-LD de la página (lat/lng del área o estado).
+   Las coordenadas individuales de comunidad no están en el HTML guardado
+   (las carga Coveo dinámicamente); solo se extrae el centro del área. */
+function extractCenter(html) {
+  const latM = /"latitude"\s*:\s*([-\d.]+)/i.exec(html)
+  const lngM = /"longitude"\s*:\s*([-\d.]+)/i.exec(html)
+  if (latM && lngM) return { lat: Number(latM[1]), lng: Number(lngM[1]) }
+  return null
+}
+
 /* ── Extracción de comunidades ───────────────────────────── */
 
 function extractCommunities(html, filterAreaSlug) {
@@ -138,6 +148,7 @@ function extractCommunities(html, filterAreaSlug) {
       floorPlans:        null,
       availableHomes:    null,
       relatedMoveIns:    null,
+      location:          null,
     })
   }
 
@@ -193,6 +204,7 @@ if (mode === 'state') {
       blurb: null,
       totalResults: null,
       resultsRadiusMiles: null,
+      center: null,
       cities: [...new Set(comms.map(c => c.citySlug))],
       communities: comms,
     })),
@@ -213,6 +225,7 @@ if (mode === 'state') {
     blurb: extractBlurb(html),
     totalResults: extractTotal(html),
     resultsRadiusMiles: extractRadius(html),
+    center: extractCenter(html),
     cities: [...new Set(communities.map(c => c.citySlug))],
     communities,
   }

@@ -2,7 +2,7 @@
   "slug": "georgia",
   "name": "Georgia",
   "aria": "Georgia",
-  "blurb": "<p>From the majestic mountain peaks of the Chattahoochee National Forest to the 700 square miles encompassing the world’s largest swamp, there’s a lot more to Georgia than peaches, pecans, and peanuts.</p><p>Georgia is known as the Peach State, but it’s also the country’s top producer of Vidalia onions. The state’s onions are considered some of the sweetest in the world. In addition to Coca-Cola, Georgia is also home to the headquarters of Chick-fil-A, CNN, Delta Airlines, the Centers for Disease Control, and Home Depot.</p><p>Georgia is also a state of “firsts”, including the first state to lower the voting age from 21 to 18. Atlanta, Georgia’s capital, is also home to well-known civil rights activist Martin Luther King, Jr.</p>",
+  "blurb": "<p>From the majestic mountain peaks of the Chattahoochee National Forest to the 700 square miles encompassing the worldâ€™s largest swamp, thereâ€™s a lot more to Georgia than peaches, pecans, and peanuts.</p><p>Georgia is known as the Peach State, but itâ€™s also the countryâ€™s top producer of Vidalia onions. The stateâ€™s onions are considered some of the sweetest in the world. In addition to Coca-Cola, Georgia is also home to the headquarters of Chick-fil-A, CNN, Delta Airlines, the Centers for Disease Control, and Home Depot.</p><p>Georgia is also a state of â€œfirstsâ€, including the first state to lower the voting age from 21 to 18. Atlanta, Georgiaâ€™s capital, is also home to well-known civil rights activist Martin Luther King, Jr.</p>",
   "resultsRadiusMiles": 275,
   "totalResults": 1778,
   "markets": [
@@ -12,9 +12,10 @@
       "aria": "Atlanta",
       "stateSlug": "georgia",
       "heroTitle": "Find Your New Home in Atlanta, GA",
-      "blurb": "<p>Atlanta is an alluring destination for those seeking a balanced lifestyle filled with opportunity, culture, and connectivity. With affordable housing options and a reputation as a tech industry hotspot, Atlanta offers dynamic career prospects while maintaining a focus on community and family. For those considering a move, D.R. Horton’s new construction homes provide thoughtfully designed living spaces that cater to professionals, families, and retirees alike, promising comfort and modern convenience. From its beautifully diverse neighborhoods to its flourishing cultural scene, Atlanta delivers the best Southern charms with urban sophistication. Hartsfield-Jackson Atlanta International Airport, one of the busiest airports in the world, provides unparalleled domestic and international travel access.</p>",
+      "blurb": "<p>Atlanta is an alluring destination for those seeking a balanced lifestyle filled with opportunity, culture, and connectivity. With affordable housing options and a reputation as a tech industry hotspot, Atlanta offers dynamic career prospects while maintaining a focus on community and family. For those considering a move, D.R. Hortonâ€™s new construction homes provide thoughtfully designed living spaces that cater to professionals, families, and retirees alike, promising comfort and modern convenience. From its beautifully diverse neighborhoods to its flourishing cultural scene, Atlanta delivers the best Southern charms with urban sophistication. Hartsfield-Jackson Atlanta International Airport, one of the busiest airports in the world, provides unparalleled domestic and international travel access.</p>",
       "totalResults": 482,
       "resultsRadiusMiles": 68,
+      "center": { "lat": 33.7711945, "lng": -84.39054 },
       "cities": ["atlanta", "hapeville", "mableton", "decatur", "macon", "griffin", "locust-grove", "buckhead"],
       "communities": [
         {
@@ -47,7 +48,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "towns-at-monroe",
@@ -79,7 +81,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "ashwood-springs",
@@ -111,7 +114,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "townes-at-asbury",
@@ -143,7 +147,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "villages-at-oakshire",
@@ -175,7 +180,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "forest-valley",
@@ -207,7 +213,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "mableton-station",
@@ -239,7 +246,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "harvest-park",
@@ -271,7 +279,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "creekview",
@@ -303,7 +312,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "woodbury-park",
@@ -335,7 +345,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "walden-ridge",
@@ -367,7 +378,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "fox-crossing",
@@ -399,7 +411,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "bridle-creek",
@@ -431,7 +444,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "evergreen-crossing",
@@ -463,7 +477,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "locust-grove-station---cedar-ridge",
@@ -495,7 +510,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "oak-ridge-meadows",
@@ -527,7 +543,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "kingston-ranch",
@@ -559,7 +576,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         }
       ]
     },
@@ -604,7 +622,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "cottages-at-blue-ridge",
@@ -636,7 +655,8 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         },
         {
           "slug": "remington-chase",
@@ -668,9 +688,11 @@
           "promoSlot": null,
           "floorPlans": null,
           "availableHomes": null,
-          "relatedMoveIns": null
+          "relatedMoveIns": null,
+          "location": null
         }
       ]
     }
   ]
 }
+
