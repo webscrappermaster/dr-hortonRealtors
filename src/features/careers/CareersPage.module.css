@@ -1,0 +1,147 @@
+/* Layout de /careers — recrea `.internal-page.careers-page` del original:
+   hero flex (texto + collage), Join the team flex (lista + tiles), programas ImageText. */
+
+.page {
+  width: 100%;
+}
+
+.lead {
+  width: 100%;
+  padding: var(--space-10) var(--space-6) var(--space-6);
+}
+
+.leadInner {
+  max-width: var(--content-max-width-collage);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding: 0 var(--space-2);
+}
+
+.title h1 {
+  margin: 0;
+  color: var(--color-text-primary);
+  font-size: var(--font-size-3xl);
+  line-height: var(--line-height-tight);
+  font-weight: var(--font-weight-bold);
+}
+
+.title p {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-normal);
+}
+
+.collageWrap {
+  width: 100%;
+}
+
+/* Sección "Join the team" — dos columnas: izquierda texto+lista, derecha 2 tiles apilados. */
+.join {
+  padding: var(--space-10) var(--space-6);
+}
+
+.joinInner {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.joinText h3 {
+  margin: 0 0 var(--space-4);
+  color: var(--color-text-primary);
+  font-size: var(--font-size-h2-internal);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+}
+
+.joinText p {
+  margin: 0 0 var(--space-5);
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-normal);
+}
+
+.benefits {
+  list-style: disc;
+  padding-left: var(--space-5);
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-2) var(--space-6);
+  color: var(--color-text-primary);
+  font-size: var(--font-size-base);
+}
+
+.joinTiles {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+/* Programas (ImageText) */
+.programs {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-10);
+  padding: var(--space-6) 0 var(--space-16);
+}
+
+@media (min-width: 640px) {
+  .benefits {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 960px) {
+  .lead {
+    padding: var(--space-16) var(--space-10) var(--space-10);
+  }
+
+  .leadInner {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-10);
+  }
+
+  .title {
+    flex: 1 1 45%;
+    padding: 0;
+  }
+
+  .title h1 {
+    font-size: var(--font-size-h1-internal);
+  }
+
+  .collageWrap {
+    flex: 1 1 55%;
+  }
+
+  .join {
+    padding: var(--space-16) var(--space-10);
+  }
+
+  .joinInner {
+    flex-direction: row;
+    gap: var(--space-16);
+    align-items: flex-start;
+  }
+
+  .joinText {
+    flex: 1 1 55%;
+  }
+
+  .joinTiles {
+    flex: 1 1 45%;
+  }
+}

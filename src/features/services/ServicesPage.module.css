@@ -1,0 +1,70 @@
+/* Layout de /services — recrea `.internal-page.services-page .flex` del HTML original:
+   título en una columna + collage en la otra (apilado en mobile, lado a lado en desktop). */
+
+.page {
+  width: 100%;
+}
+
+.lead {
+  width: 100%;
+  padding: var(--space-10) var(--space-6) var(--space-6);
+}
+
+.leadInner {
+  max-width: var(--content-max-width-collage);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-8);
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding: 0 var(--space-2);
+}
+
+.title h1 {
+  margin: 0;
+  color: var(--color-text-primary);
+  font-size: var(--font-size-3xl);
+  line-height: var(--line-height-tight);
+  font-weight: var(--font-weight-bold);
+}
+
+.title p {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-normal);
+}
+
+.collageWrap {
+  width: 100%;
+}
+
+@media (min-width: 960px) {
+  .lead {
+    padding: var(--space-16) var(--space-10) var(--space-10);
+  }
+
+  .leadInner {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-10);
+  }
+
+  .title {
+    flex: 1 1 40%;
+    padding: 0;
+  }
+
+  .title h1 {
+    font-size: var(--font-size-h1-internal);
+  }
+
+  .collageWrap {
+    flex: 1 1 60%;
+  }
+}

@@ -17,8 +17,10 @@ function TileCard({
   href,
   external = false,
   variant = 'default',
+  ctaStyle = 'pill',
 }) {
   const classes = [styles.tile, styles[`variant-${variant}`]].filter(Boolean).join(' ')
+  const ctaClasses = [styles.cta, styles[`cta-${ctaStyle}`]].filter(Boolean).join(' ')
   const content = (
     <>
       {image && (
@@ -30,7 +32,7 @@ function TileCard({
         {eyebrow && <p className={styles.eyebrow}>{eyebrow}</p>}
         {title && <h2 className={styles.title}>{title}</h2>}
         {description && <p className={styles.description}>{description}</p>}
-        {ctaLabel && <span className={styles.cta}>{ctaLabel}</span>}
+        {ctaLabel && <span className={ctaClasses}>{ctaLabel}</span>}
       </div>
     </>
   )

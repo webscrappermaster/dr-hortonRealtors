@@ -1,0 +1,40 @@
+/* Layout de /customer-care — recrea `.c-care-landing-header .c-care-cards` del original:
+   título muy grande arriba y 4 tiles en fila (mobile apila). */
+
+.page {
+  width: 100%;
+  padding: var(--space-10) 0 var(--space-16);
+}
+
+.title {
+  padding: 0 var(--space-6);
+}
+
+.title h1 {
+  margin: 0;
+  color: var(--color-text-primary);
+  font-size: var(--font-size-page-title-md);
+  line-height: var(--line-height-tight);
+  font-weight: var(--font-weight-bold);
+}
+
+@media (min-width: 640px) {
+  .page {
+    padding: var(--space-16) 0 var(--space-20);
+  }
+
+  .title {
+    padding: 0 var(--space-10);
+  }
+
+  .title h1 {
+    font-size: var(--font-size-page-title-lg);
+    line-height: 0.95;
+  }
+}
+
+@media (min-width: 1050px) {
+  .page {
+    padding: var(--space-20) 0 var(--space-24);
+  }
+}
