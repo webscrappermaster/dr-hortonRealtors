@@ -1,11 +1,13 @@
+import realtorSelfie from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Realtor-Selfie.webp'
 import soldSign from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Sold-Sign-Family.webp'
 import salesOffice from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Sales-Office.webp'
-import realtorSelfie from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Realtor-Selfie.webp'
 import homeKey from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Home-Key.webp'
 import stillBuilding from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Still-Building.webp'
 import salesAgentOffice from '../../../assets/images/real-estate-agents/DR-Horton_Real-Estate-Agents_Sales-Agent-Realtor-Office.webp'
 
 export const VIMEO_ID = '869339532'
+export const VIDEO_POSTER = realtorSelfie
+export const VIDEO_POSTER_ALT = 'D.R. Horton Real Estate Agents Realtor Selfie'
 
 export const heroText = {
   paragraphs: [

@@ -3,33 +3,46 @@
   flex-direction: column;
 }
 
-.srOnly {
-  position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip: rect(0 0 0 0);
-  white-space: nowrap;
+/* Replica el bloque .page-title del original */
+.pageTitle {
+  text-align: center;
+  padding: 2rem var(--space-page-x) 1rem;
+}
+
+.pageTitle h1 {
+  font-size: var(--font-size-h1-internal);
+  font-weight: var(--font-weight-extrabold);
+  color: var(--color-text-primary);
+  margin: 0 0 0.5rem;
+  line-height: 1.15;
+}
+
+.pageTitle h3 {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-regular);
+  color: var(--color-text-primary);
+  margin: 0;
+  line-height: 1.4;
 }
 
 .slider {
-  padding: 2.5rem var(--space-page-x);
+  padding: 1.5rem var(--space-page-x) 2rem;
   overflow: hidden;
 }
 
-@media (min-width: 1024px) {
-  .slider {
-    padding: 3rem var(--space-page-x);
-  }
-}
-
-.benefits {
-  padding: 2.5rem var(--space-page-x) 3.5rem;
+/* Replica el bloque #features con .smartImageAndCaption blocks */
+.features {
+  padding: 2rem var(--space-page-x) 2.5rem;
   background: var(--color-hero-bg);
 }
 
-@media (min-width: 1024px) {
-  .benefits {
-    padding: 3rem var(--space-page-x) 4rem;
-  }
+/* Logo Home Is Connected al pie (bloque disclaimer del original) */
+.disclaimer {
+  padding: 1.5rem var(--space-page-x) 2.5rem;
+  text-align: center;
+}
+
+.disclaimer img {
+  max-width: 216px;
+  height: auto;
 }

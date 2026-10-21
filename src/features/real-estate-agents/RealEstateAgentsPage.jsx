@@ -2,13 +2,13 @@ import HalfVideoHero from '../../components/ui/HalfVideoHero'
 import CollageGrid from '../../components/ui/CollageGrid'
 import ThreeColumnCards from '../../components/ui/ThreeColumnCards'
 import heartSvg from '../../assets/images/real-estate-agents/DRH-heart-REA.svg'
-import { VIMEO_ID, heroText, partnerSection, threeCards } from './data/realEstateAgents'
+import { VIMEO_ID, VIDEO_POSTER, VIDEO_POSTER_ALT, heroText, partnerSection, threeCards } from './data/realEstateAgents'
 import styles from './RealEstateAgentsPage.module.css'
 
 function RealEstateAgentsPage() {
   return (
     <main id="main-content" tabIndex={-1} className={styles.page}>
-      <HalfVideoHero vimeoId={VIMEO_ID}>
+      <HalfVideoHero vimeoId={VIMEO_ID} posterSrc={VIDEO_POSTER} posterAlt={VIDEO_POSTER_ALT}>
         <h1 className={styles.heroTitle}>
           We{' '}
           <img

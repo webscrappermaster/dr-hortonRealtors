@@ -1,3 +1,4 @@
+import hicLogoSrc from '../../../assets/images/smart-home/L1_Home-Is-Connected_Logo_Black.svg'
 import alarmApp from '../../../assets/images/smart-home/Home-Is-Connected_Alarm-com-app.webp'
 import doorbell from '../../../assets/images/smart-home/Home-Is-Connected_Alarm-com-Doorbell.webp'
 import thermostat from '../../../assets/images/smart-home/Home-Is-Connected_Honeywell-Thermostat.webp'
@@ -68,23 +69,29 @@ export const devices = [
 export const benefits = [
   {
     image: farFromHomeImg,
-    imageAlt: "Family checking home remotely on smartphone while away",
-    title: "You'll never be far from home.",
+    imageAlt: 'Blue door with featuring Kwikset deadbold with keypad.',
+    title: "You'll never be far from home",
     description:
-      "No matter where you are — at work, traveling, or in the backyard — your smart home keeps you connected and in control.",
+      'Monitor and control your home from your couch or from 500 miles away. Connect to your home with your smartphone, tablet, or computer.',
   },
   {
     image: handsImg,
-    imageAlt: "Person using voice assistant hands-free at home",
-    title: 'Hands-free home.',
+    imageAlt: 'Busy mother with child using smart technology.',
+    title: 'Home can be hands-free',
     description:
-      "From the lights to the locks, control your home with just your voice. Seamlessly integrated smart devices make your daily routine effortless.",
+      "It's never been easier to settle into a new routine. Set the scene with your voice, from your phone, through the Qolsys panel - or schedule it and forget it. Your home will always be ready for you.",
   },
   {
     image: techImg,
-    imageAlt: "Smart home technology included in every D.R. Horton home",
-    title: 'No more boxes.',
+    imageAlt: 'Closeup view of a Honeywell ProSeries smart wall thermostat',
+    title: 'No more boxes of useless tech',
     description:
-      "Every D.R. Horton home comes with our smart home package already installed — no setup headaches, no extra trips to the store.",
+      'We wanted to make sure you have the right system that can grow with you. Our homes speak to Bluetooth, Wi-Fi, Z-Wave and cellular devices, allowing you to sync with almost any smart device.',
   },
 ]
+
+export const hicLogo = {
+  src: hicLogoSrc,
+  alt: 'Home Is Connected logo',
+  width: 216,
+}

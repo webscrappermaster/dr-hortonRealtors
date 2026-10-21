@@ -2,8 +2,16 @@ import FormField from '../../../../components/ui/Form/FormField'
 import FormSelect from '../../../../components/ui/Form/FormSelect'
 import FormLayout from '../../../../components/ui/Form/FormLayout'
 import useForm from '../../../../hooks/useForm'
-import { stateOptions, iAmAOptions, movingInOptions, disclaimer } from '../../data/redTagEvent'
+import { statesIndex } from '../../../locations/data/statesIndex'
+import { iAmAOptions, movingInOptions, disclaimer } from '../../data/redTagEvent'
 import styles from './RedTagForm.module.css'
+
+const stateOptions = statesIndex.map(s => ({ value: s.name, label: s.name }))
+
+function getMarkets(stateName) {
+  const entry = statesIndex.find(s => s.name.toLowerCase() === stateName.toLowerCase())
+  return entry ? entry.markets.map(m => ({ value: m.name, label: m.name })) : []
+}
 
 const INITIAL = {
   state: '',
@@ -38,6 +46,15 @@ const RULES = {
 
 function RedTagForm() {
   const { values, errors, submitted, handleChange, handleSubmit } = useForm(INITIAL, RULES)
+
+  /* Derivado en render: no necesita estado extra */
+  const areaOptions = values.state ? getMarkets(values.state) : []
+
+  function handleStateChange(e) {
+    handleChange(e)
+    /* React 19 batch: ambas actualizaciones se fusionan en un render */
+    handleChange({ target: { name: 'areaOfInterest', value: '' } })
+  }
 
   if (submitted) {
     return (
@@ -74,7 +91,7 @@ function RedTagForm() {
           label="State"
           name="state"
           value={values.state}
-          onChange={handleChange}
+          onChange={handleStateChange}
           error={errors.state}
           required
           options={stateOptions}
@@ -86,8 +103,8 @@ function RedTagForm() {
           value={values.areaOfInterest}
           onChange={handleChange}
           error={errors.areaOfInterest}
-          options={[]}
-          placeholder="Select a state first"
+          options={areaOptions}
+          placeholder={values.state ? 'Make a selection' : 'Select a state first'}
           disabled={!values.state}
         />
 
@@ -98,8 +115,8 @@ function RedTagForm() {
           onChange={handleChange}
           error={errors.city}
           options={[]}
-          placeholder="Select a state first"
-          disabled={!values.state}
+          placeholder="Available in a future update"
+          disabled
         />
 
         <FormSelect
