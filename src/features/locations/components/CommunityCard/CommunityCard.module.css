@@ -1,0 +1,153 @@
+.card {
+  background: var(--color-tile-bg);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow var(--transition-base);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-card-hover);
+}
+
+/* ── Imagen ─────────────────────────────────────────────── */
+
+.imageLink {
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-slow);
+}
+
+.card:hover .image {
+  transform: scale(1.04);
+}
+
+.imagePlaceholder {
+  width: 100%;
+  height: 100%;
+  background: var(--color-hero-bg);
+}
+
+/* ── Cuerpo ─────────────────────────────────────────────── */
+
+.body {
+  padding: var(--space-4) var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  flex: 1;
+}
+
+/* ── Status ─────────────────────────────────────────────── */
+
+.statusRow {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.statusDot {
+  width: 10px;
+  height: 10px;
+  border-radius: var(--radius-pill);
+  flex-shrink: 0;
+  background: var(--color-status-coming-soon);
+}
+
+.status-now-selling   { background: var(--color-status-coming-soon); }
+.status-coming-soon   { background: var(--color-status-coming-soon); }
+.status-move-in-ready { background: var(--color-navy); }
+
+.statusLabel {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-muted);
+  letter-spacing: var(--letter-spacing-wide);
+  text-transform: uppercase;
+}
+
+/* ── Nombre ─────────────────────────────────────────────── */
+
+.name {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-snug);
+}
+
+.nameLink {
+  color: var(--color-text-primary);
+  text-decoration: none;
+}
+
+.nameLink:hover {
+  color: var(--color-navy);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ── Ciudad / precio ─────────────────────────────────────── */
+
+.city {
+  margin: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+}
+
+.price {
+  margin: 0;
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+}
+
+/* ── Stats ───────────────────────────────────────────────── */
+
+.statsRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-4);
+  margin-top: var(--space-1);
+}
+
+.stat {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25em;
+  font-size: var(--font-size-sm);
+}
+
+.statValue {
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+}
+
+.statLabel {
+  color: var(--color-text-muted);
+}
+
+/* ── Homes link ──────────────────────────────────────────── */
+
+.homesLink {
+  margin-top: auto;
+  padding-top: var(--space-3);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-link);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.homesLink:hover {
+  color: var(--color-navy);
+}

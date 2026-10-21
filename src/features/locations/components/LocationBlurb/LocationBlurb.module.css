@@ -1,0 +1,27 @@
+.blurb {
+  padding: var(--space-12) var(--space-page-x);
+  background: var(--color-hero-bg);
+}
+
+.body {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-relaxed);
+  color: var(--color-text-primary);
+}
+
+.body p {
+  margin: 0 0 var(--space-4);
+}
+
+.body p:last-child {
+  margin-bottom: 0;
+}
+
+.body h4 {
+  margin: var(--space-6) 0 var(--space-3);
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+}

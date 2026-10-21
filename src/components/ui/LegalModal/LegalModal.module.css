@@ -92,7 +92,7 @@
   align-items: center;
   gap: var(--space-2);
   padding: var(--space-3) var(--space-6);
-  background: var(--color-primary);
+  background: var(--color-navy);
   color: var(--color-white);
   border-radius: var(--radius-sm);
   font-size: var(--font-size-sm);
@@ -103,6 +103,6 @@
 
 .openButton:hover,
 .openButton:focus-visible {
-  background: var(--color-primary-dark);
+  background: var(--color-navy-dark);
   outline: none;
 }

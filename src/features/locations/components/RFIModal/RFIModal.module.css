@@ -1,0 +1,131 @@
+.dialog {
+  width: min(95vw, 600px);
+  padding: 0;
+  border: none;
+  border-radius: var(--radius-md);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  background: var(--color-white);
+  margin: auto;
+  inset: 0;
+  position: fixed;
+}
+
+.dialog::backdrop {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Header ─────────────────────────────────────────────── */
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--space-5) var(--space-6);
+  background: var(--color-navy);
+  color: var(--color-white);
+}
+
+.title {
+  margin: 0;
+  font-size: 1.125rem;
+  font-weight: var(--font-weight-bold);
+}
+
+.subtitle {
+  margin: var(--space-1) 0 0;
+  font-size: var(--font-size-sm);
+  opacity: 0.8;
+}
+
+.closeButton {
+  width: 32px;
+  height: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  color: var(--color-white);
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: 1.25rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background var(--transition-fast);
+}
+
+.closeButton:hover,
+.closeButton:focus-visible {
+  background: rgba(255, 255, 255, 0.15);
+  outline: none;
+}
+
+/* ── Body ───────────────────────────────────────────────── */
+
+.body {
+  padding: var(--space-6);
+}
+
+/* ── Submit ─────────────────────────────────────────────── */
+
+.submitBtn {
+  padding: var(--space-3) var(--space-8);
+  background: var(--color-navy);
+  color: var(--color-white);
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-base);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: var(--letter-spacing-btn);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.submitBtn:hover,
+.submitBtn:focus-visible {
+  background: var(--color-navy-dark);
+  outline: none;
+}
+
+/* ── Thank you ──────────────────────────────────────────── */
+
+.thanks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-6) 0;
+  text-align: center;
+}
+
+.thanksTitle {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+}
+
+.doneBtn {
+  padding: var(--space-3) var(--space-8);
+  background: var(--color-navy);
+  color: var(--color-white);
+  border: none;
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-base);
+  font-family: var(--font-sans);
+  font-weight: var(--font-weight-bold);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.doneBtn:hover,
+.doneBtn:focus-visible {
+  background: var(--color-navy-dark);
+  outline: none;
+}
