@@ -1,0 +1,42 @@
+.page {
+  min-height: 60vh;
+}
+
+/* ── Hero / buscador ───────────────────────────── */
+
+.hero {
+  padding: var(--space-10) var(--space-page-x) var(--space-8);
+  text-align: center;
+  background: var(--color-page-bg);
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: var(--font-weight-bold);
+  color: var(--color-text-primary);
+  line-height: 1.25;
+  margin-bottom: var(--space-3);
+}
+
+.subtitle {
+  font-size: var(--font-size-base);
+  color: var(--color-text-primary);
+  margin-bottom: var(--space-6);
+}
+
+.search {
+  max-width: 540px;
+  margin: 0 auto;
+}
+
+/* ── Desktop ───────────────────────────────────── */
+
+@media (min-width: 1024px) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .hero {
+    padding: var(--space-12) var(--space-page-x) var(--space-10);
+  }
+}

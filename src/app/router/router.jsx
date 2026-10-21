@@ -16,12 +16,12 @@ import RedTagEventPage from '../../features/red-tag-event'
 import MilitaryBenefitsPage from '../../features/military-benefits'
 import ContactPage from '../../features/contact'
 import WarrantyPage from '../../features/warranty'
+import GlobalMapPage from '../../features/globalmap'
 
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
-  { path: 'globalmap',           title: 'Map view' },
-  { path: 'epa-consent-decree',  title: 'EPA Consent Decree' },
+  { path: 'epa-consent-decree', title: 'EPA Consent Decree' },
 ]
 
 export const router = createBrowserRouter([
@@ -36,6 +36,7 @@ export const router = createBrowserRouter([
         element: <ComingSoon title={title} />,
       })),
 
+      { path: 'globalmap',             element: <GlobalMapPage /> },
       { path: 'who-we-are',           element: <WhoWeArePage /> },
       { path: 'smart-home',           element: <SmartHomePage /> },
       { path: 'real-estate-agents',   element: <RealEstateAgentsPage /> },
