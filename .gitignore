@@ -25,3 +25,4 @@ docs/reference/screenshots/
 *.njsproj
 *.sln
 *.sw?
+.claude/settings.local.json
