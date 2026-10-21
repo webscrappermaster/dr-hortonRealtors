@@ -227,14 +227,16 @@ Páginas que solo usan los componentes de Etapa 1 (sin forms, sin dinámico):
 
 Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos, imágenes, lista de beneficios), reemplazando los `ComingSoon` del router.
 
-### Etapa 3 · Estáticas con bloque extra — **mediana**
-- `smart-home` → nuevo `SliderCards` (carousel con tarjeta imagen+texto). Data: 4 dispositivos reales + 3 beneficios.
-- `real-estate-agents` → `HalfVideoHero` (poster + play local, sin Vimeo), `ThreeColumnCards`. Data: 3 cards + copy.
-- `red-tag-event` → `RedTagHero` + `RedTagForm` (sin backend; submit abre modal "Thank you"). Reemplaza el `ComingSoon` existente.
+### Etapa 3 · Estáticas con bloque extra — **COMPLETADA** ✓
+- `smart-home` → `SliderCards` (6 dispositivos + 3 benefits tiles). Commit `etapa 3: smart-home`.
+- `real-estate-agents` → `HalfVideoHero` (facade Vimeo ID 869339532), `ThreeColumnCards`, `CollageGrid` 3×2. Commit `etapa 3: real-estate-agents`.
+- `red-tag-event` → `RedTagHero` + `RedTagForm` (validación client-side, aria-invalid/describedby, thank-you al submit). Commit `etapa 3: red-tag-event`.
+- `who-we-are` → slider My Story convertido de grid estático a `SliderCards`. Commit `etapa 3: who-we-are slider`.
+- **Adelanto de Etapa 4**: `FormField`, `FormSelect`, `FormCheckboxGroup`, `FormLayout` (src/components/ui/Form/) y `useForm` hook (src/hooks/) creados e incluidos en el commit `etapa 3: red-tag-event`. La Etapa 4 los reutiliza directamente.
 
 ### Etapa 4 · Forms base + Military benefits — **mediana**
-- `FormField`, `FormSelect`, `FormCheckboxGroup`, `FormLayout` en `src/components/ui/Form/`.
-- Hook `useForm` o similar en `src/hooks/`.
+- ~~`FormField`, `FormSelect`, `FormCheckboxGroup`, `FormLayout` en `src/components/ui/Form/`.~~ *(ya creados en Etapa 3)*
+- ~~Hook `useForm` o similar en `src/hooks/`.~~ *(ya creado en Etapa 3)*
 - `military-benefits` como primera página con form (lead `ImageTextBlock` + 3 `TileCard` + form de contacto específico).
 
 ### Etapa 5 · Esquema de ubicaciones + State/Area — **grande** (dividible en 5a y 5b)
