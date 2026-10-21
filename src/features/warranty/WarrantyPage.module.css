@@ -1,0 +1,24 @@
+.page {
+  min-height: 60vh;
+}
+
+.content {
+  padding: var(--space-12) var(--space-page-x);
+  background: var(--color-page-bg);
+}
+
+.narrow {
+  max-width: 740px;
+  margin: 0 auto;
+}
+
+.lead {
+  margin-bottom: var(--space-8);
+}
+
+.lead p {
+  font-size: var(--font-size-base);
+  color: var(--color-text-primary);
+  line-height: var(--line-height-relaxed);
+  margin: 0 0 var(--space-4);
+}
