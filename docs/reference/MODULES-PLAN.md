@@ -251,10 +251,10 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
 - Componentes completos: `PropertyGallery` (thumbnail strip 7 fotos), `CommunityHero`, `CommunityAside` (RFIModal + aviso Text-With-Us), `PromoCard`, `AmenitiesList` (expand/collapse), `SchoolsList`, `LotMapBanner`, `FloorPlanCard`, `AvailableHomeCard`.
 - `CommunityPage`: breadcrumbs → galería → hero+aside (sticky desktop) → promo → about → amenities → schools → lot map → floor plans → available homes. Mapa pequeño con `LocationMap` en el aside. Comunidades sin detalle muestran plantilla + "More details coming soon". Comunidad inexistente → `NotFound`.
 
-### Etapa 7 · Customer care family — **mediana**
-- `CareTabs` compartido.
-- `contact` (`/contact-us-page`): `ContactForm` + `OfficeAccordion`. Los datos de oficinas los extraemos del HTML de contact.html (hay accordions por estado con `h5` de ciudad + `<p>` con dirección/teléfono).
-- `warranty` (`/warranty`): form multi-paso + `FileUploadPlaceholder` (dropzone fake sin backend). Captcha simulado (checkbox "I'm not a robot" visual, sin verificación real).
+### Etapa 7 · Customer care family — **COMPLETADA** ✓
+- `CareTabs` compartido en `src/components/ui/CareTabs/`.
+- `contact` (`/contact-us-page`): `ContactForm` (11 campos, validación, thank-you) + `OfficeAccordion` (34 estados, 102 oficinas locales + 4 nacionales extraídas del HTML). State derivado de `statesIndex.js`.
+- `warranty` (`/warranty`): `WarrantyForm` 3 pasos (Location + autocomplete mock, Contact, Details+Dropzone), indicador de progreso, Back/Next, foco gestionado. Captcha omitido (decisión 9), registrado en `docs/NOTES.md`.
 
 ### Etapa 8 · Globalmap — **mediana**
 - `/globalmap`.
