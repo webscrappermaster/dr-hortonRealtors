@@ -1,0 +1,28 @@
+.form {
+  width: 100%;
+}
+
+.grid {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 640px) {
+  .cols-2 {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .cols-3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 1.5rem;
+  gap: 1rem;
+}

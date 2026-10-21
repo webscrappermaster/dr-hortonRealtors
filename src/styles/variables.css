@@ -111,6 +111,7 @@
   --radius-lg:   12px;
   --radius-xl:   16px;
   --radius-tile:   15px;   /* .internal-tile y .image-text_image del original */
+  --radius-card:   10px;   /* SliderCards, ThreeColumnCards, HalfVideoHero */
   --radius-collage: 10px;  /* .collage-item */
   --radius-pill: 9999px;   /* botón "Map view" y buscador */
 
@@ -146,6 +147,7 @@
 
   /* ── LAYOUT ───────────────────────────────────────────── */
 
+  --space-page-x:    clamp(1rem, 4vw, 3rem);  /* padding horizontal estándar de sección */
   --frame-max-width:    833px;     /* .map-search .wrapper max-width del original */
   --content-max-width:  1200px;    /* ancho general del contenido (card-container) */
   --content-max-width-wide: 1281px; /* .image-text max-width */

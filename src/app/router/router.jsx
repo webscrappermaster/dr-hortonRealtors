@@ -9,13 +9,13 @@ import ServicesPage from '../../features/services'
 import CustomerCarePage from '../../features/customer-care'
 import CareersPage from '../../features/careers'
 import WhoWeArePage from '../../features/who-we-are'
+import SmartHomePage from '../../features/smart-home'
+import RealEstateAgentsPage from '../../features/real-estate-agents'
+import RedTagEventPage from '../../features/red-tag-event'
 
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
-  { path: 'smart-home',          title: 'Smart home' },
-  { path: 'red-tag-event',       title: 'Red Tag Event' },
-  { path: 'real-estate-agents',  title: 'Real estate agents' },
   { path: 'military-benefits',   title: 'Military benefits' },
   { path: 'globalmap',           title: 'Map view' },
   { path: 'contact-us-page',     title: 'Contact' },
@@ -35,7 +35,10 @@ export const router = createBrowserRouter([
         element: <ComingSoon title={title} />,
       })),
 
-      { path: 'who-we-are',    element: <WhoWeArePage /> },
+      { path: 'who-we-are',           element: <WhoWeArePage /> },
+      { path: 'smart-home',           element: <SmartHomePage /> },
+      { path: 'real-estate-agents',   element: <RealEstateAgentsPage /> },
+      { path: 'red-tag-event',        element: <RedTagEventPage /> },
       { path: 'services',      element: <ServicesPage /> },
       { path: 'customer-care', element: <CustomerCarePage /> },
       { path: 'careers',       element: <CareersPage /> },
