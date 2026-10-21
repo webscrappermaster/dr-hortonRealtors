@@ -1,0 +1,108 @@
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+.heroTitle {
+  font-size: var(--font-size-h1-internal);
+  font-weight: var(--font-weight-extrabold);
+  color: var(--color-navy);
+  margin: 0 0 1rem;
+  line-height: 1.15;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.heartIcon {
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.heroParagraph {
+  font-size: var(--font-size-md);
+  color: var(--color-text-primary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* ── Partner section ──────────────────────────────────── */
+.partner {
+  padding: 2.5rem var(--space-page-x);
+  background: var(--color-hero-bg);
+}
+
+.partnerInner {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+  .partnerInner {
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 3rem;
+  }
+}
+
+.partnerCollage {
+  width: 100%;
+}
+
+.partnerText {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.partnerText h2 {
+  font-size: var(--font-size-h2-internal);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+  margin: 0;
+  line-height: 1.2;
+}
+
+.partnerText h4 {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-primary);
+  margin: 0;
+  line-height: 1.4;
+}
+
+.disclaimer {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+/* ── Three column cards ───────────────────────────────── */
+.cards {
+  padding: 2.5rem var(--space-page-x) 3.5rem;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1024px) {
+  .cards {
+    padding: 3rem var(--space-page-x) 4rem;
+  }
+}
