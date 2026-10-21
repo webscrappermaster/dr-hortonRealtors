@@ -10,20 +10,15 @@ function OfficeCard({ office }) {
         {office.address && <span>{office.address}</span>}
         {office.city && <span>{office.city}</span>}
         {office.phone && (
-          <span>
-            <a href={`tel:${office.phone.replace(/\D/g, '')}`}>{office.phone}</a>
-          </span>
+          <span>{office.phone}</span>
         )}
         {office.phoneAlt && (
           <span>
-            {office.phoneAltLabel && `${office.phoneAltLabel}: `}
-            <a href={`tel:${office.phoneAlt.replace(/\D/g, '')}`}>{office.phoneAlt}</a>
+            {office.phoneAltLabel ? `${office.phoneAltLabel}: ` : ''}{office.phoneAlt}
           </span>
         )}
         {office.email && (
-          <span>
-            <a href={`mailto:${office.email}`}>{office.email}</a>
-          </span>
+          <span>{office.email}</span>
         )}
       </address>
     </div>

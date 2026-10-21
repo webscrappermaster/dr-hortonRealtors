@@ -3,13 +3,8 @@ import useForm from '../../../../hooks/useForm'
 import FormField from '../../../../components/ui/Form/FormField'
 import FormSelect from '../../../../components/ui/Form/FormSelect'
 import { inquiryTypes } from '../../data/inquiryTypes'
-import { statesIndex } from '../../../locations/data/statesIndex'
+import { US_STATES } from '../../../../utils/usStates'
 import styles from './ContactForm.module.css'
-
-const STATE_OPTIONS = statesIndex.map(s => ({
-  value: s.slug.slice(0, 2).toUpperCase(),
-  label: s.name,
-}))
 
 const PHONE_RE = /^[\d\s().+-]{7,}$/
 const EMAIL_RE = /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,17}$/
@@ -218,7 +213,7 @@ function ContactForm() {
           onChange={handleChange}
           error={errors.state}
           required
-          options={STATE_OPTIONS}
+          options={US_STATES}
           placeholder="Make a selection"
         />
         <FormField
