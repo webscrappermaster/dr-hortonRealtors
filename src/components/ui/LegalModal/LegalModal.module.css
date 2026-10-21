@@ -67,37 +67,42 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow: auto;
 }
 
-.iframe {
+.hostedNotice {
   flex: 1;
-  width: 100%;
-  border: 0;
-  min-height: 0;
-}
-
-/* Fallback visible cuando el iframe no carga (X-Frame-Options, red, etc.) */
-.iframeFallback {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: var(--space-3);
-  padding: var(--space-3) var(--space-6);
-  background: var(--color-hero-bg);
-  border-top: 1px solid var(--color-border-input);
-  font-size: var(--font-size-sm);
+  justify-content: center;
+  gap: var(--space-6);
+  padding: var(--space-10) var(--space-6);
+  text-align: center;
+}
+
+.hostedText {
+  margin: 0;
+  font-size: var(--font-size-base);
   color: var(--color-text-muted);
-  flex-shrink: 0;
 }
 
-.iframeFallbackLink {
-  color: var(--color-navy);
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  font-weight: var(--font-weight-medium);
-  white-space: nowrap;
+.openButton {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-primary);
+  color: var(--color-white);
+  border-radius: var(--radius-sm);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+  transition: background var(--transition-fast);
 }
 
-.iframeFallbackLink:hover {
-  color: var(--color-navy-dark);
+.openButton:hover,
+.openButton:focus-visible {
+  background: var(--color-primary-dark);
+  outline: none;
 }

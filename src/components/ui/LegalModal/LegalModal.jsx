@@ -63,25 +63,17 @@ function LegalModal({ title, src, children, returnFocusTo, onClose }) {
 
         <div className={styles.body}>
           {children || (
-            <>
-              <iframe
-                src={src}
-                title={title}
-                className={styles.iframe}
-                referrerPolicy="no-referrer"
-              />
-              <div className={styles.iframeFallback}>
-                <span>Document not loading?</span>
-                <a
-                  href={src}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className={styles.iframeFallbackLink}
-                >
-                  Open in a new tab ↗
-                </a>
-              </div>
-            </>
+            <div className={styles.hostedNotice}>
+              <p className={styles.hostedText}>This document is hosted by D.R. Horton.</p>
+              <a
+                href={src}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={styles.openButton}
+              >
+                Open document ↗
+              </a>
+            </div>
           )}
         </div>
       </div>
