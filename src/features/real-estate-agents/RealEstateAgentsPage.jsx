@@ -33,7 +33,7 @@ function RealEstateAgentsPage() {
           </div>
           <div className={styles.partnerText}>
             <h2 id="partner-heading">{partnerSection.heading}</h2>
-            <h4>{partnerSection.subheading}</h4>
+            <h3>{partnerSection.subheading}</h3>
             <p className={styles.disclaimer}>{partnerSection.disclaimer}</p>
           </div>
         </div>

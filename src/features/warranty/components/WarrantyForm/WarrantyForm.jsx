@@ -520,7 +520,7 @@ function WarrantyForm() {
       noValidate
       aria-label="Warranty request form"
     >
-      <h1 className={styles.formHeading}>Submit a warranty request</h1>
+      <h2 className={styles.formHeading}>Submit a warranty request</h2>
       <ProgressBar step={step} />
 
       {/* ref de foco se asigna al título de cada paso desde Step* components vía el tabIndex */}

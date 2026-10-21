@@ -5,7 +5,7 @@ import styles from './OfficeAccordion.module.css'
 function OfficeCard({ office }) {
   return (
     <div className={styles.officeCard}>
-      <h4 className={styles.officeName}>{office.name}</h4>
+      <h3 className={styles.officeName}>{office.name}</h3>
       <address className={styles.officeAddress}>
         {office.address && <span>{office.address}</span>}
         {office.city && <span>{office.city}</span>}

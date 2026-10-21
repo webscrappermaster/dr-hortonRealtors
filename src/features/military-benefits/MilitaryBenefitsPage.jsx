@@ -9,6 +9,8 @@ function MilitaryBenefitsPage() {
   return (
     <main id="main-content" tabIndex={-1} className={styles.page}>
 
+      <h1 className={styles.srOnly}>Military benefits</h1>
+
       <ImageTextBlock
         image={lead.image}
         imageAlt={lead.imageAlt}
