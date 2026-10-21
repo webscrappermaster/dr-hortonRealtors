@@ -1,6 +1,6 @@
-/* Sección exterior — franja gris como en el original */
+/* Sección exterior — fondo blanco; la sombra de la tarjeta marca el contraste */
 .section {
-  background: var(--color-hero-bg);
+  background: var(--color-page-bg);
   padding: 3rem var(--space-page-x);
   width: 100%;
   box-sizing: border-box;

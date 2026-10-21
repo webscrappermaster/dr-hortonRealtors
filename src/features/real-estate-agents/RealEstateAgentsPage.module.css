@@ -4,15 +4,12 @@
 }
 
 .heroTitle {
-  font-size: var(--font-size-h1-internal);
+  font-size: var(--font-size-page-title-md);
   font-weight: var(--font-weight-extrabold);
-  color: var(--color-navy);
+  color: var(--color-text-dark);
   margin: 0 0 1rem;
-  line-height: 1.15;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+  line-height: 1.1;
+  max-width: 8em; /* fuerza el salto "We ❤ real" / "estate agents" */
 }
 
 .heartIcon {

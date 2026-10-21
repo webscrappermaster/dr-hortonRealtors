@@ -2,19 +2,17 @@ import { useState } from 'react'
 import useForm from '../../../../hooks/useForm'
 import {
   militaryBranchOptions,
-  currentStatusOptions,
   installationsByBranch,
 } from '../../data/militaryBenefits'
 import styles from './MilitaryBenefitsForm.module.css'
 
 const INITIAL = {
-  firstName:     '',
-  lastName:      '',
-  email:         '',
-  phone:         '',
-  branch:        '',
-  currentStatus: '',
-  installation:  '',
+  firstName:    '',
+  lastName:     '',
+  email:        '',
+  phone:        '',
+  branch:       '',
+  installation: '',
 }
 
 const RULES = {
@@ -32,8 +30,7 @@ const RULES = {
     pattern: /^\(\d{3}\) \d{3}-\d{4}$/,
     patternMsg: 'Please enter a valid phone number.',
   },
-  branch:    { required: true, requiredMsg: 'Military branch is required.' },
-  /* currentStatus: no es obligatorio en el original */
+  branch: { required: true, requiredMsg: 'Military branch is required.' },
 }
 
 const disclaimer =
@@ -203,14 +200,6 @@ function MilitaryBenefitsForm() {
             error={errors.branch}
             required
             options={militaryBranchOptions}
-          />
-          <Select
-            label="Current status"
-            name="currentStatus"
-            value={values.currentStatus}
-            onChange={handleChange}
-            error={errors.currentStatus}
-            options={currentStatusOptions}
           />
           {values.branch && (
             <Select

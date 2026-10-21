@@ -1,3 +1,4 @@
+import InternalPageHero from '../../components/ui/InternalPageHero'
 import SliderCards from '../../components/ui/SliderCards'
 import TileCard from '../../components/ui/TileCard'
 import CardGrid from '../../components/ui/CardGrid'
@@ -7,10 +8,12 @@ import styles from './SmartHomePage.module.css'
 function SmartHomePage() {
   return (
     <main id="main-content" tabIndex={-1} className={styles.page}>
-      <div className={styles.pageTitle} id="home">
-        <h1 dangerouslySetInnerHTML={{ __html: hero.title }} />
-        <h3>{hero.subtitle}</h3>
-      </div>
+      <InternalPageHero
+        title={hero.title}
+        subtitle={hero.subtitle}
+        size="md"
+        align="left"
+      />
 
       <section className={styles.slider} aria-label="Dispositivos del hogar inteligente">
         <SliderCards cards={devices} visibleCount={3} />

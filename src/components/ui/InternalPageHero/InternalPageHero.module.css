@@ -74,6 +74,7 @@
 
 .size-md .subtitle {
   font-size: var(--font-size-h3-internal);
+  max-width: 50%; /* contiene a media página (smart-home, careers) */
 }
 
 /* Tamaño lg — "page-title" hero grande (home-style). Mobile 50px → wide 150px. */

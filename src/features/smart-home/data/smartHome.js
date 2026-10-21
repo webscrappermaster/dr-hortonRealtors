@@ -11,7 +11,7 @@ import farFromHomeImg from '../../../assets/images/smart-home/drhorton_smart-hom
 import handsImg from '../../../assets/images/smart-home/drhorton_smart-home-2025_hands-free.webp'
 
 export const hero = {
-  title: "America's smart home<sup>®</sup>",
+  title: "America's smart home®",
   subtitle: 'Check out the smart home technology in every D.R. Horton home.',
 }
 

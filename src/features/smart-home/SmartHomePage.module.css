@@ -3,28 +3,6 @@
   flex-direction: column;
 }
 
-/* Replica el bloque .page-title del original */
-.pageTitle {
-  text-align: center;
-  padding: 2rem var(--space-page-x) 1rem;
-}
-
-.pageTitle h1 {
-  font-size: var(--font-size-h1-internal);
-  font-weight: var(--font-weight-extrabold);
-  color: var(--color-text-primary);
-  margin: 0 0 0.5rem;
-  line-height: 1.15;
-}
-
-.pageTitle h3 {
-  font-size: var(--font-size-lg);
-  font-weight: var(--font-weight-regular);
-  color: var(--color-text-primary);
-  margin: 0;
-  line-height: 1.4;
-}
-
 .slider {
   padding: 1.5rem var(--space-page-x) 2rem;
   overflow: hidden;
