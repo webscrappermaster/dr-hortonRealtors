@@ -14,13 +14,13 @@ import SmartHomePage from '../../features/smart-home'
 import RealEstateAgentsPage from '../../features/real-estate-agents'
 import RedTagEventPage from '../../features/red-tag-event'
 import MilitaryBenefitsPage from '../../features/military-benefits'
+import ContactPage from '../../features/contact'
+import WarrantyPage from '../../features/warranty'
 
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
   { path: 'globalmap',           title: 'Map view' },
-  { path: 'contact-us-page',     title: 'Contact' },
-  { path: 'warranty',            title: 'Warranty' },
   { path: 'epa-consent-decree',  title: 'EPA Consent Decree' },
 ]
 
@@ -44,6 +44,8 @@ export const router = createBrowserRouter([
       { path: 'services',      element: <ServicesPage /> },
       { path: 'customer-care', element: <CustomerCarePage /> },
       { path: 'careers',       element: <CareersPage /> },
+      { path: 'contact-us-page', element: <ContactPage /> },
+      { path: 'warranty',       element: <WarrantyPage /> },
 
       /* Ruta temporal — preview de componentes nuevos durante el desarrollo.
          Se elimina junto con src/features/dev al final del proyecto. */
