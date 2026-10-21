@@ -5,7 +5,6 @@ import ComingSoon from '../../features/common/ComingSoon'
 import NotFound from '../../features/common/NotFound'
 import LocationPage from '../../features/locations/LocationPage'
 import CommunityPage from '../../features/locations/CommunityPage'
-import ComponentsPreviewPage from '../../features/dev'
 import ServicesPage from '../../features/services'
 import CustomerCarePage from '../../features/customer-care'
 import CareersPage from '../../features/careers'
@@ -48,11 +47,7 @@ export const router = createBrowserRouter([
       { path: 'contact-us-page', element: <ContactPage /> },
       { path: 'warranty',       element: <WarrantyPage /> },
 
-      /* Ruta temporal — preview de componentes nuevos durante el desarrollo.
-         Se elimina junto con src/features/dev al final del proyecto. */
-      { path: 'dev/components', element: <ComponentsPreviewPage /> },
-
-      { path: ':state',                            element: <LocationPage /> },
+{ path: ':state',                            element: <LocationPage /> },
       { path: ':state/:area',                      element: <LocationPage /> },
       { path: ':state/:area/:city/:community',     element: <CommunityPage /> },
 
