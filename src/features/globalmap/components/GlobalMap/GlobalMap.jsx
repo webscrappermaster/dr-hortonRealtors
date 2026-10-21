@@ -8,8 +8,8 @@ function GlobalMap() {
     <div className={styles.mapWrapper}>
       <Suspense
         fallback={
-          <div className={styles.mapWrapper} style={{ background: '#e5e7eb', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-            <p style={{ color: '#6b7280' }}>Loading map…</p>
+          <div className={styles.loading}>
+            <p className={styles.loadingText}>Loading map…</p>
           </div>
         }
       >
