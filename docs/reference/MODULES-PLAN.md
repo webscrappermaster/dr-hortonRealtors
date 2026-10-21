@@ -243,7 +243,7 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
 ### Etapa 5 · Esquema de ubicaciones + State/Area — **grande** (dividible en 5a y 5b)
 - 5a: **COMPLETADA** ✓ `georgia.json` (20 comunidades: 17 en atlanta, 3 en macon-area) + loader con fallback a statesIndex + `StatePage`/`AreaPage` con breadcrumbs, filtros, paginación client-side, RFI modal y blurb. Ruta `/:state/:area/:city/:community` → CommunityComingSoon. City select del RedTagForm rellenado desde JSON.  
   _Scripts_: `extract-location.js` para regenerar JSONs desde HTML de referencia.
-- 5b: `MapPlaceholder` (SVG o imagen estática por área) con marker list simple. Dejar enganche para una futura integración de Google Maps.
+- 5b: **COMPLETADA** ✓ Leaflet + OpenStreetMap (sin API key). `LocationMap` (lazy, Suspense) con `LocationMapInner` — pins `DivIcon`, popup nombre/precio/link, `fitBounds` automático. `MapPlaceholder` cuando no hay coordenadas. Vista dividida en desktop ≥1281px: mapa sticky izquierda (`calc(100% - 920px)`), lista derecha (max 920px). Móvil/tablet: lista sola con botón "Map view" (toggle, `aria-pressed`). Sincronización hover tarjeta ↔ pin (resaltado navy ring + pin rojo escalado). `extract-location.js` actualizado con `extractCenter` (JSON-LD).
 
 ### Etapa 6 · Community page — **grande**
 - Agregar ruta `/:state/:area/:city/:community` en el router.

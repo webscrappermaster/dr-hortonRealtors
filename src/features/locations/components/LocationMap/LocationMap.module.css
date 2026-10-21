@@ -1,0 +1,40 @@
+.mapWrapper {
+  width: 100%;
+  height: 100%;
+}
+
+/* Aplicado al MapContainer de Leaflet */
+.mapContainer {
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Popup ───────────────────────────────────────────────── */
+
+.popupName {
+  display: block;
+  margin-bottom: 4px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-sans);
+  color: var(--color-text-primary);
+}
+
+.popupPrice {
+  display: block;
+  margin-bottom: 6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+}
+
+.popupLink {
+  display: inline-block;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-navy);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.popupLink:hover {
+  color: var(--color-navy-dark);
+}

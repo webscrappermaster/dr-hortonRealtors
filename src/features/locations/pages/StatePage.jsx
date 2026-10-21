@@ -3,6 +3,7 @@ import Breadcrumbs from '../../../components/ui/Breadcrumbs'
 import LocationResultsHeader from '../components/LocationResultsHeader'
 import CommunityCard from '../components/CommunityCard'
 import LocationBlurb from '../components/LocationBlurb'
+import LocationMap from '../components/LocationMap'
 import Pagination from '../../../components/ui/Pagination'
 import RFIModal from '../components/RFIModal'
 import styles from './LocationPageTemplate.module.css'
@@ -27,11 +28,14 @@ function applySort(communities, sort) {
 
 function StatePage({ stateData }) {
   const allCommunities = stateData.markets?.flatMap(m => m.communities ?? []) ?? []
+  const mapCenter = stateData.markets?.find(m => m.center)?.center ?? null
 
-  const [filters, setFilters]   = useState({ maxPrice: null, minBeds: null })
-  const [sort, setSort]         = useState('price-asc')
-  const [page, setPage]         = useState(1)
-  const [rfiOpen, setRfiOpen]   = useState(false)
+  const [filters, setFilters]       = useState({ maxPrice: null, minBeds: null })
+  const [sort, setSort]             = useState('price-asc')
+  const [page, setPage]             = useState(1)
+  const [rfiOpen, setRfiOpen]       = useState(false)
+  const [hoveredSlug, setHoveredSlug] = useState(null)
+  const [mapVisible, setMapVisible] = useState(false)
   const rfiTriggerRef = useRef(null)
 
   const filtered   = applyFilters(allCommunities, filters)
@@ -56,47 +60,71 @@ function StatePage({ stateData }) {
 
   return (
     <main className={styles.page}>
-      <div className={styles.inner}>
-        <Breadcrumbs items={breadcrumbs} />
+      <div className={`${styles.splitWrapper}${mapVisible ? ` ${styles.mapActive}` : ''}`}>
 
-        <h1 className={styles.h1}>
-          {stateData.totalResults != null ? (
-            <>{stateData.totalResults.toLocaleString()} new homes for sale
-              {stateData.resultsRadiusMiles && (
-                <> within {stateData.resultsRadiusMiles} miles of {stateData.name}</>
+        {/* Columna mapa */}
+        <div className={styles.mapColumn}>
+          <LocationMap
+            communities={allCommunities}
+            center={mapCenter}
+            hoveredSlug={hoveredSlug}
+            onPinEnter={setHoveredSlug}
+            onPinLeave={() => setHoveredSlug(null)}
+          />
+        </div>
+
+        {/* Columna de resultados */}
+        <div className={styles.resultsColumn}>
+          <div className={styles.inner}>
+            <Breadcrumbs items={breadcrumbs} />
+
+            <h1 className={styles.h1}>
+              {stateData.totalResults != null ? (
+                <>{stateData.totalResults.toLocaleString()} new homes for sale
+                  {stateData.resultsRadiusMiles && (
+                    <> within {stateData.resultsRadiusMiles} miles of {stateData.name}</>
+                  )}
+                </>
+              ) : (
+                <>New homes in {stateData.name}</>
               )}
-            </>
-          ) : (
-            <>New homes in {stateData.name}</>
-          )}
-        </h1>
+            </h1>
 
-        <LocationResultsHeader
-          total={filtered.length}
-          filters={filters}
-          onFilterChange={handleFilterChange}
-          sort={sort}
-          onSortChange={handleSortChange}
-          onRequestInfo={() => setRfiOpen(true)}
-        />
+            <LocationResultsHeader
+              total={filtered.length}
+              filters={filters}
+              onFilterChange={handleFilterChange}
+              sort={sort}
+              onSortChange={handleSortChange}
+              onRequestInfo={() => setRfiOpen(true)}
+              mapVisible={mapVisible}
+              onToggleMap={() => setMapVisible(v => !v)}
+            />
 
-        {paged.length > 0 ? (
-          <ul className={styles.grid} aria-label="Communities">
-            {paged.map(comm => (
-              <li key={`${comm.areaSlug}-${comm.slug}`}>
-                <CommunityCard community={comm} />
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <p className={styles.empty}>No communities match the selected filters.</p>
-        )}
+            {paged.length > 0 ? (
+              <ul className={styles.grid} aria-label="Communities">
+                {paged.map(comm => (
+                  <li key={`${comm.areaSlug}-${comm.slug}`}>
+                    <CommunityCard
+                      community={comm}
+                      highlighted={comm.slug === hoveredSlug}
+                      onHover={() => setHoveredSlug(comm.slug)}
+                      onHoverEnd={() => setHoveredSlug(null)}
+                    />
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className={styles.empty}>No communities match the selected filters.</p>
+            )}
 
-        <Pagination
-          page={page}
-          totalPages={totalPages}
-          onPageChange={setPage}
-        />
+            <Pagination
+              page={page}
+              totalPages={totalPages}
+              onPageChange={setPage}
+            />
+          </div>
+        </div>
       </div>
 
       {stateData.blurb && <LocationBlurb html={stateData.blurb} />}

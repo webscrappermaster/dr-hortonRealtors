@@ -8,8 +8,14 @@
   transition: box-shadow var(--transition-base);
 }
 
-.card:hover {
+.card:hover,
+.highlighted {
   box-shadow: var(--shadow-card-hover);
+}
+
+.highlighted {
+  outline: 2px solid var(--color-navy);
+  outline-offset: -2px;
 }
 
 /* ── Imagen ─────────────────────────────────────────────── */

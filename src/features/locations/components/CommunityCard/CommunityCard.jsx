@@ -29,7 +29,7 @@ function StatItem({ value, label }) {
   )
 }
 
-function CommunityCard({ community }) {
+function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
   const {
     slug, name, stateSlug, areaSlug, citySlug, cityName,
     status, priceFrom, beds, baths, garages, sqftFrom,
@@ -39,7 +39,11 @@ function CommunityCard({ community }) {
   const href = `/${stateSlug}/${areaSlug}/${citySlug}/${slug}`
 
   return (
-    <article className={styles.card}>
+    <article
+      className={`${styles.card}${highlighted ? ` ${styles.highlighted}` : ''}`}
+      onMouseEnter={onHover}
+      onMouseLeave={onHoverEnd}
+    >
       <Link to={href} className={styles.imageLink} tabIndex={-1} aria-hidden="true">
         {cardImageUrl ? (
           <img src={cardImageUrl} alt="" className={styles.image} loading="lazy" />

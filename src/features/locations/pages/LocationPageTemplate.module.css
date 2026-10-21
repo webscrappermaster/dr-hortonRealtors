@@ -2,10 +2,81 @@
   min-height: 60vh;
 }
 
+/* ── Layout dividido ─────────────────────────────────────── */
+
+.splitWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Columna mapa: oculta en móvil/tablet por defecto */
+.mapColumn {
+  display: none;
+}
+
+/* Columna resultados: ancho completo en móvil/tablet */
+.resultsColumn {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Móvil/tablet: mapa activo (toggle) cubre la pantalla */
+.mapActive .mapColumn {
+  display: block;
+  position: fixed;
+  top: 74px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 200;
+  background: var(--color-white);
+}
+
+.mapActive .resultsColumn {
+  display: none;
+}
+
+/* Desktop ≥1281px: vista dividida permanente */
+@media (min-width: 1281px) {
+  .splitWrapper {
+    flex-direction: row;
+    min-height: calc(100vh - 74px);
+  }
+
+  /* Mapa sticky a la izquierda — siempre visible */
+  .mapColumn {
+    display: block;
+    position: sticky;
+    top: 74px;
+    align-self: flex-start;
+    height: calc(100vh - 74px);
+    width: calc(100% - 920px);
+    min-width: 280px;
+    flex-shrink: 0;
+  }
+
+  /* Columna de resultados a la derecha */
+  .resultsColumn {
+    width: 100%;
+    max-width: 920px;
+  }
+
+  /* Anula el ocultado móvil cuando se está en desktop */
+  .mapActive .resultsColumn {
+    display: block;
+  }
+}
+
+/* ── Contenido interno de la columna de resultados ───────── */
+
 .inner {
-  max-width: var(--content-max-width);
-  margin: 0 auto;
   padding: var(--space-6) var(--space-page-x) 0;
+}
+
+@media (min-width: 1281px) {
+  .inner {
+    padding: var(--space-6) var(--space-8) 0;
+  }
 }
 
 .h1 {
@@ -22,7 +93,7 @@
   color: var(--color-text-muted);
 }
 
-/* ── Grid de tarjetas ───────────────────────────────────── */
+/* ── Grid de tarjetas ────────────────────────────────────── */
 
 .grid {
   list-style: none;
@@ -39,9 +110,16 @@
   }
 }
 
+/* En el panel de resultados del split layout solo caben 2 columnas */
 @media (min-width: 1024px) {
   .grid {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (min-width: 1281px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
