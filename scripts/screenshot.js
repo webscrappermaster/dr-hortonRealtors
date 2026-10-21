@@ -119,11 +119,11 @@ async function captureRefPage(browser, slug, widths) {
   }
 }
 
-/* Modo default: captura la Home (nuestra versión + original guardado). */
-async function captureHomeOriginal(browser) {
+/* Modo default: captura la Home original guardada. */
+async function captureHomeOriginal(browser, widths = WIDTHS) {
   const fileUrl = pathToFileURL(ORIGINAL_HOME_PATH).toString()
 
-  for (const width of WIDTHS) {
+  for (const width of widths) {
     const context = await browser.newContext({ viewport: { width, height: 900 } })
     const page = await context.newPage()
     await blockExternalRequests(page)
@@ -145,19 +145,28 @@ async function main() {
   const browser = await chromium.launch()
 
   try {
-    /* ── Modo --pages=a,b,c ─────────────────────────────────────── */
+    /* ── Modo --pages=a,b,c  (admite "slug:path" para separar slug de ruta) ── */
     if (pagesArg) {
-      const slugs = pagesArg.split(',').map(s => s.trim()).filter(Boolean)
+      const entries = pagesArg.split(',').map(s => s.trim()).filter(Boolean)
       const widths = customWidths && customWidths.length ? customWidths : [1440]
 
-      for (const slug of slugs) {
+      for (const entry of entries) {
+        const colonIdx = entry.indexOf(':')
+        const slug  = colonIdx !== -1 ? entry.slice(0, colonIdx) : entry
+        const route = colonIdx !== -1 ? entry.slice(colonIdx + 1) : `/${entry}`
+
         if (only !== 'ours') {
-          console.log(`→ Capturando referencia "${slug}"…`)
-          await captureRefPage(browser, slug, widths)
+          if (slug === 'home') {
+            console.log(`→ Capturando referencia "home"…`)
+            await captureHomeOriginal(browser, widths)
+          } else {
+            console.log(`→ Capturando referencia "${slug}"…`)
+            await captureRefPage(browser, slug, widths)
+          }
         }
         if (only !== 'original') {
-          console.log(`→ Capturando nuestra versión de "${slug}"…`)
-          await captureOurs(browser, slug, `${baseUrl}/${slug}`, widths)
+          console.log(`→ Capturando nuestra versión de "${slug}" (${route})…`)
+          await captureOurs(browser, slug, `${baseUrl}${route}`, widths)
         }
       }
       return
