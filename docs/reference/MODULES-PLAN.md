@@ -256,11 +256,15 @@ Entregable: 4 features bajo `src/features/<nombre>/` con `data/` propia (textos,
 - `contact` (`/contact-us-page`): `ContactForm` (11 campos, validación, thank-you) + `OfficeAccordion` (34 estados, 102 oficinas locales + 4 nacionales extraídas del HTML). State derivado de `statesIndex.js`.
 - `warranty` (`/warranty`): `WarrantyForm` 3 pasos (Location + autocomplete mock, Contact, Details+Dropzone), indicador de progreso, Back/Next, foco gestionado. Captcha omitido (decisión 9), registrado en `docs/NOTES.md`.
 
-### Etapa 8 · Globalmap — **mediana**
-- `/globalmap`.
-- `GlobalMapPlaceholder` (imagen estática del mapa con pins SVG derivados de `statesIndex.js`; opcionalmente integrar `@react-google-maps/api` con la API key del usuario — ver Preguntas).
-- `HomeTilesGrid` reutilizando patrón `FeatureGrid` del home.
-- Reemplazar video de Vimeo por poster + enlace "Watch" (sin autoplay).
+### Etapa 8 · Globalmap — **COMPLETADA** ✓
+- `/globalmap`: SearchBar + useLocationSearch, Leaflet map full-width, HomeTilesGrid.
+- `GlobalMap` (lazy/Suspense) con `GlobalMapInner`: 38 pins de estado en centroides
+  aproximados (stateCentroids.js), popup "Nombre · See homes" → /:state. Comunidades
+  de Georgia (21 pins) agrupadas con react-leaflet-cluster.
+- `HomeTilesGrid`: tarjeta grande "D.R. Horton Homes" con patrón facade (poster navy +
+  play SVG; iframe Vimeo dnt=1 solo al clic). 4 tarjetas secundarias. Misma grilla que
+  FeatureGrid del Home.
+- "Map view" de la Home ya apuntaba a /globalmap; reemplaza ComingSoon.
 
 ---
 
