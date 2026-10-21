@@ -177,7 +177,7 @@ function Footer() {
           onClose={closeModal}
         >
           {modal.manage && (
-            <div style={{ padding: '2rem', textAlign: 'center' }}>
+            <div className={styles.cookieNotice}>
               <p>
                 Cookie management is not available in this demo build.
                 In production this would open the OneTrust consent panel.

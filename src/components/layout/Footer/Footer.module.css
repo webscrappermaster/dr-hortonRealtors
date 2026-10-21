@@ -201,6 +201,11 @@
   color: #333333;
 }
 
+.cookieNotice {
+  padding: 2rem;
+  text-align: center;
+}
+
 /* ── Tablet (≥ 640px) ──────────────────────────────────── */
 
 @media (min-width: 640px) {
