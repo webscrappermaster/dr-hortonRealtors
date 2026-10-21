@@ -1,0 +1,35 @@
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+.srOnly {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.slider {
+  padding: 2.5rem var(--space-page-x);
+  overflow: hidden;
+}
+
+@media (min-width: 1024px) {
+  .slider {
+    padding: 3rem var(--space-page-x);
+  }
+}
+
+.benefits {
+  padding: 2.5rem var(--space-page-x) 3.5rem;
+  background: var(--color-hero-bg);
+}
+
+@media (min-width: 1024px) {
+  .benefits {
+    padding: 3rem var(--space-page-x) 4rem;
+  }
+}
