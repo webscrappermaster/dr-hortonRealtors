@@ -310,4 +310,32 @@ Respuestas del equipo a las preguntas de la sección 6. Cuando aquí digamos alg
 
 ### Nota — ruta `/dev/components`
 
-Como parte de la etapa 1 se crea `/dev/components`, una página temporal que renderiza cada componente nuevo con datos de ejemplo tomados de las referencias (services, who-we-are, military-benefits). **Esta ruta se elimina al final del proyecto** junto con su feature.
+Como parte de la etapa 1 se crea `/dev/components`, una página temporal que renderiza cada componente nuevo con datos de ejemplo tomados de las referencias (services, who-we-are, military-benefits). **Esta ruta se elimina al final del proyecto** junto con su feature. ✓ Eliminada en la revisión final.
+
+---
+
+### Etapa 9 · Revisión final — **COMPLETADA** ✓
+
+Limpieza y pulido del proyecto completo. Un commit por punto.
+
+1. **Limpieza**: ruta `/dev/components` y `src/features/dev/` eliminados. 30 imágenes duplicadas con sufijo `(1)` en `jackson-landing/` eliminadas.
+2. **Navegación**: 3 links internos que resolvían a `NotFound` corregidos — `/rentals/rentalinvestor`, `/documents-and-guides`, `/contact-us---property-submittals` se convierten a rutas `ComingSoon`.
+3. **Responsive**: touch targets aumentados a mínimo 44px — hamburger (28→44px), botón de mapa del hero (42→44px), botones de paginación (40→44px), play/pause del slider (28→44px), flechas de galería (40→44px).
+4. **Accesibilidad**: `MilitaryBenefitsPage` añade `h1` sr-only. `WarrantyForm` baja su `h1` a `h2` (la página ya tenía `h1` en `CareTabs`). Saltos de jerarquía `h2→h4` corregidos a `h2→h3` en `RealEstateAgentsPage` y `OfficeAccordion`. Foco visible añadido a `.stepTitle` en `WarrantyForm`.
+5. **Mapa**: `GlobalMapInner` oculta "Approximate location" para comunidades con `locationPrecision: 'exact'` (Jackson Landing). Sin duplicados detectados.
+6. **Estilos**: inline styles estáticos del loading fallback del mapa movidos a `GlobalMap.module.css`.
+7. **Documentación**: `README.md` reescrito (descripción del proyecto, instalación, scripts, rutas, estructura). `docs/NOTES.md` y `docs/reference/MODULES-PLAN.md` actualizados con estado final.
+8. **Lint + build**: 2 errores de ESLint corregidos (`PropertyGallery` hook condicional, `WarrantyForm` setState en effect). Build sin errores ni warnings.
+
+---
+
+## 8 · Pendientes futuros
+
+- **Datos de ubicaciones**: poblar `states/*.json` para los demás 37 estados (hoy solo Georgia tiene datos reales).
+- **Colores hardcodeados en CSS Modules**: `#333333` en `Header.module.css` / `Footer.module.css`, `#2D2C2C` en `SiteMap.module.css` y otros deben reemplazarse por variables CSS.
+- **Captcha**: integrar hCaptcha o reCAPTCHA v3 en el formulario de garantía antes de exponer el envío real.
+- **Formularios**: conectar a un backend (Formspree, EmailJS, API propia) para envío real de datos.
+- **Comunidades adicionales**: añadir datos reales en `communities/georgia/` para las demás comunidades del atlanta market (hoy solo `jackson-landing` tiene detalle completo).
+- **City select de RedTagForm**: el campo "City" está deshabilitado; requiere datos por área para habilitarse.
+- **"Text With Us"**: implementar con número SMS real o servicio de mensajería.
+- **Pruebas automáticas**: añadir Playwright e2e para validar rutas y formularios en CI.
