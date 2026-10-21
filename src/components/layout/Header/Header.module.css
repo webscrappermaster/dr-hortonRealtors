@@ -108,8 +108,10 @@
   flex-direction: column;
   justify-content: center;
   gap: 5px;
-  width: 28px;
-  height: 28px;
+  min-width: 44px;
+  min-height: 44px;
+  width: 44px;
+  height: 44px;
   padding: 0;
   background: none;
   border: none;
