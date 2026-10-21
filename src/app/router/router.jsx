@@ -13,7 +13,6 @@ import WhoWeArePage from '../../features/who-we-are'
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
-  { path: 'who-we-are',          title: 'Who we are' },
   { path: 'smart-home',          title: 'Smart home' },
   { path: 'red-tag-event',       title: 'Red Tag Event' },
   { path: 'real-estate-agents',  title: 'Real estate agents' },
@@ -36,6 +35,7 @@ export const router = createBrowserRouter([
         element: <ComingSoon title={title} />,
       })),
 
+      { path: 'who-we-are',    element: <WhoWeArePage /> },
       { path: 'services',      element: <ServicesPage /> },
       { path: 'customer-care', element: <CustomerCarePage /> },
       { path: 'careers',       element: <CareersPage /> },
