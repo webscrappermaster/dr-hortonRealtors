@@ -9,6 +9,10 @@
   box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
   overflow: hidden;
   background: var(--color-white);
+  /* Centrado explícito dentro del top layer */
+  margin: auto;
+  inset: 0;
+  position: fixed;
 }
 
 .dialog::backdrop {
@@ -62,12 +66,38 @@
 .body {
   flex: 1;
   display: flex;
+  flex-direction: column;
   overflow: hidden;
-  padding: var(--space-6);
 }
 
 .iframe {
+  flex: 1;
   width: 100%;
-  height: 100%;
   border: 0;
+  min-height: 0;
+}
+
+/* Fallback visible cuando el iframe no carga (X-Frame-Options, red, etc.) */
+.iframeFallback {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-hero-bg);
+  border-top: 1px solid var(--color-border-input);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+}
+
+.iframeFallbackLink {
+  color: var(--color-navy);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  font-weight: var(--font-weight-medium);
+  white-space: nowrap;
+}
+
+.iframeFallbackLink:hover {
+  color: var(--color-navy-dark);
 }

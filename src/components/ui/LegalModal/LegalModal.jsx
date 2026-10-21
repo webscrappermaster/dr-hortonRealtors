@@ -1,47 +1,52 @@
 import { useEffect, useRef } from 'react'
+import { createPortal } from 'react-dom'
 import { useBodyScrollLock } from '../../../hooks/useBodyScrollLock'
 import styles from './LegalModal.module.css'
 
-/* Modal legal con <dialog> nativo:
-   - Carga el notice en un iframe (misma URL de privacy-central.securiti.ai que
-     usa el original para su legal lightbox).
-   - Devuelve el foco al elemento que lo abrió al cerrarse.
-   - Escape y clic en el backdrop lo cierran (comportamiento nativo del <dialog>).
-   - Bloquea el scroll del body mientras está abierto. */
+/* Modal legal con <dialog> nativo.
+   - Renderiza en document.body (portal) para evitar conflictos con stacking contexts del footer.
+   - showModal() en un efecto sin deps: se llama una vez al montar y cierra al desmontar.
+   - Los listeners de cierre van en un efecto separado para no re-ejecutar showModal() cuando
+     el padre recrea closeModal (función nueva en cada render). */
 function LegalModal({ title, src, children, returnFocusTo, onClose }) {
   const dialogRef = useRef(null)
 
   useBodyScrollLock(true)
 
+  /* Apertura/cierre ligados solo al ciclo de vida del componente. */
+  useEffect(() => {
+    const dialog = dialogRef.current
+    if (!dialog) return
+    dialog.showModal()
+    return () => {
+      if (dialog.open) dialog.close()
+    }
+  }, [])
+
+  /* Listeners actualizados cuando cambian los callbacks del padre. */
   useEffect(() => {
     const dialog = dialogRef.current
     if (!dialog) return
 
-    if (!dialog.open) dialog.showModal()
-
     const handleClose = () => {
       onClose?.()
-      if (returnFocusTo?.current) returnFocusTo.current.focus()
+      returnFocusTo?.current?.focus()
     }
-
-    /* Clic fuera del contenido = sobre el backdrop. */
-    const handleClickOutside = (event) => {
-      if (event.target === dialog) dialog.close()
+    const handleClickOutside = (e) => {
+      if (e.target === dialog) dialog.close()
     }
 
     dialog.addEventListener('close', handleClose)
     dialog.addEventListener('click', handleClickOutside)
-
     return () => {
       dialog.removeEventListener('close', handleClose)
       dialog.removeEventListener('click', handleClickOutside)
-      if (dialog.open) dialog.close()
     }
   }, [onClose, returnFocusTo])
 
   const close = () => dialogRef.current?.close()
 
-  return (
+  return createPortal(
     <dialog ref={dialogRef} className={styles.dialog} aria-labelledby="legal-modal-title">
       <div className={styles.content}>
         <div className={styles.header}>
@@ -50,7 +55,7 @@ function LegalModal({ title, src, children, returnFocusTo, onClose }) {
             type="button"
             onClick={close}
             className={styles.closeButton}
-            aria-label="Close legal document"
+            aria-label="Cerrar documento legal"
           >
             ✕
           </button>
@@ -58,17 +63,30 @@ function LegalModal({ title, src, children, returnFocusTo, onClose }) {
 
         <div className={styles.body}>
           {children || (
-            <iframe
-              src={src}
-              title={title}
-              className={styles.iframe}
-              /* El original usa este mismo endpoint; se carga sin cookies de terceros. */
-              referrerPolicy="no-referrer"
-            />
+            <>
+              <iframe
+                src={src}
+                title={title}
+                className={styles.iframe}
+                referrerPolicy="no-referrer"
+              />
+              <div className={styles.iframeFallback}>
+                <span>¿No se carga el documento?</span>
+                <a
+                  href={src}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.iframeFallbackLink}
+                >
+                  Abrir en una pestaña nueva ↗
+                </a>
+              </div>
+            </>
           )}
         </div>
       </div>
-    </dialog>
+    </dialog>,
+    document.body,
   )
 }
 
