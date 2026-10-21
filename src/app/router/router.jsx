@@ -20,7 +20,10 @@ import GlobalMapPage from '../../features/globalmap'
 /* Rutas fijas → prioridad sobre las dinámicas de :state.
    Las slugs reservadas evitan colisiones con nombres de estados. */
 const FIXED_ROUTES = [
-  { path: 'epa-consent-decree', title: 'EPA Consent Decree' },
+  { path: 'epa-consent-decree',              title: 'EPA Consent Decree' },
+  { path: 'rentals/rentalinvestor',          title: 'Rental Investor' },
+  { path: 'documents-and-guides',            title: 'Documents and Guides' },
+  { path: 'contact-us---property-submittals', title: 'Property Submittals' },
 ]
 
 export const router = createBrowserRouter([
