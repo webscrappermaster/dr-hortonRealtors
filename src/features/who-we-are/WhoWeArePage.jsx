@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 import CollageGrid from '../../components/ui/CollageGrid'
 import CardGrid from '../../components/ui/CardGrid'
 import TileCard from '../../components/ui/TileCard'
+import SliderCards from '../../components/ui/SliderCards'
 import {
   topCollage,
   heroTitle,
@@ -40,23 +41,16 @@ function WhoWeArePage() {
           <h3 id="my-story" className={styles.storiesTitle}>
             {myStorySectionTitle}
           </h3>
-          <ul className={styles.storiesGrid}>
-            {myStoryCards.map(card => (
-              <li key={card.name} className={styles.storyCard}>
-                <div className={styles.storyImage}>
-                  <img src={card.image} alt={card.imageAlt} loading="lazy" />
-                </div>
-                <div className={styles.storyContent}>
-                  <p className={styles.storyQuote}>{card.quote}</p>
-                  <p className={styles.storyAuthor}>
-                    {card.name}
-                    <span aria-hidden="true">|</span>
-                    {card.state}
-                  </p>
-                </div>
-              </li>
-            ))}
-          </ul>
+          <SliderCards
+            cards={myStoryCards.map(card => ({
+              image: card.image,
+              imageAlt: card.imageAlt,
+              title: card.name,
+              description: card.quote,
+              subtitle: card.state,
+            }))}
+            visibleCount={3}
+          />
         </div>
       </section>
 
