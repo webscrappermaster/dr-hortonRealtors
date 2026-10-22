@@ -24,15 +24,26 @@ function AvailableHomeCard({ home }) {
     lot, status, isRte, imageUrl,
   } = home
 
-  const cardClass = status === 'under-contract'
+  const isUnderContract = status === 'under-contract'
+  const cardClass = isUnderContract
     ? `${styles.card} ${styles['card-under-contract']}`
     : styles.card
 
   return (
-    <article className={cardClass}>
+    <article
+      className={cardClass}
+      aria-label={isUnderContract && address ? `${address} — Under Contract` : undefined}
+    >
       {isRte && (
         <div className={styles.rteBadge} aria-label="Red Tag Event home">
           Red Tag Event
+        </div>
+      )}
+
+      {/* aria-hidden: el párrafo de status en el body ya lo anuncia a lectores de pantalla */}
+      {isUnderContract && (
+        <div className={styles.ucBadge} aria-hidden="true">
+          Under Contract
         </div>
       )}
 

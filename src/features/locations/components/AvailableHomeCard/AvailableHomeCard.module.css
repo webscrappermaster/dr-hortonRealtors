@@ -16,13 +16,31 @@
 /* ── Card under-contract ────────────────────────────────── */
 
 .card-under-contract {
-  opacity: 0.65;
   pointer-events: none;
 }
 
-.card-under-contract .imagePlaceholder,
-.card-under-contract .imageWrap {
-  position: relative;
+/* Solo atenúa la imagen; el texto queda al 100 % de contraste */
+.card-under-contract .imageWrap,
+.card-under-contract .imagePlaceholder {
+  opacity: 0.55;
+}
+
+/* ── Badge Under Contract ───────────────────────────────── */
+
+.ucBadge {
+  position: absolute;
+  top: var(--space-3);
+  left: var(--space-3);
+  z-index: 2;
+  background: var(--color-navy);
+  color: var(--color-white);
+  font-family: var(--font-sans);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: var(--letter-spacing-wide);
+  text-transform: uppercase;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-pill);
 }
 
 /* ── Badge RTE ─────────────────────────────────────────── */
