@@ -2,15 +2,21 @@
 // Parte 2 — crawl.js: recorre comunidades y extrae casas disponibles.
 //
 // Uso:
-//   node scripts/scrape/crawl.js                         # todos los estados
-//   node scripts/scrape/crawl.js --states=georgia        # solo Georgia
-//   node scripts/scrape/crawl.js --states=georgia,texas  # varios estados
+//   node scripts/scrape/crawl.js                          # todos los estados
+//   node scripts/scrape/crawl.js --states=georgia         # solo Georgia
+//   node scripts/scrape/crawl.js --states=georgia,texas   # varios estados
 //   node scripts/scrape/crawl.js --states=georgia --limit=5  # max 5 comunidades
-//   node scripts/scrape/crawl.js --refresh               # re-scrape aunque exista caché
+//   node scripts/scrape/crawl.js --refresh                # re-scrape aunque exista caché
+//
+// Ritmo (valores por defecto entre paréntesis):
+//   --delay-min=MS     delay mínimo entre páginas (12000)
+//   --delay-max=MS     delay máximo entre páginas (20000)
+//   --pause-every=N    páginas entre pausas largas (25)
+//   --pause-ms=MS      duración de la pausa larga  (300000 = 5 min)
 //
 // Salida:
 //   raw/{state}/{area}/{community}.json  → respuesta cruda (comunidad + casas)
-//   raw/progress.json                   → estado por URL (pending/done/blocked/error)
+//   raw/progress.json                   → estado por URL (pending/done/blocked/error/partial)
 //   raw/crawl.log                       → log de cada petición
 
 import { chromium } from 'playwright'
@@ -20,11 +26,13 @@ import path from 'node:path'
 import { statesIndex } from '../../src/features/locations/data/statesIndex.js'
 
 class BlockedError extends Error {
-  constructor(status, url) {
-    super(`Bloqueado [${status}] en ${url} — deteniendo crawl.`)
+  constructor(status, url, retryAfter) {
+    const ra = retryAfter ? ` Retry-After: ${retryAfter}s` : ''
+    super(`Bloqueado [${status}] en ${url} — deteniendo crawl.${ra}`)
     this.name = 'BlockedError'
     this.status = status
     this.url = url
+    this.retryAfter = retryAfter ?? null
   }
 }
 
@@ -37,11 +45,6 @@ const PROG_FILE  = path.join(RAW_DIR, 'progress.json')
 const LOG_FILE   = path.join(RAW_DIR, 'crawl.log')
 const BASE_URL   = 'https://www.drhorton.com'
 
-// Ritmo humano según el prompt
-const DELAY_MIN  = 4_000    // ms entre páginas
-const DELAY_MAX  = 8_000
-const PAUSE_EVERY = 50      // páginas antes de pausa larga
-const PAUSE_LONG = 60_000   // ms de pausa larga
 const MAX_RETRIES = 1
 
 // ──────────────────────────────────────────────────────────────────────────────
@@ -60,8 +63,14 @@ const args = Object.fromEntries(
 const filterStates = args.states
   ? args.states.split(',').map(s => s.trim().toLowerCase())
   : null
-const limitComms = args.limit ? parseInt(args.limit, 10) : Infinity
+const limitComms   = args.limit ? parseInt(args.limit, 10) : Infinity
 const forceRefresh = !!args.refresh
+
+// Ritmo — configurables por argumento; defaults conservadores tras el 429
+const DELAY_MIN   = args['delay-min']   ? parseInt(args['delay-min'],   10) : 12_000
+const DELAY_MAX   = args['delay-max']   ? parseInt(args['delay-max'],   10) : 20_000
+const PAUSE_EVERY = args['pause-every'] ? parseInt(args['pause-every'], 10) : 25
+const PAUSE_LONG  = args['pause-ms']    ? parseInt(args['pause-ms'],    10) : 300_000
 
 // ──────────────────────────────────────────────────────────────────────────────
 // Helpers
@@ -138,9 +147,10 @@ async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
     status = response?.status() ?? 0
 
     if (status === 403 || status === 429) {
-      await log(`BLOCKED [${status}] ${url}`)
+      const retryAfter = response?.headers()['retry-after'] ?? null
+      await log(`BLOCKED [${status}]${retryAfter ? ` Retry-After: ${retryAfter}s` : ''} ${url}`)
       progress[key] = 'blocked'
-      throw new BlockedError(status, url)
+      throw new BlockedError(status, url, retryAfter)
     }
 
     if (status !== 200) {
@@ -207,10 +217,11 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
       status = response?.status() ?? 0
 
       if (status === 403 || status === 429) {
-        await log(`BLOCKED [${status}] ${url}`)
+        const retryAfter = response?.headers()['retry-after'] ?? null
+        await log(`BLOCKED [${status}]${retryAfter ? ` Retry-After: ${retryAfter}s` : ''} ${url}`)
         progress[key] = 'blocked'
         await context.close()
-        throw new BlockedError(status, url)
+        throw new BlockedError(status, url, retryAfter)
       }
 
       if (status !== 200) {
@@ -345,6 +356,7 @@ async function main() {
   let commProcessed = 0
 
   let blocked = false
+  let blockedErr = null
 
   try {
     outer: for (const state of states) {
@@ -411,6 +423,7 @@ async function main() {
   } catch (err) {
     if (err instanceof BlockedError) {
       blocked = true
+      blockedErr = err
       await log(`\n⛔ Crawl detenido por bloqueo: ${err.message}`)
     } else {
       throw err
@@ -421,7 +434,13 @@ async function main() {
   }
 
   if (blocked) {
-    await log(`\n⛔ Crawl interrumpido por bloqueo. ${commProcessed} comunidades procesadas. Progreso guardado — vuelve a correr para reanudar.`)
+    const ra = blockedErr?.retryAfter
+      ? `  Retry-After: ${blockedErr.retryAfter}s (~${Math.ceil(blockedErr.retryAfter / 60)} min)\n`
+      : ''
+    await log(
+      `\n⛔ Crawl interrumpido por bloqueo. ${commProcessed} comunidades procesadas.\n` +
+      `${ra}  Progreso guardado — espera el tiempo indicado y vuelve a correr para reanudar.`,
+    )
   } else {
     await log(`\n✓ Crawl terminado. ${commProcessed} comunidades procesadas.`)
   }
