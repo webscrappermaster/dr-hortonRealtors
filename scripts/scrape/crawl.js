@@ -123,6 +123,9 @@ async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
     return null
   }
 
+  // Espera humana — solo antes de peticiones de red reales
+  await sleep(randomDelay())
+
   const start = Date.now()
   const context = await browser.newContext()
   const page = await context.newPage()
@@ -168,8 +171,11 @@ async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
   return result
 }
 
-// Extrae .available-home-card del HTML de la página de comunidad
-async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, communitySlug, progress, pageCount) {
+// Extrae .available-home-card del HTML de la página de comunidad.
+// - expectedCount: commAvailableHomes del área API; si el conteo no cuadra, reintenta una vez.
+// - Lanza BlockedError si el servidor responde 403 o 429.
+// - Guarda el mejor resultado visto entre intentos; marca 'partial' si sigue sin cuadrar.
+async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, communitySlug, progress, pageCount, expectedCount) {
   const url = `${BASE_URL}${commPageLink}`
   const key = `html:${stateSlug}/${areaSlug}/${communitySlug}`
 
@@ -184,9 +190,12 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
     await sleep(PAUSE_LONG)
   }
 
+  // Espera humana — solo antes de peticiones de red reales
+  await sleep(randomDelay())
+
   const start = Date.now()
   let status = 0
-  let homes = null
+  let bestHomes = null
   let attempts = 0
 
   while (attempts <= MAX_RETRIES) {
@@ -206,16 +215,19 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
 
       if (status !== 200) {
         await log(`ERROR [${status}] ${url}`)
-        progress[key] = 'error'
         await context.close()
         if (attempts < MAX_RETRIES) { attempts++; await sleep(randomDelay()); continue }
-        return null
+        break
       }
 
-      // Espera a que Sitecore hidrate el DOM
-      await sleep(4000)
+      // Espera al selector en vez de sleep fijo; si no aparece en 12s continúa con 0 tarjetas
+      try {
+        await page.waitForSelector('.available-home-card', { timeout: 12_000 })
+      } catch {
+        // timeout — el DOM no mostró tarjetas en 12s (puede ser página sin casas)
+      }
 
-      homes = await page.evaluate(() => {
+      const homes = await page.evaluate(() => {
         function parseCard(card) {
           const href = card.getAttribute('href') || null
           const innerText = card.innerText.replace(/\s+/g, ' ').trim()
@@ -268,9 +280,22 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
       })
 
       await context.close()
+
+      // Conserva el mejor resultado entre intentos
+      if (bestHomes === null || homes.length > bestHomes.length) bestHomes = homes
+
+      // Si el conteo no cuadra con el esperado, reintenta una vez
+      if (expectedCount > 0 && homes.length < expectedCount && attempts < MAX_RETRIES) {
+        await log(`  PARTIAL ${homes.length}/${expectedCount} tarjetas ${url} — reintentando`)
+        attempts++
+        await sleep(randomDelay())
+        continue
+      }
+
       break
 
     } catch (err) {
+      if (err instanceof BlockedError) throw err
       await log(`ERROR [${status}] ${url} — ${err.message.slice(0, 100)}`)
       await context.close()
       if (attempts < MAX_RETRIES) {
@@ -278,18 +303,28 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
         await sleep(randomDelay())
         continue
       }
-      progress[key] = 'error'
-      return null
+      break
     }
   }
 
+  if (bestHomes === null) {
+    progress[key] = 'error'
+    return null
+  }
+
   const elapsed = Date.now() - start
-  const count = homes?.length ?? 0
-  await log(`OK [${status}] ${elapsed}ms ${count} tarjetas ${url}`)
-  progress[key] = 'done'
+  const count = bestHomes.length
+
+  if (expectedCount > 0 && count < expectedCount) {
+    await log(`PARTIAL [${status}] ${elapsed}ms ${count}/${expectedCount} tarjetas ${url}`)
+    progress[key] = 'partial'
+  } else {
+    await log(`OK [${status}] ${elapsed}ms ${count} tarjetas ${url}`)
+    progress[key] = 'done'
+  }
   pageCount.value++
 
-  return homes
+  return bestHomes
 }
 
 // ──────────────────────────────────────────────────────────────────────────────
@@ -337,11 +372,9 @@ async function main() {
           const { stateSlug, areaSlug, citySlug, communitySlug } = parsePageLink(pageLink)
           if (!communitySlug) continue
 
-          // Espera humana entre páginas
-          await sleep(randomDelay())
-
           const homes = await fetchCommunityHomes(
             browser, pageLink, stateSlug, areaSlug, communitySlug, progress, pageCount,
+            comm.commAvailableHomes ?? 0,
           )
           await saveProgress(progress)
 
@@ -358,6 +391,7 @@ async function main() {
             areaSlug,
             citySlug,
             commName: comm.commName,
+            commAvailableHomes: comm.commAvailableHomes ?? null,
             commCoordsLat: comm.commCoordsLat,
             commCoordsLng: comm.commCoordsLng,
             commAddress: comm.commAddress,

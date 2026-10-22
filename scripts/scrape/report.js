@@ -100,6 +100,8 @@ async function main() {
     const available  = homes.filter(h => h.status === 'available').length
     const underCont  = homes.filter(h => h.status === 'under-contract').length
     const nullCounts = countNulls(homes)
+    const expected   = raw.commAvailableHomes ?? null
+    const partial    = expected != null && homes.length < expected
 
     totalComms++
     totalHomes        += homes.length
@@ -115,19 +117,23 @@ async function main() {
       slug:          file.replace('.json', ''),
       name:          raw.commName ?? '—',
       homes:         homes.length,
+      expected,
+      partial,
       available,
       underContract: underCont,
       scrapedAt:     raw.scrapedAt ?? '—',
     })
   }
 
-  // URLs bloqueadas / con error
-  const blocked = Object.entries(progress)
-    .filter(([, v]) => v === 'blocked')
-    .map(([k]) => k)
-  const errors = Object.entries(progress)
-    .filter(([, v]) => v === 'error')
-    .map(([k]) => k)
+  // URLs bloqueadas / con error / parciales
+  const blocked  = Object.entries(progress).filter(([, v]) => v === 'blocked').map(([k]) => k)
+  const errors   = Object.entries(progress).filter(([, v]) => v === 'error').map(([k]) => k)
+  const partials = Object.entries(progress).filter(([, v]) => v === 'partial').map(([k]) => k)
+
+  // Comunidades con discrepancia de conteo en los archivos guardados
+  const mismatches = Object.values(byState).flatMap(areas =>
+    Object.values(areas).flatMap(comms => comms.filter(c => c.partial))
+  )
 
   // ── Genera Markdown ──────────────────────────────────────────────────────────
 
@@ -146,6 +152,7 @@ async function main() {
   lines.push(`| Total tarjetas | ${totalHomes} |`)
   lines.push(`| Disponibles (move-in-ready) | ${totalAvailable} |`)
   lines.push(`| Bajo contrato | ${totalUnderContract} |`)
+  lines.push(`| Parciales (conteo < esperado) | ${mismatches.length} |`)
   lines.push(`| URLs bloqueadas (403/429) | ${blocked.length} |`)
   lines.push(`| URLs con error | ${errors.length} |`)
   lines.push(``)
@@ -177,13 +184,29 @@ async function main() {
       const areaTotal = comms.reduce((s, c) => s + c.homes, 0)
       lines.push(`#### ${area} (${areaTotal} tarjetas)`)
       lines.push(``)
-      lines.push(`| Comunidad | Tarjetas | Disponibles | Bajo contrato | Scrapeado |`)
-      lines.push(`|---|---|---|---|---|`)
+      lines.push(`| Comunidad | Tarjetas | Esperadas | Disponibles | Bajo contrato | Scrapeado |`)
+      lines.push(`|---|---|---|---|---|---|`)
       for (const c of comms.sort((a, b) => a.slug.localeCompare(b.slug))) {
-        lines.push(`| ${c.slug} | ${c.homes} | ${c.available} | ${c.underContract} | ${c.scrapedAt.slice(0, 10)} |`)
+        const mismatch = c.partial ? ' ⚠' : ''
+        const exp = c.expected != null ? String(c.expected) : '—'
+        lines.push(`| ${c.slug}${mismatch} | ${c.homes} | ${exp} | ${c.available} | ${c.underContract} | ${c.scrapedAt.slice(0, 10)} |`)
       }
       lines.push(``)
     }
+  }
+
+  // Parciales (tarjetas < esperadas)
+  if (mismatches.length > 0) {
+    lines.push(`## Parciales (tarjetas < esperadas)`)
+    lines.push(``)
+    lines.push(`Estas comunidades se re-scrapearan automáticamente (progress = 'partial').`)
+    lines.push(``)
+    lines.push(`| Comunidad | Tarjetas | Esperadas |`)
+    lines.push(`|---|---|---|`)
+    for (const c of mismatches) {
+      lines.push(`| ${c.slug} | ${c.homes} | ${c.expected} |`)
+    }
+    lines.push(``)
   }
 
   // URLs bloqueadas
@@ -202,11 +225,20 @@ async function main() {
     lines.push(``)
   }
 
+  // Parciales desde progress.json (distintos a los de los archivos)
+  if (partials.length > 0) {
+    lines.push(`## Entradas parciales en progress.json`)
+    lines.push(``)
+    for (const url of partials) lines.push(`- \`${url}\``)
+    lines.push(``)
+  }
+
   await writeFile(OUT_FILE, lines.join('\n'), 'utf8')
   console.log(`✓ Reporte generado → ${OUT_FILE}`)
   console.log(`  Comunidades: ${totalComms} | Tarjetas: ${totalHomes} | Disponibles: ${totalAvailable} | Bajo contrato: ${totalUnderContract}`)
-  if (blocked.length) console.log(`  ⚠ Bloqueadas: ${blocked.length}`)
-  if (errors.length)  console.log(`  ⚠ Errores:    ${errors.length}`)
+  if (mismatches.length) console.log(`  ⚠ Parciales:  ${mismatches.length}`)
+  if (blocked.length)    console.log(`  ⚠ Bloqueadas: ${blocked.length}`)
+  if (errors.length)     console.log(`  ⚠ Errores:    ${errors.length}`)
 }
 
 main().catch(err => {
