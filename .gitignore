@@ -15,6 +15,9 @@ dist-ssr
 # Capturas de comparación visual (generadas por scripts/screenshot.js)
 docs/reference/screenshots/
 
+# Datos crudos del scraper (no subir al repo — proyecto de práctica)
+docs/reference/scraping/raw/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
