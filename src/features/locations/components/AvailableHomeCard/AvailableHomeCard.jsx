@@ -24,8 +24,12 @@ function AvailableHomeCard({ home }) {
     lot, status, isRte, imageUrl,
   } = home
 
+  const cardClass = status === 'under-contract'
+    ? `${styles.card} ${styles['card-under-contract']}`
+    : styles.card
+
   return (
-    <article className={styles.card}>
+    <article className={cardClass}>
       {isRte && (
         <div className={styles.rteBadge} aria-label="Red Tag Event home">
           Red Tag Event

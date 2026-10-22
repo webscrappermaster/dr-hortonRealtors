@@ -150,13 +150,6 @@ async function mergeState(stateSlug) {
       const raw = rawMap[commSlug]
       const homes = (raw.homes ?? []).map(h => toCardFormat(h, raw.commAddress))
 
-      // Solo actualiza si actualmente es null o array vacío
-      if (comm.availableHomes != null && comm.availableHomes.length > 0) {
-        console.log(`    skip (ya tiene data) ${commSlug}`)
-        skipped++
-        continue
-      }
-
       comm.availableHomes = homes
       comm.availableHomesCount = homes.filter(h => h.status === 'available').length
 

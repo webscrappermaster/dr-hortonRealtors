@@ -15,8 +15,18 @@
 
 import { chromium } from 'playwright'
 import { mkdir, writeFile, readFile, appendFile } from 'node:fs/promises'
+import { existsSync } from 'node:fs'
 import path from 'node:path'
 import { statesIndex } from '../../src/features/locations/data/statesIndex.js'
+
+class BlockedError extends Error {
+  constructor(status, url) {
+    super(`Bloqueado [${status}] en ${url} — deteniendo crawl.`)
+    this.name = 'BlockedError'
+    this.status = status
+    this.url = url
+  }
+}
 
 // ──────────────────────────────────────────────────────────────────────────────
 // Config
@@ -94,13 +104,22 @@ function parsePageLink(commPageLink) {
 // Fetchers
 // ──────────────────────────────────────────────────────────────────────────────
 
-// Llama al endpoint JSON del área y devuelve CommunityData[]
+// Llama al endpoint JSON del área y devuelve CommunityData[]; guarda caché en disco.
+// Lanza BlockedError si el servidor responde 403 o 429.
 async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
   const url = `${BASE_URL}/api/comms/direct/${stateSlug}/${areaSlug}`
   const key = `api:${stateSlug}/${areaSlug}`
+  const cacheFile = path.join(RAW_DIR, stateSlug, areaSlug, '_area.json')
+
+  // Si ya está en caché en disco, carga directamente sin pedir de nuevo
+  if (!forceRefresh && existsSync(cacheFile)) {
+    await log(`SKIP (caché disco) ${url}`)
+    progress[key] = 'done'
+    return JSON.parse(await readFile(cacheFile, 'utf8'))
+  }
 
   if (!forceRefresh && progress[key] === 'done') {
-    await log(`SKIP (caché) ${url}`)
+    await log(`SKIP (caché progreso) ${url}`)
     return null
   }
 
@@ -118,7 +137,7 @@ async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
     if (status === 403 || status === 429) {
       await log(`BLOCKED [${status}] ${url}`)
       progress[key] = 'blocked'
-      return null
+      throw new BlockedError(status, url)
     }
 
     if (status !== 200) {
@@ -130,11 +149,16 @@ async function fetchAreaCommunities(browser, stateSlug, areaSlug, progress) {
     const body = await response.json()
     result = body
 
+    // Guarda caché en disco para poder reanudar sin repetir llamadas
+    await mkdir(path.dirname(cacheFile), { recursive: true })
+    await writeFile(cacheFile, JSON.stringify(body, null, 2), 'utf8')
+
     const elapsed = Date.now() - start
     await log(`OK [${status}] ${elapsed}ms ${url}`)
     progress[key] = 'done'
 
   } catch (err) {
+    if (err instanceof BlockedError) throw err
     await log(`ERROR [${status}] ${url} — ${err.message.slice(0, 100)}`)
     progress[key] = 'error'
   } finally {
@@ -177,7 +201,7 @@ async function fetchCommunityHomes(browser, commPageLink, stateSlug, areaSlug, c
         await log(`BLOCKED [${status}] ${url}`)
         progress[key] = 'blocked'
         await context.close()
-        return null
+        throw new BlockedError(status, url)
       }
 
       if (status !== 200) {
@@ -285,10 +309,12 @@ async function main() {
 
   let commProcessed = 0
 
+  let blocked = false
+
   try {
-    for (const state of states) {
+    outer: for (const state of states) {
       for (const area of state.markets) {
-        if (commProcessed >= limitComms) break
+        if (commProcessed >= limitComms) break outer
 
         await log(`\n=== ${state.name} / ${area.name} ===`)
 
@@ -303,7 +329,7 @@ async function main() {
         await log(`  ${communities.length} comunidades, ${withHomes.length} con casas disponibles`)
 
         for (const comm of withHomes) {
-          if (commProcessed >= limitComms) break
+          if (commProcessed >= limitComms) break outer
 
           const pageLink = comm.commPageLink
           if (!pageLink) continue
@@ -346,18 +372,25 @@ async function main() {
 
           commProcessed++
         }
-
-        if (commProcessed >= limitComms) break
       }
-
-      if (commProcessed >= limitComms) break
+    }
+  } catch (err) {
+    if (err instanceof BlockedError) {
+      blocked = true
+      await log(`\n⛔ Crawl detenido por bloqueo: ${err.message}`)
+    } else {
+      throw err
     }
   } finally {
     await browser.close()
     await saveProgress(progress)
   }
 
-  await log(`\n✓ Crawl terminado. ${commProcessed} comunidades procesadas.`)
+  if (blocked) {
+    await log(`\n⛔ Crawl interrumpido por bloqueo. ${commProcessed} comunidades procesadas. Progreso guardado — vuelve a correr para reanudar.`)
+  } else {
+    await log(`\n✓ Crawl terminado. ${commProcessed} comunidades procesadas.`)
+  }
 }
 
 main().catch(async err => {

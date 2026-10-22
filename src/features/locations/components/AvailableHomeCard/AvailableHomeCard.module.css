@@ -13,6 +13,18 @@
   box-shadow: var(--shadow-card-hover);
 }
 
+/* ── Card under-contract ────────────────────────────────── */
+
+.card-under-contract {
+  opacity: 0.65;
+  pointer-events: none;
+}
+
+.card-under-contract .imagePlaceholder,
+.card-under-contract .imageWrap {
+  position: relative;
+}
+
 /* ── Badge RTE ─────────────────────────────────────────── */
 
 .rteBadge {

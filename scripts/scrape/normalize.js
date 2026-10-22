@@ -69,7 +69,7 @@ function normalizeHome(card, meta) {
   // status: 'available' = tiene href; 'under-contract' explícito en card
   let status = null
   if (card.status === 'available') status = 'move-in-ready'
-  else if (card.status === 'under-contract') status = null
+  else if (card.status === 'under-contract') status = 'under-contract'
 
   return {
     id,
