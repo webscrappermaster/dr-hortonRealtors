@@ -129,8 +129,8 @@ function CommunityPage() {
           <section className={styles.section} id="available">
             <h2 className={styles.sectionTitle}>Available Homes</h2>
             <div className={styles.homesGrid}>
-              {community.availableHomes.map(home => (
-                <AvailableHomeCard key={home.address} home={home} />
+              {community.availableHomes.map((home, i) => (
+                <AvailableHomeCard key={home.address ?? `home-${i}`} home={home} />
               ))}
             </div>
           </section>
