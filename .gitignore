@@ -15,8 +15,9 @@ dist-ssr
 # Capturas de comparación visual (generadas por scripts/screenshot.js)
 docs/reference/screenshots/
 
-# Datos crudos del scraper (no subir al repo — proyecto de práctica)
+# Datos del scraper (no subir al repo — proyecto de práctica; los merges van en states/*.json)
 docs/reference/scraping/raw/
+docs/reference/scraping/homes-normalized.json
 
 # Editor directories and files
 .vscode/*
