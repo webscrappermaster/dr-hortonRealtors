@@ -283,7 +283,8 @@
             "lat": 33.702741,
             "lng": -84.382853,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30844-benteen-reserve/308440000-benteen-reserve/highres_benteen_reserve_model_web_04.jpg?sc=1&thn=1&w=336&rev=5a0d96a87f1a4621bbd5d3cb8630b0a7&hash=E6F1D6D52DD3207C7D4A88DCEB424EDC"
         },
         {
           "slug": "towns-at-monroe",
@@ -537,7 +538,8 @@
             "lat": 33.79266,
             "lng": -84.44801,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/21763-towns-at-monroe/217630000-towns-at-monroe/towns_at_monroe_web_01.jpg?sc=1&thn=1&w=336&rev=511217614c9343a588a576b3c56dbb95&hash=A1A2AF87D95726563E67F6DDBD25E53D"
         },
         {
           "slug": "ashwood-springs",
@@ -689,7 +691,8 @@
             "lat": 33.705434,
             "lng": -84.544076,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30834-ashwood-springs/308340000-ashwood-springs/towns_at_monroe_web_12.jpg?sc=1&thn=1&w=336&rev=44f5553667584ac28bc496a2bbd0c1f4&hash=246FBE5EB44FC8B47727F91BBD0E8740"
         },
         {
           "slug": "townes-at-asbury",
@@ -909,7 +912,8 @@
             "lat": 33.655199,
             "lng": -84.381774,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/44620-townes-at-asbury/446200000-townes-at-asbury/500kb_townes_exterior.jpg?sc=1&thn=1&w=336&rev=49b81f885e6641249cd1d39f61bac35c&hash=0C9EEC07AAB0B9AC49EB9B37D5A0323E"
         },
         {
           "slug": "villages-at-oakshire",
@@ -958,7 +962,8 @@
             "lat": 33.660973,
             "lng": -84.393475,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30864-villages-at-oakshire/308640000-villages-at-oakshire/cali_rendering_.jpg?sc=1&thn=1&w=336&rev=38458b94f1a247088044553c292d61d7&hash=19617806858ADD0C249894A17D0C57CB"
         },
         {
           "slug": "forest-valley",
@@ -995,7 +1000,8 @@
             "lat": 33.660361,
             "lng": -84.386502,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30824-forest-valley/308240000-forest-valley/liesyle.jpg?sc=1&thn=1&w=336&rev=9913f29391b843e29bff8f85bc09873b&hash=22431F3EAE9372891048AA9A33AD655F"
         },
         {
           "slug": "mableton-station",
@@ -1368,7 +1374,8 @@
             "lat": 33.815023,
             "lng": -84.553798,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/21779-mableton-station/308270000-mableton-station-cottages/mableton_station_townhome_model_web_01_-_edited.jpg?sc=1&thn=1&w=336&rev=d22b6dafdcb740e693dc67faf36a0bf0&hash=6BC976CB6B951D044372FDCF0772B7F1"
         },
         {
           "slug": "harvest-park",
@@ -1537,7 +1544,8 @@
             "lat": 33.690867,
             "lng": -84.248622,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/44593-harvest-park/445930000-harvest-park/exterior_model.jpg?sc=1&thn=1&w=336&rev=9de4f1c052364f8d98fbe775ecc14454&hash=5D7EB7DFD26C1D2AB34B2BFADB59C366"
         },
         {
           "slug": "creekview",
@@ -1689,7 +1697,8 @@
             "lat": 33.622488,
             "lng": -84.523908,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21743-creekview/217430000-creekview/creekview_model_exterior_images_8-18-26_04.jpg?sc=1&thn=1&w=336&rev=beeb3a9b7f4e49b98815c2d864a4b36a&hash=40BFDE62D1778B1EB866F5AD455FEB9A"
         },
         {
           "slug": "woodbury-park",
@@ -1892,7 +1901,8 @@
             "lat": 33.700272,
             "lng": -84.539348,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21706-woodbury-park/217060000-woodbury-park/woodbury_park_the_pearson_ii_model_011.jpg?sc=1&thn=1&w=336&rev=0279f3922dad425695e7790655f3009f&hash=A7E362AE5667477ECAAB22652DDDE1E6"
         },
         {
           "slug": "walden-ridge",
@@ -1996,7 +2006,8 @@
             "lat": 33.204432,
             "lng": -84.239735,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44707-fox-crossing/447070000-fox-crossing/cali_334_expedition_dr_lot_32_001_cropped.jpg?sc=1&thn=1&w=336&rev=41b9fdfe0f12430385731916a3a76b8c&hash=64AFCF06641629E6A8D82C73377C6312"
         },
         {
           "slug": "bridle-creek",
@@ -2182,7 +2193,8 @@
             "lat": 33.35046,
             "lng": -84.109119,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44607-bridle-creek/446070000-bridle-creek/halton_100_weymouth_dr_lot_125_004.jpg?sc=1&thn=1&w=336&rev=edd4bc927b2241f68194db9bc1f16ab3&hash=7DA2C47391AA99E002FCE634EFB70286"
         },
         {
           "slug": "evergreen-crossing",
@@ -2368,7 +2380,8 @@
             "lat": 33.345298,
             "lng": -84.104391,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/21694-locust-grove-elmstone/447110000-evergreen-crossing/evergreen_crossing_lot_111_savannah_1.jpg?sc=1&thn=1&w=336&rev=436daebb2b65419c9806bfff91b977c8&hash=46203519398E7DEFB1062E4E5755440C"
         },
         {
           "slug": "locust-grove-station---cedar-ridge",
@@ -2537,7 +2550,8 @@
             "lat": 33.351072,
             "lng": -84.116092,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44597-locust-grove-elmstone/445970000-cedar-ridge/cedar_ridge_lot_109_hayden_01.jpg?sc=1&thn=1&w=336&rev=8e6115a4d397426594d538450c0e03f3&hash=D78CCDF80F0ECD62C5772E32D574C736"
         },
         {
           "slug": "oak-ridge-meadows",
@@ -2723,7 +2737,8 @@
             "lat": 33.354719,
             "lng": -84.103564,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44640-locust-grove-elmstone/446400000-oak-ridge-meadows/arlington_c4_morning_mist_front.jpg?sc=1&thn=1&w=336&rev=9e584d820d7f405cb525203db192e382&hash=3EB9BF90E17F2B259AD97A4B5C15BF41"
         },
         {
           "slug": "kingston-ranch",
@@ -2772,7 +2787,8 @@
             "lat": 33.520284,
             "lng": -83.33353,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44678-kingston-ranch/446780000-kingston-ranch/kingston_ranch_at_lake_oconee_lot_2_the_grover_01_zoom.jpg?sc=1&thn=1&w=336&rev=d7a2c27943e2490a9803b414f902509c&hash=260C23E3E4B1F796668E8123D486AE83"
         },
         {
           "slug": "jackson-landing",
@@ -2821,7 +2837,8 @@
             "lat": 34.10082,
             "lng": -83.62191,
             "locationPrecision": "exact"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44629-jackson-landing/446290000-jackson-landing/kingston_ranch_at_lake_oconee_lot_14_the_denton_exteriors_001.jpg?sc=1&thn=1&w=336&rev=5c046ddf0a2e4047ae2a29b9768722cd&hash=45E92F5F1194B68A2D003213B4177D1A"
         },
         {
           "slug": "barrett-cove",
@@ -2857,7 +2874,7 @@
           },
           "sqftFrom": 1857,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30817-barrett-cove/308170000-barrett-cove/barrett_cove_model_web_03.jpg?sc=1&thn=1&w=336&rev=7245c4aa70f841bc9295052c5fc74e63&hash=ECADB1C1898398E855EB5412245DF471",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3025,7 +3042,7 @@
           },
           "sqftFrom": 2643,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21765-butner-estates/217650000-butner-estates/butner_estates_lot_33_grayson.jpg?sc=1&thn=1&w=336&rev=dff02d171c0f4743add813af16bdf25c&hash=638EE8BA66F13753FE4EF9BDBB793B30",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3210,7 +3227,7 @@
           },
           "sqftFrom": 2250,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21389-enclave-at-stonewall-tell/213890000-enclave-at-stonewall-tell/enclave_at_stonewall_tell_lot_41_the_kendal_2.jpg?sc=1&thn=1&w=336&rev=039720a45398429286b02dd793ef37ee&hash=177D6CB18C08A9BE472506167B4D2550",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3412,7 +3429,7 @@
           },
           "sqftFrom": 1862,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21764-fairhaven/217640000-fairhaven/fairhaven_lot_39_the_green_ext_01_2.jpg?sc=1&thn=1&w=336&rev=fe9200b374004a0c9ef11b8815261944&hash=EBA7253A18B65F71C30B0188DB88E77F",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3614,7 +3631,7 @@
           },
           "sqftFrom": 1857,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30853-marietta-reserve/308530000-marietta-reserve-th/rosewood_farm_salisbury_update_nov_web_12.jpg?sc=1&thn=1&w=336&rev=73cc9a5504f54162ad71fc864621b852&hash=0BE288FE5AA8D745970E2EC63CE8FD48",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3748,7 +3765,7 @@
           },
           "sqftFrom": 2308,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30836-overlook-at-peachtree-corners/308360000-overlook-at-peachtree-corners/rutherford_plan_.jpg?sc=1&thn=1&w=336&rev=dc42be1631564747a6a1cb0e1769d67c&hash=290C0C11046DCA811C87D65B6BD1B407",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -3933,7 +3950,7 @@
           },
           "sqftFrom": 1857,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21784-pointe-park/217840000-pointe-park/pointe_park_lot_50_the_belhaven_ext_01.jpg?sc=1&thn=1&w=336&rev=16500c5d7e2e4f3ea440b2df97d9ee5f&hash=FBB4DB7AB5DAE58ED9C2CE4FD46B5525",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4067,7 +4084,7 @@
           },
           "sqftFrom": 1518,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/44623-sherwood-manor/446230000-sherwood-manor/sherwood_manormodel_copy.jpg?sc=1&thn=1&w=336&rev=a0e89301639f44a8b15f7dcf1e8209cd&hash=DC8E47ADF8C47791FDC5FB051A11C741",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4303,7 +4320,7 @@
           },
           "sqftFrom": 1774,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/210-atlanta-west/21776-south-wind/218620000-south-wind-60s/south_wind_lot_8_the_elle_01_2.jpg?sc=1&thn=1&w=336&rev=876fb2ddd589461c993c024e5c17c50a&hash=9552FCC601A721EE2A2EB2AF66C8A81D",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4471,7 +4488,7 @@
           },
           "sqftFrom": 2175,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44714-teamon-pointe/447140000-teamon-pointe/000_frontexterior.jpg?sc=1&thn=1&w=336&rev=cb0371da63324a41ac1c438047df8993&hash=7728686D35C710A5D083707C4A5B1C72",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4588,7 +4605,7 @@
           },
           "sqftFrom": 2574,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30849-the-village-at-sandy-plains/308490000-the-village-at-sandy-plains/harbor_model.jpg?sc=1&thn=1&w=336&rev=3dc5ded4888a4ab7aca058051867d4e6&hash=9C30C0973703980CD982479646C1B8EF",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4688,7 +4705,7 @@
           },
           "sqftFrom": 1418,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/308-atlanta-central/30832-wellington-park/308320000-wellington-park/wellington4.jpg?sc=1&thn=1&w=336&rev=ac97dd7dca88499781aad2b71a340ed1&hash=2E28EFEFF88B22E875848DE1C66F1A1F",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -4890,7 +4907,7 @@
           },
           "sqftFrom": 1425,
           "cardImage": null,
-          "cardImageRemoteUrl": null,
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44568-youngs-crossing/445680000-youngs-crossing/youngs_crossing_the_pearson_model_upd_10-07-25_04.jpg?sc=1&thn=1&w=336&rev=8dba2961fcd445a294148fdf21d7db76&hash=E3A6EC8B7974AC219F85650AF5496A9E",
           "gallery": null,
           "about": null,
           "amenities": null,
@@ -5121,7 +5138,8 @@
             "lat": 32.586171,
             "lng": -83.655082,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44736-arlington-station/447360000-arlington-station/tatum_a1_prince_george_front.jpg?sc=1&thn=1&w=336&rev=4796d653b6064a72b4cc3ff5f9773a33&hash=A2A19520CC14D0AE250835366738D6E5"
         },
         {
           "slug": "cottages-at-blue-ridge",
@@ -5256,7 +5274,8 @@
             "lat": 32.544622,
             "lng": -83.593676,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44609-cottages-at-blue-ridge/446090000-cottages-at-blue-ridge/cottages_at_blue_ridge_new_phase.jpg?sc=1&thn=1&w=336&rev=d4b7ab00c2984640956a069af34d02d1&hash=AF4F8827606C61A6BAD8F394BD85727A"
         },
         {
           "slug": "remington-chase",
@@ -5391,7 +5410,8 @@
             "lat": 32.440068,
             "lng": -83.748603,
             "locationPrecision": "city"
-          }
+          },
+          "cardImageRemoteUrl": "https://www.drhorton.com/-/media/drhorton/productcatalog/214-atlanta-east-city/44721-remington-chase/447210000-remington-chase/remingtonchase_lot70a_edgewoodexpress_a_6.jpg?sc=1&thn=1&w=336&rev=b6ccace012c14997ad17a23782cf8c86&hash=7EF04118035011456D3A9140FEB377CD"
         },
         {
           "slug": "the-gables-at-agricultural-village",
