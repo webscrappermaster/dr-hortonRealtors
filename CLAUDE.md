@@ -114,6 +114,21 @@ Lo que se comparte entre dos o más módulos sube a:
 
 ---
 
+## Imágenes de comunidades scrapeadas (excepción temporal)
+
+Las comunidades scrapeadas usan `cardImageRemoteUrl` — una URL remota de `drhorton.com`
+almacenada en el JSON del estado. Esto es una excepción temporal a la regla de imágenes locales:
+
+- **Solo uso local** (desarrollo / preproducción). No publicar con URLs remotas de un dominio
+  ajeno en producción.
+- **Pendiente**: descargar las imágenes y reemplazar `cardImageRemoteUrl` por `cardImage`
+  (nombre de archivo local) antes de cualquier despliegue público.
+- La función `getCommunityImage(community)` en `locationLoader.js` abstrae la resolución:
+  primero usa `cardImageUrl` (imagen local curada), luego `cardImageRemoteUrl` (remota).
+  Cambiar a locales solo requiere poblar `cardImage` en el JSON y no tocar los componentes.
+
+---
+
 ## Pipeline de scraping
 
 Los datos de comunidades y casas disponibles se generan con cuatro scripts en `scripts/scrape/`.  
