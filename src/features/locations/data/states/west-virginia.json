@@ -80,7 +80,7 @@
               "stories": 2,
               "sqft": 2511,
               "lot": "0324",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -97,7 +97,7 @@
               "stories": 2,
               "sqft": 2169,
               "lot": "0328",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -114,7 +114,7 @@
               "stories": 1,
               "sqft": 1698,
               "lot": "0266",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -264,7 +264,7 @@
               "stories": 2,
               "sqft": 2340,
               "lot": "4093",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -281,7 +281,7 @@
               "stories": 2,
               "sqft": 2511,
               "lot": "4109",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -363,7 +363,7 @@
               "stories": 3,
               "sqft": 1763,
               "lot": "0367",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -380,7 +380,7 @@
               "stories": 1,
               "sqft": 1500,
               "lot": "0427",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -397,7 +397,7 @@
               "stories": 2,
               "sqft": 2148,
               "lot": "0417",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -414,7 +414,7 @@
               "stories": 2,
               "sqft": 1953,
               "lot": "0416",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -431,7 +431,7 @@
               "stories": 2,
               "sqft": 2148,
               "lot": "0361",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -790,7 +790,7 @@
               "stories": 2,
               "sqft": 2804,
               "lot": "0016",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -807,7 +807,7 @@
               "stories": 2,
               "sqft": 2384,
               "lot": "0032",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -824,7 +824,7 @@
               "stories": 3,
               "sqft": 2208,
               "lot": "0189",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -841,7 +841,7 @@
               "stories": 2,
               "sqft": 2154,
               "lot": "0015",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -858,7 +858,7 @@
               "stories": 3,
               "sqft": 2271,
               "lot": "0156",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -875,7 +875,7 @@
               "stories": 3,
               "sqft": 2208,
               "lot": "0185",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1123,7 +1123,7 @@
               "stories": 2,
               "sqft": 2148,
               "lot": "0089",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1140,7 +1140,7 @@
               "stories": 2,
               "sqft": 2466,
               "lot": "0098",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1239,7 +1239,7 @@
               "stories": 2,
               "sqft": 2980,
               "lot": "0073",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1256,7 +1256,7 @@
               "stories": 2,
               "sqft": 2677,
               "lot": "0074",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1338,7 +1338,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0006",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1355,7 +1355,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0010",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1372,7 +1372,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0004",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1389,7 +1389,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0008",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1406,7 +1406,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0012",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1423,7 +1423,7 @@
               "stories": 2,
               "sqft": 1431,
               "lot": "0002",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1573,7 +1573,7 @@
               "stories": 2,
               "sqft": 3567,
               "lot": "0155",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
@@ -1590,7 +1590,7 @@
               "stories": 2,
               "sqft": 3314,
               "lot": "0123",
-              "status": "available",
+              "status": "move-in-ready",
               "isRte": false,
               "image": null
             },
