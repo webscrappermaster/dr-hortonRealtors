@@ -29,6 +29,7 @@ function applySort(communities, sort) {
 function StatePage({ stateData }) {
   const allCommunities = stateData.markets?.flatMap(m => m.communities ?? []) ?? []
   const mapCenter = stateData.markets?.find(m => m.center)?.center ?? null
+  const totalHomes = allCommunities.reduce((sum, c) => sum + (c.availableHomes?.length ?? 0), 0)
 
   const [filters, setFilters]       = useState({ maxPrice: null, minBeds: null })
   const [sort, setSort]             = useState('price-asc')
@@ -79,12 +80,8 @@ function StatePage({ stateData }) {
             <Breadcrumbs items={breadcrumbs} />
 
             <h1 className={styles.h1}>
-              {stateData.totalResults != null ? (
-                <>{stateData.totalResults.toLocaleString()} new homes for sale
-                  {stateData.resultsRadiusMiles && (
-                    <> within {stateData.resultsRadiusMiles} miles of {stateData.name}</>
-                  )}
-                </>
+              {totalHomes > 0 ? (
+                <>{totalHomes.toLocaleString()} new homes for sale in {stateData.name}</>
               ) : (
                 <>New homes in {stateData.name}</>
               )}

@@ -29,6 +29,7 @@ function applySort(communities, sort) {
 function AreaPage({ stateData, areaData }) {
   const allCommunities = areaData.communities ?? []
   const mapCenter = areaData.center ?? null
+  const totalHomes = allCommunities.reduce((sum, c) => sum + (c.availableHomes?.length ?? 0), 0)
 
   const [filters, setFilters]         = useState({ maxPrice: null, minBeds: null })
   const [sort, setSort]               = useState('price-asc')
@@ -83,12 +84,9 @@ function AreaPage({ stateData, areaData }) {
               {areaData.heroTitle ?? `Find Your New Home in ${areaData.name}`}
             </h1>
 
-            {areaData.totalResults != null && (
+            {totalHomes > 0 && (
               <p className={styles.subtitle}>
-                {areaData.totalResults.toLocaleString()} new homes
-                {areaData.resultsRadiusMiles && (
-                  <> within {areaData.resultsRadiusMiles} miles</>
-                )}
+                {totalHomes.toLocaleString()} new homes available
               </p>
             )}
 
