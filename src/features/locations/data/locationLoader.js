@@ -62,6 +62,14 @@ export async function getState(slug) {
   return result
 }
 
+// Resuelve la imagen principal de una comunidad:
+//   1. Imagen local curada (cardImageUrl, resuelta por enrichCommunity)
+//   2. URL remota scrapeada (cardImageRemoteUrl, almacenada en el JSON del estado)
+// Cambiar a imágenes locales: solo actualizar enrichCommunity o poblar cardImage en el JSON.
+export function getCommunityImage(community) {
+  return community.cardImageUrl ?? community.cardImageRemoteUrl ?? null
+}
+
 // getArea y getCommunity reciben stateData directamente (ya cargado por getState)
 export function getArea(stateData, areaSlug) {
   return stateData?.markets?.find(m => m.slug === areaSlug) ?? null

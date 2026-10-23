@@ -1,4 +1,6 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
+import { getCommunityImage } from '../../data/locationLoader'
 import styles from './CommunityCard.module.css'
 
 const STATUS_LABEL = {
@@ -30,12 +32,15 @@ function StatItem({ value, label }) {
 }
 
 function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
+  const [imgFailed, setImgFailed] = useState(false)
+
   const {
     slug, name, stateSlug, areaSlug, citySlug, cityName,
     status, priceFrom, beds, baths, garages, sqftFrom,
-    availableHomesCount, cardImageUrl,
+    availableHomesCount,
   } = community
 
+  const imageSrc = getCommunityImage(community)
   const href = `/${stateSlug}/${areaSlug}/${citySlug}/${slug}`
 
   return (
@@ -45,8 +50,15 @@ function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
       onMouseLeave={onHoverEnd}
     >
       <Link to={href} className={styles.imageLink} tabIndex={-1} aria-hidden="true">
-        {cardImageUrl ? (
-          <img src={cardImageUrl} alt="" className={styles.image} loading="lazy" />
+        {imageSrc && !imgFailed ? (
+          <img
+            src={imageSrc}
+            alt=""
+            className={styles.image}
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={() => setImgFailed(true)}
+          />
         ) : (
           <div className={styles.imagePlaceholder} aria-hidden="true" />
         )}
