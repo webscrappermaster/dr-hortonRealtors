@@ -127,7 +127,6 @@
   margin: 0;
 }
 
-.status-available       { color: var(--color-status-coming-soon); }
 .status-move-in-ready   { color: var(--color-navy); }
 .status-under-contract  { color: var(--color-text-muted); }
 

@@ -141,7 +141,7 @@ async function hasCuratedHomes(stateSlug, communitySlug) {
 function toCardFormat(rawHome, commAddress, stateSlug, commSlug, index) {
   const { baths, garage, lotNumber, price, originalPrice, status } = rawHome
 
-  const cardStatus = status === 'available'       ? 'available'
+  const cardStatus = status === 'available'       ? 'move-in-ready'
     : status === 'under-contract' ? 'under-contract'
     : null
 
@@ -315,11 +315,12 @@ async function loadAreaRaw(stateSlug, areaSlug) {
       if (rawComm && !await hasCuratedHomes(stateSlug, comm.slug)) {
         const seenIds = new Set()
         const homes = (rawComm.homes ?? [])
+          .filter(h => h.status === 'available' || h.status === 'under-contract')
           .map((h, i) => toCardFormat(h, rawComm.commAddress, stateSlug, comm.slug, i))
           .filter(h => { if (seenIds.has(h.id)) return false; seenIds.add(h.id); return true })
         if (homes.length > 0) {
           comm.availableHomes = homes
-          comm.availableHomesCount = homes.filter(h => h.status === 'available').length
+          comm.availableHomesCount = homes.filter(h => h.status === 'move-in-ready').length
         }
       }
 
@@ -334,11 +335,12 @@ async function loadAreaRaw(stateSlug, areaSlug) {
       if (!await hasCuratedHomes(stateSlug, comm.slug)) {
         const seenIds = new Set()
         const homes = (raw.homes ?? [])
+          .filter(h => h.status === 'available' || h.status === 'under-contract')
           .map((h, i) => toCardFormat(h, raw.commAddress, stateSlug, comm.slug, i))
           .filter(h => { if (seenIds.has(h.id)) return false; seenIds.add(h.id); return true })
         if (homes.length > 0) {
           comm.availableHomes = homes
-          comm.availableHomesCount = homes.filter(h => h.status === 'available').length
+          comm.availableHomesCount = homes.filter(h => h.status === 'move-in-ready').length
         }
       }
 

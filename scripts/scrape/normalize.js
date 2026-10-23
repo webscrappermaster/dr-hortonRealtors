@@ -205,6 +205,8 @@ async function main() {
     }
 
     for (const card of raw.homes ?? []) {
+      // Excluye entradas sin estado reconocido (placeholders, coming-soon sin datos)
+      if (card.status !== 'available' && card.status !== 'under-contract') continue
       const home = normalizeHome(card, meta)
       allHomes.push(home)
       if (card.status === 'available') totalAvailable++

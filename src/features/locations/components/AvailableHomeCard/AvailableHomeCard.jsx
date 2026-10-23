@@ -1,9 +1,8 @@
 import styles from './AvailableHomeCard.module.css'
 
 const STATUS_LABEL = {
-  'available':       'Available',
-  'under-contract':  'Under Contract',
-  'move-in-ready':   'Move-In Ready',
+  'under-contract': 'Under Contract',
+  'move-in-ready':  'Move-In Ready',
 }
 
 function StatBadge({ value, label }) {
