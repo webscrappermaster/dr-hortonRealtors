@@ -31,3 +31,7 @@ docs/reference/scraping/REPORT.md
 *.sln
 *.sw?
 .claude/settings.local.json
+
+# Archivos comprimidos
+*.rar
+*.zip

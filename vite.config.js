@@ -19,5 +19,8 @@ export default defineConfig({
       /* Permitimos leer /src pero bloqueamos accidentes con /docs */
       allow: ['src', 'node_modules', 'public', 'index.html'],
     },
+    watch: {
+      ignored: ['**/docs/**'],
+    },
   },
 })
