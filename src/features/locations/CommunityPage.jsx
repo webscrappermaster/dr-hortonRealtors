@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useLoaderData } from 'react-router-dom'
 import NotFound from '../common/NotFound'
 import Breadcrumbs from '../../components/ui/Breadcrumbs'
@@ -11,6 +12,7 @@ import LotMapBanner from './components/LotMapBanner'
 import FloorPlanCard from './components/FloorPlanCard'
 import AvailableHomeCard from './components/AvailableHomeCard'
 import LocationMap from './components/LocationMap'
+import { getCommunityImage } from './data/locationLoader'
 import styles from './CommunityPage.module.css'
 
 function capitalize(str) {
@@ -20,9 +22,11 @@ function capitalize(str) {
 
 function CommunityPage() {
   const { community, areaLabel: loadedAreaLabel } = useLoaderData()
+  const [heroImgFailed, setHeroImgFailed] = useState(false)
   if (!community) return <NotFound />
 
   const areaLabel = loadedAreaLabel ?? capitalize(community.areaSlug)
+  const heroImageSrc = community.gallery?.length ? null : getCommunityImage(community)
 
   const hasDetail = !!(
     community.gallery?.length ||
@@ -45,6 +49,20 @@ function CommunityPage() {
       <div className={styles.container}>
 
         <Breadcrumbs items={breadcrumbs} />
+
+        {/* Imagen hero cuando no hay galería */}
+        {heroImageSrc && !heroImgFailed && (
+          <div className={styles.heroImageWrap}>
+            <img
+              src={heroImageSrc}
+              alt={community.name}
+              className={styles.heroImage}
+              loading="lazy"
+              referrerPolicy="no-referrer"
+              onError={() => setHeroImgFailed(true)}
+            />
+          </div>
+        )}
 
         {/* Galería */}
         {community.gallery?.length > 0 && (

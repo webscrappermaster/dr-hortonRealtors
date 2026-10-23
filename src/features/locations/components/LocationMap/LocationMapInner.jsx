@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import MapPlaceholder from '../MapPlaceholder'
+import { getCommunityImage } from '../../data/locationLoader'
 import styles from './LocationMap.module.css'
 
 /* ── Icono DivIcon para evitar el problema de rutas de Leaflet en Vite ── */
@@ -93,6 +94,16 @@ function LocationMapInner({
             }}
           >
             <Popup>
+              {getCommunityImage(comm) && (
+                <img
+                  src={getCommunityImage(comm)}
+                  alt=""
+                  className={styles.popupImg}
+                  loading="lazy"
+                  referrerPolicy="no-referrer"
+                  onError={e => { e.currentTarget.style.display = 'none' }}
+                />
+              )}
               <strong className={styles.popupName}>{comm.name}</strong>
               {comm.priceFrom && (
                 <span className={styles.popupPrice}>{formatPrice(comm.priceFrom)}</span>
