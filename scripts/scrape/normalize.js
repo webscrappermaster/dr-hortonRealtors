@@ -40,6 +40,23 @@ function slugFromHref(href) {
   return href.split('/').at(-1) ?? null
 }
 
+// Sufijos de dirección que deben quedar en mayúsculas ("506-circle-sw" → "506 Circle SW")
+const DIRECTION_SUFFIXES = new Set(['NE', 'NW', 'SE', 'SW', 'N', 'S', 'E', 'W'])
+
+function streetFromSlug(slug) {
+  if (!slug) return null
+  return slug
+    .split('-')
+    .filter(p => p.length > 0)
+    .map(p => {
+      const up = p.toUpperCase()
+      return DIRECTION_SUFFIXES.has(up)
+        ? up
+        : p.charAt(0).toUpperCase() + p.slice(1).toLowerCase()
+    })
+    .join(' ')
+}
+
 // Baths: 2 → { full: 2, half: 0 } | 2.5 → { full: 2, half: 1 }
 function normalizeBaths(raw) {
   if (raw == null) return { full: null, half: null }
@@ -59,7 +76,8 @@ function parseCommAddress(commAddress) {
 function normalizeHome(card, meta) {
   const { stateSlug, areaSlug, communitySlug, commCoordsLat, commCoordsLng, commAddress, scrapedAt, sourceUrl } = meta
 
-  const id = slugFromHref(card.href) ?? card.lotNumber ?? null
+  const qmisSlug    = slugFromHref(card.href)
+  const id          = qmisSlug ?? card.lotNumber ?? null
   const { city, state, zip } = parseCommAddress(commAddress)
 
   const homeSourceUrl = card.href
@@ -71,14 +89,20 @@ function normalizeHome(card, meta) {
   if (card.status === 'available') status = 'move-in-ready'
   else if (card.status === 'under-contract') status = 'under-contract'
 
+  const scrapedStreet  = card.street || null
+  const derivedStreet  = !scrapedStreet && qmisSlug ? streetFromSlug(qmisSlug) : null
+  const street         = scrapedStreet ?? derivedStreet
+  const addressSource  = scrapedStreet ? 'card' : (derivedStreet ? 'url' : null)
+
   return {
     id,
     address: {
-      street: card.street || null,
+      street,
       city,
       state,
       zip,
     },
+    addressSource,
     communitySlug,
     areaSlug,
     stateSlug,
@@ -188,10 +212,14 @@ async function main() {
     }
   }
 
-  // Agrupa por estado para mostrar estadísticas
+  // Agrupa por estado y addressSource para estadísticas
   const byState = {}
+  let srcCard = 0, srcUrl = 0, srcNull = 0
   for (const h of allHomes) {
     byState[h.stateSlug] = (byState[h.stateSlug] ?? 0) + 1
+    if (h.addressSource === 'card') srcCard++
+    else if (h.addressSource === 'url') srcUrl++
+    else srcNull++
   }
 
   console.log(`\nResumen de normalización:`)
@@ -200,6 +228,10 @@ async function main() {
   console.log(`  Casas disponibles   : ${totalAvailable}`)
   console.log(`  Bajo contrato       : ${totalUnderContract}`)
   console.log(`  Total tarjetas      : ${allHomes.length}`)
+  console.log(`\nDirección por fuente:`)
+  console.log(`  card (scrapeada)    : ${srcCard}`)
+  console.log(`  url  (reconstruida) : ${srcUrl}`)
+  console.log(`  null (sin dirección): ${srcNull}`)
   console.log(`\nPor estado:`)
   for (const [s, n] of Object.entries(byState)) {
     console.log(`  ${s}: ${n}`)

@@ -87,6 +87,27 @@ function sanitize(str) {
     .trim() || null
 }
 
+// ── Dirección desde slug ──────────────────────────────────────────────────────
+//
+// "688-asheton-drive" → "688 Asheton Drive"
+// "506-woodcreek-circle-sw" → "506 Woodcreek Circle SW"
+
+const DIRECTION_SUFFIXES = new Set(['NE', 'NW', 'SE', 'SW', 'N', 'S', 'E', 'W'])
+
+function streetFromSlug(slug) {
+  if (!slug) return null
+  return slug
+    .split('-')
+    .filter(p => p.length > 0)
+    .map(p => {
+      const up = p.toUpperCase()
+      return DIRECTION_SUFFIXES.has(up)
+        ? up
+        : p.charAt(0).toUpperCase() + p.slice(1).toLowerCase()
+    })
+    .join(' ')
+}
+
 // ── ID de casa ────────────────────────────────────────────────────────────────
 //
 // Orden de prioridad:
@@ -124,9 +145,12 @@ function toCardFormat(rawHome, commAddress, stateSlug, commSlug, index) {
     : status === 'under-contract' ? 'under-contract'
     : null
 
+  const qmisSlug = rawHome.href ? rawHome.href.split('/').at(-1) : null
+  const street   = rawHome.street || (qmisSlug ? streetFromSlug(qmisSlug) : null)
+
   return {
     id: buildHomeId(stateSlug, commSlug, rawHome.href, lotNumber, index),
-    address: rawHome.street ?? null,
+    address: street,
     cityStateZip: commAddress ?? null,
     planName: rawHome.planName ?? null,
     price: price ?? null,
