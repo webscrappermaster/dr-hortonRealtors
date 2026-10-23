@@ -29,10 +29,13 @@ function AvailableHomeCard({ home }) {
     ? `${styles.card} ${styles['card-under-contract']}`
     : styles.card
 
+  // Cuando no hay dirección scrapeada, mostramos "Lot X" como encabezado
+  const displayAddress = address ?? (lot ? `Lot ${lot}` : null)
+
   return (
     <article
       className={cardClass}
-      aria-label={isUnderContract && address ? `${address} — Under Contract` : undefined}
+      aria-label={isUnderContract && displayAddress ? `${displayAddress} — Under Contract` : undefined}
     >
       {isRte && (
         <div className={styles.rteBadge} aria-label="Red Tag Event home">
@@ -49,7 +52,7 @@ function AvailableHomeCard({ home }) {
 
       <div className={styles.imageWrap}>
         {imageUrl ? (
-          <img src={imageUrl} alt={address} className={styles.image} loading="lazy" />
+          <img src={imageUrl} alt={displayAddress ?? ''} className={styles.image} loading="lazy" />
         ) : (
           <div className={styles.imagePlaceholder} aria-hidden="true" />
         )}
@@ -57,7 +60,7 @@ function AvailableHomeCard({ home }) {
 
       <div className={styles.body}>
         <header className={styles.header}>
-          <h3 className={styles.address}>{address}</h3>
+          <h3 className={styles.address}>{displayAddress}</h3>
           {cityStateZip && <p className={styles.location}>{cityStateZip}</p>}
         </header>
 
@@ -90,7 +93,8 @@ function AvailableHomeCard({ home }) {
           )}
         </div>
 
-        {lot && <p className={styles.lot}>Lot {lot}</p>}
+        {/* Muestra lote solo cuando hay dirección para no duplicar con el encabezado */}
+        {lot && address && <p className={styles.lot}>Lot {lot}</p>}
       </div>
     </article>
   )
