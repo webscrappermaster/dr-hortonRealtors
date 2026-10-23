@@ -111,3 +111,60 @@ Lo que se comparte entre dos o más módulos sube a:
 | Utilidades | camelCase |
 | Archivos de data | camelCase (ej: `navLinks.js`) |
 | Variables CSS | kebab-case con prefijo semántico |
+
+---
+
+## Pipeline de scraping
+
+Los datos de comunidades y casas disponibles se generan con cuatro scripts en `scripts/scrape/`.  
+Los datos crudos (`docs/reference/scraping/raw/`) **no van al repositorio** (están en `.gitignore`).
+
+### Flujo completo
+
+```
+crawl.js          →  raw/<state>/<area>/<community>.json   (datos crudos)
+check-counts.js   →  consola                               (verificación antes de normalizar)
+normalize.js      →  homes-normalized.json                 (diagnóstico/reporte)
+merge.js          →  src/features/locations/data/states/   (JSONs de la app)
+report.js         →  docs/reference/scraping/REPORT.md     (tabla por comunidad)
+```
+
+### Ritmo seguro de crawl
+
+- Delay entre peticiones: **12–20 s** aleatorio
+- Pausa larga: **5 min** cada **25 páginas**
+- Cabeceras: `User-Agent` de navegador real, `Accept-Language: en-US`
+
+### Si el servidor devuelve 429 (Too Many Requests)
+
+1. Detener el crawl inmediatamente (`Ctrl+C`).
+2. Esperar el tiempo indicado en el header `Retry-After` (o 10 min si no viene).
+3. Reanudar desde el estado guardado: `node crawl.js --resume`.
+
+### Actualizar datos en el futuro
+
+```bash
+# 1. Crawl de todos los estados (puede tardar horas — usar --states=texas para uno solo)
+node scripts/scrape/crawl.js
+
+# 2. Verificar conteos antes de normalizar
+node scripts/scrape/check-counts.js
+
+# 3. Normalizar → diagnóstico
+node scripts/scrape/normalize.js
+
+# 4. Integrar en JSONs de la app (preserva datos curados en communities/)
+node scripts/scrape/merge.js
+
+# 5. Generar reporte
+node scripts/scrape/report.js
+```
+
+### Valores de `status` en casas
+
+| Valor | Significado | Origen |
+|---|---|---|
+| `move-in-ready` | Casa disponible con enlace qmis | Derivado de `available` del crawl |
+| `under-contract` | Casa reservada, sin enlace público | Directo del HTML |
+
+Nunca usar `available` como status en componentes o JSONs de la app — solo existe en el JSON crudo del crawl.

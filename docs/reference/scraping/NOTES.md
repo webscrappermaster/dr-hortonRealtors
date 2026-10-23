@@ -178,4 +178,85 @@ GET https://www.drhorton.com/{state}/{area}/{city}/{community}/qmis/{address-slu
 - `networkidle` nunca se resuelve en páginas de comunidad (Vimeo, chat widget, Google Ads generan tráfico infinito). Usar `domcontentloaded` + espera fija (~5 s).
 - Las páginas QMI individuales también bloquean `networkidle`. Mismo patrón.
 - Precios y disponibilidad cambian a diario — registrar `scrapedAt`.
-- Si el sitio devuelve 403/429, respetar y detener (ver reglas del prompt).
+- Si el sitio devuelve 403/429, respetar y detener (ver sección siguiente).
+
+---
+
+## Guía operativa del pipeline
+
+### Flujo completo
+
+```
+crawl.js          →  raw/<state>/<area>/<community>.json   (datos crudos, NO van a git)
+check-counts.js   →  consola                               (verifica archivos antes de normalizar)
+normalize.js      →  homes-normalized.json                 (diagnóstico y reporte de calidad)
+merge.js          →  src/features/locations/data/states/   (JSONs de producción de la app)
+report.js         →  REPORT.md                             (tabla detallada por comunidad)
+```
+
+> `raw/` está en `.gitignore` — nunca commitear datos crudos al repositorio.
+
+### Parámetros seguros de crawl (octubre 2026)
+
+| Parámetro | Valor |
+|---|---|
+| Delay entre requests | 12–20 s (aleatorio) |
+| Pausa larga | 5 min cada 25 páginas |
+| User-Agent | Chrome 124 real |
+| Accept-Language | en-US,en;q=0.9 |
+| Concurrencia | 1 (secuencial) |
+
+Crawl completo de 38 estados: ~8–10 horas. Usar `--states=texas` para un estado solo.
+
+### Ante un 429 (Too Many Requests)
+
+1. `Ctrl+C` — detener inmediatamente.
+2. Leer el header `Retry-After` de la respuesta; esperar ese tiempo (mínimo 10 min si no viene).
+3. Si hay IPs temporales bloqueadas, esperar al menos 30 min antes de reintentar.
+4. Reanudar: `node scripts/scrape/crawl.js --resume` — continúa desde la última comunidad guardada en `progress.json`.
+5. Si los 429 persisten, reducir la frecuencia: aumentar el delay mínimo a 20 s y la pausa a 10 min.
+
+### Actualizar datos en el futuro
+
+```bash
+# Crawl completo (o parcial con --states=georgia,texas)
+node scripts/scrape/crawl.js
+
+# Verificar que los conteos son razonables antes de continuar
+node scripts/scrape/check-counts.js
+
+# Normalizar y revisar calidad de datos (addressSource, nulls, etc.)
+node scripts/scrape/normalize.js
+
+# Integrar en los JSONs de la app
+# - Si el JSON del estado ya existe: agrega nuevas comunidades, actualiza homes
+# - Si no existe: crea el JSON desde statesIndex
+# - Respeta datos curados en src/features/locations/data/communities/
+node scripts/scrape/merge.js
+
+# Generar tabla de cobertura
+node scripts/scrape/report.js
+```
+
+Después de merge, hacer `npm run build` para verificar que no hay errores de chunk.
+
+### Valores de status en casas
+
+| Valor en raw (crawl) | Valor en app (card) | Descripción |
+|---|---|---|
+| `available` | `move-in-ready` | Tiene enlace qmis, precio visible |
+| `under-contract` | `under-contract` | Reservada, sin enlace ni precio |
+| `unknown` | excluido | Placeholder/coming-soon sin datos — se descarta en merge y normalize |
+
+### Calidad de datos (octubre 2026)
+
+| Métrica | Valor |
+|---|---|
+| Comunidades scrapeadas | 1 883 de 38 estados |
+| Casas totales en app | 19 810 |
+| Casas move-in-ready | ~13 000 |
+| Casas under-contract | ~6 700 |
+| Calles scrapeadas directamente | 5 931 (30%) |
+| Calles reconstruidas desde qmis slug | 7 373 (37%) |
+| Sin calle (under-contract sin enlace) | 6 737 (34%) |
+| IDs duplicados | 0 |
