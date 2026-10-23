@@ -1,0 +1,849 @@
+{
+  "slug": "idaho",
+  "name": "Idaho",
+  "aria": "Idaho",
+  "blurb": null,
+  "resultsRadiusMiles": null,
+  "totalResults": null,
+  "markets": [
+    {
+      "slug": "northern-idaho",
+      "name": "Northern Idaho",
+      "aria": "Northern-Idaho",
+      "stateSlug": "idaho",
+      "heroTitle": "Find Your New Home in Northern Idaho",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 47.60208,
+        "lng": -116.2491
+      },
+      "cities": [
+        "coeur-dalene",
+        "spokane-valley",
+        "spokane",
+        "deer-park"
+      ],
+      "communities": [
+        {
+          "slug": "pinewood",
+          "name": "Pinewood",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "coeur-dalene",
+          "cityName": "Coeur d'Alene",
+          "zip": "83814",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 499995,
+          "availableHomesCount": 5,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 3,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 3,
+            "max": 3
+          },
+          "sqftFrom": 1529,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "idaho-pinewood-lot-1405",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 499995,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1529,
+              "lot": "1405",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-pinewood-lot-1404",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 499995,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1529,
+              "lot": "1404",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-pinewood-lot-1403",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 499995,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1529,
+              "lot": "1403",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-pinewood-lot-1402",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 499995,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1529,
+              "lot": "1402",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-pinewood-lot-1401",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 559995,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 3,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1587,
+              "lot": "1401",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 47.6922,
+            "lng": -116.7989
+          }
+        },
+        {
+          "slug": "grand-mill",
+          "name": "Grand Mill",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "coeur-dalene",
+          "cityName": "Coeur d'Alene",
+          "zip": "83814",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Emerald Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 674995,
+          "availableHomesCount": 5,
+          "beds": {
+            "min": 4,
+            "max": 4
+          },
+          "baths": {
+            "min": 3.5,
+            "max": 3.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 3,
+            "max": 3
+          },
+          "sqftFrom": 1953,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "idaho-grand-mill-lot-0105",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 869995,
+              "wasPrice": 1299995,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 2166,
+              "lot": "0105",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0104",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 819995,
+              "wasPrice": 1249995,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1953,
+              "lot": "0104",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0103",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 819995,
+              "wasPrice": 1249995,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1953,
+              "lot": "0103",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0102",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 854995,
+              "wasPrice": 1254995,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1953,
+              "lot": "0102",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0402",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": 674995,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1953,
+              "lot": "0402",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0404",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 2166,
+              "lot": "0404",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "idaho-grand-mill-lot-0403",
+              "address": null,
+              "cityStateZip": "Coeur d'Alene, ID 83814",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 3.5,
+              "garages": 2,
+              "stories": 3,
+              "sqft": 1953,
+              "lot": "0403",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 47.70062,
+            "lng": -116.84
+          }
+        },
+        {
+          "slug": "meyer-meadows",
+          "name": "Meyer Meadows",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "coeur-dalene",
+          "cityName": "Rathdrum",
+          "zip": "83858",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "coming-soon",
+          "tag": null,
+          "priceFrom": 0,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 0,
+            "max": 0
+          },
+          "baths": {
+            "min": 0,
+            "max": 0
+          },
+          "garages": {
+            "min": 0,
+            "max": 0
+          },
+          "stories": {
+            "min": 0,
+            "max": 0
+          },
+          "sqftFrom": 0,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.7898,
+            "lng": -116.8834
+          }
+        },
+        {
+          "slug": "vistas-at-mica-view",
+          "name": "Vistas at Mica View",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane-valley",
+          "cityName": "Spokane Valley",
+          "zip": "99037",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 449995,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1481,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.6343,
+            "lng": -117.2089
+          }
+        },
+        {
+          "slug": "elk-meadows-estates",
+          "name": "Elk Meadows Estates",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99206",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 399995,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1440,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.62528,
+            "lng": -117.2282
+          }
+        },
+        {
+          "slug": "sekani-west",
+          "name": "Sekani West",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99217",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "sold-out",
+          "tag": null,
+          "priceFrom": 399995,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 3,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1864,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.68585,
+            "lng": -117.3333
+          }
+        },
+        {
+          "slug": "sekani-west-townhomes",
+          "name": "Sekani West Townhomes",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99217",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 304995,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2,
+            "max": 2
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1337,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.6856,
+            "lng": -117.3339
+          }
+        },
+        {
+          "slug": "meadowlane-greens",
+          "name": "Meadowlane Greens",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99224",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 434995,
+          "availableHomesCount": 7,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1744,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.5989,
+            "lng": -117.4155
+          }
+        },
+        {
+          "slug": "latah-glen",
+          "name": "Latah Glen",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99224",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 407995,
+          "availableHomesCount": 6,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1290,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.621,
+            "lng": -117.4388
+          }
+        },
+        {
+          "slug": "meadowlark-landing",
+          "name": "Meadowlark Landing",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "spokane",
+          "cityName": "Spokane",
+          "zip": "99224",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "coming-soon",
+          "tag": null,
+          "priceFrom": 0,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 0,
+            "max": 0
+          },
+          "baths": {
+            "min": 0,
+            "max": 0
+          },
+          "garages": {
+            "min": 0,
+            "max": 0
+          },
+          "stories": {
+            "min": 0,
+            "max": 0
+          },
+          "sqftFrom": 0,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.6035,
+            "lng": -117.5243
+          }
+        },
+        {
+          "slug": "shamrock-glen",
+          "name": "Shamrock Glen",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "deer-park",
+          "cityName": "Deer Park",
+          "zip": "99006",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 364995,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1317,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.95418,
+            "lng": -117.4494
+          }
+        },
+        {
+          "slug": "country-club-estates",
+          "name": "Country Club Estates",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "deer-park",
+          "cityName": "Deer Park",
+          "zip": "99006",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 414995,
+          "availableHomesCount": 5,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1481,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.9603,
+            "lng": -117.4488
+          }
+        },
+        {
+          "slug": "dalton-creek",
+          "name": "Dalton Creek",
+          "stateSlug": "idaho",
+          "areaSlug": "northern-idaho",
+          "citySlug": "deer-park",
+          "cityName": "Deer Park",
+          "zip": "99006",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 359995,
+          "availableHomesCount": 4,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1284,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 47.94217,
+            "lng": -117.4685
+          }
+        }
+      ]
+    }
+  ]
+}

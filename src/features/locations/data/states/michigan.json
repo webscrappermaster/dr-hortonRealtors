@@ -1,0 +1,1002 @@
+{
+  "slug": "michigan",
+  "name": "Michigan",
+  "aria": "Michigan",
+  "blurb": null,
+  "resultsRadiusMiles": null,
+  "totalResults": null,
+  "markets": [
+    {
+      "slug": "detroit",
+      "name": "Detroit",
+      "aria": "Detroit",
+      "stateSlug": "michigan",
+      "heroTitle": "New build homes in Detroit",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 42.5888,
+        "lng": -83.49775
+      },
+      "cities": [
+        "independence-township",
+        "fenton",
+        "oxford-township",
+        "sterling-heights",
+        "goodrich",
+        "grand-blanc",
+        "metamora",
+        "davison",
+        "lapeer",
+        "chesterfield-township"
+      ],
+      "communities": [
+        {
+          "slug": "eagle-ridge-estates",
+          "name": "Eagle Ridge Estates",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "independence-township",
+          "cityName": "Independence Township",
+          "zip": "48348",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 489900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1712,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 42.72001,
+            "lng": -83.33891
+          }
+        },
+        {
+          "slug": "whispering-pines-village",
+          "name": "Whispering Pines Village",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "fenton",
+          "cityName": "Fenton",
+          "zip": "48430",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 321651,
+          "availableHomesCount": 9,
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 3,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1800,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "michigan-whispering-pines-village-lot-11",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 321651,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "11",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-13",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 339900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "13",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-14",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 344629,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "14",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-15",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 339900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "15",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-16",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 339900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "16",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-17",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 349900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "17",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-18",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 349900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "18",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-19",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 349900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "19",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-whispering-pines-village-lot-20",
+              "address": null,
+              "cityStateZip": "Fenton, MI 48430",
+              "planName": null,
+              "price": 349900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1800,
+              "lot": "20",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 42.80687,
+            "lng": -83.70432
+          }
+        },
+        {
+          "slug": "sanctuary-hills",
+          "name": "Sanctuary Hills",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "oxford-township",
+          "cityName": "Oxford",
+          "zip": "48371",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 499900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1712,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 42.81029,
+            "lng": -83.23344
+          }
+        },
+        {
+          "slug": "warner-meadows",
+          "name": "Warner Meadows",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "sterling-heights",
+          "cityName": "Sterling Heights",
+          "zip": "48310",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 434900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 2,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1408,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 42.54597,
+            "lng": -83.07952
+          }
+        },
+        {
+          "slug": "goodrich-meadows",
+          "name": "Goodrich Meadows",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "goodrich",
+          "cityName": "Goodrich",
+          "zip": "48438",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 349900,
+          "availableHomesCount": 10,
+          "beds": {
+            "min": 2,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1408,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "michigan-goodrich-meadows-lot-78",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 439900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2205,
+              "lot": "78",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-37",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 534900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2824,
+              "lot": "37",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-75",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 349900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "75",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-34",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 374800,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "34",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-74",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 367700,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "74",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-33",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 378700,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "33",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-35",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 397252,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "35",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-64",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 449900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2,
+              "garages": 3,
+              "stories": 1,
+              "sqft": 1712,
+              "lot": "64",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-20",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 449900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2,
+              "garages": 3,
+              "stories": 1,
+              "sqft": 1712,
+              "lot": "20",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-goodrich-meadows-lot-31",
+              "address": null,
+              "cityStateZip": "Goodrich, MI 48438",
+              "planName": null,
+              "price": 369700,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1900,
+              "lot": "31",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 42.90985,
+            "lng": -83.4985
+          }
+        },
+        {
+          "slug": "cambridge-park-north-ii",
+          "name": "Cambridge Park North II",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "grand-blanc",
+          "cityName": "Grand Blanc Township",
+          "zip": "48439",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 389900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 2,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1408,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 42.94059,
+            "lng": -83.63029
+          }
+        },
+        {
+          "slug": "steeplechase",
+          "name": "Steeplechase",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "metamora",
+          "cityName": "Metamora Township",
+          "zip": "48439",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 599900,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 2286,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "michigan-steeplechase-lot-25",
+              "address": null,
+              "cityStateZip": "Metamora Township, MI 48439",
+              "planName": null,
+              "price": 624900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2824,
+              "lot": "25",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 42.92796,
+            "lng": -83.29823
+          }
+        },
+        {
+          "slug": "irish-farms",
+          "name": "Irish Farms",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "davison",
+          "cityName": "Davidson",
+          "zip": "48423",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "coming-soon",
+          "tag": null,
+          "priceFrom": 0,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 0,
+            "max": 0
+          },
+          "baths": {
+            "min": 0,
+            "max": 0
+          },
+          "garages": {
+            "min": 0,
+            "max": 0
+          },
+          "stories": {
+            "min": 0,
+            "max": 0
+          },
+          "sqftFrom": 0,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 43.0448,
+            "lng": -83.56729
+          }
+        },
+        {
+          "slug": "devonshire-place",
+          "name": "Devonshire Place",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "lapeer",
+          "cityName": "Lapeer",
+          "zip": "48446",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 346401,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 2,
+            "max": 2
+          },
+          "baths": {
+            "min": 2,
+            "max": 2
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 1
+          },
+          "sqftFrom": 1527,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "michigan-devonshire-place-lot-30",
+              "address": null,
+              "cityStateZip": "Lapeer, MI 48446",
+              "planName": null,
+              "price": 346401,
+              "wasPrice": null,
+              "beds": 2,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1527,
+              "lot": "30",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 43.0513,
+            "lng": -83.3493
+          }
+        },
+        {
+          "slug": "woodland-meadows",
+          "name": "Woodland Meadows",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "chesterfield-township",
+          "cityName": "Chesterfield Township",
+          "zip": "48047",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 444900,
+          "availableHomesCount": 5,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1712,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "michigan-woodland-meadows-lot-26",
+              "address": null,
+              "cityStateZip": "Chesterfield Township, MI 48047",
+              "planName": null,
+              "price": 574900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2824,
+              "lot": "26",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-woodland-meadows-lot-24",
+              "address": null,
+              "cityStateZip": "Chesterfield Township, MI 48047",
+              "planName": null,
+              "price": 499900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2,
+              "garages": 3,
+              "stories": 1,
+              "sqft": 1712,
+              "lot": "24",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-woodland-meadows-lot-23",
+              "address": null,
+              "cityStateZip": "Chesterfield Township, MI 48047",
+              "planName": null,
+              "price": 474900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2205,
+              "lot": "23",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-woodland-meadows-lot-16",
+              "address": null,
+              "cityStateZip": "Chesterfield Township, MI 48047",
+              "planName": null,
+              "price": 599900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2824,
+              "lot": "16",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "michigan-woodland-meadows-lot-12",
+              "address": null,
+              "cityStateZip": "Chesterfield Township, MI 48047",
+              "planName": null,
+              "price": 524900,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 3,
+              "stories": 2,
+              "sqft": 2438,
+              "lot": "12",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 42.69016,
+            "lng": -82.78457
+          }
+        },
+        {
+          "slug": "forestview-estates",
+          "name": "Forestview Estates",
+          "stateSlug": "michigan",
+          "areaSlug": "detroit",
+          "citySlug": "chesterfield-township",
+          "cityName": "Chesterfield Township",
+          "zip": "48047",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 454900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1712,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 42.69093,
+            "lng": -82.77821
+          }
+        }
+      ]
+    }
+  ]
+}

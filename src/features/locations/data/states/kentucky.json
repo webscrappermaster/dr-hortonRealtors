@@ -1,0 +1,2788 @@
+{
+  "slug": "kentucky",
+  "name": "Kentucky",
+  "aria": "Kentucky",
+  "blurb": null,
+  "resultsRadiusMiles": null,
+  "totalResults": null,
+  "markets": [
+    {
+      "slug": "lexington-area",
+      "name": "Lexington Area",
+      "aria": "Lexington-Area",
+      "stateSlug": "kentucky",
+      "heroTitle": "Homes in the Lexington, Kentucky",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 38.04798,
+        "lng": -84.50164
+      },
+      "cities": [
+        "georgetown",
+        "richmond",
+        "eminence"
+      ],
+      "communities": [
+        {
+          "slug": "oxford-reserve",
+          "name": "Oxford Reserve",
+          "stateSlug": "kentucky",
+          "areaSlug": "lexington-area",
+          "citySlug": "georgetown",
+          "cityName": "Georgetown",
+          "zip": "40324",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 375900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1600,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.23265,
+            "lng": -84.51621
+          }
+        },
+        {
+          "slug": "carriage-place",
+          "name": "Carriage Place",
+          "stateSlug": "kentucky",
+          "areaSlug": "lexington-area",
+          "citySlug": "richmond",
+          "cityName": "Richmond",
+          "zip": "40475",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": null,
+          "tag": null,
+          "priceFrom": 297891,
+          "availableHomesCount": 6,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-carriage-place-1001-carriage-place-drive",
+              "address": "1001 Carriage Place Drive",
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 356301,
+              "wasPrice": 373409,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "0001",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-1005-carriage-place-drive",
+              "address": "1005 Carriage Place Drive",
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 297891,
+              "wasPrice": 324535,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1501,
+              "lot": "0002",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-1045-carriage-place-drive",
+              "address": "1045 Carriage Place Drive",
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 366647,
+              "wasPrice": 379345,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "0011",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-1049-carriage-place-drive",
+              "address": "1049 Carriage Place Drive",
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 318354,
+              "wasPrice": 339700,
+              "beds": 3,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1498,
+              "lot": "0012",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0015",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 318354,
+              "wasPrice": 339700,
+              "beds": 3,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1498,
+              "lot": "0015",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0055",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": 337491,
+              "wasPrice": 362929,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1771,
+              "lot": "0055",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0013",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "0013",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0014",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "0014",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0056",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "0056",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-carriage-place-lot-0050",
+              "address": null,
+              "cityStateZip": "Richmond, KY 40475",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "0050",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 37.71999,
+            "lng": -84.2683
+          }
+        },
+        {
+          "slug": "arbor-view",
+          "name": "Arbor View",
+          "stateSlug": "kentucky",
+          "areaSlug": "lexington-area",
+          "citySlug": "eminence",
+          "cityName": "Eminence",
+          "zip": "40019",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 259900,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.36141,
+            "lng": -85.16721
+          }
+        }
+      ]
+    },
+    {
+      "slug": "louisville",
+      "name": "Louisville",
+      "aria": "Louisville",
+      "stateSlug": "kentucky",
+      "heroTitle": "Welcome to Louisville, KY",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 38.24622,
+        "lng": -85.83554
+      },
+      "cities": [
+        "new-albany",
+        "jeffersonville",
+        "louisville",
+        "brooks",
+        "memphis",
+        "shepherdsville",
+        "elizabethtown",
+        "shelbyville",
+        "eminence"
+      ],
+      "communities": [
+        {
+          "slug": "koehler-woods",
+          "name": "Koehler Woods",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "new-albany",
+          "cityName": "New Albany",
+          "zip": "47150",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 290900,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1257,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.34216,
+            "lng": -85.79531
+          }
+        },
+        {
+          "slug": "middle-road-commons",
+          "name": "Middle Road Commons",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "jeffersonville",
+          "cityName": "Jeffersonville",
+          "zip": "47130",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 273900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1257,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.31646,
+            "lng": -85.69888
+          }
+        },
+        {
+          "slug": "orell-station",
+          "name": "Orell Station",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "louisville",
+          "cityName": "Louisville",
+          "zip": "40272",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 298900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-orell-station-12509-railcar-road",
+              "address": "12509 Railcar Road",
+              "cityStateZip": "Louisville, KY 40272",
+              "planName": null,
+              "price": 336965,
+              "wasPrice": 339355,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "44",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-orell-station-7054-train-station-way",
+              "address": "7054 Train Station Way",
+              "cityStateZip": "Louisville, KY 40272",
+              "planName": null,
+              "price": 327591,
+              "wasPrice": 336480,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "19",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-orell-station-7055-train-station-way",
+              "address": "7055 Train Station Way",
+              "cityStateZip": "Louisville, KY 40272",
+              "planName": null,
+              "price": 317691,
+              "wasPrice": 330505,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "42",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-orell-station-lot-46",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40272",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1498,
+              "lot": "46",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-orell-station-lot-45",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40272",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1771,
+              "lot": "45",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 38.08147,
+            "lng": -85.89719
+          }
+        },
+        {
+          "slug": "coral-ridge-springs",
+          "name": "Coral Ridge Springs",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "brooks",
+          "cityName": "Brooks",
+          "zip": "40109",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 303900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.05775,
+            "lng": -85.71469
+          }
+        },
+        {
+          "slug": "hidden-forest",
+          "name": "Hidden Forest",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "louisville",
+          "cityName": "Louisville",
+          "zip": "40229",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 329900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1818,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.08727,
+            "lng": -85.64514
+          }
+        },
+        {
+          "slug": "cedar-brook",
+          "name": "Cedar Brook",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "louisville",
+          "cityName": "Louisville",
+          "zip": "40229",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 323900,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-cedar-brook-8200-cedar-pointe-drive",
+              "address": "8200 Cedar Pointe Drive",
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": 420000,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "58",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-49",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "49",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-25",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2904,
+              "lot": "25",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-24",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "24",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-21",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "21",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-20",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "20",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-19",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "19",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cedar-brook-lot-18",
+              "address": null,
+              "cityStateZip": "Louisville, KY 40229",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "18",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 38.10681,
+            "lng": -85.61006
+          }
+        },
+        {
+          "slug": "champions-run",
+          "name": "Champions Run",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "memphis",
+          "cityName": "Memphis",
+          "zip": "47143",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 291900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 4,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1953,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.49144,
+            "lng": -85.77826
+          }
+        },
+        {
+          "slug": "highland-meadows",
+          "name": "Highland Meadows",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "shepherdsville",
+          "cityName": "Shepherdsville",
+          "zip": "40165",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 277900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-highland-meadows-227-cupp-circle",
+              "address": "227 Cupp Circle",
+              "cityStateZip": "Shepherdsville, KY 40165",
+              "planName": null,
+              "price": 279398,
+              "wasPrice": 282220,
+              "beds": 3,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1498,
+              "lot": "97",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-highland-meadows-261-cupp-circle",
+              "address": "261 Cupp Circle",
+              "cityStateZip": "Shepherdsville, KY 40165",
+              "planName": null,
+              "price": 304717,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "95",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-highland-meadows-273-cupp-circle",
+              "address": "273 Cupp Circle",
+              "cityStateZip": "Shepherdsville, KY 40165",
+              "planName": null,
+              "price": 309555,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1771,
+              "lot": "0094",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-highland-meadows-lot-96",
+              "address": null,
+              "cityStateZip": "Shepherdsville, KY 40165",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "96",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 38.0126,
+            "lng": -85.72331
+          }
+        },
+        {
+          "slug": "cowley-farms",
+          "name": "Cowley Farms",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "elizabethtown",
+          "cityName": "Elizabethtown",
+          "zip": "42701",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 304900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 2053,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-cowley-farms-161-saratoga-lane",
+              "address": "161 Saratoga Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 311751,
+              "wasPrice": 320920,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "10",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-241-saratoga-lane",
+              "address": "241 Saratoga Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 313731,
+              "wasPrice": 335065,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "15",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-39-saratoga-lane",
+              "address": "39 Saratoga Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 327591,
+              "wasPrice": 320834,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "2",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-8",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "8",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-11",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "11",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-12",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "12",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-13",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "13",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-14",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "14",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-cowley-farms-lot-17",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "17",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 37.78531,
+            "lng": -85.92781
+          }
+        },
+        {
+          "slug": "meadows-at-cowley-crossings",
+          "name": "Meadows at Cowley Crossing",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "elizabethtown",
+          "cityName": "Elizabethtown",
+          "zip": "42701",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 322641,
+          "availableHomesCount": 4,
+          "beds": {
+            "min": 4,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 2053,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-meadows-at-cowley-crossings-39-dettori-street",
+              "address": "39 Dettori Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 322641,
+              "wasPrice": 337699,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "19",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-meadows-at-cowley-crossings-81-dettori-street",
+              "address": "81 Dettori Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 324621,
+              "wasPrice": 339699,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "22",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-meadows-at-cowley-crossings-80-dettori-street",
+              "address": "80 Dettori Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 332900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "29",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-meadows-at-cowley-crossings-94-dettori-street",
+              "address": "94 Dettori Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 350900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "28",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-meadows-at-cowley-crossings-lot-21",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "21",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 37.78457,
+            "lng": -85.92608
+          }
+        },
+        {
+          "slug": "pheasant-glen",
+          "name": "Pheasant Glen",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "shelbyville",
+          "cityName": "Shelbyville",
+          "zip": "40065",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 284900,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1649,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-pheasant-glen-105-pheasant-glen-drive",
+              "address": "105 Pheasant Glen Drive",
+              "cityStateZip": "Shelbyville, KY 40065",
+              "planName": null,
+              "price": 287793,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1649,
+              "lot": "2",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-pheasant-glen-lot-1",
+              "address": null,
+              "cityStateZip": "Shelbyville, KY 40065",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1649,
+              "lot": "1",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-pheasant-glen-lot-32",
+              "address": null,
+              "cityStateZip": "Shelbyville, KY 40065",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "32",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-pheasant-glen-lot-25",
+              "address": null,
+              "cityStateZip": "Shelbyville, KY 40065",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1818,
+              "lot": "25",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 38.23212,
+            "lng": -85.23809
+          }
+        },
+        {
+          "slug": "miles-pointe",
+          "name": "Miles Pointe",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "elizabethtown",
+          "cityName": "Elizabethtown",
+          "zip": "42701",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": null,
+          "tag": null,
+          "priceFrom": 280900,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1818,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-miles-pointe-116-saddle-street",
+              "address": "116 Saddle Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 335511,
+              "wasPrice": 353815,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "31",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-miles-pointe-109-saddle-street",
+              "address": "109 Saddle Street",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 340654,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "38",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-miles-pointe-lot-27",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1818,
+              "lot": "27",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-miles-pointe-lot-14",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1818,
+              "lot": "14",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 37.72407,
+            "lng": -85.84892
+          }
+        },
+        {
+          "slug": "arbor-view",
+          "name": "Arbor View",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "eminence",
+          "cityName": "Eminence",
+          "zip": "40019",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": null,
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 259900,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-arbor-view-60-dogwood-court",
+              "address": "60 Dogwood Court",
+              "cityStateZip": "Eminence, KY 40019",
+              "planName": null,
+              "price": 270527,
+              "wasPrice": 273260,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1818,
+              "lot": "67",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-arbor-view-70-dogwood-court",
+              "address": "70 Dogwood Court",
+              "cityStateZip": "Eminence, KY 40019",
+              "planName": null,
+              "price": 263597,
+              "wasPrice": 266260,
+              "beds": 3,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1498,
+              "lot": "66",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-arbor-view-lot-46",
+              "address": null,
+              "cityStateZip": "Eminence, KY 40019",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1953,
+              "lot": "46",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-arbor-view-lot-68",
+              "address": null,
+              "cityStateZip": "Eminence, KY 40019",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "68",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-arbor-view-lot-65",
+              "address": null,
+              "cityStateZip": "Eminence, KY 40019",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1771,
+              "lot": "65",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 38.36141,
+            "lng": -85.16721
+          }
+        },
+        {
+          "slug": "ashton-park",
+          "name": "Ashton Park",
+          "stateSlug": "kentucky",
+          "areaSlug": "louisville",
+          "citySlug": "elizabethtown",
+          "cityName": "Elizabethtown",
+          "zip": "42701",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 300900,
+          "availableHomesCount": 8,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-ashton-park-101-purse-lane",
+              "address": "101 Purse Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 312741,
+              "wasPrice": 334545,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "144",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-105-purse-lane",
+              "address": "105 Purse Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 313731,
+              "wasPrice": 340250,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "143",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-109-purse-lane",
+              "address": "109 Purse Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 313731,
+              "wasPrice": 331120,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "142",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-113-purse-lane",
+              "address": "113 Purse Lane",
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 321651,
+              "wasPrice": 353215,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "141",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-140",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 313731,
+              "wasPrice": 339225,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "140",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-175",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 356900,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2600,
+              "lot": "175",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-176",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 341365,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "176",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-188",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": 366990,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "188",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-136",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2346,
+              "lot": "136",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ashton-park-lot-174",
+              "address": null,
+              "cityStateZip": "Elizabethtown, KY 42701",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 3,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2155,
+              "lot": "174",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 37.69546,
+            "lng": -85.92737
+          }
+        }
+      ]
+    },
+    {
+      "slug": "northern-kentucky",
+      "name": "Northern Kentucky",
+      "aria": "Northern-Kentucky",
+      "stateSlug": "kentucky",
+      "heroTitle": "New Build Homes in Northern Kentucky",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 39.05281,
+        "lng": -84.52594
+      },
+      "cities": [
+        "hebron",
+        "colerain-township",
+        "new-richmond",
+        "amelia",
+        "goshen-township",
+        "dry-ridge",
+        "williamstown",
+        "oxford"
+      ],
+      "communities": [
+        {
+          "slug": "ridgefield",
+          "name": "Ridgefield",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "hebron",
+          "cityName": "Hebron",
+          "zip": "41048",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 344900,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 4,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 2053,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-ridgefield-1896-asbury-way",
+              "address": "1896 Asbury Way",
+              "cityStateZip": "Hebron, KY 41048",
+              "planName": null,
+              "price": 394900,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2356,
+              "lot": "0001",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ridgefield-lot-0008",
+              "address": null,
+              "cityStateZip": "Hebron, KY 41048",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2356,
+              "lot": "0008",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ridgefield-lot-0010",
+              "address": null,
+              "cityStateZip": "Hebron, KY 41048",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2053,
+              "lot": "0010",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-ridgefield-lot-0009",
+              "address": null,
+              "cityStateZip": "Hebron, KY 41048",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2546,
+              "lot": "0009",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 39.0692,
+            "lng": -84.69882
+          }
+        },
+        {
+          "slug": "villas-at-taylor-glen",
+          "name": "Villas at Taylor Glen",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "colerain-township",
+          "cityName": "Colerain Township",
+          "zip": "45251",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 259900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 3
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 1,
+            "max": 1
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1418,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.2627,
+            "lng": -84.5873
+          }
+        },
+        {
+          "slug": "ashburn-woods",
+          "name": "Ashburn Woods",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "new-richmond",
+          "cityName": "New Richmond",
+          "zip": "45157",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 278900,
+          "availableHomesCount": 3,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1272,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.95487,
+            "lng": -84.25854
+          }
+        },
+        {
+          "slug": "willow-grove",
+          "name": "Willow Grove",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "amelia",
+          "cityName": "Amelia",
+          "zip": "45102",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 289900,
+          "availableHomesCount": 9,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1635,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.05191,
+            "lng": -84.21948
+          }
+        },
+        {
+          "slug": "heritage-farm",
+          "name": "Heritage Farm",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "amelia",
+          "cityName": "Amelia",
+          "zip": "45102",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 383900,
+          "availableHomesCount": 1,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 3
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1635,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.03349,
+            "lng": -84.18142
+          }
+        },
+        {
+          "slug": "lakefield-place",
+          "name": "Lakefield Place",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "goshen-township",
+          "cityName": "Goshen Township",
+          "zip": "45122",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": null,
+          "tag": null,
+          "priceFrom": 329900,
+          "availableHomesCount": 13,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.1814,
+            "lng": -84.17779
+          }
+        },
+        {
+          "slug": "lakefield-place-townhomes",
+          "name": "Towns at Lakefield Place",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "goshen-township",
+          "cityName": "Goshen",
+          "zip": "45122",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 292900,
+          "availableHomesCount": 4,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2.5,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 2,
+            "max": 2
+          },
+          "sqftFrom": 1635,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.1844,
+            "lng": -84.17499
+          }
+        },
+        {
+          "slug": "heartland-meadows",
+          "name": "Heartland Meadows",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "dry-ridge",
+          "cityName": "Dry Ridge",
+          "zip": "41035",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 279900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1272,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.68954,
+            "lng": -84.62746
+          }
+        },
+        {
+          "slug": "thoroughbred-run",
+          "name": "Thoroughbred Run",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "williamstown",
+          "cityName": "Williamstown",
+          "zip": "41097",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Express Series®",
+          "status": "final-opportunities",
+          "tag": null,
+          "priceFrom": 245900,
+          "availableHomesCount": 0,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1272,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 38.66028,
+            "lng": -84.58034
+          }
+        },
+        {
+          "slug": "owls-landing",
+          "name": "Owls' Landing",
+          "stateSlug": "kentucky",
+          "areaSlug": "northern-kentucky",
+          "citySlug": "oxford",
+          "cityName": "Oxford",
+          "zip": "45056",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 322900,
+          "availableHomesCount": 5,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1498,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": null,
+          "location": {
+            "lat": 39.49981,
+            "lng": -84.77448
+          }
+        }
+      ]
+    },
+    {
+      "slug": "southern-kentucky",
+      "name": "Southern Kentucky",
+      "aria": "Southern-Kentucky",
+      "stateSlug": "kentucky",
+      "heroTitle": "Southern Kentucky",
+      "blurb": null,
+      "totalResults": null,
+      "resultsRadiusMiles": null,
+      "center": {
+        "lat": 37.15901,
+        "lng": -86.3654
+      },
+      "cities": [
+        "bowling-green"
+      ],
+      "communities": [
+        {
+          "slug": "richpond-farms",
+          "name": "Richpond Farms",
+          "stateSlug": "kentucky",
+          "areaSlug": "southern-kentucky",
+          "citySlug": "bowling-green",
+          "cityName": "Bowling Green",
+          "zip": "42101",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": null,
+          "tag": null,
+          "priceFrom": 294990,
+          "availableHomesCount": 4,
+          "beds": {
+            "min": 3,
+            "max": 5
+          },
+          "baths": {
+            "min": 2,
+            "max": 3
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1618,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-richpond-farms-4155-richpond-farms-drive",
+              "address": "4155 Richpond Farms Drive",
+              "cityStateZip": "Bowling Green, KY 42101",
+              "planName": null,
+              "price": 339990,
+              "wasPrice": 344870,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1774,
+              "lot": "0009",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-richpond-farms-4135-richpond-farms-drive",
+              "address": "4135 Richpond Farms Drive",
+              "cityStateZip": "Bowling Green, KY 42101",
+              "planName": null,
+              "price": 333620,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2,
+              "garages": 2,
+              "stories": 1,
+              "sqft": 1774,
+              "lot": "0006",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-richpond-farms-4152-richpond-farms-drive",
+              "address": "4152 Richpond Farms Drive",
+              "cityStateZip": "Bowling Green, KY 42101",
+              "planName": null,
+              "price": 348225,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2267,
+              "lot": "0031",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-richpond-farms-4301-fringetree-lane",
+              "address": "4301 Fringetree Lane",
+              "cityStateZip": "Bowling Green, KY 42101",
+              "planName": null,
+              "price": 379680,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2618,
+              "lot": "0007",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-richpond-farms-lot-0030",
+              "address": null,
+              "cityStateZip": "Bowling Green, KY 42101",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 5,
+              "baths": 3,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2511,
+              "lot": "0030",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 36.90098,
+            "lng": -86.529
+          }
+        },
+        {
+          "slug": "hanover-run",
+          "name": "Hanover Run",
+          "stateSlug": "kentucky",
+          "areaSlug": "southern-kentucky",
+          "citySlug": "bowling-green",
+          "cityName": "Bowling Green",
+          "zip": "42104",
+          "address": null,
+          "phone": null,
+          "hours": null,
+          "series": "Tradition Series℠",
+          "status": "now-selling",
+          "tag": null,
+          "priceFrom": 289990,
+          "availableHomesCount": 2,
+          "beds": {
+            "min": 3,
+            "max": 4
+          },
+          "baths": {
+            "min": 2,
+            "max": 2.5
+          },
+          "garages": {
+            "min": 2,
+            "max": 2
+          },
+          "stories": {
+            "min": 1,
+            "max": 2
+          },
+          "sqftFrom": 1618,
+          "cardImage": null,
+          "gallery": null,
+          "about": null,
+          "amenities": null,
+          "schools": null,
+          "lotMapUrl": null,
+          "promoSlot": null,
+          "floorPlans": null,
+          "availableHomes": [
+            {
+              "id": "kentucky-hanover-run-9124-sundangrass-court",
+              "address": "9124 Sundangrass Court",
+              "cityStateZip": "Bowling Green, KY 42104",
+              "planName": null,
+              "price": 299990,
+              "wasPrice": 309990,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1821,
+              "lot": "0055",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-hanover-run-9131-sundangrass-court",
+              "address": "9131 Sundangrass Court",
+              "cityStateZip": "Bowling Green, KY 42104",
+              "planName": null,
+              "price": 289990,
+              "wasPrice": 309990,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1821,
+              "lot": "0061",
+              "status": "available",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-hanover-run-lot-0054",
+              "address": null,
+              "cityStateZip": "Bowling Green, KY 42104",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 1821,
+              "lot": "0054",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            },
+            {
+              "id": "kentucky-hanover-run-lot-0059",
+              "address": null,
+              "cityStateZip": "Bowling Green, KY 42104",
+              "planName": null,
+              "price": null,
+              "wasPrice": null,
+              "beds": 4,
+              "baths": 2.5,
+              "garages": 2,
+              "stories": 2,
+              "sqft": 2267,
+              "lot": "0059",
+              "status": "under-contract",
+              "isRte": false,
+              "image": null
+            }
+          ],
+          "location": {
+            "lat": 36.88845,
+            "lng": -86.51495
+          }
+        }
+      ]
+    }
+  ]
+}
