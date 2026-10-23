@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getCommunityImage } from '../../data/locationLoader'
+import { stateSlugToAbbr } from '../../../../utils/usStates'
 import styles from './CommunityCard.module.css'
 
 const STATUS_LABEL = {
@@ -76,7 +77,7 @@ function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
           <Link to={href} className={styles.nameLink}>{name}</Link>
         </h2>
 
-        <p className={styles.city}>{cityName}, GA</p>
+        <p className={styles.city}>{cityName}, {stateSlugToAbbr(stateSlug)}</p>
 
         <p className={styles.price}>{formatPrice(priceFrom)}</p>
 

@@ -51,3 +51,12 @@ export const US_STATES = [
   { value: 'WI', label: 'Wisconsin' },
   { value: 'WY', label: 'Wyoming' },
 ]
+
+// Mapa slug → abreviatura: { 'north-carolina': 'NC', 'texas': 'TX', ... }
+const _slugToAbbr = Object.fromEntries(
+  US_STATES.map(s => [s.label.toLowerCase().replace(/\s+/g, '-'), s.value])
+)
+
+export function stateSlugToAbbr(slug) {
+  return _slugToAbbr[slug] ?? slug.toUpperCase().slice(0, 2)
+}
