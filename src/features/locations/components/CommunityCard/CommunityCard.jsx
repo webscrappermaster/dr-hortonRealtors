@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getCommunityImage } from '../../data/locationLoader'
 import { stateSlugToAbbr } from '../../../../utils/usStates'
+import { formatPriceAbbr, formatNumber } from '../../../../utils/formatters'
 import styles from './CommunityCard.module.css'
 
 const STATUS_LABEL = {
@@ -14,12 +15,6 @@ const STATUS_LABEL = {
 
 function slugToTitle(slug) {
   return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-}
-
-function formatPrice(priceFrom) {
-  if (!priceFrom) return 'Call for Information'
-  const hundreds = Math.floor(priceFrom / 1000)
-  return `From the $${hundreds}s`
 }
 
 function formatRange({ min, max }) {
@@ -85,7 +80,7 @@ function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
 
         <p className={styles.city}>{cityName}, {stateSlugToAbbr(stateSlug)}</p>
 
-        <p className={styles.price}>{formatPrice(priceFrom)}</p>
+        <p className={styles.price}>{formatPriceAbbr(priceFrom)}</p>
 
         {(beds || baths || garages) && (
           <div className={styles.statsRow}>
@@ -94,7 +89,7 @@ function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
             <StatItem value={formatRange(garages)} label="garage" />
             {sqftFrom && (
               <span className={styles.stat}>
-                <span className={styles.statValue}>From {sqftFrom.toLocaleString()}</span>
+                <span className={styles.statValue}>From {formatNumber(sqftFrom)}</span>
                 <span className={styles.statLabel}>&nbsp;sq.&nbsp;ft.</span>
               </span>
             )}

@@ -12,7 +12,7 @@
 //
 // Uso: node scripts/scrape/patch-images.js
 
-import { readFile, writeFile, readdir, stat, mkdir } from 'node:fs/promises'
+import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
 import path from 'node:path'
 import { statesIndex } from '../../src/features/locations/data/statesIndex.js'

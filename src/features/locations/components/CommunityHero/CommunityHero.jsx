@@ -1,3 +1,4 @@
+import { formatUSD, formatNumber } from '../../../../utils/formatters'
 import styles from './CommunityHero.module.css'
 
 const STATUS_LABEL = {
@@ -40,7 +41,7 @@ function CommunityHero({ community }) {
       <div className={styles.priceRow}>
         {priceFrom && (
           <p className={styles.price}>
-            From ${priceFrom.toLocaleString()}
+            From {formatUSD(priceFrom)}
           </p>
         )}
         {series && (
@@ -80,7 +81,7 @@ function CommunityHero({ community }) {
         {sqftFrom && (
           <div className={styles.stat}>
             <dt className={styles.statLabel}>Sq. Ft.</dt>
-            <dd className={styles.statValue}>From {sqftFrom.toLocaleString()}</dd>
+            <dd className={styles.statValue}>From {formatNumber(sqftFrom)}</dd>
           </div>
         )}
       </dl>

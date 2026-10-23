@@ -1,3 +1,4 @@
+import { formatUSD, formatNumber } from '../../../../utils/formatters'
 import styles from './FloorPlanCard.module.css'
 
 function StatBadge({ value, label }) {
@@ -28,7 +29,7 @@ function FloorPlanCard({ plan }) {
       <div className={styles.body}>
         <h3 className={styles.name}>{name}</h3>
         {priceFrom != null ? (
-          <p className={styles.price}>From ${priceFrom.toLocaleString()}</p>
+          <p className={styles.price}>From {formatUSD(priceFrom)}</p>
         ) : (
           <p className={styles.price}>Call for Information</p>
         )}
@@ -39,7 +40,7 @@ function FloorPlanCard({ plan }) {
           <StatBadge value={garages} label="garage" />
           <StatBadge value={stories} label={stories === 1 ? 'story' : 'stories'} />
           {sqft != null && (
-            <StatBadge value={sqft.toLocaleString()} label="sq. ft." />
+            <StatBadge value={formatNumber(sqft)} label="sq. ft." />
           )}
         </div>
       </div>

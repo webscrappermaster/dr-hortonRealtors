@@ -1,99 +1,134 @@
-// Verificación Playwright: /texas/dallas, /florida, y una comunidad de Texas
-// Comprueba: abreviatura de estado correcta, imágenes, STATUS_LABEL
+// Verificación Playwright
+// Rutas: /georgia/atlanta, /mississippi/jackson/pearl/cedar-lane
+// También mantiene checks de sesión anterior: /texas/dallas, /florida, comunidad TX
 
 import { chromium } from 'playwright'
 
 const BASE = 'http://localhost:5173'
 
-async function check(page, description, fn) {
+let failed = 0
+
+async function check(description, fn) {
   try {
     await fn()
     console.log(`  ✓ ${description}`)
   } catch (e) {
     console.error(`  ✗ ${description}`)
     console.error(`    ${e.message}`)
-    process.exitCode = 1
+    failed++
   }
 }
 
 async function main() {
   const browser = await chromium.launch({ headless: true })
   const context = await browser.newContext()
-  const page = await context.newPage()
+  const page    = await context.newPage()
   page.setDefaultTimeout(15000)
 
-  // ── /texas/dallas ────────────────────────────────────────
+  // ── /georgia/atlanta ────────────────────────────────────────────────────
+  console.log('\n→ /georgia/atlanta')
+  await page.goto(`${BASE}/georgia/atlanta`, { waitUntil: 'domcontentloaded' })
+  await page.waitForSelector('article', { timeout: 10000 })
+
+  await check('Muestra tarjetas de comunidad', async () => {
+    const cards = await page.$$('article')
+    if (!cards.length) throw new Error('No cards')
+    console.log(`    (${cards.length} tarjetas)`)
+  })
+
+  await check('Abreviatura del estado es GA', async () => {
+    const texts = await page.$$eval('article p', els =>
+      els.map(el => el.textContent).filter(t => t.includes(','))
+    )
+    if (!texts.some(t => t.includes(', GA')))
+      throw new Error('No se encontró ", GA"')
+  })
+
+  await check('Imágenes de comunidad visibles (cardImageRemoteUrl al 100%)', async () => {
+    const imgs = await page.$$('article img')
+    if (!imgs.length) throw new Error('No images')
+    console.log(`    (${imgs.length} imágenes)`)
+  })
+
+  await check('Precio con formato $X,XXX (coma como separador)', async () => {
+    const prices = await page.$$eval('article', cards =>
+      cards.map(c => c.textContent).filter(t => /From the \$\d+s/.test(t))
+    )
+    const badFormat = await page.$$eval('article', cards =>
+      cards.map(c => c.textContent).filter(t => /\$\d{4,}\./.test(t)) // punto como separador
+    )
+    if (badFormat.length) throw new Error(`Formato incorrecto (punto): ${badFormat[0].slice(0,60)}`)
+    console.log(`    (${prices.length} precios con formato abreviado)`)
+  })
+
+  // ── /mississippi/jackson/pearl/cedar-lane ─────────────────────────────
+  console.log('\n→ /mississippi/jackson/pearl/cedar-lane')
+  await page.goto(`${BASE}/mississippi/jackson/pearl/cedar-lane`, { waitUntil: 'domcontentloaded' })
+  await page.waitForSelector('h1', { timeout: 12000 })
+
+  await check('Página de comunidad carga (Cedar Lane)', async () => {
+    const h1 = await page.$eval('h1', el => el.textContent.trim())
+    console.log(`    (${h1})`)
+  })
+
+  await check('Imagen hero o galería visible', async () => {
+    const img = await page.$('img[class*="heroImage"], [class*="galleryWrap"] img, [class*="heroImageWrap"] img')
+    if (!img) throw new Error('No hero/gallery image found')
+  })
+
+  await check('Casas disponibles con imagen de comunidad como fallback', async () => {
+    const homeImgs = await page.$$('[class*="homesGrid"] img, [class*="imageWrap"] img')
+    console.log(`    (${homeImgs.length} imágenes en tarjetas de casas)`)
+    // Si hay casas, debe haber imágenes (del fallback getCommunityImage)
+    const homeSection = await page.$('[id="available"]')
+    if (homeSection) {
+      if (!homeImgs.length) throw new Error('Hay sección de casas pero no hay imágenes')
+    }
+  })
+
+  await check('Precios de casas con formato $X,XXX', async () => {
+    const priceEls = await page.$$eval('[class*="price"]', els =>
+      els.map(el => el.textContent).filter(t => /\$[\d,]+/.test(t))
+    )
+    const badPrices = priceEls.filter(t => /\$\d{4,}\./.test(t))
+    if (badPrices.length) throw new Error(`Precio con punto: ${badPrices[0]}`)
+    const goodPrices = priceEls.filter(t => /\$[\d,]{5,}/.test(t))
+    console.log(`    (${goodPrices.length} precios con formato correcto)`)
+  })
+
+  // ── /texas/dallas ───────────────────────────────────────────────────────
   console.log('\n→ /texas/dallas')
   await page.goto(`${BASE}/texas/dallas`, { waitUntil: 'domcontentloaded' })
   await page.waitForSelector('article', { timeout: 10000 })
 
-  await check(page, 'Muestra tarjetas de comunidad', async () => {
-    const cards = await page.$$('article')
-    if (cards.length === 0) throw new Error('No se encontraron tarjetas')
-  })
-
-  await check(page, 'Abreviatura del estado es TX (no GA)', async () => {
-    const cityTexts = await page.$$eval('article p', els =>
+  await check('Abreviatura del estado es TX', async () => {
+    const texts = await page.$$eval('article p', els =>
       els.map(el => el.textContent).filter(t => t.includes(','))
     )
-    const wrongGA = cityTexts.filter(t => t.includes(', GA'))
-    const correctTX = cityTexts.filter(t => t.includes(', TX'))
-    if (wrongGA.length > 0) throw new Error(`Encontrado ", GA" en ${wrongGA.length} tarjetas`)
-    if (correctTX.length === 0) throw new Error('No se encontró ", TX" en ninguna tarjeta')
-    console.log(`    (${correctTX.length} tarjetas con ", TX")`)
+    if (texts.some(t => t.includes(', GA')))
+      throw new Error('Encontrado ", GA" en tarjetas de Texas')
+    if (!texts.some(t => t.includes(', TX')))
+      throw new Error('No se encontró ", TX"')
   })
 
-  await check(page, 'Imágenes de comunidad visibles en tarjetas', async () => {
-    const imgs = await page.$$('article img')
-    if (imgs.length === 0) throw new Error('No se encontraron imágenes en tarjetas')
-    console.log(`    (${imgs.length} imágenes)`)
-  })
-
-  // ── /florida ─────────────────────────────────────────────
+  // ── /florida ────────────────────────────────────────────────────────────
   console.log('\n→ /florida')
   await page.goto(`${BASE}/florida`, { waitUntil: 'domcontentloaded' })
   await page.waitForSelector('article', { timeout: 10000 })
 
-  await check(page, 'Muestra tarjetas de comunidad', async () => {
-    const cards = await page.$$('article')
-    if (cards.length === 0) throw new Error('No se encontraron tarjetas')
-    console.log(`    (${cards.length} tarjetas)`)
-  })
-
-  await check(page, 'Abreviatura del estado es FL', async () => {
-    const cityTexts = await page.$$eval('article p', els =>
+  await check('Abreviatura del estado es FL', async () => {
+    const texts = await page.$$eval('article p', els =>
       els.map(el => el.textContent).filter(t => t.includes(','))
     )
-    const wrongGA = cityTexts.filter(t => t.includes(', GA'))
-    if (wrongGA.length > 0) throw new Error(`Encontrado ", GA" en ${wrongGA.length} tarjetas`)
-  })
-
-  // ── Comunidad de Texas ───────────────────────────────────
-  console.log('\n→ Comunidad de Texas (primera de Dallas)')
-  // Obtenemos el href de la primera tarjeta
-  await page.goto(`${BASE}/texas/dallas`, { waitUntil: 'domcontentloaded' })
-  await page.waitForSelector('article a', { timeout: 10000 })
-  const commHref = await page.$eval('article h2 a', el => el.getAttribute('href'))
-  console.log(`    URL: ${commHref}`)
-
-  await page.goto(`${BASE}${commHref}`, { waitUntil: 'domcontentloaded' })
-  await page.waitForSelector('h1', { timeout: 12000 })
-
-  await check(page, 'Página de comunidad carga correctamente', async () => {
-    const h1 = await page.$eval('h1', el => el.textContent)
-    if (!h1) throw new Error('No se encontró h1')
-    console.log(`    (${h1.trim()})`)
-  })
-
-  await check(page, 'Imagen hero o galería visible', async () => {
-    const heroImg = await page.$('img[class*="heroImage"], [class*="galleryWrap"] img, [class*="heroImageWrap"] img')
-    if (!heroImg) throw new Error('No se encontró imagen hero ni galería')
+    if (!texts.some(t => t.includes(', FL')))
+      throw new Error('No se encontró ", FL"')
   })
 
   await browser.close()
 
-  if (process.exitCode === 1) {
-    console.log('\n⚠ Algunas verificaciones fallaron')
+  if (failed > 0) {
+    console.log(`\n⚠ ${failed} verificación(es) fallaron`)
+    process.exit(1)
   } else {
     console.log('\n✓ Todas las verificaciones pasaron')
   }

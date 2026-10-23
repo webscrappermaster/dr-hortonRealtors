@@ -5,6 +5,7 @@ import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import MapPlaceholder from '../MapPlaceholder'
 import { getCommunityImage } from '../../data/locationLoader'
+import { formatPriceAbbr } from '../../../../utils/formatters'
 import styles from './LocationMap.module.css'
 
 /* ── Icono DivIcon para evitar el problema de rutas de Leaflet en Vite ── */
@@ -36,11 +37,6 @@ function BoundsController({ communities }) {
     map.fitBounds(bounds, { padding: [24, 24], maxZoom: 13 })
   }, [communities, map])
   return null
-}
-
-function formatPrice(priceFrom) {
-  if (!priceFrom) return null
-  return `From the $${Math.floor(priceFrom / 1000)}s`
 }
 
 function LocationMapInner({
@@ -106,7 +102,7 @@ function LocationMapInner({
               )}
               <strong className={styles.popupName}>{comm.name}</strong>
               {comm.priceFrom && (
-                <span className={styles.popupPrice}>{formatPrice(comm.priceFrom)}</span>
+                <span className={styles.popupPrice}>{formatPriceAbbr(comm.priceFrom)}</span>
               )}
               {comm.location?.locationPrecision === 'city' && (
                 <span className={styles.popupApprox}>Approximate location</span>

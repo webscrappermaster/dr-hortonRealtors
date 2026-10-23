@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { getHomeImage } from '../../data/locationLoader'
+import { formatUSD, formatNumber } from '../../../../utils/formatters'
 import styles from './AvailableHomeCard.module.css'
 
 const STATUS_LABEL = {
@@ -84,12 +85,12 @@ function AvailableHomeCard({ home, community }) {
 
         <div className={styles.priceRow}>
           {price != null ? (
-            <span className={styles.price}>${price.toLocaleString()}</span>
+            <span className={styles.price}>{formatUSD(price)}</span>
           ) : (
             <span className={styles.priceNA}>Call for Information</span>
           )}
           {wasPrice != null && (
-            <s className={styles.wasPrice}>${wasPrice.toLocaleString()}</s>
+            <s className={styles.wasPrice}>{formatUSD(wasPrice)}</s>
           )}
         </div>
 
@@ -99,7 +100,7 @@ function AvailableHomeCard({ home, community }) {
           <StatBadge value={garages} label="garage" />
           <StatBadge value={stories} label={stories === 1 ? 'story' : 'stories'} />
           {sqft != null && (
-            <StatBadge value={sqft.toLocaleString()} label="sq. ft." />
+            <StatBadge value={formatNumber(sqft)} label="sq. ft." />
           )}
         </div>
 
