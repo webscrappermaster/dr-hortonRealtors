@@ -326,6 +326,10 @@ async function loadAreaRaw(stateSlug, areaSlug) {
         if (homes.length > 0) {
           comm.availableHomes = homes
           comm.availableHomesCount = homes.filter(h => h.status === 'move-in-ready').length
+          if (comm.priceFrom == null) {
+            const prices = homes.filter(h => h.price != null).map(h => h.price)
+            if (prices.length > 0) comm.priceFrom = Math.min(...prices)
+          }
         }
       }
 
@@ -346,6 +350,10 @@ async function loadAreaRaw(stateSlug, areaSlug) {
         if (homes.length > 0) {
           comm.availableHomes = homes
           comm.availableHomesCount = homes.filter(h => h.status === 'move-in-ready').length
+          if (comm.priceFrom == null) {
+            const prices = homes.filter(h => h.price != null).map(h => h.price)
+            if (prices.length > 0) comm.priceFrom = Math.min(...prices)
+          }
         }
       }
 
