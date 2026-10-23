@@ -5,6 +5,7 @@ import ComingSoon from '../../features/common/ComingSoon'
 import NotFound from '../../features/common/NotFound'
 import LocationPage from '../../features/locations/LocationPage'
 import CommunityPage from '../../features/locations/CommunityPage'
+import { getState, getArea, getCommunity } from '../../features/locations/data/locationLoader'
 import ServicesPage from '../../features/services'
 import CustomerCarePage from '../../features/customer-care'
 import CareersPage from '../../features/careers'
@@ -50,9 +51,19 @@ export const router = createBrowserRouter([
       { path: 'contact-us-page', element: <ContactPage /> },
       { path: 'warranty',       element: <WarrantyPage /> },
 
-{ path: ':state',                            element: <LocationPage /> },
-      { path: ':state/:area',                      element: <LocationPage /> },
-      { path: ':state/:area/:city/:community',     element: <CommunityPage /> },
+{ path: ':state',         element: <LocationPage />, loader: ({ params }) => getState(params.state) },
+      { path: ':state/:area', element: <LocationPage />, loader: ({ params }) => getState(params.state) },
+      {
+        path: ':state/:area/:city/:community',
+        element: <CommunityPage />,
+        loader: async ({ params }) => {
+          const stateData = await getState(params.state)
+          if (!stateData) return { community: null, areaLabel: null }
+          const community = getCommunity(stateData, params.area, params.city, params.community)
+          const area = getArea(stateData, params.area)
+          return { community, areaLabel: area?.name ?? null }
+        },
+      },
 
       { path: '*', element: <NotFound /> },
     ],

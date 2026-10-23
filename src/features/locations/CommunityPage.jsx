@@ -1,5 +1,4 @@
-import { useParams } from 'react-router-dom'
-import { getCommunity, getArea } from './data/locationLoader'
+import { useLoaderData } from 'react-router-dom'
 import NotFound from '../common/NotFound'
 import Breadcrumbs from '../../components/ui/Breadcrumbs'
 import PropertyGallery from './components/PropertyGallery'
@@ -20,13 +19,10 @@ function capitalize(str) {
 }
 
 function CommunityPage() {
-  const { state, area, city, community: communitySlug } = useParams()
-
-  const community = getCommunity(state, area, city, communitySlug)
+  const { community, areaLabel: loadedAreaLabel } = useLoaderData()
   if (!community) return <NotFound />
 
-  const areaData = getArea(state, community.areaSlug)
-  const areaLabel = areaData?.name ?? capitalize(community.areaSlug)
+  const areaLabel = loadedAreaLabel ?? capitalize(community.areaSlug)
 
   const hasDetail = !!(
     community.gallery?.length ||
@@ -38,8 +34,8 @@ function CommunityPage() {
 
   const breadcrumbs = [
     { label: 'Home', to: '/' },
-    { label: capitalize(community.stateSlug), to: `/${state}` },
-    { label: areaLabel, to: `/${state}/${area}` },
+    { label: capitalize(community.stateSlug), to: `/${community.stateSlug}` },
+    { label: areaLabel, to: `/${community.stateSlug}/${community.areaSlug}` },
     { label: community.cityName },
     { label: community.name },
   ]

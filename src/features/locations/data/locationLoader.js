@@ -1,16 +1,13 @@
 import { statesIndex } from './statesIndex'
 
-const stateModules = import.meta.glob('./states/*.json', { eager: true })
+// lazy: cada states/*.json se convierte en un chunk separado y solo se descarga
+// al visitar ese estado — no va en el bundle inicial.
+const stateModules = import.meta.glob('./states/*.json')
 const communityModules = import.meta.glob('./communities/**/*.json', { eager: true })
 
-const loadedStates = Object.fromEntries(
-  Object.entries(stateModules).map(([path, mod]) => {
-    const slug = path.replace('./states/', '').replace('.json', '')
-    return [slug, mod.default ?? mod]
-  }),
-)
+// Caché: evita reimportar el mismo JSON en la misma sesión
+const stateCache = new Map()
 
-/* Clave: "stateSlug/commSlug" → detalle enriquecido */
 const loadedCommunityDetails = Object.fromEntries(
   Object.entries(communityModules).map(([path, mod]) => {
     const key = path.replace('./communities/', '').replace('.json', '')
@@ -47,30 +44,41 @@ function enrichState(data) {
   }
 }
 
-export function getState(slug) {
-  if (loadedStates[slug]) return enrichState(loadedStates[slug])
-  const found = statesIndex.find(s => s.slug === slug)
-  return found ? { ...found, markets: found.markets ?? [] } : null
+export async function getState(slug) {
+  if (stateCache.has(slug)) return stateCache.get(slug)
+
+  const key = `./states/${slug}.json`
+  let result
+
+  if (stateModules[key]) {
+    const mod = await stateModules[key]()
+    result = enrichState(mod.default ?? mod)
+  } else {
+    const found = statesIndex.find(s => s.slug === slug)
+    result = found ? { ...found, markets: found.markets ?? [] } : null
+  }
+
+  stateCache.set(slug, result)
+  return result
 }
 
-export function getArea(stateSlug, areaSlug) {
-  const state = getState(stateSlug)
-  if (!state) return null
-  return state.markets?.find(m => m.slug === areaSlug) ?? null
+// getArea y getCommunity reciben stateData directamente (ya cargado por getState)
+export function getArea(stateData, areaSlug) {
+  return stateData?.markets?.find(m => m.slug === areaSlug) ?? null
 }
 
-export function getCommunity(stateSlug, areaSlug, citySlug, commSlug) {
-  const area = getArea(stateSlug, areaSlug)
+export function getCommunity(stateData, areaSlug, citySlug, commSlug) {
+  const area = getArea(stateData, areaSlug)
   if (!area?.communities) return null
   const base = area.communities.find(
     c => c.slug === commSlug && c.citySlug === citySlug,
   )
   if (!base) return null
 
-  const detail = loadedCommunityDetails[`${stateSlug}/${commSlug}`]
+  const detail = loadedCommunityDetails[`${stateData.slug}/${commSlug}`]
   if (!detail) return base
 
-  const res = filename => resolveImage(stateSlug, commSlug, filename)
+  const res = filename => resolveImage(stateData.slug, commSlug, filename)
 
   return {
     ...base,
