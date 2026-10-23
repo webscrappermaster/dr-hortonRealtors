@@ -340,7 +340,7 @@
             },
             {
               "id": "missouri-autumn-ridge-702-fallen-leaf-dr",
-              "address": null,
+              "address": "702 Fallen Leaf Dr",
               "cityStateZip": "Belton, MO 64012",
               "planName": null,
               "price": 450990,
@@ -357,7 +357,7 @@
             },
             {
               "id": "missouri-autumn-ridge-717-solstice-cir",
-              "address": null,
+              "address": "717 Solstice Cir",
               "cityStateZip": "Belton, MO 64012",
               "planName": null,
               "price": 424990,
@@ -639,7 +639,7 @@
             },
             {
               "id": "missouri-alexander-creek-2205-creek-view-ln",
-              "address": null,
+              "address": "2205 Creek View Ln",
               "cityStateZip": "Raymore, MO 64083",
               "planName": null,
               "price": 354840,
@@ -656,7 +656,7 @@
             },
             {
               "id": "missouri-alexander-creek-2211-crestview-pl",
-              "address": null,
+              "address": "2211 Crestview Pl",
               "cityStateZip": "Raymore, MO 64083",
               "planName": null,
               "price": 369990,
@@ -870,7 +870,7 @@
             },
             {
               "id": "missouri-clay-creek-208-lake-meadows-dr",
-              "address": null,
+              "address": "208 Lake Meadows Dr",
               "cityStateZip": "Smithville, MO 64089",
               "planName": null,
               "price": 319990,
@@ -887,7 +887,7 @@
             },
             {
               "id": "missouri-clay-creek-208-ne-194th-ct",
-              "address": null,
+              "address": "208 NE 194th Ct",
               "cityStateZip": "Smithville, MO 64089",
               "planName": null,
               "price": 306990,
@@ -904,7 +904,7 @@
             },
             {
               "id": "missouri-clay-creek-302-lake-meadows-dr",
-              "address": null,
+              "address": "302 Lake Meadows Dr",
               "cityStateZip": "Smithville, MO 64089",
               "planName": null,
               "price": 359990,
@@ -1148,7 +1148,7 @@
             },
             {
               "id": "missouri-tuscany-21532-carrara-cir",
-              "address": null,
+              "address": "21532 Carrara Cir",
               "cityStateZip": "Peculiar, MO 64078",
               "planName": null,
               "price": 437990,
@@ -1165,7 +1165,7 @@
             },
             {
               "id": "missouri-tuscany-21533-carrara-circle",
-              "address": null,
+              "address": "21533 Carrara Circle",
               "cityStateZip": "Peculiar, MO 64078",
               "planName": null,
               "price": 389990,
@@ -1182,7 +1182,7 @@
             },
             {
               "id": "missouri-tuscany-21534-carrara-cir",
-              "address": null,
+              "address": "21534 Carrara Cir",
               "cityStateZip": "Peculiar, MO 64078",
               "planName": null,
               "price": 447990,
@@ -1199,7 +1199,7 @@
             },
             {
               "id": "missouri-tuscany-21535-carrara-cir",
-              "address": null,
+              "address": "21535 Carrara Cir",
               "cityStateZip": "Peculiar, MO 64078",
               "planName": null,
               "price": 416990,
@@ -1216,7 +1216,7 @@
             },
             {
               "id": "missouri-tuscany-21800-vinci-cir",
-              "address": null,
+              "address": "21800 Vinci Cir",
               "cityStateZip": "Peculiar, MO 64078",
               "planName": null,
               "price": 379990,

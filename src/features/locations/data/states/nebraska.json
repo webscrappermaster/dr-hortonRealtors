@@ -324,7 +324,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-13638-read-st",
-              "address": null,
+              "address": "13638 Read St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 374990,
@@ -341,7 +341,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-7202-n-137th-st",
-              "address": null,
+              "address": "7202 N 137th St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 359990,
@@ -358,7 +358,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-13630-read-st",
-              "address": null,
+              "address": "13630 Read St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 369990,
@@ -375,7 +375,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-13629-read-st",
-              "address": null,
+              "address": "13629 Read St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 354990,
@@ -392,7 +392,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-13633-read-st",
-              "address": null,
+              "address": "13633 Read St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 395990,
@@ -409,7 +409,7 @@
             },
             {
               "id": "nebraska-westbrook-hills-13637-read-st",
-              "address": null,
+              "address": "13637 Read St",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
               "price": 349990,
@@ -627,7 +627,7 @@
             },
             {
               "id": "nebraska-lakewood-west-11615-s-56th-st",
-              "address": null,
+              "address": "11615 S 56th St",
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
               "price": 410990,
@@ -644,7 +644,7 @@
             },
             {
               "id": "nebraska-lakewood-west-5610-fenwick-st",
-              "address": null,
+              "address": "5610 Fenwick St",
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
               "price": 429990,
@@ -913,7 +913,7 @@
             },
             {
               "id": "nebraska-oak-leaf-12932-s-67th-st",
-              "address": null,
+              "address": "12932 S 67th St",
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
               "price": 421990,
@@ -930,7 +930,7 @@
             },
             {
               "id": "nebraska-oak-leaf-12935-s-67th-st",
-              "address": null,
+              "address": "12935 S 67th St",
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
               "price": 397990,
@@ -947,7 +947,7 @@
             },
             {
               "id": "nebraska-oak-leaf-12936-s-67th-st",
-              "address": null,
+              "address": "12936 S 67th St",
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
               "price": 439990,
@@ -1182,7 +1182,7 @@
             },
             {
               "id": "nebraska-schram-108-10618-bearcreek-dr",
-              "address": null,
+              "address": "10618 Bearcreek Dr",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 466990,
@@ -1199,7 +1199,7 @@
             },
             {
               "id": "nebraska-schram-108-10606-bearcreek-dr",
-              "address": null,
+              "address": "10606 Bearcreek Dr",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 439990,
@@ -1216,7 +1216,7 @@
             },
             {
               "id": "nebraska-schram-108-10610-bearcreek-dr",
-              "address": null,
+              "address": "10610 Bearcreek Dr",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 429990,
@@ -1533,7 +1533,7 @@
             },
             {
               "id": "nebraska-belterra-11985-s-114th-ave",
-              "address": null,
+              "address": "11985 S 114th Ave",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 354990,
@@ -1550,7 +1550,7 @@
             },
             {
               "id": "nebraska-belterra-11989-s-114th-ave",
-              "address": null,
+              "address": "11989 S 114th Ave",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 384990,
@@ -1567,7 +1567,7 @@
             },
             {
               "id": "nebraska-belterra-11461-white-pine-dr",
-              "address": null,
+              "address": "11461 White Pine Dr",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 421990,
@@ -1584,7 +1584,7 @@
             },
             {
               "id": "nebraska-belterra-11465-white-pine-dr",
-              "address": null,
+              "address": "11465 White Pine Dr",
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
               "price": 421990,
@@ -1751,7 +1751,7 @@
             },
             {
               "id": "nebraska-majestic-pointe-twinhomes-7711-n-169-st",
-              "address": null,
+              "address": "7711 N 169 St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 304990,
@@ -1768,7 +1768,7 @@
             },
             {
               "id": "nebraska-majestic-pointe-twinhomes-7713-n-169-st",
-              "address": null,
+              "address": "7713 N 169 St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 304990,
@@ -1986,7 +1986,7 @@
             },
             {
               "id": "nebraska-the-hill-16505-clay-st",
-              "address": null,
+              "address": "16505 Clay St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 349990,
@@ -2003,7 +2003,7 @@
             },
             {
               "id": "nebraska-the-hill-16313-davidson-st",
-              "address": null,
+              "address": "16313 Davidson St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 344990,
@@ -2020,7 +2020,7 @@
             },
             {
               "id": "nebraska-the-hill-16518-clay-st",
-              "address": null,
+              "address": "16518 Clay St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 349990,
@@ -2037,7 +2037,7 @@
             },
             {
               "id": "nebraska-the-hill-16422-davidson-st",
-              "address": null,
+              "address": "16422 Davidson St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 385990,
@@ -2054,7 +2054,7 @@
             },
             {
               "id": "nebraska-the-hill-16425-davidson-st",
-              "address": null,
+              "address": "16425 Davidson St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 354990,
@@ -2071,7 +2071,7 @@
             },
             {
               "id": "nebraska-the-hill-16426-davidson-st",
-              "address": null,
+              "address": "16426 Davidson St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 371990,
@@ -2357,7 +2357,7 @@
             },
             {
               "id": "nebraska-the-hill-townhomes-8918-n-166th-st",
-              "address": null,
+              "address": "8918 N 166th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 264990,
@@ -2374,7 +2374,7 @@
             },
             {
               "id": "nebraska-the-hill-townhomes-8920-n-166th-st",
-              "address": null,
+              "address": "8920 N 166th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 259990,
@@ -2391,7 +2391,7 @@
             },
             {
               "id": "nebraska-the-hill-townhomes-8922-n-166th-st",
-              "address": null,
+              "address": "8922 N 166th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 259990,
@@ -2408,7 +2408,7 @@
             },
             {
               "id": "nebraska-the-hill-townhomes-8924-n-166th-st",
-              "address": null,
+              "address": "8924 N 166th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 264990,
@@ -2558,7 +2558,7 @@
             },
             {
               "id": "nebraska-majestic-pointe-7808-n-170-st",
-              "address": null,
+              "address": "7808 N 170 St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 445990,
@@ -2759,7 +2759,7 @@
             },
             {
               "id": "nebraska-woodbrook-valley-6515-n-187-st",
-              "address": null,
+              "address": "6515 N 187 St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 414990,
@@ -2776,7 +2776,7 @@
             },
             {
               "id": "nebraska-woodbrook-valley-6519-n-187-st",
-              "address": null,
+              "address": "6519 N 187 St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 419990,
@@ -2793,7 +2793,7 @@
             },
             {
               "id": "nebraska-woodbrook-valley-6528-n-187-st",
-              "address": null,
+              "address": "6528 N 187 St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 362990,
@@ -2810,7 +2810,7 @@
             },
             {
               "id": "nebraska-woodbrook-valley-6532-n-187-st",
-              "address": null,
+              "address": "6532 N 187 St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 399990,
@@ -3076,7 +3076,7 @@
             },
             {
               "id": "nebraska-stratford-west-9615-n-173-av",
-              "address": null,
+              "address": "9615 N 173 Av",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 449990,
@@ -3093,7 +3093,7 @@
             },
             {
               "id": "nebraska-stratford-west-9619-n-173-av",
-              "address": null,
+              "address": "9619 N 173 Av",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 509990,
@@ -3110,7 +3110,7 @@
             },
             {
               "id": "nebraska-stratford-west-9622-n-173-av",
-              "address": null,
+              "address": "9622 N 173 Av",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 499990,
@@ -3127,7 +3127,7 @@
             },
             {
               "id": "nebraska-stratford-west-9623-n-173-av",
-              "address": null,
+              "address": "9623 N 173 Av",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 439990,
@@ -3260,7 +3260,7 @@
             },
             {
               "id": "nebraska-majestic-178-8214-n-175-st",
-              "address": null,
+              "address": "8214 N 175 St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 394990,
@@ -3277,7 +3277,7 @@
             },
             {
               "id": "nebraska-majestic-178-8206-n-175-st",
-              "address": null,
+              "address": "8206 N 175 St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
               "price": 399990,
@@ -3410,7 +3410,7 @@
             },
             {
               "id": "nebraska-enclave-flats-5534-n-186-ave",
-              "address": null,
+              "address": "5534 N 186 Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 399990,
@@ -3427,7 +3427,7 @@
             },
             {
               "id": "nebraska-enclave-flats-5530-n-186-ave",
-              "address": null,
+              "address": "5530 N 186 Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 394990,
@@ -3444,7 +3444,7 @@
             },
             {
               "id": "nebraska-enclave-flats-5529-n-186-ave",
-              "address": null,
+              "address": "5529 N 186 Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 394990,
@@ -3461,7 +3461,7 @@
             },
             {
               "id": "nebraska-enclave-flats-5521-n-186-ave",
-              "address": null,
+              "address": "5521 N 186 Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 429990,
@@ -3478,7 +3478,7 @@
             },
             {
               "id": "nebraska-enclave-flats-5525-n-186-ave",
-              "address": null,
+              "address": "5525 N 186 Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
               "price": 399990,
@@ -3679,7 +3679,7 @@
             },
             {
               "id": "nebraska-mirabel-17614-virginia-st",
-              "address": null,
+              "address": "17614 Virginia St",
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
               "price": 369999,
@@ -3696,7 +3696,7 @@
             },
             {
               "id": "nebraska-mirabel-17530-virginia-st",
-              "address": null,
+              "address": "17530 Virginia St",
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
               "price": 379990,
@@ -3713,7 +3713,7 @@
             },
             {
               "id": "nebraska-mirabel-17602-virginia-st",
-              "address": null,
+              "address": "17602 Virginia St",
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
               "price": 389990,
@@ -3846,7 +3846,7 @@
             },
             {
               "id": "nebraska-windsor-west-8816-s-184th-ter",
-              "address": null,
+              "address": "8816 S 184th Ter",
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
               "price": 384990,
@@ -3863,7 +3863,7 @@
             },
             {
               "id": "nebraska-windsor-west-18471-greenfield-st",
-              "address": null,
+              "address": "18471 Greenfield St",
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
               "price": 359990,
@@ -4149,7 +4149,7 @@
             },
             {
               "id": "nebraska-remington-west-8115-s-200th-st",
-              "address": null,
+              "address": "8115 S 200th St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 429990,
@@ -4166,7 +4166,7 @@
             },
             {
               "id": "nebraska-remington-west-8119-s-200th-st",
-              "address": null,
+              "address": "8119 S 200th St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 419990,
@@ -4299,7 +4299,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20603-lillian-st",
-              "address": null,
+              "address": "20603 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4316,7 +4316,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20605-lillian-st",
-              "address": null,
+              "address": "20605 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4333,7 +4333,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20607-lillian-st",
-              "address": null,
+              "address": "20607 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4350,7 +4350,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20609-lillian-st",
-              "address": null,
+              "address": "20609 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4367,7 +4367,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20611-lillian-st",
-              "address": null,
+              "address": "20611 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4384,7 +4384,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-townhomes-20613-lillian-st",
-              "address": null,
+              "address": "20613 Lillian St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 279990,
@@ -4568,7 +4568,7 @@
             },
             {
               "id": "nebraska-sunset-meadows-7204-s-204th-ave",
-              "address": null,
+              "address": "7204 S 204th Ave",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 379990,
@@ -4769,7 +4769,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-12274-s-206th-st",
-              "address": null,
+              "address": "12274 S 206th St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 409990,
@@ -4786,7 +4786,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-12412-s-205th-ave",
-              "address": null,
+              "address": "12412 S 205th Ave",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 399999,
@@ -4803,7 +4803,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-20554-westridge-dr",
-              "address": null,
+              "address": "20554 Westridge Dr",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 399999,
@@ -4820,7 +4820,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-20558-westridge-dr",
-              "address": null,
+              "address": "20558 Westridge Dr",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 399999,
@@ -4837,7 +4837,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-20602-crestline-st",
-              "address": null,
+              "address": "20602 Crestline St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 479990,
@@ -4854,7 +4854,7 @@
             },
             {
               "id": "nebraska-parkview-traditions-20614-crestline-st",
-              "address": null,
+              "address": "20614 Crestline St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
               "price": 459990,

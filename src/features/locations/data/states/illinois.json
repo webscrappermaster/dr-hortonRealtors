@@ -220,7 +220,7 @@
             },
             {
               "id": "illinois-cantera-point-27691-maecliff-drive",
-              "address": null,
+              "address": "27691 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 494990,
@@ -237,7 +237,7 @@
             },
             {
               "id": "illinois-cantera-point-27689-maecliff-drive",
-              "address": null,
+              "address": "27689 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 509990,
@@ -254,7 +254,7 @@
             },
             {
               "id": "illinois-cantera-point-27693-maecliff-drive",
-              "address": null,
+              "address": "27693 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 509990,
@@ -271,7 +271,7 @@
             },
             {
               "id": "illinois-cantera-point-27686-maecliff-drive",
-              "address": null,
+              "address": "27686 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 514990,
@@ -288,7 +288,7 @@
             },
             {
               "id": "illinois-cantera-point-27687-maecliff-drive",
-              "address": null,
+              "address": "27687 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 517990,
@@ -305,7 +305,7 @@
             },
             {
               "id": "illinois-cantera-point-27695-maecliff-drive",
-              "address": null,
+              "address": "27695 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 519990,
@@ -322,7 +322,7 @@
             },
             {
               "id": "illinois-cantera-point-27685-maecliff-drive",
-              "address": null,
+              "address": "27685 Maecliff Drive",
               "cityStateZip": "Warrenville, IL 60555",
               "planName": null,
               "price": 529990,
@@ -506,7 +506,7 @@
             },
             {
               "id": "illinois-the-grasslands-freedom-ranch-duplexes-1139-wood-lily-lane",
-              "address": null,
+              "address": "1139 Wood Lily Lane",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 459990,
@@ -523,7 +523,7 @@
             },
             {
               "id": "illinois-the-grasslands-freedom-ranch-duplexes-1141-wood-lily-lane",
-              "address": null,
+              "address": "1141 Wood Lily Lane",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 464990,
@@ -540,7 +540,7 @@
             },
             {
               "id": "illinois-the-grasslands-freedom-ranch-duplexes-1143-wood-lily-lane",
-              "address": null,
+              "address": "1143 Wood Lily Lane",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 464990,
@@ -925,7 +925,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-293-basin-ct",
-              "address": null,
+              "address": "293 Basin Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 394990,
@@ -942,7 +942,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-409-lakeshore-ct",
-              "address": null,
+              "address": "409 Lakeshore Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 394990,
@@ -959,7 +959,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-295-basin-ct",
-              "address": null,
+              "address": "295 Basin Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 397990,
@@ -976,7 +976,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-413-lakeshore-ct",
-              "address": null,
+              "address": "413 Lakeshore Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 434990,
@@ -993,7 +993,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-297-basin-ct",
-              "address": null,
+              "address": "297 Basin Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 439990,
@@ -1010,7 +1010,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-291-basin-ct",
-              "address": null,
+              "address": "291 Basin Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 454990,
@@ -1027,7 +1027,7 @@
             },
             {
               "id": "illinois-charlestowne-lakes-299-basin-ct",
-              "address": null,
+              "address": "299 Basin Ct",
               "cityStateZip": "St. Charles, IL 60174",
               "planName": null,
               "price": 454990,
@@ -1313,7 +1313,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1299-foxglove-drive",
-              "address": null,
+              "address": "1299 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 392990,
@@ -1330,7 +1330,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1360-foxglove-drive",
-              "address": null,
+              "address": "1360 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 402990,
@@ -1347,7 +1347,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1362-foxglove-drive",
-              "address": null,
+              "address": "1362 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 402990,
@@ -1364,7 +1364,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1364-foxglove-drive",
-              "address": null,
+              "address": "1364 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 402990,
@@ -1381,7 +1381,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1307-foxglove-drive",
-              "address": null,
+              "address": "1307 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 404990,
@@ -1398,7 +1398,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1305-foxglove-drive",
-              "address": null,
+              "address": "1305 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 419990,
@@ -1415,7 +1415,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1358-foxglove-drive",
-              "address": null,
+              "address": "1358 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 419990,
@@ -1432,7 +1432,7 @@
             },
             {
               "id": "illinois-the-grasslands-townhomes-1366-foxglove-drive",
-              "address": null,
+              "address": "1366 Foxglove Drive",
               "cityStateZip": "Bartlett, IL 60103",
               "planName": null,
               "price": 419990,
@@ -1616,7 +1616,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-2225-bayside-drive",
-              "address": null,
+              "address": "2225 Bayside Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 549990,
@@ -1633,7 +1633,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-2220-waters-edge-drive",
-              "address": null,
+              "address": "2220 Waters Edge Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 559990,
@@ -1650,7 +1650,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-2221-bayside-drive",
-              "address": null,
+              "address": "2221 Bayside Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 564990,
@@ -1667,7 +1667,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-1153-lakepointe-drive",
-              "address": null,
+              "address": "1153 Lakepointe Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 609990,
@@ -1684,7 +1684,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-1155-lakepointe-drive",
-              "address": null,
+              "address": "1155 Lakepointe Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 609990,
@@ -1701,7 +1701,7 @@
             },
             {
               "id": "illinois-northgate-at-veridian-1157-lakepointe-drive",
-              "address": null,
+              "address": "1157 Lakepointe Drive",
               "cityStateZip": "Schaumburg, IL 60173",
               "planName": null,
               "price": 609990,
@@ -1885,7 +1885,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1829-baler-avenue",
-              "address": null,
+              "address": "1829 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 559990,
@@ -1902,7 +1902,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1823-baler-avenue",
-              "address": null,
+              "address": "1823 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 579990,
@@ -1919,7 +1919,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1874-keating-drive",
-              "address": null,
+              "address": "1874 Keating Drive",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 584990,
@@ -1936,7 +1936,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1862-keating-drive",
-              "address": null,
+              "address": "1862 Keating Drive",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 654990,
@@ -1953,7 +1953,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1711-stable-lane",
-              "address": null,
+              "address": "1711 Stable Lane",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 379990,
@@ -1970,7 +1970,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1705-stable-lane",
-              "address": null,
+              "address": "1705 Stable Lane",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 399990,
@@ -1987,7 +1987,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1691-baler-avenue",
-              "address": null,
+              "address": "1691 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 404990,
@@ -2004,7 +2004,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1685-baler-avenue",
-              "address": null,
+              "address": "1685 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 406990,
@@ -2021,7 +2021,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1704-baler-avenue",
-              "address": null,
+              "address": "1704 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 415990,
@@ -2038,7 +2038,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1697-stable-lane",
-              "address": null,
+              "address": "1697 Stable Lane",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 419990,
@@ -2055,7 +2055,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1715-stable-lane",
-              "address": null,
+              "address": "1715 Stable Lane",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 419990,
@@ -2072,7 +2072,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1740-stable-lane",
-              "address": null,
+              "address": "1740 Stable Lane",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 439990,
@@ -2089,7 +2089,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1847-baler-avenue",
-              "address": null,
+              "address": "1847 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 574990,
@@ -2106,7 +2106,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1868-keating-drive",
-              "address": null,
+              "address": "1868 Keating Drive",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 589990,
@@ -2123,7 +2123,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1816-baler-avenue",
-              "address": null,
+              "address": "1816 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 599990,
@@ -2140,7 +2140,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1817-baler-avenue",
-              "address": null,
+              "address": "1817 Baler Avenue",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 634990,
@@ -2157,7 +2157,7 @@
             },
             {
               "id": "illinois-wheatland-crossing-1858-keating-drive",
-              "address": null,
+              "address": "1858 Keating Drive",
               "cityStateZip": "Aurora, IL 60503",
               "planName": null,
               "price": 649990,
@@ -2409,7 +2409,7 @@
             },
             {
               "id": "illinois-marquis-pointe-973-emerald-dr",
-              "address": null,
+              "address": "973 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 434990,
@@ -2426,7 +2426,7 @@
             },
             {
               "id": "illinois-marquis-pointe-993-emerald-dr",
-              "address": null,
+              "address": "993 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 469990,
@@ -2443,7 +2443,7 @@
             },
             {
               "id": "illinois-marquis-pointe-998-emerald-dr",
-              "address": null,
+              "address": "998 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 474990,
@@ -2460,7 +2460,7 @@
             },
             {
               "id": "illinois-marquis-pointe-989-emerald-dr",
-              "address": null,
+              "address": "989 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 479990,
@@ -2477,7 +2477,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1014-emerald-dr",
-              "address": null,
+              "address": "1014 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 484990,
@@ -2494,7 +2494,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1034-emerald-dr",
-              "address": null,
+              "address": "1034 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 484990,
@@ -2511,7 +2511,7 @@
             },
             {
               "id": "illinois-marquis-pointe-994-emerald-dr",
-              "address": null,
+              "address": "994 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 484990,
@@ -2528,7 +2528,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1010-emerald-dr",
-              "address": null,
+              "address": "1010 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 489990,
@@ -2545,7 +2545,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1030-emerald-dr",
-              "address": null,
+              "address": "1030 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 490790,
@@ -2562,7 +2562,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1022-emerald-dr",
-              "address": null,
+              "address": "1022 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 491990,
@@ -2579,7 +2579,7 @@
             },
             {
               "id": "illinois-marquis-pointe-1002-emerald-dr",
-              "address": null,
+              "address": "1002 Emerald Dr",
               "cityStateZip": "Montgomery, IL 60538",
               "planName": null,
               "price": 494990,
@@ -2780,7 +2780,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2318-hirsch-rd",
-              "address": null,
+              "address": "2318 Hirsch Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 529990,
@@ -2797,7 +2797,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-1444-vintage-dr",
-              "address": null,
+              "address": "1444 Vintage Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 549990,
@@ -2814,7 +2814,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-1494-vintage-dr",
-              "address": null,
+              "address": "1494 Vintage Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 559990,
@@ -2831,7 +2831,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2322-hirsch-rd",
-              "address": null,
+              "address": "2322 Hirsch Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 559990,
@@ -2848,7 +2848,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-1498-vintage-dr",
-              "address": null,
+              "address": "1498 Vintage Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 609990,
@@ -2865,7 +2865,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2301-la-cote-dr",
-              "address": null,
+              "address": "2301 La Cote Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 629990,
@@ -2882,7 +2882,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2475-barbera-dr",
-              "address": null,
+              "address": "2475 Barbera Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 399990,
@@ -2899,7 +2899,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2408-semillon-st",
-              "address": null,
+              "address": "2408 Semillon St",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 419990,
@@ -2916,7 +2916,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2467-barbera-dr",
-              "address": null,
+              "address": "2467 Barbera Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 419990,
@@ -2933,7 +2933,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2401-semillon-st",
-              "address": null,
+              "address": "2401 Semillon St",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 439990,
@@ -2950,7 +2950,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2404-semillon-st",
-              "address": null,
+              "address": "2404 Semillon St",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 449990,
@@ -2967,7 +2967,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2412-semillon-st",
-              "address": null,
+              "address": "2412 Semillon St",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 454990,
@@ -2984,7 +2984,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-2310-hirsch-rd",
-              "address": null,
+              "address": "2310 Hirsch Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 534990,
@@ -3001,7 +3001,7 @@
             },
             {
               "id": "illinois-sonoma-trails-trad-sf-1486-vintage-dr",
-              "address": null,
+              "address": "1486 Vintage Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 629990,
@@ -3253,7 +3253,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2250-bodega-rd",
-              "address": null,
+              "address": "2250 Bodega Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 354990,
@@ -3270,7 +3270,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2277-barbera-dr",
-              "address": null,
+              "address": "2277 Barbera Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 374990,
@@ -3287,7 +3287,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2427-sonoma-trails-dr",
-              "address": null,
+              "address": "2427 Sonoma Trails Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 344990,
@@ -3304,7 +3304,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2255-barbera-dr",
-              "address": null,
+              "address": "2255 Barbera Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 349990,
@@ -3321,7 +3321,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2270-bodega-rd",
-              "address": null,
+              "address": "2270 Bodega Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 373990,
@@ -3338,7 +3338,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2269-barbera-dr",
-              "address": null,
+              "address": "2269 Barbera Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 374990,
@@ -3355,7 +3355,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2278-bodega-rd",
-              "address": null,
+              "address": "2278 Bodega Rd",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 374990,
@@ -3372,7 +3372,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2421-sonoma-trails-dr",
-              "address": null,
+              "address": "2421 Sonoma Trails Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 389990,
@@ -3389,7 +3389,7 @@
             },
             {
               "id": "illinois-sonoma-trails-townhomes-2433-sonoma-trails-dr",
-              "address": null,
+              "address": "2433 Sonoma Trails Dr",
               "cityStateZip": "Oswego, IL 60543",
               "planName": null,
               "price": 389990,
@@ -3756,7 +3756,7 @@
             },
             {
               "id": "illinois-west-point-gardens-288-snowdrop-ln",
-              "address": null,
+              "address": "288 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 639990,
@@ -3773,7 +3773,7 @@
             },
             {
               "id": "illinois-west-point-gardens-298-snowdrop-ln",
-              "address": null,
+              "address": "298 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 644990,
@@ -3790,7 +3790,7 @@
             },
             {
               "id": "illinois-west-point-gardens-301-snowdrop-ln",
-              "address": null,
+              "address": "301 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 549990,
@@ -3807,7 +3807,7 @@
             },
             {
               "id": "illinois-west-point-gardens-302-snowdrop-ln",
-              "address": null,
+              "address": "302 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 589990,
@@ -3824,7 +3824,7 @@
             },
             {
               "id": "illinois-west-point-gardens-299-snowdrop-ln",
-              "address": null,
+              "address": "299 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 614990,
@@ -3841,7 +3841,7 @@
             },
             {
               "id": "illinois-west-point-gardens-300-snowdrop-ln",
-              "address": null,
+              "address": "300 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 627490,
@@ -3858,7 +3858,7 @@
             },
             {
               "id": "illinois-west-point-gardens-303-snowdrop-ln",
-              "address": null,
+              "address": "303 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 644990,
@@ -3875,7 +3875,7 @@
             },
             {
               "id": "illinois-west-point-gardens-280-astor-ct",
-              "address": null,
+              "address": "280 Astor Ct",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 659990,
@@ -3892,7 +3892,7 @@
             },
             {
               "id": "illinois-west-point-gardens-304-snowdrop-ln",
-              "address": null,
+              "address": "304 Snowdrop Ln",
               "cityStateZip": "Elgin, IL 60124",
               "planName": null,
               "price": 659990,
@@ -4093,7 +4093,7 @@
             },
             {
               "id": "illinois-playa-vista-townes-13513-s-arroyo-ln",
-              "address": null,
+              "address": "13513 S Arroyo Ln",
               "cityStateZip": "Plainfield, IL 60585",
               "planName": null,
               "price": 379990,
@@ -4110,7 +4110,7 @@
             },
             {
               "id": "illinois-playa-vista-townes-13517-s-arroyo-ln",
-              "address": null,
+              "address": "13517 S Arroyo Ln",
               "cityStateZip": "Plainfield, IL 60585",
               "planName": null,
               "price": 379990,
@@ -4294,7 +4294,7 @@
             },
             {
               "id": "illinois-playa-vista-13624-s-carmel-blvd",
-              "address": null,
+              "address": "13624 S Carmel Blvd",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 454990,
@@ -4311,7 +4311,7 @@
             },
             {
               "id": "illinois-playa-vista-13618-s-carmel-blvd",
-              "address": null,
+              "address": "13618 S Carmel Blvd",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 459990,
@@ -4328,7 +4328,7 @@
             },
             {
               "id": "illinois-playa-vista-13619-s-carmel-blvd",
-              "address": null,
+              "address": "13619 S Carmel Blvd",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 459990,
@@ -4345,7 +4345,7 @@
             },
             {
               "id": "illinois-playa-vista-13557-s-coronado-cir",
-              "address": null,
+              "address": "13557 S Coronado Cir",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 474990,
@@ -4712,7 +4712,7 @@
             },
             {
               "id": "illinois-lago-vista-17513-w-windemere-circle",
-              "address": null,
+              "address": "17513 W Windemere Circle",
               "cityStateZip": "Lockport, IL 60441",
               "planName": null,
               "price": 474990,
@@ -4729,7 +4729,7 @@
             },
             {
               "id": "illinois-lago-vista-17461-w-windemere-circle",
-              "address": null,
+              "address": "17461 W Windemere Circle",
               "cityStateZip": "Lockport, IL 60441",
               "planName": null,
               "price": 497990,
@@ -4964,7 +4964,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-14600-s-azalia-cir",
-              "address": null,
+              "address": "14600 S Azalia Cir",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 399990,
@@ -4981,7 +4981,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-25519-w-thicket-ln",
-              "address": null,
+              "address": "25519 W Thicket Ln",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 409990,
@@ -4998,7 +4998,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-25511-w-thicket-ln",
-              "address": null,
+              "address": "25511 W Thicket Ln",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 414990,
@@ -5015,7 +5015,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-14604-s-azalia-cir",
-              "address": null,
+              "address": "14604 S Azalia Cir",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 419990,
@@ -5032,7 +5032,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-14608-s-azalia-cir",
-              "address": null,
+              "address": "14608 S Azalia Cir",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 439990,
@@ -5049,7 +5049,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-14612-s-azalia-cir",
-              "address": null,
+              "address": "14612 S Azalia Cir",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 444990,
@@ -5066,7 +5066,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-25523-w-thicket-ln",
-              "address": null,
+              "address": "25523 W Thicket Ln",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 444990,
@@ -5083,7 +5083,7 @@
             },
             {
               "id": "illinois-greenbriar-freedom-25515-w-thicket-ln",
-              "address": null,
+              "address": "25515 W Thicket Ln",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 459990,
@@ -5318,7 +5318,7 @@
             },
             {
               "id": "illinois-greenbriar-14813-s-parkview-dr",
-              "address": null,
+              "address": "14813 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 544990,
@@ -5335,7 +5335,7 @@
             },
             {
               "id": "illinois-greenbriar-14820-s-parkview-dr",
-              "address": null,
+              "address": "14820 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 549990,
@@ -5352,7 +5352,7 @@
             },
             {
               "id": "illinois-greenbriar-14719-s-parkview-dr",
-              "address": null,
+              "address": "14719 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 564990,
@@ -5369,7 +5369,7 @@
             },
             {
               "id": "illinois-greenbriar-14819-s-parkview-dr",
-              "address": null,
+              "address": "14819 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 569990,
@@ -5386,7 +5386,7 @@
             },
             {
               "id": "illinois-greenbriar-14731-s-parkview-dr",
-              "address": null,
+              "address": "14731 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 589690,
@@ -5403,7 +5403,7 @@
             },
             {
               "id": "illinois-greenbriar-14814-s-parkview-dr",
-              "address": null,
+              "address": "14814 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 594990,
@@ -5420,7 +5420,7 @@
             },
             {
               "id": "illinois-greenbriar-14713-s-parkview-dr",
-              "address": null,
+              "address": "14713 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 609990,
@@ -5437,7 +5437,7 @@
             },
             {
               "id": "illinois-greenbriar-14725-s-parkview-dr",
-              "address": null,
+              "address": "14725 S Parkview Dr",
               "cityStateZip": "Plainfield, IL 60544",
               "planName": null,
               "price": 624490,
@@ -5672,7 +5672,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3301-farren-street",
-              "address": null,
+              "address": "3301 Farren Street",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 326990,
@@ -5689,7 +5689,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3311-farren-street",
-              "address": null,
+              "address": "3311 Farren Street",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 332990,
@@ -5706,7 +5706,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-2238-davidson-way",
-              "address": null,
+              "address": "2238 Davidson Way",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 359990,
@@ -5723,7 +5723,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3317-farren-street",
-              "address": null,
+              "address": "3317 Farren Street",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 299990,
@@ -5740,7 +5740,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3217-matlock-drive",
-              "address": null,
+              "address": "3217 Matlock Drive",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 314990,
@@ -5757,7 +5757,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-2236-davidson-way",
-              "address": null,
+              "address": "2236 Davidson Way",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 324990,
@@ -5774,7 +5774,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-2224-davidson-way",
-              "address": null,
+              "address": "2224 Davidson Way",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 326990,
@@ -5791,7 +5791,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-2234-davidson-way",
-              "address": null,
+              "address": "2234 Davidson Way",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 329990,
@@ -5808,7 +5808,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3213-matlock-drive",
-              "address": null,
+              "address": "3213 Matlock Drive",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 334990,
@@ -5825,7 +5825,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-3219-matlock-drive",
-              "address": null,
+              "address": "3219 Matlock Drive",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 337990,
@@ -5842,7 +5842,7 @@
             },
             {
               "id": "illinois-grande-reserve-townhomes-2232-davidson-way",
-              "address": null,
+              "address": "2232 Davidson Way",
               "cityStateZip": "Yorkville, IL 60560",
               "planName": null,
               "price": 359990,
@@ -6230,7 +6230,7 @@
             },
             {
               "id": "illinois-prairie-landing-2913-old-castle-rd",
-              "address": null,
+              "address": "2913 Old Castle Rd",
               "cityStateZip": "Joliet, IL 60435",
               "planName": null,
               "price": 449990,
@@ -6247,7 +6247,7 @@
             },
             {
               "id": "illinois-prairie-landing-2828-savana-dr",
-              "address": null,
+              "address": "2828 Savana Dr",
               "cityStateZip": "Joliet, IL 60435",
               "planName": null,
               "price": 459990,
@@ -6264,7 +6264,7 @@
             },
             {
               "id": "illinois-prairie-landing-2826-savana-dr",
-              "address": null,
+              "address": "2826 Savana Dr",
               "cityStateZip": "Joliet, IL 60435",
               "planName": null,
               "price": 464990,
@@ -6281,7 +6281,7 @@
             },
             {
               "id": "illinois-prairie-landing-2901-savana-dr",
-              "address": null,
+              "address": "2901 Savana Dr",
               "cityStateZip": "Joliet, IL 60435",
               "planName": null,
               "price": 469990,
@@ -6298,7 +6298,7 @@
             },
             {
               "id": "illinois-prairie-landing-2829-savana-dr",
-              "address": null,
+              "address": "2829 Savana Dr",
               "cityStateZip": "Joliet, IL 60435",
               "planName": null,
               "price": 484990,
@@ -6584,7 +6584,7 @@
             },
             {
               "id": "illinois-ashford-place-1634-whisper-glen-drive",
-              "address": null,
+              "address": "1634 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 399990,
@@ -6601,7 +6601,7 @@
             },
             {
               "id": "illinois-ashford-place-6805-applegate-drive",
-              "address": null,
+              "address": "6805 Applegate Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 399990,
@@ -6618,7 +6618,7 @@
             },
             {
               "id": "illinois-ashford-place-6716-applegate-drive",
-              "address": null,
+              "address": "6716 Applegate Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 439990,
@@ -6635,7 +6635,7 @@
             },
             {
               "id": "illinois-ashford-place-6807-applegate-drive",
-              "address": null,
+              "address": "6807 Applegate Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 449990,
@@ -6652,7 +6652,7 @@
             },
             {
               "id": "illinois-ashford-place-1630-whisper-glen-drive",
-              "address": null,
+              "address": "1630 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 467990,
@@ -6669,7 +6669,7 @@
             },
             {
               "id": "illinois-ashford-place-1633-whisper-glen-drive",
-              "address": null,
+              "address": "1633 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 469990,
@@ -6686,7 +6686,7 @@
             },
             {
               "id": "illinois-ashford-place-1637-whisper-glen-drive",
-              "address": null,
+              "address": "1637 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 469990,
@@ -6703,7 +6703,7 @@
             },
             {
               "id": "illinois-ashford-place-1635-whisper-glen-drive",
-              "address": null,
+              "address": "1635 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 470990,
@@ -6720,7 +6720,7 @@
             },
             {
               "id": "illinois-ashford-place-1632-whisper-glen-drive",
-              "address": null,
+              "address": "1632 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 477990,
@@ -6737,7 +6737,7 @@
             },
             {
               "id": "illinois-ashford-place-1638-whisper-glen-drive",
-              "address": null,
+              "address": "1638 Whisper Glen Drive",
               "cityStateZip": "Plainfield, IL 60586",
               "planName": null,
               "price": 479990,
@@ -6989,7 +6989,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-2044-yellowstone-boulevard",
-              "address": null,
+              "address": "2044 Yellowstone Boulevard",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 454990,
@@ -7006,7 +7006,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-2047-sequoia-avenue",
-              "address": null,
+              "address": "2047 Sequoia Avenue",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 454990,
@@ -7023,7 +7023,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-512-yosemite-way",
-              "address": null,
+              "address": "512 Yosemite Way",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 464990,
@@ -7040,7 +7040,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-2045-sequoia-avenue",
-              "address": null,
+              "address": "2045 Sequoia Avenue",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 469990,
@@ -7057,7 +7057,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-2053-sequoia-avenue",
-              "address": null,
+              "address": "2053 Sequoia Avenue",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 469990,
@@ -7074,7 +7074,7 @@
             },
             {
               "id": "illinois-the-townes-at-oak-creek-2048-yellowstone-boulevard",
-              "address": null,
+              "address": "2048 Yellowstone Boulevard",
               "cityStateZip": "Mundelein, IL 60060",
               "planName": null,
               "price": 474990,
@@ -7595,7 +7595,7 @@
             },
             {
               "id": "illinois-oak-ridge-17336-galway-rd",
-              "address": null,
+              "address": "17336 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 354990,
@@ -7612,7 +7612,7 @@
             },
             {
               "id": "illinois-oak-ridge-17339-galway-rd",
-              "address": null,
+              "address": "17339 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 356990,
@@ -7629,7 +7629,7 @@
             },
             {
               "id": "illinois-oak-ridge-17341-galway-rd",
-              "address": null,
+              "address": "17341 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 356990,
@@ -7646,7 +7646,7 @@
             },
             {
               "id": "illinois-oak-ridge-17342-galway-rd",
-              "address": null,
+              "address": "17342 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 379990,
@@ -7663,7 +7663,7 @@
             },
             {
               "id": "illinois-oak-ridge-17333-galway-rd",
-              "address": null,
+              "address": "17333 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 381640,
@@ -7680,7 +7680,7 @@
             },
             {
               "id": "illinois-oak-ridge-17343-galway-rd",
-              "address": null,
+              "address": "17343 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 384640,
@@ -7697,7 +7697,7 @@
             },
             {
               "id": "illinois-oak-ridge-17332-galway-rd",
-              "address": null,
+              "address": "17332 Galway Rd",
               "cityStateZip": "Tinley Park, IL 60477",
               "planName": null,
               "price": 384990,
@@ -8085,7 +8085,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-townhomes-1351-dakota-drive",
-              "address": null,
+              "address": "1351 Dakota Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 344990,
@@ -8102,7 +8102,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-townhomes-1357-dakota-drive",
-              "address": null,
+              "address": "1357 Dakota Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 344990,
@@ -8119,7 +8119,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-townhomes-1387-oakfield-lane",
-              "address": null,
+              "address": "1387 Oakfield Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 344990,
@@ -8136,7 +8136,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-townhomes-2748-arrowhead-drive",
-              "address": null,
+              "address": "2748 Arrowhead Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 349990,
@@ -8507,7 +8507,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-single-family-2553-skye-drive",
-              "address": null,
+              "address": "2553 Skye Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 444990,
@@ -8524,7 +8524,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-single-family-2573-skye-drive",
-              "address": null,
+              "address": "2573 Skye Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 479990,
@@ -8541,7 +8541,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-single-family-2593-skye-drive",
-              "address": null,
+              "address": "2593 Skye Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 482990,
@@ -8558,7 +8558,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-single-family-2563-skye-drive",
-              "address": null,
+              "address": "2563 Skye Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 499990,
@@ -8742,7 +8742,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-townhomes-1086-savannah-lane",
-              "address": null,
+              "address": "1086 Savannah Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 339990,
@@ -8759,7 +8759,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-townhomes-1066-savannah-lane",
-              "address": null,
+              "address": "1066 Savannah Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 342990,
@@ -8776,7 +8776,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-ranch-townhomes-1064-savannah-lane",
-              "address": null,
+              "address": "1064 Savannah Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 344990,
@@ -8977,7 +8977,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2600-san-juan-lane",
-              "address": null,
+              "address": "2600 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 424990,
@@ -8994,7 +8994,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2621-san-juan-lane",
-              "address": null,
+              "address": "2621 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 439990,
@@ -9011,7 +9011,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2640-san-juan-lane",
-              "address": null,
+              "address": "2640 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 439990,
@@ -9028,7 +9028,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2924-rainier-drive",
-              "address": null,
+              "address": "2924 Rainier Drive",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 439990,
@@ -9045,7 +9045,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2620-san-juan-lane",
-              "address": null,
+              "address": "2620 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 444990,
@@ -9062,7 +9062,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2630-san-juan-lane",
-              "address": null,
+              "address": "2630 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 444990,
@@ -9079,7 +9079,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2611-san-juan-lane",
-              "address": null,
+              "address": "2611 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 446990,
@@ -9096,7 +9096,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-2641-san-juan-lane",
-              "address": null,
+              "address": "2641 San Juan Lane",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 474990,
@@ -9113,7 +9113,7 @@
             },
             {
               "id": "illinois-cambridge-lakes-north-traditional-single-family-904-cascade-court",
-              "address": null,
+              "address": "904 Cascade Court",
               "cityStateZip": "Pingree Grove, IL 60140",
               "planName": null,
               "price": 484990,
@@ -9399,7 +9399,7 @@
             },
             {
               "id": "illinois-cider-grove-10025-goodridge-street",
-              "address": null,
+              "address": "10025 Goodridge Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 484990,
@@ -9416,7 +9416,7 @@
             },
             {
               "id": "illinois-cider-grove-10035-goodridge-street",
-              "address": null,
+              "address": "10035 Goodridge Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 524990,
@@ -9433,7 +9433,7 @@
             },
             {
               "id": "illinois-cider-grove-10024-goodridge-street",
-              "address": null,
+              "address": "10024 Goodridge Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 539990,
@@ -9450,7 +9450,7 @@
             },
             {
               "id": "illinois-cider-grove-10044-goodridge-street",
-              "address": null,
+              "address": "10044 Goodridge Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 549990,
@@ -9467,7 +9467,7 @@
             },
             {
               "id": "illinois-cider-grove-10047---edgebrook-ln",
-              "address": null,
+              "address": "10047 Edgebrook Ln",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 559990,
@@ -9484,7 +9484,7 @@
             },
             {
               "id": "illinois-cider-grove-11222-fleetwood-street",
-              "address": null,
+              "address": "11222 Fleetwood Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 559990,
@@ -9501,7 +9501,7 @@
             },
             {
               "id": "illinois-cider-grove-10014-goodridge-street",
-              "address": null,
+              "address": "10014 Goodridge Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 574990,
@@ -9518,7 +9518,7 @@
             },
             {
               "id": "illinois-cider-grove-11212-fleetwood-street",
-              "address": null,
+              "address": "11212 Fleetwood Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 594990,
@@ -9535,7 +9535,7 @@
             },
             {
               "id": "illinois-cider-grove-11223-fleetwood-street",
-              "address": null,
+              "address": "11223 Fleetwood Street",
               "cityStateZip": "Huntley, IL 60142",
               "planName": null,
               "price": 624990,
@@ -10112,7 +10112,7 @@
             },
             {
               "id": "illinois-stonewater-2255-cobble-springs-drive",
-              "address": null,
+              "address": "2255 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 394990,
@@ -10129,7 +10129,7 @@
             },
             {
               "id": "illinois-stonewater-6800-willow-drive",
-              "address": null,
+              "address": "6800 Willow Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 399990,
@@ -10146,7 +10146,7 @@
             },
             {
               "id": "illinois-stonewater-2269-cobble-springs-drive",
-              "address": null,
+              "address": "2269 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 419990,
@@ -10163,7 +10163,7 @@
             },
             {
               "id": "illinois-stonewater-2253-cobble-springs-drive",
-              "address": null,
+              "address": "2253 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 429990,
@@ -10180,7 +10180,7 @@
             },
             {
               "id": "illinois-stonewater-2261-cobble-springs-drive",
-              "address": null,
+              "address": "2261 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 429990,
@@ -10197,7 +10197,7 @@
             },
             {
               "id": "illinois-stonewater-2259-cobble-springs-drive",
-              "address": null,
+              "address": "2259 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 439990,
@@ -10214,7 +10214,7 @@
             },
             {
               "id": "illinois-stonewater-2257-cobble-springs-drive",
-              "address": null,
+              "address": "2257 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 444990,
@@ -10231,7 +10231,7 @@
             },
             {
               "id": "illinois-stonewater-6821-cobble-springs-lane",
-              "address": null,
+              "address": "6821 Cobble Springs Lane",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 449990,
@@ -10248,7 +10248,7 @@
             },
             {
               "id": "illinois-stonewater-2251-cobble-springs-drive",
-              "address": null,
+              "address": "2251 Cobble Springs Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 499990,
@@ -10415,7 +10415,7 @@
             },
             {
               "id": "illinois-stonewater-ranch-townhomes-6453-maple-glen-drive",
-              "address": null,
+              "address": "6453 Maple Glen Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 294990,
@@ -10432,7 +10432,7 @@
             },
             {
               "id": "illinois-stonewater-ranch-townhomes-6468-maple-glen-drive",
-              "address": null,
+              "address": "6468 Maple Glen Drive",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 329990,
@@ -10667,7 +10667,7 @@
             },
             {
               "id": "illinois-stonewater-single-family-ranch-6296-redwood-trail",
-              "address": null,
+              "address": "6296 Redwood Trail",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 419990,
@@ -10684,7 +10684,7 @@
             },
             {
               "id": "illinois-stonewater-single-family-ranch-2282-redwood-trail",
-              "address": null,
+              "address": "2282 Redwood Trail",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 372990,
@@ -10701,7 +10701,7 @@
             },
             {
               "id": "illinois-stonewater-single-family-ranch-2286-redwood-trail",
-              "address": null,
+              "address": "2286 Redwood Trail",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 399990,
@@ -10718,7 +10718,7 @@
             },
             {
               "id": "illinois-stonewater-single-family-ranch-6306-redwood-trail",
-              "address": null,
+              "address": "6306 Redwood Trail",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 439990,
@@ -10735,7 +10735,7 @@
             },
             {
               "id": "illinois-stonewater-single-family-ranch-6308-redwood-trail",
-              "address": null,
+              "address": "6308 Redwood Trail",
               "cityStateZip": "Wonder Lake, IL 60097",
               "planName": null,
               "price": 444990,

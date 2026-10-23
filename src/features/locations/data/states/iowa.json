@@ -147,7 +147,7 @@
             },
             {
               "id": "iowa-fox-ridge-townhomes-2322-se-morningdew-dr",
-              "address": null,
+              "address": "2322 SE Morningdew Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 234990,
@@ -164,7 +164,7 @@
             },
             {
               "id": "iowa-fox-ridge-townhomes-2522-se-morningdew-dr",
-              "address": null,
+              "address": "2522 SE Morningdew Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 244990,
@@ -181,7 +181,7 @@
             },
             {
               "id": "iowa-fox-ridge-townhomes-2536-se-morningdew-dr",
-              "address": null,
+              "address": "2536 SE Morningdew Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 239990,
@@ -314,7 +314,7 @@
             },
             {
               "id": "iowa-fox-ridge-2468-se-billings-pl",
-              "address": null,
+              "address": "2468 SE Billings Pl",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 335990,
@@ -331,7 +331,7 @@
             },
             {
               "id": "iowa-fox-ridge-2442-se-ambrose-dr",
-              "address": null,
+              "address": "2442 SE Ambrose Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 324990,
@@ -348,7 +348,7 @@
             },
             {
               "id": "iowa-fox-ridge-2459-se-ambrose-dr",
-              "address": null,
+              "address": "2459 SE Ambrose Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 384990,
@@ -365,7 +365,7 @@
             },
             {
               "id": "iowa-fox-ridge-2464-se-ambrose-dr",
-              "address": null,
+              "address": "2464 SE Ambrose Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 349990,
@@ -382,7 +382,7 @@
             },
             {
               "id": "iowa-fox-ridge-2488-se-ambrose-dr",
-              "address": null,
+              "address": "2488 SE Ambrose Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 334990,
@@ -399,7 +399,7 @@
             },
             {
               "id": "iowa-fox-ridge-2513-se-ambrose-dr",
-              "address": null,
+              "address": "2513 SE Ambrose Dr",
               "cityStateZip": "West Des Moines, IA 50265",
               "planName": null,
               "price": 341990,
@@ -682,7 +682,7 @@
             },
             {
               "id": "iowa-three-lakes-3022-lake-hill-dr",
-              "address": null,
+              "address": "3022 Lake Hill Dr",
               "cityStateZip": "Des Moines, IA 50320",
               "planName": null,
               "price": 373990,
@@ -699,7 +699,7 @@
             },
             {
               "id": "iowa-three-lakes-3028-lake-hill-dr",
-              "address": null,
+              "address": "3028 Lake Hill Dr",
               "cityStateZip": "Des Moines, IA 50320",
               "planName": null,
               "price": 352990,
@@ -716,7 +716,7 @@
             },
             {
               "id": "iowa-three-lakes-6608-lake-forest-ave",
-              "address": null,
+              "address": "6608 Lake Forest Ave",
               "cityStateZip": "Des Moines, IA 50320",
               "planName": null,
               "price": 382990,
@@ -900,7 +900,7 @@
             },
             {
               "id": "iowa-ridgedale-heights-6724-nw-106th-st",
-              "address": null,
+              "address": "6724 NW 106th St",
               "cityStateZip": "Johnston, IA 50131",
               "planName": null,
               "price": 384990,
@@ -917,7 +917,7 @@
             },
             {
               "id": "iowa-ridgedale-heights-10254-nw-68th-ave",
-              "address": null,
+              "address": "10254 NW 68th Ave",
               "cityStateZip": "Johnston, IA 50131",
               "planName": null,
               "price": 365990,
@@ -934,7 +934,7 @@
             },
             {
               "id": "iowa-ridgedale-heights-10255-nw-68th-ave",
-              "address": null,
+              "address": "10255 NW 68th Ave",
               "cityStateZip": "Johnston, IA 50131",
               "planName": null,
               "price": 428990,
@@ -951,7 +951,7 @@
             },
             {
               "id": "iowa-ridgedale-heights-10258-nw-68th-ave",
-              "address": null,
+              "address": "10258 NW 68th Ave",
               "cityStateZip": "Johnston, IA 50131",
               "planName": null,
               "price": 375990,
@@ -1166,7 +1166,7 @@
             },
             {
               "id": "iowa-ruby-rose-townhomes-a-106-2401-e-50th-court",
-              "address": null,
+              "address": "A 106 2401 E 50th Court",
               "cityStateZip": "Des Moines, IA 50317",
               "planName": null,
               "price": 229990,
@@ -1183,7 +1183,7 @@
             },
             {
               "id": "iowa-ruby-rose-townhomes-d-106-2401-e-50th-court",
-              "address": null,
+              "address": "D 106 2401 E 50th Court",
               "cityStateZip": "Des Moines, IA 50317",
               "planName": null,
               "price": 259990,
@@ -1585,7 +1585,7 @@
             },
             {
               "id": "iowa-brodys-landing-349-cormorant-dr",
-              "address": null,
+              "address": "349 Cormorant Dr",
               "cityStateZip": "Norwalk, IA 50211",
               "planName": null,
               "price": 379990,
@@ -1602,7 +1602,7 @@
             },
             {
               "id": "iowa-brodys-landing-421-kingfisher-dr",
-              "address": null,
+              "address": "421 Kingfisher Dr",
               "cityStateZip": "Norwalk, IA 50211",
               "planName": null,
               "price": 331990,
@@ -1816,7 +1816,7 @@
             },
             {
               "id": "iowa-banks-landing-th-1434-s-banks-st",
-              "address": null,
+              "address": "1434 S Banks St",
               "cityStateZip": "West Des Moines, IA 50266",
               "planName": null,
               "price": 286990,
@@ -2214,7 +2214,7 @@
             },
             {
               "id": "iowa-magnolia-heights-5709-153rd-st",
-              "address": null,
+              "address": "5709 153rd St",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 339990,
@@ -2231,7 +2231,7 @@
             },
             {
               "id": "iowa-magnolia-heights-5723-152nd-st",
-              "address": null,
+              "address": "5723 152nd St",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 350490,
@@ -2248,7 +2248,7 @@
             },
             {
               "id": "iowa-magnolia-heights-5629-153rd-st",
-              "address": null,
+              "address": "5629 153rd St",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 337990,
@@ -2265,7 +2265,7 @@
             },
             {
               "id": "iowa-magnolia-heights-5633-153rd-st",
-              "address": null,
+              "address": "5633 153rd St",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 336990,
@@ -2282,7 +2282,7 @@
             },
             {
               "id": "iowa-magnolia-heights-5727-152nd-st",
-              "address": null,
+              "address": "5727 152nd St",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 376990,
@@ -2398,7 +2398,7 @@
           "availableHomes": [
             {
               "id": "iowa-magnolia-heights-townhomes-15321-coyote-dr",
-              "address": null,
+              "address": "15321 Coyote Dr",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 209990,
@@ -2415,7 +2415,7 @@
             },
             {
               "id": "iowa-magnolia-heights-townhomes-15323-coyote-dr",
-              "address": null,
+              "address": "15323 Coyote Dr",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 204990,
@@ -2432,7 +2432,7 @@
             },
             {
               "id": "iowa-magnolia-heights-townhomes-15325-coyote-dr",
-              "address": null,
+              "address": "15325 Coyote Dr",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 204990,
@@ -2449,7 +2449,7 @@
             },
             {
               "id": "iowa-magnolia-heights-townhomes-15327-coyote-dr",
-              "address": null,
+              "address": "15327 Coyote Dr",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 204990,
@@ -2466,7 +2466,7 @@
             },
             {
               "id": "iowa-magnolia-heights-townhomes-15329-coyote-dr",
-              "address": null,
+              "address": "15329 Coyote Dr",
               "cityStateZip": "Urbandale, IA 50111",
               "planName": null,
               "price": 209990,
@@ -2715,7 +2715,7 @@
             },
             {
               "id": "iowa-highland-meadows-5155-168th-st",
-              "address": null,
+              "address": "5155 168th St",
               "cityStateZip": "Urbandale, IA 50323",
               "planName": null,
               "price": 387990,
@@ -2998,7 +2998,7 @@
             },
             {
               "id": "iowa-brook-ridge-1109-33rd-ct-sw",
-              "address": null,
+              "address": "1109 33rd Ct SW",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 334990,
@@ -3015,7 +3015,7 @@
             },
             {
               "id": "iowa-brook-ridge-1114-33rd-ct-sw",
-              "address": null,
+              "address": "1114 33rd Ct SW",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 359990,
@@ -3250,7 +3250,7 @@
             },
             {
               "id": "iowa-mallard-prairie-4750-173rd-st",
-              "address": null,
+              "address": "4750 173rd St",
               "cityStateZip": "Urbandale, IA 50323",
               "planName": null,
               "price": 424990,
@@ -3267,7 +3267,7 @@
             },
             {
               "id": "iowa-mallard-prairie-4751-173rd-st",
-              "address": null,
+              "address": "4751 173rd St",
               "cityStateZip": "Urbandale, IA 50323",
               "planName": null,
               "price": 423990,
@@ -3284,7 +3284,7 @@
             },
             {
               "id": "iowa-mallard-prairie-4757-173rd-st",
-              "address": null,
+              "address": "4757 173rd St",
               "cityStateZip": "Urbandale, IA 50323",
               "planName": null,
               "price": 444990,
@@ -3451,7 +3451,7 @@
             },
             {
               "id": "iowa-stonebridge-301-40th-st-sw",
-              "address": null,
+              "address": "301 40th St SW",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 385990,
@@ -3468,7 +3468,7 @@
             },
             {
               "id": "iowa-stonebridge-303-39th-st-sw",
-              "address": null,
+              "address": "303 39th St SW",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 373990,
@@ -3648,7 +3648,7 @@
             },
             {
               "id": "iowa-autumn-valley-1455-mallard-ln",
-              "address": null,
+              "address": "1455 Mallard Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 379990,
@@ -3665,7 +3665,7 @@
             },
             {
               "id": "iowa-autumn-valley-1470-mallard-ln",
-              "address": null,
+              "address": "1470 Mallard Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 354990,
@@ -3682,7 +3682,7 @@
             },
             {
               "id": "iowa-autumn-valley-1475-mallard-ln",
-              "address": null,
+              "address": "1475 Mallard Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 359990,
@@ -3982,7 +3982,7 @@
             },
             {
               "id": "iowa-spring-crest-townhomes-1059-daisy-ln",
-              "address": null,
+              "address": "1059 Daisy Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 262990,
@@ -3999,7 +3999,7 @@
             },
             {
               "id": "iowa-spring-crest-townhomes-1081-daisy-ln",
-              "address": null,
+              "address": "1081 Daisy Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 272990,
@@ -4016,7 +4016,7 @@
             },
             {
               "id": "iowa-spring-crest-townhomes-1083-daisy-ln",
-              "address": null,
+              "address": "1083 Daisy Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 262990,
@@ -4033,7 +4033,7 @@
             },
             {
               "id": "iowa-spring-crest-townhomes-1089-daisy-ln",
-              "address": null,
+              "address": "1089 Daisy Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 262990,
@@ -4050,7 +4050,7 @@
             },
             {
               "id": "iowa-spring-crest-townhomes-1091-daisy-ln",
-              "address": null,
+              "address": "1091 Daisy Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 272990,
@@ -4384,7 +4384,7 @@
             },
             {
               "id": "iowa-painted-woods-west-single-family-3585-paradise-ln",
-              "address": null,
+              "address": "3585 Paradise Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 354990,
@@ -4401,7 +4401,7 @@
             },
             {
               "id": "iowa-painted-woods-west-single-family-3495-azalea-dr",
-              "address": null,
+              "address": "3495 Azalea Dr",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 335990,
@@ -4534,7 +4534,7 @@
             },
             {
               "id": "iowa-spring-creek-ridge-west-929-33rd-st-se",
-              "address": null,
+              "address": "929 33rd St SE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 383990,
@@ -4551,7 +4551,7 @@
             },
             {
               "id": "iowa-spring-creek-ridge-west-933-33rd-st-se",
-              "address": null,
+              "address": "933 33rd St SE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 393990,
@@ -4568,7 +4568,7 @@
             },
             {
               "id": "iowa-spring-creek-ridge-west-913-33rd-st-se",
-              "address": null,
+              "address": "913 33rd St SE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 321990,
@@ -4585,7 +4585,7 @@
             },
             {
               "id": "iowa-spring-creek-ridge-west-919-33rd-st-se",
-              "address": null,
+              "address": "919 33rd St SE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 364990,
@@ -4718,7 +4718,7 @@
             },
             {
               "id": "iowa-painted-woods-west-townhomes-3590-pershing-ln",
-              "address": null,
+              "address": "3590 Pershing Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 239990,
@@ -4735,7 +4735,7 @@
             },
             {
               "id": "iowa-painted-woods-west-townhomes-3594-pershing-ln",
-              "address": null,
+              "address": "3594 Pershing Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 252990,
@@ -4950,7 +4950,7 @@
             },
             {
               "id": "iowa-edgewood-trail-127-10th-ave-ne",
-              "address": null,
+              "address": "127 10th Ave NE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 429990,
@@ -4967,7 +4967,7 @@
             },
             {
               "id": "iowa-edgewood-trail-134-10th-ave-ne",
-              "address": null,
+              "address": "134 10th Ave NE",
               "cityStateZip": "Altoona, IA 50009",
               "planName": null,
               "price": 396990,
@@ -5134,7 +5134,7 @@
             },
             {
               "id": "iowa-quail-run-traditions-1013-chayse-st-sw",
-              "address": null,
+              "address": "1013 Chayse St SW",
               "cityStateZip": "Bondurant, IA 50035",
               "planName": null,
               "price": 399990,
@@ -5318,7 +5318,7 @@
             },
             {
               "id": "iowa-canyon-landing-4107-ne-12th-st",
-              "address": null,
+              "address": "4107 NE 12th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 383990,
@@ -5335,7 +5335,7 @@
             },
             {
               "id": "iowa-canyon-landing-4029-ne-12th-st",
-              "address": null,
+              "address": "4029 NE 12th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 344990,
@@ -5352,7 +5352,7 @@
             },
             {
               "id": "iowa-canyon-landing-4033-ne-12th-st",
-              "address": null,
+              "address": "4033 NE 12th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 339990,
@@ -5369,7 +5369,7 @@
             },
             {
               "id": "iowa-canyon-landing-4103-ne-12th-st",
-              "address": null,
+              "address": "4103 NE 12th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 369990,
@@ -5386,7 +5386,7 @@
             },
             {
               "id": "iowa-canyon-landing-4112-ne-12th-st",
-              "address": null,
+              "address": "4112 NE 12th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 367990,
@@ -5638,7 +5638,7 @@
             },
             {
               "id": "iowa-stratford-crossing-xl-series-570-nw-concord-ln",
-              "address": null,
+              "address": "570 NW Concord Ln",
               "cityStateZip": "Waukee, IA 50263",
               "planName": null,
               "price": 439990,
@@ -5921,7 +5921,7 @@
             },
             {
               "id": "iowa-harvest-meadows-813-fireside-dr-nw",
-              "address": null,
+              "address": "813 Fireside Dr NW",
               "cityStateZip": "Bondurant, IA 50035",
               "planName": null,
               "price": 339990,
@@ -5938,7 +5938,7 @@
             },
             {
               "id": "iowa-harvest-meadows-817-fireside-dr-nw",
-              "address": null,
+              "address": "817 Fireside Dr NW",
               "cityStateZip": "Bondurant, IA 50035",
               "planName": null,
               "price": 284990,
@@ -6156,7 +6156,7 @@
             },
             {
               "id": "iowa-creekview-estates-1190-hillside-pl",
-              "address": null,
+              "address": "1190 Hillside Pl",
               "cityStateZip": "Polk City, IA 50226",
               "planName": null,
               "price": 391990,
@@ -6173,7 +6173,7 @@
             },
             {
               "id": "iowa-creekview-estates-960-hillside-pl",
-              "address": null,
+              "address": "960 Hillside Pl",
               "cityStateZip": "Polk City, IA 50226",
               "planName": null,
               "price": 449990,
@@ -6374,7 +6374,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-5923-ne-verona-dr",
-              "address": null,
+              "address": "5923 NE Verona Dr",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 329990,
@@ -6391,7 +6391,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-1214-ne-60th-st",
-              "address": null,
+              "address": "1214 NE 60th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 339990,
@@ -6408,7 +6408,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-1218-ne-60th-st",
-              "address": null,
+              "address": "1218 NE 60th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 368990,
@@ -6425,7 +6425,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-1304-ne-60th-st",
-              "address": null,
+              "address": "1304 NE 60th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 339990,
@@ -6442,7 +6442,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-1308-ne-60th-st",
-              "address": null,
+              "address": "1308 NE 60th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 319990,
@@ -6459,7 +6459,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-1312-ne-60th-st",
-              "address": null,
+              "address": "1312 NE 60th St",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 329990,
@@ -6677,7 +6677,7 @@
             },
             {
               "id": "iowa-kimberley-crossing-townhomes-1441-ne-59th-ln",
-              "address": null,
+              "address": "1441 NE 59th Ln",
               "cityStateZip": "Ankeny, IA 50021",
               "planName": null,
               "price": 249990,
@@ -7184,7 +7184,7 @@
             },
             {
               "id": "iowa-edgewood-village-2794-cecelia-dr",
-              "address": null,
+              "address": "2794 Cecelia Dr",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 361990,
@@ -7201,7 +7201,7 @@
             },
             {
               "id": "iowa-edgewood-village-2798-cecelia-dr",
-              "address": null,
+              "address": "2798 Cecelia Dr",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 335990,
@@ -7688,7 +7688,7 @@
             },
             {
               "id": "iowa-edgewood-village-townhomes-2435-chloe-ln",
-              "address": null,
+              "address": "2435 Chloe Ln",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 229990,
@@ -7705,7 +7705,7 @@
             },
             {
               "id": "iowa-edgewood-village-townhomes-2437-chloe-ln",
-              "address": null,
+              "address": "2437 Chloe Ln",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 239990,
@@ -7722,7 +7722,7 @@
             },
             {
               "id": "iowa-edgewood-village-townhomes-2521-prairie-light-ln",
-              "address": null,
+              "address": "2521 Prairie Light Ln",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 249990,
@@ -7739,7 +7739,7 @@
             },
             {
               "id": "iowa-edgewood-village-townhomes-2523-prairie-light-ln",
-              "address": null,
+              "address": "2523 Prairie Light Ln",
               "cityStateZip": "Hiawatha, IA 52233",
               "planName": null,
               "price": 239990,
@@ -7940,7 +7940,7 @@
             },
             {
               "id": "iowa-american-prairie-40-verbena-ln-sw",
-              "address": null,
+              "address": "40 Verbena Ln SW",
               "cityStateZip": "Cedar Rapids, IA 52404",
               "planName": null,
               "price": 384990,
@@ -7957,7 +7957,7 @@
             },
             {
               "id": "iowa-american-prairie-32-verbena-lane-sw",
-              "address": null,
+              "address": "32 Verbena Lane SW",
               "cityStateZip": "Cedar Rapids, IA 52404",
               "planName": null,
               "price": 374990,
@@ -7974,7 +7974,7 @@
             },
             {
               "id": "iowa-american-prairie-36-verbena-lane-sw",
-              "address": null,
+              "address": "36 Verbena Lane SW",
               "cityStateZip": "Cedar Rapids, IA 52404",
               "planName": null,
               "price": 384990,
@@ -8410,7 +8410,7 @@
             },
             {
               "id": "iowa-sycamore-heights-3812-rueben-dr",
-              "address": null,
+              "address": "3812 Rueben Dr",
               "cityStateZip": "Marion, IA 52302",
               "planName": null,
               "price": 404990,
@@ -8427,7 +8427,7 @@
             },
             {
               "id": "iowa-sycamore-heights-3813-rueben-dr",
-              "address": null,
+              "address": "3813 Rueben Dr",
               "cityStateZip": "Marion, IA 52302",
               "planName": null,
               "price": 376990,
@@ -8444,7 +8444,7 @@
             },
             {
               "id": "iowa-sycamore-heights-3917-rueben-dr",
-              "address": null,
+              "address": "3917 Rueben Dr",
               "cityStateZip": "Marion, IA 52302",
               "planName": null,
               "price": 399990,
@@ -8774,7 +8774,7 @@
             },
             {
               "id": "iowa-forevergreen-heights-3415-dreusicke-dr",
-              "address": null,
+              "address": "3415 Dreusicke Dr",
               "cityStateZip": "Coralville, IA 52241",
               "planName": null,
               "price": 384990,
@@ -8791,7 +8791,7 @@
             },
             {
               "id": "iowa-forevergreen-heights-3414-dreusicke-dr",
-              "address": null,
+              "address": "3414 Dreusicke Dr",
               "cityStateZip": "Coralville, IA 52241",
               "planName": null,
               "price": 419990,
@@ -8808,7 +8808,7 @@
             },
             {
               "id": "iowa-forevergreen-heights-3416-dreusicke-dr",
-              "address": null,
+              "address": "3416 Dreusicke Dr",
               "cityStateZip": "Coralville, IA 52241",
               "planName": null,
               "price": 419990,
@@ -8825,7 +8825,7 @@
             },
             {
               "id": "iowa-forevergreen-heights-3419-dreusicke-dr",
-              "address": null,
+              "address": "3419 Dreusicke Dr",
               "cityStateZip": "Coralville, IA 52241",
               "planName": null,
               "price": 379990,
@@ -9094,7 +9094,7 @@
             },
             {
               "id": "iowa-prairie-village-twinhomes-604-magnolia-way",
-              "address": null,
+              "address": "604 Magnolia Way",
               "cityStateZip": "Tiffin, IA 52340",
               "planName": null,
               "price": 321990,
@@ -9346,7 +9346,7 @@
             },
             {
               "id": "iowa-prairie-village-townhomes-639-coneflower-st",
-              "address": null,
+              "address": "639 Coneflower St",
               "cityStateZip": "Tiffin, IA 52340",
               "planName": null,
               "price": 259990,
@@ -9363,7 +9363,7 @@
             },
             {
               "id": "iowa-prairie-village-townhomes-641-coneflower-st",
-              "address": null,
+              "address": "641 Coneflower St",
               "cityStateZip": "Tiffin, IA 52340",
               "planName": null,
               "price": 269990,

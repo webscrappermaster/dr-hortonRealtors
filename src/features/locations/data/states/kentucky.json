@@ -183,7 +183,7 @@
             },
             {
               "id": "kentucky-carriage-place-1061-carriage-place-drive",
-              "address": null,
+              "address": "1061 Carriage Place Drive",
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
               "price": 318354,
@@ -200,7 +200,7 @@
             },
             {
               "id": "kentucky-carriage-place-2040-coachman-drive",
-              "address": null,
+              "address": "2040 Coachman Drive",
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
               "price": 337491,
@@ -1651,7 +1651,7 @@
             },
             {
               "id": "kentucky-ashton-park-117-purse-lane",
-              "address": null,
+              "address": "117 Purse Lane",
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
               "price": 313731,
@@ -1668,7 +1668,7 @@
             },
             {
               "id": "kentucky-ashton-park-900-tristan-lane",
-              "address": null,
+              "address": "900 Tristan Lane",
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
               "price": 356900,
@@ -1685,7 +1685,7 @@
             },
             {
               "id": "kentucky-ashton-park-904-tristan-lane",
-              "address": null,
+              "address": "904 Tristan Lane",
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
               "price": 341365,
@@ -1702,7 +1702,7 @@
             },
             {
               "id": "kentucky-ashton-park-913-tristan-lane",
-              "address": null,
+              "address": "913 Tristan Lane",
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
               "price": 366990,

@@ -434,7 +434,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3764-hawks-creek-drive",
-              "address": null,
+              "address": "3764 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 419135,
@@ -451,7 +451,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3783-hawks-creek-drive",
-              "address": null,
+              "address": "3783 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 458700,
@@ -468,7 +468,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3819-hawks-creek-drive",
-              "address": null,
+              "address": "3819 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 414180,
@@ -485,7 +485,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3843-hawks-creek-drive",
-              "address": null,
+              "address": "3843 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 442629,
@@ -502,7 +502,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3909-hawks-creek-drive",
-              "address": null,
+              "address": "3909 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 465730,
@@ -519,7 +519,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3921-hawks-creek-drive",
-              "address": null,
+              "address": "3921 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 448296,
@@ -536,7 +536,7 @@
             },
             {
               "id": "tennessee-hawks-landing-3933-hawks-creek-drive",
-              "address": null,
+              "address": "3933 Hawks Creek Drive",
               "cityStateZip": "Apison, TN 37302",
               "planName": null,
               "price": 435038,
@@ -686,7 +686,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-edgestone-7222-scituate-lane",
-              "address": null,
+              "address": "7222 Scituate Lane",
               "cityStateZip": "Ooltewah, TN 37363",
               "planName": null,
               "price": 428195,
@@ -1359,7 +1359,7 @@
             },
             {
               "id": "tennessee-fairview-hills-2296-chelle-drive-ne",
-              "address": null,
+              "address": "2296 Chelle Drive NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 355635,
@@ -1710,7 +1710,7 @@
             },
             {
               "id": "tennessee-lone-oaks-farm-4351-farm-way-trail-ne",
-              "address": null,
+              "address": "4351 Farm Way Trail NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 384250,
@@ -1727,7 +1727,7 @@
             },
             {
               "id": "tennessee-lone-oaks-farm-4368-farm-way-trail-ne",
-              "address": null,
+              "address": "4368 Farm Way Trail NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 344685,
@@ -1744,7 +1744,7 @@
             },
             {
               "id": "tennessee-lone-oaks-farm-4375-farm-way-trail-ne",
-              "address": null,
+              "address": "4375 Farm Way Trail NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 335085,
@@ -1761,7 +1761,7 @@
             },
             {
               "id": "tennessee-lone-oaks-farm-4382-farm-way-trail-ne",
-              "address": null,
+              "address": "4382 Farm Way Trail NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 391715,
@@ -1778,7 +1778,7 @@
             },
             {
               "id": "tennessee-lone-oaks-farm-4404-farm-way-trail-ne",
-              "address": null,
+              "address": "4404 Farm Way Trail NE",
               "cityStateZip": "Cleveland, TN 37323",
               "planName": null,
               "price": 361630,
@@ -2177,7 +2177,7 @@
             },
             {
               "id": "tennessee-the-preserve-at-davis-place-113-english-oak-lane",
-              "address": null,
+              "address": "113 English Oak Lane",
               "cityStateZip": "Athens, TN 37303",
               "planName": null,
               "price": 366640,
@@ -2376,7 +2376,7 @@
             },
             {
               "id": "tennessee-bailey-park-108-aurora-circle",
-              "address": null,
+              "address": "108 Aurora Circle",
               "cityStateZip": "Fayetteville, TN 37334",
               "planName": null,
               "price": 353900,
@@ -2605,7 +2605,7 @@
             },
             {
               "id": "tennessee-prices-point-3121-della-margaret-street",
-              "address": null,
+              "address": "3121 Della Margaret Street",
               "cityStateZip": "Knoxville, TN 37920",
               "planName": null,
               "price": 344160,
@@ -2622,7 +2622,7 @@
             },
             {
               "id": "tennessee-prices-point-4268-juliette-elise-street",
-              "address": null,
+              "address": "4268 Juliette Elise Street",
               "cityStateZip": "Knoxville, TN 37920",
               "planName": null,
               "price": 363365,
@@ -2639,7 +2639,7 @@
             },
             {
               "id": "tennessee-prices-point-4276-juliette-elise-street",
-              "address": null,
+              "address": "4276 Juliette Elise Street",
               "cityStateZip": "Knoxville, TN 37920",
               "planName": null,
               "price": 366365,
@@ -2656,7 +2656,7 @@
             },
             {
               "id": "tennessee-prices-point-4280-juliette-elise-street",
-              "address": null,
+              "address": "4280 Juliette Elise Street",
               "cityStateZip": "Knoxville, TN 37920",
               "planName": null,
               "price": 329525,
@@ -3044,7 +3044,7 @@
             },
             {
               "id": "tennessee-valley-grove-villas-7505-speckled-trout-lane",
-              "address": null,
+              "address": "7505 Speckled Trout Lane",
               "cityStateZip": "Knoxville, TN 37931",
               "planName": null,
               "price": 333720,
@@ -3061,7 +3061,7 @@
             },
             {
               "id": "tennessee-valley-grove-villas-7506-speckled-trout-lane",
-              "address": null,
+              "address": "7506 Speckled Trout Lane",
               "cityStateZip": "Knoxville, TN 37931",
               "planName": null,
               "price": 340140,
@@ -3078,7 +3078,7 @@
             },
             {
               "id": "tennessee-valley-grove-villas-7507-speckled-trout-lane",
-              "address": null,
+              "address": "7507 Speckled Trout Lane",
               "cityStateZip": "Knoxville, TN 37931",
               "planName": null,
               "price": 343140,
@@ -3262,7 +3262,7 @@
             },
             {
               "id": "tennessee-macon-townhomes-358-seymour-centre-blvd",
-              "address": null,
+              "address": "358 Seymour Centre Blvd",
               "cityStateZip": "Seymour, TN 37865",
               "planName": null,
               "price": 304390,
@@ -3698,7 +3698,7 @@
             },
             {
               "id": "tennessee-belhaven-6808-engelhard-lane",
-              "address": null,
+              "address": "6808 Engelhard Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 440860,
@@ -3715,7 +3715,7 @@
             },
             {
               "id": "tennessee-belhaven-6814-engelhard-lane",
-              "address": null,
+              "address": "6814 Engelhard Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 416810,
@@ -3732,7 +3732,7 @@
             },
             {
               "id": "tennessee-belhaven-7516-spindale-road",
-              "address": null,
+              "address": "7516 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 438860,
@@ -3749,7 +3749,7 @@
             },
             {
               "id": "tennessee-belhaven-7522-spindale-road",
-              "address": null,
+              "address": "7522 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 410810,
@@ -3766,7 +3766,7 @@
             },
             {
               "id": "tennessee-belhaven-7528-spindale-road",
-              "address": null,
+              "address": "7528 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 437860,
@@ -3783,7 +3783,7 @@
             },
             {
               "id": "tennessee-belhaven-7534-spindale-road",
-              "address": null,
+              "address": "7534 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 413810,
@@ -3800,7 +3800,7 @@
             },
             {
               "id": "tennessee-belhaven-7546-spindale-road",
-              "address": null,
+              "address": "7546 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 412810,
@@ -3817,7 +3817,7 @@
             },
             {
               "id": "tennessee-belhaven-7552-spindale-road",
-              "address": null,
+              "address": "7552 Spindale Road",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 441860,
@@ -3834,7 +3834,7 @@
             },
             {
               "id": "tennessee-belhaven-6845-engelhard-lane",
-              "address": null,
+              "address": "6845 Engelhard Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 336165,
@@ -3851,7 +3851,7 @@
             },
             {
               "id": "tennessee-belhaven-6851-engelhard-lane",
-              "address": null,
+              "address": "6851 Engelhard Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 322690,
@@ -3868,7 +3868,7 @@
             },
             {
               "id": "tennessee-belhaven-6860-prospect-hill-lane",
-              "address": null,
+              "address": "6860 Prospect Hill Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 374750,
@@ -3885,7 +3885,7 @@
             },
             {
               "id": "tennessee-belhaven-6863-engelhard-lane",
-              "address": null,
+              "address": "6863 Engelhard Lane",
               "cityStateZip": "Knoxville, TN 37918",
               "planName": null,
               "price": 348220,
@@ -4137,7 +4137,7 @@
             },
             {
               "id": "tennessee-irwin-oaks-6961-mcguffey-run-lane",
-              "address": null,
+              "address": "6961 Mcguffey Run Lane",
               "cityStateZip": "Corryton, TN 37721",
               "planName": null,
               "price": 374660,
@@ -4154,7 +4154,7 @@
             },
             {
               "id": "tennessee-irwin-oaks-6967-mcguffey-run-lane",
-              "address": null,
+              "address": "6967 Mcguffey Run Lane",
               "cityStateZip": "Corryton, TN 37721",
               "planName": null,
               "price": 419990,
@@ -4171,7 +4171,7 @@
             },
             {
               "id": "tennessee-irwin-oaks-6973-mcguffey-run-lane",
-              "address": null,
+              "address": "6973 Mcguffey Run Lane",
               "cityStateZip": "Corryton, TN 37721",
               "planName": null,
               "price": 404515,
@@ -4188,7 +4188,7 @@
             },
             {
               "id": "tennessee-irwin-oaks-6979-mcguffey-run-lane",
-              "address": null,
+              "address": "6979 Mcguffey Run Lane",
               "cityStateZip": "Corryton, TN 37721",
               "planName": null,
               "price": 381680,
@@ -4205,7 +4205,7 @@
             },
             {
               "id": "tennessee-irwin-oaks-6985-mcguffey-run-lane",
-              "address": null,
+              "address": "6985 Mcguffey Run Lane",
               "cityStateZip": "Corryton, TN 37721",
               "planName": null,
               "price": 410920,
@@ -5140,7 +5140,7 @@
           "availableHomes": [
             {
               "id": "tennessee-reina-vista-122-reina-vista-lane",
-              "address": null,
+              "address": "122 Reina Vista Lane",
               "cityStateZip": "Loudon, TN 37774",
               "planName": null,
               "price": 457795,
@@ -5157,7 +5157,7 @@
             },
             {
               "id": "tennessee-reina-vista-128-reina-vista-lane",
-              "address": null,
+              "address": "128 Reina Vista Lane",
               "cityStateZip": "Loudon, TN 37774",
               "planName": null,
               "price": 489435,
@@ -5174,7 +5174,7 @@
             },
             {
               "id": "tennessee-reina-vista-134-reina-vista-lane",
-              "address": null,
+              "address": "134 Reina Vista Lane",
               "cityStateZip": "Loudon, TN 37774",
               "planName": null,
               "price": 526485,
@@ -5191,7 +5191,7 @@
             },
             {
               "id": "tennessee-reina-vista-140-reina-vista-lane",
-              "address": null,
+              "address": "140 Reina Vista Lane",
               "cityStateZip": "Loudon, TN 37774",
               "planName": null,
               "price": 502370,
@@ -5208,7 +5208,7 @@
             },
             {
               "id": "tennessee-reina-vista-146-reina-vista-lane",
-              "address": null,
+              "address": "146 Reina Vista Lane",
               "cityStateZip": "Loudon, TN 37774",
               "planName": null,
               "price": 556495,
@@ -5578,7 +5578,7 @@
             },
             {
               "id": "tennessee-riggs-pointe-4511-basun-circle-s",
-              "address": null,
+              "address": "4511 Basun Circle S",
               "cityStateZip": "Millington, TN 38053",
               "planName": null,
               "price": 308990,
@@ -5595,7 +5595,7 @@
             },
             {
               "id": "tennessee-riggs-pointe-4521-basun-circle-n",
-              "address": null,
+              "address": "4521 Basun Circle N",
               "cityStateZip": "Millington, TN 38053",
               "planName": null,
               "price": 316990,
@@ -5612,7 +5612,7 @@
             },
             {
               "id": "tennessee-riggs-pointe-6883-basun-circle-w",
-              "address": null,
+              "address": "6883 Basun Circle W",
               "cityStateZip": "Millington, TN 38053",
               "planName": null,
               "price": 290990,
@@ -6181,7 +6181,7 @@
             },
             {
               "id": "tennessee-riverwood-gardens-550-riverdale-dr",
-              "address": null,
+              "address": "550 Riverdale Dr",
               "cityStateZip": "Oakland, TN 38060",
               "planName": null,
               "price": 412990,
@@ -6365,7 +6365,7 @@
             },
             {
               "id": "tennessee-village-park-20-kipling-drive",
-              "address": null,
+              "address": "20 Kipling Drive",
               "cityStateZip": "Oakland, TN 38060",
               "planName": null,
               "price": 320990,
@@ -6716,7 +6716,7 @@
             },
             {
               "id": "tennessee-shiloh-springs-77-morning-light-cove",
-              "address": null,
+              "address": "77 Morning Light Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 271990,
@@ -6733,7 +6733,7 @@
             },
             {
               "id": "tennessee-shiloh-springs-88-gateway-drive",
-              "address": null,
+              "address": "88 Gateway Drive",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 315990,
@@ -6815,7 +6815,7 @@
           "availableHomes": [
             {
               "id": "tennessee-bancroft-place-102-bancroft-cove",
-              "address": null,
+              "address": "102 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -6832,7 +6832,7 @@
             },
             {
               "id": "tennessee-bancroft-place-106-bancroft-cove",
-              "address": null,
+              "address": "106 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -6849,7 +6849,7 @@
             },
             {
               "id": "tennessee-bancroft-place-110-bancroft-cove",
-              "address": null,
+              "address": "110 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 235000,
@@ -6866,7 +6866,7 @@
             },
             {
               "id": "tennessee-bancroft-place-114-bancroft-cove",
-              "address": null,
+              "address": "114 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 235000,
@@ -6883,7 +6883,7 @@
             },
             {
               "id": "tennessee-bancroft-place-118-bancroft-cove",
-              "address": null,
+              "address": "118 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -6900,7 +6900,7 @@
             },
             {
               "id": "tennessee-bancroft-place-122-bancroft-cove",
-              "address": null,
+              "address": "122 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -6917,7 +6917,7 @@
             },
             {
               "id": "tennessee-bancroft-place-126-bancroft-cove",
-              "address": null,
+              "address": "126 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -6934,7 +6934,7 @@
             },
             {
               "id": "tennessee-bancroft-place-130-bancroft-cove",
-              "address": null,
+              "address": "130 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 235000,
@@ -6951,7 +6951,7 @@
             },
             {
               "id": "tennessee-bancroft-place-94-bancroft-cove",
-              "address": null,
+              "address": "94 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 235000,
@@ -6968,7 +6968,7 @@
             },
             {
               "id": "tennessee-bancroft-place-98-bancroft-cove",
-              "address": null,
+              "address": "98 Bancroft Cove",
               "cityStateZip": "Jackson, TN 38305",
               "planName": null,
               "price": 230000,
@@ -7121,7 +7121,7 @@
             },
             {
               "id": "tennessee-millstone-village-5025-lost-creek-drive",
-              "address": null,
+              "address": "5025 Lost Creek Drive",
               "cityStateZip": "Morristown, TN 37813",
               "planName": null,
               "price": 360825,
@@ -7138,7 +7138,7 @@
             },
             {
               "id": "tennessee-millstone-village-5031-lost-creek-drive",
-              "address": null,
+              "address": "5031 Lost Creek Drive",
               "cityStateZip": "Morristown, TN 37813",
               "planName": null,
               "price": 341705,
@@ -7155,7 +7155,7 @@
             },
             {
               "id": "tennessee-millstone-village-5032-runnerstone-road",
-              "address": null,
+              "address": "5032 Runnerstone Road",
               "cityStateZip": "Morristown, TN 37813",
               "planName": null,
               "price": 395895,
@@ -7573,7 +7573,7 @@
             },
             {
               "id": "tennessee-creekside-ridge-6120-sycamore-stream-road",
-              "address": null,
+              "address": "6120 Sycamore Stream Road",
               "cityStateZip": "Dandridge, TN 37725",
               "planName": null,
               "price": 327600,
@@ -7590,7 +7590,7 @@
             },
             {
               "id": "tennessee-creekside-ridge-6124-sycamore-stream-road",
-              "address": null,
+              "address": "6124 Sycamore Stream Road",
               "cityStateZip": "Dandridge, TN 37725",
               "planName": null,
               "price": 354035,
@@ -8325,7 +8325,7 @@
             },
             {
               "id": "tennessee-addison-park-2233-harlequin-point",
-              "address": null,
+              "address": "2233 Harlequin Point",
               "cityStateZip": "Lebanon, TN 37090",
               "planName": null,
               "price": 339990,
@@ -8342,7 +8342,7 @@
             },
             {
               "id": "tennessee-addison-park-2234-harlequin-point",
-              "address": null,
+              "address": "2234 Harlequin Point",
               "cityStateZip": "Lebanon, TN 37090",
               "planName": null,
               "price": 315690,
@@ -8761,7 +8761,7 @@
             },
             {
               "id": "tennessee-nexus-south-5228-synergy-pvt-way",
-              "address": null,
+              "address": "5228 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 444990,
@@ -8778,7 +8778,7 @@
             },
             {
               "id": "tennessee-nexus-south-5232-synergy-pvt-way",
-              "address": null,
+              "address": "5232 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 459990,
@@ -8795,7 +8795,7 @@
             },
             {
               "id": "tennessee-nexus-south-2173-holmesburg-pvt-circle",
-              "address": null,
+              "address": "2173 Holmesburg Pvt Circle",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 325985,
@@ -8812,7 +8812,7 @@
             },
             {
               "id": "tennessee-nexus-south-2177-holmesburg-pvt-circle",
-              "address": null,
+              "address": "2177 Holmesburg Pvt Circle",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 325985,
@@ -8829,7 +8829,7 @@
             },
             {
               "id": "tennessee-nexus-south-5300-synergy-pvt-way",
-              "address": null,
+              "address": "5300 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 474990,
@@ -8846,7 +8846,7 @@
             },
             {
               "id": "tennessee-nexus-south-5309-synergy-pvt-way",
-              "address": null,
+              "address": "5309 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 479990,
@@ -8863,7 +8863,7 @@
             },
             {
               "id": "tennessee-nexus-south-5312-synergy-pvt-way",
-              "address": null,
+              "address": "5312 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 464990,
@@ -8880,7 +8880,7 @@
             },
             {
               "id": "tennessee-nexus-south-5316-synergy-pvt-way",
-              "address": null,
+              "address": "5316 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 484990,
@@ -8897,7 +8897,7 @@
             },
             {
               "id": "tennessee-nexus-south-5317-synergy-pvt-way",
-              "address": null,
+              "address": "5317 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 474990,
@@ -8914,7 +8914,7 @@
             },
             {
               "id": "tennessee-nexus-south-5324-synergy-pvt-way",
-              "address": null,
+              "address": "5324 Synergy Pvt Way",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 469990,
@@ -8931,7 +8931,7 @@
             },
             {
               "id": "tennessee-nexus-south-700-yeetum-pvt-bend",
-              "address": null,
+              "address": "700 Yeetum Pvt Bend",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 405535,
@@ -8948,7 +8948,7 @@
             },
             {
               "id": "tennessee-nexus-south-704-yeetum-pvt-bend",
-              "address": null,
+              "address": "704 Yeetum Pvt Bend",
               "cityStateZip": "Gallatin, TN 37066",
               "planName": null,
               "price": 400315,
@@ -9196,7 +9196,7 @@
             },
             {
               "id": "tennessee-blair-ridge-519-mound-road",
-              "address": null,
+              "address": "519 Mound Road",
               "cityStateZip": "La Vergne, TN 37086",
               "planName": null,
               "price": 339990,
@@ -9213,7 +9213,7 @@
             },
             {
               "id": "tennessee-blair-ridge-521-mound-road",
-              "address": null,
+              "address": "521 Mound Road",
               "cityStateZip": "La Vergne, TN 37086",
               "planName": null,
               "price": 354990,
@@ -9584,7 +9584,7 @@
             },
             {
               "id": "tennessee-pottsview-2030-coriander-lane",
-              "address": null,
+              "address": "2030 Coriander Lane",
               "cityStateZip": "Smyrna, TN 37167",
               "planName": null,
               "price": 634990,
@@ -9918,7 +9918,7 @@
             },
             {
               "id": "tennessee-river-landing-townhomes-4341-fir-tree-way",
-              "address": null,
+              "address": "4341 Fir Tree Way",
               "cityStateZip": "Murfreesboro, TN 37129",
               "planName": null,
               "price": 319990,
@@ -9935,7 +9935,7 @@
             },
             {
               "id": "tennessee-river-landing-townhomes-4343-fir-tree-way",
-              "address": null,
+              "address": "4343 Fir Tree Way",
               "cityStateZip": "Murfreesboro, TN 37129",
               "planName": null,
               "price": 319990,
@@ -9952,7 +9952,7 @@
             },
             {
               "id": "tennessee-river-landing-townhomes-4345-fir-tree-way",
-              "address": null,
+              "address": "4345 Fir Tree Way",
               "cityStateZip": "Murfreesboro, TN 37129",
               "planName": null,
               "price": 319990,
@@ -9969,7 +9969,7 @@
             },
             {
               "id": "tennessee-river-landing-townhomes-4347-fir-tree-way",
-              "address": null,
+              "address": "4347 Fir Tree Way",
               "cityStateZip": "Murfreesboro, TN 37129",
               "planName": null,
               "price": 319990,
@@ -10469,7 +10469,7 @@
             },
             {
               "id": "tennessee-parkside-point-1024-canyon-drive",
-              "address": null,
+              "address": "1024 Canyon Drive",
               "cityStateZip": "Portland, TN 37148",
               "planName": null,
               "price": 314990,
@@ -10486,7 +10486,7 @@
             },
             {
               "id": "tennessee-parkside-point-912-badlands-way",
-              "address": null,
+              "address": "912 Badlands Way",
               "cityStateZip": "Portland, TN 37148",
               "planName": null,
               "price": 284510,
@@ -10503,7 +10503,7 @@
             },
             {
               "id": "tennessee-parkside-point-916-badlands-way",
-              "address": null,
+              "address": "916 Badlands Way",
               "cityStateZip": "Portland, TN 37148",
               "planName": null,
               "price": 302510,
@@ -10520,7 +10520,7 @@
             },
             {
               "id": "tennessee-parkside-point-920-badlands-way",
-              "address": null,
+              "address": "920 Badlands Way",
               "cityStateZip": "Portland, TN 37148",
               "planName": null,
               "price": 288510,
@@ -10785,7 +10785,7 @@
             },
             {
               "id": "tennessee-paddington-place-281-dale-mires-lane",
-              "address": null,
+              "address": "281 Dale Mires Lane",
               "cityStateZip": "Baxter, TN 38544",
               "planName": null,
               "price": 219990,
@@ -10802,7 +10802,7 @@
             },
             {
               "id": "tennessee-paddington-place-283-dale-mires-lane",
-              "address": null,
+              "address": "283 Dale Mires Lane",
               "cityStateZip": "Baxter, TN 38544",
               "planName": null,
               "price": 229990,
@@ -10969,7 +10969,7 @@
             },
             {
               "id": "tennessee-harvest-point-299-harvest-point-blvd",
-              "address": null,
+              "address": "299 Harvest Point Blvd",
               "cityStateZip": "Spring Hill, TN 37174",
               "planName": null,
               "price": 510555,
@@ -11102,7 +11102,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4019-red-hawk-road",
-              "address": null,
+              "address": "4019 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 489990,
@@ -11119,7 +11119,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4020-red-hawk-road",
-              "address": null,
+              "address": "4020 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 474990,
@@ -11136,7 +11136,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4022-red-hawk-road",
-              "address": null,
+              "address": "4022 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 454990,
@@ -11153,7 +11153,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4024-red-hawk-road",
-              "address": null,
+              "address": "4024 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 499990,
@@ -11170,7 +11170,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4025-red-hawk-road",
-              "address": null,
+              "address": "4025 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 499575,
@@ -11187,7 +11187,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4026-red-hawk-road",
-              "address": null,
+              "address": "4026 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 474990,
@@ -11204,7 +11204,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4027-red-hawk-road",
-              "address": null,
+              "address": "4027 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 479990,
@@ -11221,7 +11221,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4028-red-hawk-road",
-              "address": null,
+              "address": "4028 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 499990,
@@ -11238,7 +11238,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4030-red-hawk-road",
-              "address": null,
+              "address": "4030 Red Hawk Road",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 459990,
@@ -11255,7 +11255,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4300-scarlet-court",
-              "address": null,
+              "address": "4300 Scarlet Court",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 505555,
@@ -11272,7 +11272,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4301-scarlet-court",
-              "address": null,
+              "address": "4301 Scarlet Court",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 525985,
@@ -11289,7 +11289,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4321-scarlet-court",
-              "address": null,
+              "address": "4321 Scarlet Court",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 559205,
@@ -11306,7 +11306,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4325-scarlet-court",
-              "address": null,
+              "address": "4325 Scarlet Court",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 577695,
@@ -11323,7 +11323,7 @@
             },
             {
               "id": "tennessee-reserve-at-hickory-ridge-4329-scarlet-court",
-              "address": null,
+              "address": "4329 Scarlet Court",
               "cityStateZip": "Columbia, TN 38401",
               "planName": null,
               "price": 562590,
@@ -11623,7 +11623,7 @@
             },
             {
               "id": "tennessee-savannah-lakes-1776-savannah-pass",
-              "address": null,
+              "address": "1776 Savannah Pass",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 329990,
@@ -11640,7 +11640,7 @@
             },
             {
               "id": "tennessee-savannah-lakes-1778-savannah-pass",
-              "address": null,
+              "address": "1778 Savannah Pass",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 319990,
@@ -11657,7 +11657,7 @@
             },
             {
               "id": "tennessee-savannah-lakes-1782-savannah-pass",
-              "address": null,
+              "address": "1782 Savannah Pass",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 319990,
@@ -11875,7 +11875,7 @@
             },
             {
               "id": "tennessee-saddle-trace-townhomes-1329-churchill-lane",
-              "address": null,
+              "address": "1329 Churchill Lane",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 229990,
@@ -11892,7 +11892,7 @@
             },
             {
               "id": "tennessee-saddle-trace-townhomes-1331-churchill-lane",
-              "address": null,
+              "address": "1331 Churchill Lane",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 239990,
@@ -11909,7 +11909,7 @@
             },
             {
               "id": "tennessee-saddle-trace-townhomes-1449-lexington-way",
-              "address": null,
+              "address": "1449 Lexington Way",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 219990,
@@ -11926,7 +11926,7 @@
             },
             {
               "id": "tennessee-saddle-trace-townhomes-1453-lexington-way",
-              "address": null,
+              "address": "1453 Lexington Way",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 219990,
@@ -11943,7 +11943,7 @@
             },
             {
               "id": "tennessee-saddle-trace-townhomes-1457-lexington-way",
-              "address": null,
+              "address": "1457 Lexington Way",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 229990,
@@ -12093,7 +12093,7 @@
             },
             {
               "id": "tennessee-saddle-trace-1403-belmont-way",
-              "address": null,
+              "address": "1403 Belmont Way",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 304990,
@@ -12110,7 +12110,7 @@
             },
             {
               "id": "tennessee-saddle-trace-1411-belmont-way",
-              "address": null,
+              "address": "1411 Belmont Way",
               "cityStateZip": "Lewisburg, TN 37091",
               "planName": null,
               "price": 304990,
@@ -12463,7 +12463,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1075-edison-rd",
-              "address": null,
+              "address": "1075 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 391580,
@@ -12480,7 +12480,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1076-edison-rd",
-              "address": null,
+              "address": "1076 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 351850,
@@ -12497,7 +12497,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1077-edison-rd",
-              "address": null,
+              "address": "1077 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 417600,
@@ -12514,7 +12514,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1078-edison-rd",
-              "address": null,
+              "address": "1078 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 358850,
@@ -12531,7 +12531,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1080-edison-rd",
-              "address": null,
+              "address": "1080 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 324505,
@@ -12548,7 +12548,7 @@
             },
             {
               "id": "tennessee-keebler-meadows-1082-edison-rd",
-              "address": null,
+              "address": "1082 Edison Rd",
               "cityStateZip": "Johnson City, TN 37615",
               "planName": null,
               "price": 345505,
@@ -12984,7 +12984,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-313-chimney-view-loop",
-              "address": null,
+              "address": "313 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 374560,
@@ -13001,7 +13001,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-316-chimney-view-loop",
-              "address": null,
+              "address": "316 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 325527,
@@ -13018,7 +13018,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-317-chimney-view-loop",
-              "address": null,
+              "address": "317 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 290160,
@@ -13035,7 +13035,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-320-chimney-view-loop",
-              "address": null,
+              "address": "320 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 371085,
@@ -13052,7 +13052,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-321-chimney-view-loop",
-              "address": null,
+              "address": "321 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 442440,
@@ -13069,7 +13069,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-329-chimney-view-loop",
-              "address": null,
+              "address": "329 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 434915,
@@ -13086,7 +13086,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-332-chimney-view-loop",
-              "address": null,
+              "address": "332 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 398955,
@@ -13103,7 +13103,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-336-chimney-view-loop",
-              "address": null,
+              "address": "336 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 341295,
@@ -13120,7 +13120,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-340-chimney-view-loop",
-              "address": null,
+              "address": "340 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 338295,
@@ -13137,7 +13137,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-348-chimney-view-loop",
-              "address": null,
+              "address": "348 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 401400,
@@ -13154,7 +13154,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-352-chimney-view-loop",
-              "address": null,
+              "address": "352 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 367085,
@@ -13171,7 +13171,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-360-chimney-view-loop",
-              "address": null,
+              "address": "360 Chimney View Loop",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 434440,
@@ -13188,7 +13188,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-467-fieldcrest-rd",
-              "address": null,
+              "address": "467 Fieldcrest Rd",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 440440,
@@ -13205,7 +13205,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-471-fieldcrest-rd",
-              "address": null,
+              "address": "471 Fieldcrest Rd",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 411405,
@@ -13457,7 +13457,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-124-holt-way",
-              "address": null,
+              "address": "124 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 239900,
@@ -13474,7 +13474,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-128-holt-way",
-              "address": null,
+              "address": "128 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 239900,
@@ -13491,7 +13491,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-132-holt-way",
-              "address": null,
+              "address": "132 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 239900,
@@ -13508,7 +13508,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-136-holt-way",
-              "address": null,
+              "address": "136 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 239900,
@@ -13525,7 +13525,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-137-holt-way",
-              "address": null,
+              "address": "137 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 249900,
@@ -13542,7 +13542,7 @@
             },
             {
               "id": "tennessee-fieldcrest-acres-townhomes-140-holt-way",
-              "address": null,
+              "address": "140 Holt Way",
               "cityStateZip": "Blountville, TN 37617",
               "planName": null,
               "price": 244900,
@@ -13692,7 +13692,7 @@
             },
             {
               "id": "tennessee-the-arbor-1142-wenna-way",
-              "address": null,
+              "address": "1142 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 249900,
@@ -13709,7 +13709,7 @@
             },
             {
               "id": "tennessee-the-arbor-1154-wenna-way",
-              "address": null,
+              "address": "1154 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 249900,
@@ -13726,7 +13726,7 @@
             },
             {
               "id": "tennessee-the-arbor-1158-wenna-way",
-              "address": null,
+              "address": "1158 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 254900,
@@ -13743,7 +13743,7 @@
             },
             {
               "id": "tennessee-the-arbor-1166-wenna-way",
-              "address": null,
+              "address": "1166 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 249900,
@@ -13760,7 +13760,7 @@
             },
             {
               "id": "tennessee-the-arbor-1170-wenna-way",
-              "address": null,
+              "address": "1170 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 254900,
@@ -13777,7 +13777,7 @@
             },
             {
               "id": "tennessee-the-arbor-1178-wenna-way",
-              "address": null,
+              "address": "1178 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13794,7 +13794,7 @@
             },
             {
               "id": "tennessee-the-arbor-1181-wenna-way",
-              "address": null,
+              "address": "1181 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13811,7 +13811,7 @@
             },
             {
               "id": "tennessee-the-arbor-1182-wenna-way",
-              "address": null,
+              "address": "1182 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13828,7 +13828,7 @@
             },
             {
               "id": "tennessee-the-arbor-1185-wenna-way",
-              "address": null,
+              "address": "1185 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13845,7 +13845,7 @@
             },
             {
               "id": "tennessee-the-arbor-1186-wenna-way",
-              "address": null,
+              "address": "1186 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13862,7 +13862,7 @@
             },
             {
               "id": "tennessee-the-arbor-1189-wenna-way",
-              "address": null,
+              "address": "1189 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13879,7 +13879,7 @@
             },
             {
               "id": "tennessee-the-arbor-1190-wenna-way",
-              "address": null,
+              "address": "1190 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13896,7 +13896,7 @@
             },
             {
               "id": "tennessee-the-arbor-1193-wenna-way",
-              "address": null,
+              "address": "1193 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13913,7 +13913,7 @@
             },
             {
               "id": "tennessee-the-arbor-1194-wenna-way",
-              "address": null,
+              "address": "1194 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 259900,
@@ -13930,7 +13930,7 @@
             },
             {
               "id": "tennessee-the-arbor-1197-wenna-way",
-              "address": null,
+              "address": "1197 Wenna Way",
               "cityStateZip": "Kingsport, TN 37664",
               "planName": null,
               "price": 264900,
@@ -14063,7 +14063,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-218-wisteria-drive",
-              "address": null,
+              "address": "218 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 298170,
@@ -14080,7 +14080,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-221-wisteria-drive",
-              "address": null,
+              "address": "221 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 352000,
@@ -14097,7 +14097,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-229-wisteria-drive",
-              "address": null,
+              "address": "229 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 328350,
@@ -14114,7 +14114,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-234-wisteria-drive",
-              "address": null,
+              "address": "234 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 409165,
@@ -14131,7 +14131,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-237-wisteria-drive",
-              "address": null,
+              "address": "237 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 324000,
@@ -14148,7 +14148,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-245-wisteria-drive",
-              "address": null,
+              "address": "245 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 333350,
@@ -14165,7 +14165,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-253-wisteria-drive",
-              "address": null,
+              "address": "253 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 389385,
@@ -14182,7 +14182,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-258-wisteria-drive",
-              "address": null,
+              "address": "258 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 396835,
@@ -14199,7 +14199,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-261-wisteria-drive",
-              "address": null,
+              "address": "261 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 298000,
@@ -14216,7 +14216,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-269-wisteria-drive",
-              "address": null,
+              "address": "269 Wisteria Drive",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 304000,
@@ -14233,7 +14233,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-32-zinnia-circle",
-              "address": null,
+              "address": "32 Zinnia Circle",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 303170,
@@ -14250,7 +14250,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-56-zinnia-circle",
-              "address": null,
+              "address": "56 Zinnia Circle",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 302170,
@@ -14267,7 +14267,7 @@
             },
             {
               "id": "tennessee-the-hideaway-at-fox-meadows-68-zinnia-circle",
-              "address": null,
+              "address": "68 Zinnia Circle",
               "cityStateZip": "Bluff City, TN 37618",
               "planName": null,
               "price": 359585,
@@ -14519,7 +14519,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1067-persimmon-hollow",
-              "address": null,
+              "address": "1067 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 289500,
@@ -14536,7 +14536,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1069-persimmon-hollow",
-              "address": null,
+              "address": "1069 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 290570,
@@ -14553,7 +14553,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1075-persimmon-hollow",
-              "address": null,
+              "address": "1075 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 306385,
@@ -14570,7 +14570,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1077-persimmon-hollow",
-              "address": null,
+              "address": "1077 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 302500,
@@ -14587,7 +14587,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1079-persimmon-hollow",
-              "address": null,
+              "address": "1079 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 295500,
@@ -14604,7 +14604,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1083-persimmon-hollow",
-              "address": null,
+              "address": "1083 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 306385,
@@ -14621,7 +14621,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1084-persimmon-hollow",
-              "address": null,
+              "address": "1084 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 346950,
@@ -14638,7 +14638,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1085-persimmon-hollow",
-              "address": null,
+              "address": "1085 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 321615,
@@ -14655,7 +14655,7 @@
             },
             {
               "id": "tennessee-johnson-farms-1088-persimmon-hollow",
-              "address": null,
+              "address": "1088 Persimmon Hollow",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 306385,
@@ -14890,7 +14890,7 @@
           "availableHomes": [
             {
               "id": "tennessee-old-shiloh-1155-old-shiloh-road",
-              "address": null,
+              "address": "1155 Old Shiloh Road",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 408980,
@@ -14907,7 +14907,7 @@
             },
             {
               "id": "tennessee-old-shiloh-1175-old-shiloh-road",
-              "address": null,
+              "address": "1175 Old Shiloh Road",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 411980,
@@ -14924,7 +14924,7 @@
             },
             {
               "id": "tennessee-old-shiloh-1195-old-shiloh-road",
-              "address": null,
+              "address": "1195 Old Shiloh Road",
               "cityStateZip": "Greeneville, TN 37745",
               "planName": null,
               "price": 408980,

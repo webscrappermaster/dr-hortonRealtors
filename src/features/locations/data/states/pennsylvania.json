@@ -142,7 +142,7 @@
             },
             {
               "id": "pennsylvania-fox-run-heights-210-grantway-drive",
-              "address": null,
+              "address": "210 Grantway Drive",
               "cityStateZip": "York, PA 17404",
               "planName": null,
               "price": 429990,
@@ -159,7 +159,7 @@
             },
             {
               "id": "pennsylvania-fox-run-heights-95-christina-drive",
-              "address": null,
+              "address": "95 Christina Drive",
               "cityStateZip": "York, PA 17404",
               "planName": null,
               "price": 429990,
@@ -445,7 +445,7 @@
             },
             {
               "id": "pennsylvania-strawberry-field-estates-2063-paperback-way",
-              "address": null,
+              "address": "2063 Paperback Way",
               "cityStateZip": "York, PA 17408",
               "planName": null,
               "price": 456870,
@@ -462,7 +462,7 @@
             },
             {
               "id": "pennsylvania-strawberry-field-estates-2071-paperback-way",
-              "address": null,
+              "address": "2071 Paperback Way",
               "cityStateZip": "York, PA 17408",
               "planName": null,
               "price": 397870,
@@ -663,7 +663,7 @@
             },
             {
               "id": "pennsylvania-cider-press-station-towns-113-barlett-ln",
-              "address": null,
+              "address": "113 Barlett Ln",
               "cityStateZip": "Harrisburg, PA 17111",
               "planName": null,
               "price": 311990,
@@ -680,7 +680,7 @@
             },
             {
               "id": "pennsylvania-cider-press-station-towns-115-barlett-ln",
-              "address": null,
+              "address": "115 Barlett Ln",
               "cityStateZip": "Harrisburg, PA 17111",
               "planName": null,
               "price": 330990,
@@ -898,7 +898,7 @@
             },
             {
               "id": "pennsylvania-cider-press-station-125-pear-ridge-dr",
-              "address": null,
+              "address": "125 Pear Ridge Dr",
               "cityStateZip": "Harrisburg, PA 17111",
               "planName": null,
               "price": 526490,
@@ -915,7 +915,7 @@
             },
             {
               "id": "pennsylvania-cider-press-station-137-pear-ridge-dr",
-              "address": null,
+              "address": "137 Pear Ridge Dr",
               "cityStateZip": "Harrisburg, PA 17111",
               "planName": null,
               "price": 529490,
@@ -1626,7 +1626,7 @@
             },
             {
               "id": "pennsylvania-bennington-49-bennington-way",
-              "address": null,
+              "address": "49 Bennington Way",
               "cityStateZip": "Carlisle, PA 17013",
               "planName": null,
               "price": 439755,
@@ -2042,7 +2042,7 @@
             },
             {
               "id": "pennsylvania-lafayette-hills-133-winding-road",
-              "address": null,
+              "address": "133 Winding Road",
               "cityStateZip": "Easton, PA 18040",
               "planName": null,
               "price": 608490,
@@ -2059,7 +2059,7 @@
             },
             {
               "id": "pennsylvania-lafayette-hills-143-winding-road",
-              "address": null,
+              "address": "143 Winding Road",
               "cityStateZip": "Easton, PA 18040",
               "planName": null,
               "price": 591490,
@@ -2076,7 +2076,7 @@
             },
             {
               "id": "pennsylvania-lafayette-hills-147-winding-road",
-              "address": null,
+              "address": "147 Winding Road",
               "cityStateZip": "Easton, PA 18040",
               "planName": null,
               "price": 596490,
@@ -2787,7 +2787,7 @@
             },
             {
               "id": "pennsylvania-village-at-eskie-park-3055-bella-circle",
-              "address": null,
+              "address": "3055 Bella Circle",
               "cityStateZip": "Norristown, PA 19403",
               "planName": null,
               "price": 799990,
@@ -2804,7 +2804,7 @@
             },
             {
               "id": "pennsylvania-village-at-eskie-park-3059-bella-circle",
-              "address": null,
+              "address": "3059 Bella Circle",
               "cityStateZip": "Norristown, PA 19403",
               "planName": null,
               "price": 953985,
@@ -3005,7 +3005,7 @@
             },
             {
               "id": "pennsylvania-parkhill-villages-334-lantern-court",
-              "address": null,
+              "address": "334 Lantern Court",
               "cityStateZip": "Sellersville, PA 18960",
               "planName": null,
               "price": 449620,
@@ -3540,7 +3540,7 @@
             },
             {
               "id": "pennsylvania-creekside-village-townhomes-3092-martha-way",
-              "address": null,
+              "address": "3092 Martha Way",
               "cityStateZip": "Pennsburg, PA 18073",
               "planName": null,
               "price": 399120,
@@ -3690,7 +3690,7 @@
             },
             {
               "id": "pennsylvania-wallingford-mews-409-moore-road",
-              "address": null,
+              "address": "409 Moore Road",
               "cityStateZip": "Wallingford, PA 19086",
               "planName": null,
               "price": 634990,
@@ -3707,7 +3707,7 @@
             },
             {
               "id": "pennsylvania-wallingford-mews-410-new-jersey-avenue",
-              "address": null,
+              "address": "410 New Jersey Avenue",
               "cityStateZip": "Wallingford, PA 19086",
               "planName": null,
               "price": 619990,
@@ -3724,7 +3724,7 @@
             },
             {
               "id": "pennsylvania-wallingford-mews-400-new-jersey-avenue",
-              "address": null,
+              "address": "400 New Jersey Avenue",
               "cityStateZip": "Wallingford, PA 19086",
               "planName": null,
               "price": 639990,
@@ -4041,7 +4041,7 @@
             },
             {
               "id": "pennsylvania-the-enclave-at-mi-place-522-lyanna-way",
-              "address": null,
+              "address": "522 Lyanna Way",
               "cityStateZip": "Downingtown, PA 19335",
               "planName": null,
               "price": 429300,
@@ -4058,7 +4058,7 @@
             },
             {
               "id": "pennsylvania-the-enclave-at-mi-place-524-lyanna-way",
-              "address": null,
+              "address": "524 Lyanna Way",
               "cityStateZip": "Downingtown, PA 19335",
               "planName": null,
               "price": 438850,
@@ -4075,7 +4075,7 @@
             },
             {
               "id": "pennsylvania-the-enclave-at-mi-place-618-tyrion-lane",
-              "address": null,
+              "address": "618 Tyrion Lane",
               "cityStateZip": "Downingtown, PA 19335",
               "planName": null,
               "price": 399990,
@@ -4225,7 +4225,7 @@
             },
             {
               "id": "pennsylvania-silver-lake-reserve-55-178-delhaas-circle",
-              "address": null,
+              "address": "178 Delhaas Circle",
               "cityStateZip": "Bristol, PA 19007",
               "planName": null,
               "price": 458990,
@@ -4681,7 +4681,7 @@
             },
             {
               "id": "pennsylvania-summit-village-271-derby-drive",
-              "address": null,
+              "address": "271 Derby Drive",
               "cityStateZip": "Coatesville, PA 19320",
               "planName": null,
               "price": 326990,
@@ -4698,7 +4698,7 @@
             },
             {
               "id": "pennsylvania-summit-village-273-derby-drive",
-              "address": null,
+              "address": "273 Derby Drive",
               "cityStateZip": "Coatesville, PA 19320",
               "planName": null,
               "price": 332490,
@@ -4848,7 +4848,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-sycamore-crossing-137-trinity-dr",
-              "address": null,
+              "address": "137 Trinity Dr",
               "cityStateZip": "Oxford, PA 19363",
               "planName": null,
               "price": 521490,
@@ -4865,7 +4865,7 @@
             },
             {
               "id": "pennsylvania-sycamore-crossing-141-trinity-dr",
-              "address": null,
+              "address": "141 Trinity Dr",
               "cityStateZip": "Oxford, PA 19363",
               "planName": null,
               "price": 480490,
@@ -4882,7 +4882,7 @@
             },
             {
               "id": "pennsylvania-sycamore-crossing-142-trinity-dr",
-              "address": null,
+              "address": "142 Trinity Dr",
               "cityStateZip": "Oxford, PA 19363",
               "planName": null,
               "price": 513490,
@@ -4899,7 +4899,7 @@
             },
             {
               "id": "pennsylvania-sycamore-crossing-143-trinity-dr",
-              "address": null,
+              "address": "143 Trinity Dr",
               "cityStateZip": "Oxford, PA 19363",
               "planName": null,
               "price": 516490,
@@ -4916,7 +4916,7 @@
             },
             {
               "id": "pennsylvania-sycamore-crossing-144-trinity-dr",
-              "address": null,
+              "address": "144 Trinity Dr",
               "cityStateZip": "Oxford, PA 19363",
               "planName": null,
               "price": 495490,
@@ -5018,7 +5018,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-seel-estates-124-heim-ct",
-              "address": null,
+              "address": "124 Heim Ct",
               "cityStateZip": "Glenshaw, PA 15116",
               "planName": null,
               "price": 464990,
@@ -5147,7 +5147,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-the-preserve-at-blue-run-1004-blueberry-drive",
-              "address": null,
+              "address": "1004 Blueberry Drive",
               "cityStateZip": "Fox Chapel, PA 15051",
               "planName": null,
               "price": 789990,
@@ -5164,7 +5164,7 @@
             },
             {
               "id": "pennsylvania-the-preserve-at-blue-run-1012-blueberry-drive",
-              "address": null,
+              "address": "1012 Blueberry Drive",
               "cityStateZip": "Fox Chapel, PA 15051",
               "planName": null,
               "price": 679990,
@@ -5546,7 +5546,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-river-ridge-158-river-ridge-drive",
-              "address": null,
+              "address": "158 River Ridge Drive",
               "cityStateZip": "Moon Township, PA 15108",
               "planName": null,
               "price": 344990,
@@ -5563,7 +5563,7 @@
             },
             {
               "id": "pennsylvania-river-ridge-156-river-ridge-drive",
-              "address": null,
+              "address": "156 River Ridge Drive",
               "cityStateZip": "Moon Township, PA 15108",
               "planName": null,
               "price": 369990,
@@ -5580,7 +5580,7 @@
             },
             {
               "id": "pennsylvania-river-ridge-163-river-ridge-drive",
-              "address": null,
+              "address": "163 River Ridge Drive",
               "cityStateZip": "Moon Township, PA 15108",
               "planName": null,
               "price": 369990,
@@ -5597,7 +5597,7 @@
             },
             {
               "id": "pennsylvania-river-ridge-162-river-ridge-drive",
-              "address": null,
+              "address": "162 River Ridge Drive",
               "cityStateZip": "Moon Township, PA 15108",
               "planName": null,
               "price": 379990,
@@ -5614,7 +5614,7 @@
             },
             {
               "id": "pennsylvania-river-ridge-165-river-ridge-drive",
-              "address": null,
+              "address": "165 River Ridge Drive",
               "cityStateZip": "Moon Township, PA 15108",
               "planName": null,
               "price": 399990,
@@ -5713,7 +5713,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-cherry-meadows-1081-peachtree-road",
-              "address": null,
+              "address": "1081 Peachtree Road",
               "cityStateZip": "Scott Township, PA 15106",
               "planName": null,
               "price": 549990,
@@ -5730,7 +5730,7 @@
             },
             {
               "id": "pennsylvania-cherry-meadows-1087-peachtree-road",
-              "address": null,
+              "address": "1087 Peachtree Road",
               "cityStateZip": "Scott Township, PA 15106",
               "planName": null,
               "price": 499990,
@@ -5747,7 +5747,7 @@
             },
             {
               "id": "pennsylvania-cherry-meadows-1090-peachtree-road",
-              "address": null,
+              "address": "1090 Peachtree Road",
               "cityStateZip": "Scott Township, PA 15106",
               "planName": null,
               "price": 529990,
@@ -6009,7 +6009,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-victoria-ridge-118-victoria-drive",
-              "address": null,
+              "address": "118 Victoria Drive",
               "cityStateZip": "Findlay Twp, PA 15108",
               "planName": null,
               "price": 524990,
@@ -6026,7 +6026,7 @@
             },
             {
               "id": "pennsylvania-victoria-ridge-100-victoria-drive",
-              "address": null,
+              "address": "100 Victoria Drive",
               "cityStateZip": "Findlay Twp, PA 15108",
               "planName": null,
               "price": 574990,
@@ -6043,7 +6043,7 @@
             },
             {
               "id": "pennsylvania-victoria-ridge-123-victoria-drive",
-              "address": null,
+              "address": "123 Victoria Drive",
               "cityStateZip": "Findlay Twp, PA 15108",
               "planName": null,
               "price": 549990,
@@ -6193,7 +6193,7 @@
             },
             {
               "id": "pennsylvania-laurel-hills-106-laurel-hills-drive",
-              "address": null,
+              "address": "106 Laurel Hills Drive",
               "cityStateZip": "Sarver, PA 16055",
               "planName": null,
               "price": 439990,
@@ -6210,7 +6210,7 @@
             },
             {
               "id": "pennsylvania-laurel-hills-108-laurel-hills-drive",
-              "address": null,
+              "address": "108 Laurel Hills Drive",
               "cityStateZip": "Sarver, PA 16055",
               "planName": null,
               "price": 485990,
@@ -6493,7 +6493,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-the-abbey-208-saint-augustine-street",
-              "address": null,
+              "address": "208 Saint Augustine Street",
               "cityStateZip": "Imperial, PA 15126",
               "planName": null,
               "price": 484990,
@@ -6558,7 +6558,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-millstone-village-232-rolling-mill-ln",
-              "address": null,
+              "address": "232 Rolling Mill Ln",
               "cityStateZip": "Jefferson Hills, PA 15332",
               "planName": null,
               "price": 439990,
@@ -6575,7 +6575,7 @@
             },
             {
               "id": "pennsylvania-millstone-village-229-rolling-mill-ln",
-              "address": null,
+              "address": "229 Rolling Mill Ln",
               "cityStateZip": "Jefferson Hills, PA 15332",
               "planName": null,
               "price": 499990,
@@ -6940,7 +6940,7 @@
           "availableHomes": [
             {
               "id": "pennsylvania-regents-park-414-barons-court",
-              "address": null,
+              "address": "414 Barons Court",
               "cityStateZip": "Venetia, PA 15367",
               "planName": null,
               "price": 724990,

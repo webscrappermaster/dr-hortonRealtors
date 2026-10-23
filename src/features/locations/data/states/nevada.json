@@ -2645,7 +2645,7 @@
           "availableHomes": [
             {
               "id": "nevada-golden-eagle-4228-single-pine-way",
-              "address": null,
+              "address": "4228 Single Pine Way",
               "cityStateZip": "Sparks, NV 89436",
               "planName": null,
               "price": 577990,
@@ -2662,7 +2662,7 @@
             },
             {
               "id": "nevada-golden-eagle-4288-spotted-leaf-way",
-              "address": null,
+              "address": "4288 Spotted Leaf Way",
               "cityStateZip": "Sparks, NV 89436",
               "planName": null,
               "price": 585640,
@@ -2679,7 +2679,7 @@
             },
             {
               "id": "nevada-golden-eagle-4327-spotted-leaf-way",
-              "address": null,
+              "address": "4327 Spotted Leaf Way",
               "cityStateZip": "Sparks, NV 89436",
               "planName": null,
               "price": 584990,
@@ -2812,7 +2812,7 @@
           "availableHomes": [
             {
               "id": "nevada-woodbridge-618-fraser-loop",
-              "address": null,
+              "address": "618 Fraser Loop",
               "cityStateZip": "Dayton, NV 89403",
               "planName": null,
               "price": 562990,
@@ -2829,7 +2829,7 @@
             },
             {
               "id": "nevada-woodbridge-620-fraser-loop",
-              "address": null,
+              "address": "620 Fraser Loop",
               "cityStateZip": "Dayton, NV 89403",
               "planName": null,
               "price": 558990,
@@ -2846,7 +2846,7 @@
             },
             {
               "id": "nevada-woodbridge-649-fraser-loop",
-              "address": null,
+              "address": "649 Fraser Loop",
               "cityStateZip": "Dayton, NV 89403",
               "planName": null,
               "price": 549015,
@@ -2863,7 +2863,7 @@
             },
             {
               "id": "nevada-woodbridge-724-bella-coola-drive",
-              "address": null,
+              "address": "724 Bella Coola Drive",
               "cityStateZip": "Dayton, NV 89403",
               "planName": null,
               "price": 497990,
@@ -2880,7 +2880,7 @@
             },
             {
               "id": "nevada-woodbridge-726-bella-coola-drive",
-              "address": null,
+              "address": "726 Bella Coola Drive",
               "cityStateZip": "Dayton, NV 89403",
               "planName": null,
               "price": 497990,
@@ -3030,7 +3030,7 @@
           "availableHomes": [
             {
               "id": "nevada-wolf-ridge-3006-winze-way",
-              "address": null,
+              "address": "3006 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 561990,
@@ -3047,7 +3047,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3005-winze-way",
-              "address": null,
+              "address": "3005 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 599990,
@@ -3064,7 +3064,7 @@
             },
             {
               "id": "nevada-wolf-ridge-2997-winze-way",
-              "address": null,
+              "address": "2997 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 609990,
@@ -3081,7 +3081,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3014-winze-way",
-              "address": null,
+              "address": "3014 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 549990,
@@ -3098,7 +3098,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3015-winze-way",
-              "address": null,
+              "address": "3015 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 644990,
@@ -3115,7 +3115,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3022-winze-way",
-              "address": null,
+              "address": "3022 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 629990,
@@ -3132,7 +3132,7 @@
             },
             {
               "id": "nevada-wolf-ridge-1146-arrastra-road",
-              "address": null,
+              "address": "1146 Arrastra Road",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 599990,
@@ -3149,7 +3149,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3612-george-sullivan-parkway",
-              "address": null,
+              "address": "3612 George Sullivan Parkway",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 548990,
@@ -3166,7 +3166,7 @@
             },
             {
               "id": "nevada-wolf-ridge-3032-winze-way",
-              "address": null,
+              "address": "3032 Winze Way",
               "cityStateZip": "Reno, NV 89512",
               "planName": null,
               "price": 661990,
@@ -3423,7 +3423,7 @@
           "availableHomes": [
             {
               "id": "nevada-arbor-villas-827-centerville-street",
-              "address": null,
+              "address": "827 Centerville Street",
               "cityStateZip": "Carson City, NV 89701",
               "planName": null,
               "price": 389990,
@@ -3488,7 +3488,7 @@
           "availableHomes": [
             {
               "id": "nevada-arrow-point-1229-rocket-street-2",
-              "address": null,
+              "address": "1229 Rocket Street 2",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 434990,
@@ -3505,7 +3505,7 @@
             },
             {
               "id": "nevada-arrow-point-1229-rocket-street-3",
-              "address": null,
+              "address": "1229 Rocket Street 3",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 454990,
@@ -3522,7 +3522,7 @@
             },
             {
               "id": "nevada-arrow-point-1232-rocket-street-1",
-              "address": null,
+              "address": "1232 Rocket Street 1",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 379990,
@@ -3539,7 +3539,7 @@
             },
             {
               "id": "nevada-arrow-point-1235-rocket-street-1",
-              "address": null,
+              "address": "1235 Rocket Street 1",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 379990,
@@ -3556,7 +3556,7 @@
             },
             {
               "id": "nevada-arrow-point-1235-rocket-street-3",
-              "address": null,
+              "address": "1235 Rocket Street 3",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 454990,
@@ -3573,7 +3573,7 @@
             },
             {
               "id": "nevada-arrow-point-1238-rocket-street-1",
-              "address": null,
+              "address": "1238 Rocket Street 1",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 379990,
@@ -3590,7 +3590,7 @@
             },
             {
               "id": "nevada-arrow-point-1238-rocket-street-2",
-              "address": null,
+              "address": "1238 Rocket Street 2",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 439990,
@@ -3607,7 +3607,7 @@
             },
             {
               "id": "nevada-arrow-point-1244-rocket-street-1",
-              "address": null,
+              "address": "1244 Rocket Street 1",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 387835,
@@ -3689,7 +3689,7 @@
           "availableHomes": [
             {
               "id": "nevada-artemis-1274-jett-way",
-              "address": null,
+              "address": "1274 Jett Way",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 559990,
@@ -3706,7 +3706,7 @@
             },
             {
               "id": "nevada-artemis-1280-jett-way",
-              "address": null,
+              "address": "1280 Jett Way",
               "cityStateZip": "Carson City, NV 89705",
               "planName": null,
               "price": 580990,
@@ -3822,7 +3822,7 @@
           "availableHomes": [
             {
               "id": "nevada-indigo-sky-1890-bella-rosa-alley",
-              "address": null,
+              "address": "1890 Bella Rosa Alley",
               "cityStateZip": "Minden, NV 89423",
               "planName": null,
               "price": 439990,
@@ -3839,7 +3839,7 @@
             },
             {
               "id": "nevada-indigo-sky-1803-roma-alley",
-              "address": null,
+              "address": "1803 Roma Alley",
               "cityStateZip": "Minden, NV 89423",
               "planName": null,
               "price": 454990,

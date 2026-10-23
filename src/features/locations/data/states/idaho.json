@@ -67,7 +67,7 @@
           "availableHomes": [
             {
               "id": "idaho-pinewood-1107-w-pinewood-loop",
-              "address": null,
+              "address": "1107 W Pinewood Loop",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 499995,
@@ -84,7 +84,7 @@
             },
             {
               "id": "idaho-pinewood-1111-w-pinewood-loop",
-              "address": null,
+              "address": "1111 W Pinewood Loop",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 499995,
@@ -101,7 +101,7 @@
             },
             {
               "id": "idaho-pinewood-1117-w-pinewood-loop",
-              "address": null,
+              "address": "1117 W Pinewood Loop",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 499995,
@@ -118,7 +118,7 @@
             },
             {
               "id": "idaho-pinewood-1123-w-pinewood-loop",
-              "address": null,
+              "address": "1123 W Pinewood Loop",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 499995,
@@ -135,7 +135,7 @@
             },
             {
               "id": "idaho-pinewood-1129-w-pinewood-loop",
-              "address": null,
+              "address": "1129 W Pinewood Loop",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 559995,
@@ -200,7 +200,7 @@
           "availableHomes": [
             {
               "id": "idaho-grand-mill-3276-n-grandmill-ln-unit-101",
-              "address": null,
+              "address": "3276 N Grandmill Ln Unit 101",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 869995,
@@ -217,7 +217,7 @@
             },
             {
               "id": "idaho-grand-mill-3276-n-grandmill-ln-unit-102",
-              "address": null,
+              "address": "3276 N Grandmill Ln Unit 102",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 819995,
@@ -234,7 +234,7 @@
             },
             {
               "id": "idaho-grand-mill-3276-n-grandmill-ln-unit-103",
-              "address": null,
+              "address": "3276 N Grandmill Ln Unit 103",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 819995,
@@ -251,7 +251,7 @@
             },
             {
               "id": "idaho-grand-mill-3276-n-grandmill-ln-unit-104",
-              "address": null,
+              "address": "3276 N Grandmill Ln Unit 104",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 854995,
@@ -268,7 +268,7 @@
             },
             {
               "id": "idaho-grand-mill-3232-n-grandmill-ln-unit-103",
-              "address": null,
+              "address": "3232 N Grandmill Ln Unit 103",
               "cityStateZip": "Coeur d'Alene, ID 83814",
               "planName": null,
               "price": 674995,

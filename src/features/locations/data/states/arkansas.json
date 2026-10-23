@@ -519,7 +519,7 @@
             },
             {
               "id": "arkansas-crescent-grove-609-chakka-loop",
-              "address": null,
+              "address": "609 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 260000,
@@ -536,7 +536,7 @@
             },
             {
               "id": "arkansas-crescent-grove-612-chakka-loop",
-              "address": null,
+              "address": "612 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 247000,
@@ -553,7 +553,7 @@
             },
             {
               "id": "arkansas-crescent-grove-408-chakka-loop",
-              "address": null,
+              "address": "408 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 260300,
@@ -570,7 +570,7 @@
             },
             {
               "id": "arkansas-crescent-grove-412-chakka-loop",
-              "address": null,
+              "address": "412 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 265300,
@@ -587,7 +587,7 @@
             },
             {
               "id": "arkansas-crescent-grove-416-chakka-loop",
-              "address": null,
+              "address": "416 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 270300,
@@ -604,7 +604,7 @@
             },
             {
               "id": "arkansas-crescent-grove-420-chakka-loop",
-              "address": null,
+              "address": "420 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 275300,
@@ -621,7 +621,7 @@
             },
             {
               "id": "arkansas-crescent-grove-508-chakka-loop",
-              "address": null,
+              "address": "508 Chakka Loop",
               "cityStateZip": "North Little Rock, AR 72117",
               "planName": null,
               "price": 242500,
@@ -788,7 +788,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-290-moonlight-graham-boulevard",
-              "address": null,
+              "address": "290 Moonlight Graham Boulevard",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 210000,
@@ -805,7 +805,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-310-moonlight-graham-boulevard",
-              "address": null,
+              "address": "310 Moonlight Graham Boulevard",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 228000,
@@ -822,7 +822,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-351-moonlight-graham-road",
-              "address": null,
+              "address": "351 Moonlight Graham Road",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 183000,
@@ -839,7 +839,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-381-moonlight-graham-road",
-              "address": null,
+              "address": "381 Moonlight Graham Road",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 199415,
@@ -856,7 +856,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-181-moonlight-graham-boulevard",
-              "address": null,
+              "address": "181 Moonlight Graham Boulevard",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 237300,
@@ -873,7 +873,7 @@
             },
             {
               "id": "arkansas-moonlight-meadows-201-moonlight-graham-boulevard",
-              "address": null,
+              "address": "201 Moonlight Graham Boulevard",
               "cityStateZip": "Ward, AR 72176",
               "planName": null,
               "price": 250300,
@@ -1138,7 +1138,7 @@
             },
             {
               "id": "arkansas-cherry-addition-510-s-cherry-street",
-              "address": null,
+              "address": "510 S Cherry Street",
               "cityStateZip": "Beebe, AR 72012",
               "planName": null,
               "price": 266500,
@@ -1155,7 +1155,7 @@
             },
             {
               "id": "arkansas-cherry-addition-422-s-cherry-street",
-              "address": null,
+              "address": "422 S Cherry Street",
               "cityStateZip": "Beebe, AR 72012",
               "planName": null,
               "price": 257500,
@@ -1172,7 +1172,7 @@
             },
             {
               "id": "arkansas-cherry-addition-514-s-cherry-street",
-              "address": null,
+              "address": "514 S Cherry Street",
               "cityStateZip": "Beebe, AR 72012",
               "planName": null,
               "price": 249500,
@@ -1189,7 +1189,7 @@
             },
             {
               "id": "arkansas-cherry-addition-516-s-cherry-street",
-              "address": null,
+              "address": "516 S Cherry Street",
               "cityStateZip": "Beebe, AR 72012",
               "planName": null,
               "price": 236500,
@@ -1206,7 +1206,7 @@
             },
             {
               "id": "arkansas-cherry-addition-520-s-cherry-street",
-              "address": null,
+              "address": "520 S Cherry Street",
               "cityStateZip": "Beebe, AR 72012",
               "planName": null,
               "price": 257500,
@@ -1853,7 +1853,7 @@
             },
             {
               "id": "arkansas-southern-timbers-3511-sweet-gum-street",
-              "address": null,
+              "address": "3511 Sweet Gum Street",
               "cityStateZip": "Paragould, AR 72450",
               "planName": null,
               "price": 249990,
@@ -1870,7 +1870,7 @@
             },
             {
               "id": "arkansas-southern-timbers-3602-sweet-gum-street",
-              "address": null,
+              "address": "3602 Sweet Gum Street",
               "cityStateZip": "Paragould, AR 72450",
               "planName": null,
               "price": 220990,
@@ -2049,7 +2049,7 @@
             },
             {
               "id": "arkansas-nature-walk-0063",
-              "address": null,
+              "address": "0063",
               "cityStateZip": "Springdale, AR 72762",
               "planName": null,
               "price": 368500,
@@ -2199,7 +2199,7 @@
           "availableHomes": [
             {
               "id": "arkansas-brentwood-village-4101-tulip-ave",
-              "address": null,
+              "address": "4101 Tulip Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 364000,
@@ -2216,7 +2216,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4417-tulip-ave",
-              "address": null,
+              "address": "4417 Tulip Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 319000,
@@ -2250,7 +2250,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4548-orchid-ave",
-              "address": null,
+              "address": "4548 Orchid Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 339000,
@@ -2267,7 +2267,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4420-blossom-ave",
-              "address": null,
+              "address": "4420 Blossom Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 399000,
@@ -2284,7 +2284,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4245-orchid-ave",
-              "address": null,
+              "address": "4245 Orchid Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 325500,
@@ -2301,7 +2301,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4401-tulip-ave",
-              "address": null,
+              "address": "4401 Tulip Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 344000,
@@ -2318,7 +2318,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4456-blossom-ave",
-              "address": null,
+              "address": "4456 Blossom Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 417000,
@@ -2335,7 +2335,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4510-orchid-ave",
-              "address": null,
+              "address": "4510 Orchid Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 358000,
@@ -2352,7 +2352,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4402-blossom-ave",
-              "address": null,
+              "address": "4402 Blossom Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 397000,
@@ -2369,7 +2369,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4484-orchid-ave",
-              "address": null,
+              "address": "4484 Orchid Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 332000,
@@ -2386,7 +2386,7 @@
             },
             {
               "id": "arkansas-brentwood-village-4103-orchid-ave",
-              "address": null,
+              "address": "4103 Orchid Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 369000,
@@ -2621,7 +2621,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3821-basin-springs-ave",
-              "address": null,
+              "address": "3821 Basin Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 333000,
@@ -2638,7 +2638,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3822-crescent-springs-ave",
-              "address": null,
+              "address": "3822 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 373000,
@@ -2655,7 +2655,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3823-crescent-springs-ave",
-              "address": null,
+              "address": "3823 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 353000,
@@ -2672,7 +2672,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3879-crescent-springs-ave",
-              "address": null,
+              "address": "3879 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 366250,
@@ -2689,7 +2689,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3880-crescent-springs-ave",
-              "address": null,
+              "address": "3880 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 333000,
@@ -2706,7 +2706,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3901-crescent-springs-ave",
-              "address": null,
+              "address": "3901 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 353000,
@@ -2723,7 +2723,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3902-crescent-springs-ave",
-              "address": null,
+              "address": "3902 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 373000,
@@ -2740,7 +2740,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3927-crescent-springs-ave",
-              "address": null,
+              "address": "3927 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 373000,
@@ -2757,7 +2757,7 @@
             },
             {
               "id": "arkansas-whispering-springs-4966-magnetic-springs-st",
-              "address": null,
+              "address": "4966 Magnetic Springs St",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 333000,
@@ -2774,7 +2774,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3864-crescent-springs-ave",
-              "address": null,
+              "address": "3864 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 383000,
@@ -2791,7 +2791,7 @@
             },
             {
               "id": "arkansas-whispering-springs-3865-crescent-springs-ave",
-              "address": null,
+              "address": "3865 Crescent Springs Ave",
               "cityStateZip": "Springdale, AR 72764",
               "planName": null,
               "price": 333000,
@@ -3138,7 +3138,7 @@
             },
             {
               "id": "arkansas-renley-rae-871-kelleyann-ave",
-              "address": null,
+              "address": "871 Kelleyann Ave",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 507400,
@@ -3155,7 +3155,7 @@
             },
             {
               "id": "arkansas-renley-rae-472-renley-st",
-              "address": null,
+              "address": "472 Renley St",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 514900,
@@ -3172,7 +3172,7 @@
             },
             {
               "id": "arkansas-renley-rae-486-renley-st",
-              "address": null,
+              "address": "486 Renley St",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 476000,
@@ -3189,7 +3189,7 @@
             },
             {
               "id": "arkansas-renley-rae-500-renley-st",
-              "address": null,
+              "address": "500 Renley St",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 518400,
@@ -3206,7 +3206,7 @@
             },
             {
               "id": "arkansas-renley-rae-501-renley-st",
-              "address": null,
+              "address": "501 Renley St",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 503400,
@@ -3223,7 +3223,7 @@
             },
             {
               "id": "arkansas-renley-rae-547-renley-st",
-              "address": null,
+              "address": "547 Renley St",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 517400,
@@ -3240,7 +3240,7 @@
             },
             {
               "id": "arkansas-renley-rae-797-kelleyann-ave",
-              "address": null,
+              "address": "797 Kelleyann Ave",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 512000,
@@ -3257,7 +3257,7 @@
             },
             {
               "id": "arkansas-renley-rae-848-kelleyann-ave",
-              "address": null,
+              "address": "848 Kelleyann Ave",
               "cityStateZip": "Tontitown, AR 72762",
               "planName": null,
               "price": 515000,
@@ -3518,7 +3518,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4839-w-succulent-st",
-              "address": null,
+              "address": "4839 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 522000,
@@ -3535,7 +3535,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4853-w-succulent-st",
-              "address": null,
+              "address": "4853 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 523800,
@@ -3552,7 +3552,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4854-w-allium-st",
-              "address": null,
+              "address": "4854 W Allium St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 537480,
@@ -3569,7 +3569,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4868-w-allium-st",
-              "address": null,
+              "address": "4868 W Allium St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 522000,
@@ -3586,7 +3586,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4720-w-succulent-st",
-              "address": null,
+              "address": "4720 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 526000,
@@ -3603,7 +3603,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4824-w-succulent-st",
-              "address": null,
+              "address": "4824 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 492000,
@@ -3620,7 +3620,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4881-w-succulent-st",
-              "address": null,
+              "address": "4881 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 527800,
@@ -3637,7 +3637,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4783-w-succulent-st",
-              "address": null,
+              "address": "4783 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 523800,
@@ -3654,7 +3654,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4797-w-succulent-st",
-              "address": null,
+              "address": "4797 W Succulent St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 522000,
@@ -3671,7 +3671,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4882-w-allium-st",
-              "address": null,
+              "address": "4882 W Allium St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 536800,
@@ -3688,7 +3688,7 @@
             },
             {
               "id": "arkansas-hughmount-south-4883-w-allium-st",
-              "address": null,
+              "address": "4883 W Allium St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 549800,
@@ -3923,7 +3923,7 @@
             },
             {
               "id": "arkansas-the-element-master-4578-w-triangle-st",
-              "address": null,
+              "address": "4578 W Triangle St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 390500,
@@ -3940,7 +3940,7 @@
             },
             {
               "id": "arkansas-the-element-master-4616-w-buckaroo-st",
-              "address": null,
+              "address": "4616 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 372500,
@@ -3957,7 +3957,7 @@
             },
             {
               "id": "arkansas-the-element-master-4630-w-buckaroo-st",
-              "address": null,
+              "address": "4630 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 414000,
@@ -3974,7 +3974,7 @@
             },
             {
               "id": "arkansas-the-element-master-4690-w-buckaroo-st",
-              "address": null,
+              "address": "4690 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 407000,
@@ -3991,7 +3991,7 @@
             },
             {
               "id": "arkansas-the-element-master-4745-w-folsom-st",
-              "address": null,
+              "address": "4745 W Folsom St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 387500,
@@ -4008,7 +4008,7 @@
             },
             {
               "id": "arkansas-the-element-master-585-s-neon-ave",
-              "address": null,
+              "address": "585 S Neon Ave",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 394000,
@@ -4025,7 +4025,7 @@
             },
             {
               "id": "arkansas-the-element-master-663-s-neon-ave",
-              "address": null,
+              "address": "663 S Neon Ave",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 393500,
@@ -4042,7 +4042,7 @@
             },
             {
               "id": "arkansas-the-element-master-4584-w-triangle-st",
-              "address": null,
+              "address": "4584 W Triangle St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 407500,
@@ -4059,7 +4059,7 @@
             },
             {
               "id": "arkansas-the-element-master-4714-w-buckaroo-st",
-              "address": null,
+              "address": "4714 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 407000,
@@ -4076,7 +4076,7 @@
             },
             {
               "id": "arkansas-the-element-master-4726-w-buckaroo-st",
-              "address": null,
+              "address": "4726 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 387500,
@@ -4093,7 +4093,7 @@
             },
             {
               "id": "arkansas-the-element-master-4738-w-buckaroo-st",
-              "address": null,
+              "address": "4738 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 387500,
@@ -4110,7 +4110,7 @@
             },
             {
               "id": "arkansas-the-element-master-4750-w-buckaroo-st",
-              "address": null,
+              "address": "4750 W Buckaroo St",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 377500,
@@ -4127,7 +4127,7 @@
             },
             {
               "id": "arkansas-the-element-master-560-s-neon-ave",
-              "address": null,
+              "address": "560 S Neon Ave",
               "cityStateZip": "Fayetteville, AR 72704",
               "planName": null,
               "price": 392500,
@@ -4342,7 +4342,7 @@
           "availableHomes": [
             {
               "id": "arkansas-morningstar-3402-sw-andromeda-ave",
-              "address": null,
+              "address": "3402 SW Andromeda Ave",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 581575,
@@ -4359,7 +4359,7 @@
             },
             {
               "id": "arkansas-morningstar-7303-sw-cetus-st",
-              "address": null,
+              "address": "7303 SW Cetus St",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 510500,
@@ -4376,7 +4376,7 @@
             },
             {
               "id": "arkansas-morningstar-7305-sw-cetus-st",
-              "address": null,
+              "address": "7305 SW Cetus St",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 571575,
@@ -4393,7 +4393,7 @@
             },
             {
               "id": "arkansas-morningstar-7307-sw-cetus-st",
-              "address": null,
+              "address": "7307 SW Cetus St",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 600500,
@@ -4410,7 +4410,7 @@
             },
             {
               "id": "arkansas-morningstar-7401-sw-cetus-st",
-              "address": null,
+              "address": "7401 SW Cetus St",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 640500,
@@ -4427,7 +4427,7 @@
             },
             {
               "id": "arkansas-morningstar-7403-sw-cetus-st",
-              "address": null,
+              "address": "7403 SW Cetus St",
               "cityStateZip": "Bentonville, AR 72713",
               "planName": null,
               "price": 690500,
@@ -4624,7 +4624,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-527-oklahoma-st",
-              "address": null,
+              "address": "527 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 350000,
@@ -4641,7 +4641,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-528-oklahoma-st",
-              "address": null,
+              "address": "528 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 354000,
@@ -4658,7 +4658,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-534-oklahoma-st",
-              "address": null,
+              "address": "534 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 375000,
@@ -4675,7 +4675,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-543-oklahoma-st",
-              "address": null,
+              "address": "543 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 396000,
@@ -4692,7 +4692,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-549-oklahoma-st",
-              "address": null,
+              "address": "549 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 366000,
@@ -4709,7 +4709,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-564-nevada-st",
-              "address": null,
+              "address": "564 Nevada St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 376000,
@@ -4726,7 +4726,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-569-oklahoma-st",
-              "address": null,
+              "address": "569 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 366000,
@@ -4743,7 +4743,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-533-oklahoma-st",
-              "address": null,
+              "address": "533 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 366000,
@@ -4760,7 +4760,7 @@
             },
             {
               "id": "arkansas-wagon-wheel-555-oklahoma-st",
-              "address": null,
+              "address": "555 Oklahoma St",
               "cityStateZip": "Farmington, AR 72730",
               "planName": null,
               "price": 350000,
@@ -5060,7 +5060,7 @@
             },
             {
               "id": "arkansas-selah-meadows-540-riggs-street",
-              "address": null,
+              "address": "540 Riggs Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 289000,
@@ -5077,7 +5077,7 @@
             },
             {
               "id": "arkansas-selah-meadows-561-riggs-street",
-              "address": null,
+              "address": "561 Riggs Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 289000,
@@ -5094,7 +5094,7 @@
             },
             {
               "id": "arkansas-selah-meadows-580-riggs-street",
-              "address": null,
+              "address": "580 Riggs Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 282000,
@@ -5111,7 +5111,7 @@
             },
             {
               "id": "arkansas-selah-meadows-591-riggs-street",
-              "address": null,
+              "address": "591 Riggs Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 286000,
@@ -5128,7 +5128,7 @@
             },
             {
               "id": "arkansas-selah-meadows-911-sagely-street",
-              "address": null,
+              "address": "911 Sagely Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 299105,
@@ -5145,7 +5145,7 @@
             },
             {
               "id": "arkansas-selah-meadows-871-sagely-street",
-              "address": null,
+              "address": "871 Sagely Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 286500,
@@ -5162,7 +5162,7 @@
             },
             {
               "id": "arkansas-selah-meadows-570-kellyann-street",
-              "address": null,
+              "address": "570 Kellyann Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 311000,
@@ -5179,7 +5179,7 @@
             },
             {
               "id": "arkansas-selah-meadows-580-kellyann-street",
-              "address": null,
+              "address": "580 Kellyann Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 286000,
@@ -5196,7 +5196,7 @@
             },
             {
               "id": "arkansas-selah-meadows-851-sagely-street",
-              "address": null,
+              "address": "851 Sagely Street",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 308000,
@@ -5465,7 +5465,7 @@
             },
             {
               "id": "arkansas-hudson-heights-1022-pepperwood-drive",
-              "address": null,
+              "address": "1022 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 350000,
@@ -5482,7 +5482,7 @@
             },
             {
               "id": "arkansas-hudson-heights-971-pepperwood-drive",
-              "address": null,
+              "address": "971 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 377800,
@@ -5499,7 +5499,7 @@
             },
             {
               "id": "arkansas-hudson-heights-991-pepperwood-drive",
-              "address": null,
+              "address": "991 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 366000,
@@ -5516,7 +5516,7 @@
             },
             {
               "id": "arkansas-hudson-heights-1021-pepperwood-drive",
-              "address": null,
+              "address": "1021 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 390000,
@@ -5533,7 +5533,7 @@
             },
             {
               "id": "arkansas-hudson-heights-1031-pepperwood-drive",
-              "address": null,
+              "address": "1031 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 350000,
@@ -5550,7 +5550,7 @@
             },
             {
               "id": "arkansas-hudson-heights-1041-pepperwood-drive",
-              "address": null,
+              "address": "1041 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 390000,
@@ -5567,7 +5567,7 @@
             },
             {
               "id": "arkansas-hudson-heights-1051-pepperwood-drive",
-              "address": null,
+              "address": "1051 Pepperwood Drive",
               "cityStateZip": "Prairie Grove, AR 72753",
               "planName": null,
               "price": 366000,
@@ -5751,7 +5751,7 @@
             },
             {
               "id": "arkansas-west-wind-0076",
-              "address": null,
+              "address": "0076",
               "cityStateZip": "Centerton, AR 72736",
               "planName": null,
               "price": 349000,
@@ -5901,7 +5901,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-209-ruggles-st",
-              "address": null,
+              "address": "209 Ruggles St",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 314000,
@@ -5918,7 +5918,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-212-ratliff-ave",
-              "address": null,
+              "address": "212 Ratliff Ave",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 314000,
@@ -5935,7 +5935,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-300-ruggles-st",
-              "address": null,
+              "address": "300 Ruggles St",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 313000,
@@ -5952,7 +5952,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-201-ruggles-st",
-              "address": null,
+              "address": "201 Ruggles St",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 343000,
@@ -5969,7 +5969,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-409-ratliff-ave",
-              "address": null,
+              "address": "409 Ratliff Ave",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 326000,
@@ -5986,7 +5986,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-412-ratliff-ave",
-              "address": null,
+              "address": "412 Ratliff Ave",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 311000,
@@ -6003,7 +6003,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-500-ratliff-ave",
-              "address": null,
+              "address": "500 Ratliff Ave",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 311000,
@@ -6020,7 +6020,7 @@
             },
             {
               "id": "arkansas-rolling-meadows-501-ratliff-ave",
-              "address": null,
+              "address": "501 Ratliff Ave",
               "cityStateZip": "Pea Ridge, AR 72751",
               "planName": null,
               "price": 311000,
@@ -6187,7 +6187,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-605-benton-ave-sw",
-              "address": null,
+              "address": "605 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 269500,
@@ -6204,7 +6204,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-606-benton-ave-sw",
-              "address": null,
+              "address": "606 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 302500,
@@ -6221,7 +6221,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-608-benton-ave-sw",
-              "address": null,
+              "address": "608 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 277000,
@@ -6238,7 +6238,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-610-benton-ave-sw",
-              "address": null,
+              "address": "610 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 294000,
@@ -6255,7 +6255,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-613-benton-ave-sw",
-              "address": null,
+              "address": "613 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 269500,
@@ -6272,7 +6272,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-921-spavinaw-blvd-sw",
-              "address": null,
+              "address": "921 Spavinaw Blvd SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 267000,
@@ -6289,7 +6289,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-602-benton-ave-sw",
-              "address": null,
+              "address": "602 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 334500,
@@ -6306,7 +6306,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-607-benton-ave-sw",
-              "address": null,
+              "address": "607 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 334500,
@@ -6323,7 +6323,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-612-benton-ave-sw",
-              "address": null,
+              "address": "612 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 269500,
@@ -6340,7 +6340,7 @@
             },
             {
               "id": "arkansas-spavinaw-village-614-benton-ave-sw",
-              "address": null,
+              "address": "614 Benton Ave SW",
               "cityStateZip": "Gravette, AR 72736",
               "planName": null,
               "price": 334500,

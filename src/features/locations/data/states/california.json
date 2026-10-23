@@ -74,7 +74,7 @@
           "availableHomes": [
             {
               "id": "california-aurora-at-denali-2877-wrangell-street",
-              "address": null,
+              "address": "2877 Wrangell Street",
               "cityStateZip": "Manteca, CA 95337",
               "planName": null,
               "price": 706490,
@@ -139,7 +139,7 @@
           "availableHomes": [
             {
               "id": "california-eve-at-founders-point-1421-artisan-lane",
-              "address": null,
+              "address": "1421 Artisan Lane",
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
               "price": 599490,
@@ -156,7 +156,7 @@
             },
             {
               "id": "california-eve-at-founders-point-4308-frontier-way",
-              "address": null,
+              "address": "4308 Frontier Way",
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
               "price": 539490,
@@ -173,7 +173,7 @@
             },
             {
               "id": "california-eve-at-founders-point-4312-frontier-way",
-              "address": null,
+              "address": "4312 Frontier Way",
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
               "price": 499490,
@@ -190,7 +190,7 @@
             },
             {
               "id": "california-eve-at-founders-point-1425-founders-point-drive",
-              "address": null,
+              "address": "1425 Founders Point Drive",
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
               "price": 613490,
@@ -207,7 +207,7 @@
             },
             {
               "id": "california-eve-at-founders-point-4317-frontier-way",
-              "address": null,
+              "address": "4317 Frontier Way",
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
               "price": 509490,
@@ -272,7 +272,7 @@
           "availableHomes": [
             {
               "id": "california-the-crossings-1921-cecil-ridge-drive",
-              "address": null,
+              "address": "1921 Cecil Ridge Drive",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 504490,
@@ -289,7 +289,7 @@
             },
             {
               "id": "california-the-crossings-1925-cecil-ridge-drive",
-              "address": null,
+              "address": "1925 Cecil Ridge Drive",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 499490,
@@ -306,7 +306,7 @@
             },
             {
               "id": "california-the-crossings-1928-cecil-ridge-drive",
-              "address": null,
+              "address": "1928 Cecil Ridge Drive",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 474490,
@@ -323,7 +323,7 @@
             },
             {
               "id": "california-the-crossings-4005-east-merle-avenue",
-              "address": null,
+              "address": "4005 East Merle Avenue",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 514490,
@@ -340,7 +340,7 @@
             },
             {
               "id": "california-the-crossings-4013-east-merle-avenue",
-              "address": null,
+              "address": "4013 East Merle Avenue",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 549490,
@@ -357,7 +357,7 @@
             },
             {
               "id": "california-the-crossings-4113-prince-charlie-court",
-              "address": null,
+              "address": "4113 Prince Charlie Court",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 469490,
@@ -374,7 +374,7 @@
             },
             {
               "id": "california-the-crossings-4116-prince-charlie-court",
-              "address": null,
+              "address": "4116 Prince Charlie Court",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 459490,
@@ -391,7 +391,7 @@
             },
             {
               "id": "california-the-crossings-4200-seagrave-way",
-              "address": null,
+              "address": "4200 Seagrave Way",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 599490,
@@ -408,7 +408,7 @@
             },
             {
               "id": "california-the-crossings-1936-cecil-ridge-drive",
-              "address": null,
+              "address": "1936 Cecil Ridge Drive",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 530490,
@@ -425,7 +425,7 @@
             },
             {
               "id": "california-the-crossings-4129-prince-charlie-court",
-              "address": null,
+              "address": "4129 Prince Charlie Court",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 484490,
@@ -442,7 +442,7 @@
             },
             {
               "id": "california-the-crossings-4221-seagrave-way",
-              "address": null,
+              "address": "4221 Seagrave Way",
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
               "price": 524490,
@@ -507,7 +507,7 @@
           "availableHomes": [
             {
               "id": "california-heritage-collection-ii-4100-teak-street",
-              "address": null,
+              "address": "4100 Teak Street",
               "cityStateZip": "Riverbank, CA 95367",
               "planName": null,
               "price": 489490,
@@ -524,7 +524,7 @@
             },
             {
               "id": "california-heritage-collection-ii-4106-teak-street",
-              "address": null,
+              "address": "4106 Teak Street",
               "cityStateZip": "Riverbank, CA 95367",
               "planName": null,
               "price": 469490,
@@ -589,7 +589,7 @@
           "availableHomes": [
             {
               "id": "california-monarch-at-saddlewood-2813-woodhouse-lane",
-              "address": null,
+              "address": "2813 Woodhouse Lane",
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
               "price": 471490,
@@ -606,7 +606,7 @@
             },
             {
               "id": "california-monarch-at-saddlewood-2817-woodhouse-lane",
-              "address": null,
+              "address": "2817 Woodhouse Lane",
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
               "price": 520990,
@@ -623,7 +623,7 @@
             },
             {
               "id": "california-monarch-at-saddlewood-2806-woodhouse-lane",
-              "address": null,
+              "address": "2806 Woodhouse Lane",
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
               "price": 529490,
@@ -688,7 +688,7 @@
           "availableHomes": [
             {
               "id": "california-trestle-621-moonlit-court",
-              "address": null,
+              "address": "621 Moonlit Court",
               "cityStateZip": "Waterford, CA 95386",
               "planName": null,
               "price": 476490,
@@ -705,7 +705,7 @@
             },
             {
               "id": "california-trestle-619-moonlit-court",
-              "address": null,
+              "address": "619 Moonlit Court",
               "cityStateZip": "Waterford, CA 95386",
               "planName": null,
               "price": 523990,
@@ -770,7 +770,7 @@
           "availableHomes": [
             {
               "id": "california-clover-at-santana-ranch-839-sienna-court",
-              "address": null,
+              "address": "839 Sienna Court",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 829490,
@@ -787,7 +787,7 @@
             },
             {
               "id": "california-clover-at-santana-ranch-879-sienna-court",
-              "address": null,
+              "address": "879 Sienna Court",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 869490,
@@ -804,7 +804,7 @@
             },
             {
               "id": "california-clover-at-santana-ranch-947-park-trail-court",
-              "address": null,
+              "address": "947 Park Trail Court",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 857490,
@@ -821,7 +821,7 @@
             },
             {
               "id": "california-clover-at-santana-ranch-994-park-trail-court",
-              "address": null,
+              "address": "994 Park Trail Court",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 914490,
@@ -886,7 +886,7 @@
           "availableHomes": [
             {
               "id": "california-fairview-corners-400-windsong-drive",
-              "address": null,
+              "address": "400 Windsong Drive",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 829490,
@@ -903,7 +903,7 @@
             },
             {
               "id": "california-fairview-corners-440-windsong-drive",
-              "address": null,
+              "address": "440 Windsong Drive",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 749490,
@@ -920,7 +920,7 @@
             },
             {
               "id": "california-fairview-corners-350-windsong-drive",
-              "address": null,
+              "address": "350 Windsong Drive",
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
               "price": 749490,
@@ -985,7 +985,7 @@
           "availableHomes": [
             {
               "id": "california-harvest-hills-ii-1850-nettle-way",
-              "address": null,
+              "address": "1850 Nettle Way",
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
               "price": 499490,
@@ -1002,7 +1002,7 @@
             },
             {
               "id": "california-harvest-hills-ii-1854-nettle-way",
-              "address": null,
+              "address": "1854 Nettle Way",
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
               "price": 538490,
@@ -1019,7 +1019,7 @@
             },
             {
               "id": "california-harvest-hills-ii-1858-nettle-way",
-              "address": null,
+              "address": "1858 Nettle Way",
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
               "price": 577490,
@@ -1036,7 +1036,7 @@
             },
             {
               "id": "california-harvest-hills-ii-1862-nettle-way",
-              "address": null,
+              "address": "1862 Nettle Way",
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
               "price": 565490,
@@ -1195,7 +1195,7 @@
           "availableHomes": [
             {
               "id": "california-stonebridge-single-family-2433-northridge-lane",
-              "address": null,
+              "address": "2433 Northridge Lane",
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
               "price": 839490,
@@ -1212,7 +1212,7 @@
             },
             {
               "id": "california-stonebridge-single-family-2441-northridge-lane",
-              "address": null,
+              "address": "2441 Northridge Lane",
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
               "price": 744490,
@@ -1229,7 +1229,7 @@
             },
             {
               "id": "california-stonebridge-single-family-2445-northridge-lane",
-              "address": null,
+              "address": "2445 Northridge Lane",
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
               "price": 789490,
@@ -1246,7 +1246,7 @@
             },
             {
               "id": "california-stonebridge-single-family-2424-northridge-lane",
-              "address": null,
+              "address": "2424 Northridge Lane",
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
               "price": 772490,
@@ -1263,7 +1263,7 @@
             },
             {
               "id": "california-stonebridge-single-family-2429-northridge-lane",
-              "address": null,
+              "address": "2429 Northridge Lane",
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
               "price": 747490,
@@ -1468,7 +1468,7 @@
             },
             {
               "id": "california-stonehaven-2337-samuel-street",
-              "address": null,
+              "address": "2337 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 359990,
@@ -1485,7 +1485,7 @@
             },
             {
               "id": "california-stonehaven-2343-samuel-street",
-              "address": null,
+              "address": "2343 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 401990,
@@ -1502,7 +1502,7 @@
             },
             {
               "id": "california-stonehaven-2360-callum-street",
-              "address": null,
+              "address": "2360 Callum Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 344990,
@@ -1519,7 +1519,7 @@
             },
             {
               "id": "california-stonehaven-2383-callum-street",
-              "address": null,
+              "address": "2383 Callum Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 369990,
@@ -1536,7 +1536,7 @@
             },
             {
               "id": "california-stonehaven-2391-callum-street",
-              "address": null,
+              "address": "2391 Callum Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 349990,
@@ -1553,7 +1553,7 @@
             },
             {
               "id": "california-stonehaven-2340-samuel-street",
-              "address": null,
+              "address": "2340 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 394990,
@@ -1570,7 +1570,7 @@
             },
             {
               "id": "california-stonehaven-2346-samuel-street",
-              "address": null,
+              "address": "2346 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 372990,
@@ -1587,7 +1587,7 @@
             },
             {
               "id": "california-stonehaven-2349-samuel-street",
-              "address": null,
+              "address": "2349 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 379990,
@@ -1604,7 +1604,7 @@
             },
             {
               "id": "california-stonehaven-2352-samuel-street",
-              "address": null,
+              "address": "2352 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 404990,
@@ -1621,7 +1621,7 @@
             },
             {
               "id": "california-stonehaven-2355-samuel-street",
-              "address": null,
+              "address": "2355 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 374990,
@@ -1638,7 +1638,7 @@
             },
             {
               "id": "california-stonehaven-2358-samuel-street",
-              "address": null,
+              "address": "2358 Samuel Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 392990,
@@ -1954,7 +1954,7 @@
             },
             {
               "id": "california-lunaria-1724-s-harris-street",
-              "address": null,
+              "address": "1724 S Harris Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 369990,
@@ -1971,7 +1971,7 @@
             },
             {
               "id": "california-lunaria-1700-s-harris-street",
-              "address": null,
+              "address": "1700 S Harris Street",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 397240,
@@ -1988,7 +1988,7 @@
             },
             {
               "id": "california-lunaria-1701-carson-way",
-              "address": null,
+              "address": "1701 Carson Way",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 386740,
@@ -2005,7 +2005,7 @@
             },
             {
               "id": "california-lunaria-204-abby-lane",
-              "address": null,
+              "address": "204 Abby Lane",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 393390,
@@ -2022,7 +2022,7 @@
             },
             {
               "id": "california-lunaria-207-abby-lane",
-              "address": null,
+              "address": "207 Abby Lane",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 402340,
@@ -2039,7 +2039,7 @@
             },
             {
               "id": "california-lunaria-213-beverly-drive",
-              "address": null,
+              "address": "213 Beverly Drive",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 393990,
@@ -2056,7 +2056,7 @@
             },
             {
               "id": "california-lunaria-221-beverly-drive",
-              "address": null,
+              "address": "221 Beverly Drive",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 404990,
@@ -2073,7 +2073,7 @@
             },
             {
               "id": "california-lunaria-229-beverly-drive",
-              "address": null,
+              "address": "229 Beverly Drive",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 381990,
@@ -2090,7 +2090,7 @@
             },
             {
               "id": "california-lunaria-237-beverly-drive",
-              "address": null,
+              "address": "237 Beverly Drive",
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
               "price": 383990,
@@ -2359,7 +2359,7 @@
             },
             {
               "id": "california-westhaven-627-n-plum-ave",
-              "address": null,
+              "address": "627 N Plum Ave",
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
               "price": 405490,
@@ -2376,7 +2376,7 @@
             },
             {
               "id": "california-westhaven-645-n-plum-ave",
-              "address": null,
+              "address": "645 N Plum Ave",
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
               "price": 430490,
@@ -2393,7 +2393,7 @@
             },
             {
               "id": "california-westhaven-663-n-plum-ave",
-              "address": null,
+              "address": "663 N Plum Ave",
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
               "price": 509490,
@@ -2410,7 +2410,7 @@
             },
             {
               "id": "california-westhaven-681-n-plum-ave",
-              "address": null,
+              "address": "681 N Plum Ave",
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
               "price": 454490,
@@ -2832,7 +2832,7 @@
             },
             {
               "id": "california-shepherds-ranch-7136-w-tommy-ave",
-              "address": null,
+              "address": "7136 W Tommy Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 422990,
@@ -2849,7 +2849,7 @@
             },
             {
               "id": "california-shepherds-ranch-7137-w-nicholas-ave",
-              "address": null,
+              "address": "7137 W Nicholas Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 419990,
@@ -2866,7 +2866,7 @@
             },
             {
               "id": "california-shepherds-ranch-7138-w-nicholas-ave",
-              "address": null,
+              "address": "7138 W Nicholas Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 435990,
@@ -2883,7 +2883,7 @@
             },
             {
               "id": "california-shepherds-ranch-7149-w-grove-ave",
-              "address": null,
+              "address": "7149 W Grove Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 454990,
@@ -2900,7 +2900,7 @@
             },
             {
               "id": "california-shepherds-ranch-7205-w-grove-ave",
-              "address": null,
+              "address": "7205 W Grove Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 429990,
@@ -2917,7 +2917,7 @@
             },
             {
               "id": "california-shepherds-ranch-7210-w-nicholas-ave",
-              "address": null,
+              "address": "7210 W Nicholas Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 424990,
@@ -2934,7 +2934,7 @@
             },
             {
               "id": "california-shepherds-ranch-7211-w-grove-ave",
-              "address": null,
+              "address": "7211 W Grove Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 527990,
@@ -3199,7 +3199,7 @@
             },
             {
               "id": "california-owenglen-4102-n-salle-st",
-              "address": null,
+              "address": "4102 N Salle St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 426990,
@@ -3216,7 +3216,7 @@
             },
             {
               "id": "california-owenglen-4108-n-salle-st",
-              "address": null,
+              "address": "4108 N Salle St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 393990,
@@ -3468,7 +3468,7 @@
             },
             {
               "id": "california-pratt-estates-2434-w-dale-ave",
-              "address": null,
+              "address": "2434 W Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 452490,
@@ -3485,7 +3485,7 @@
             },
             {
               "id": "california-pratt-estates-2440-w-dale-ave",
-              "address": null,
+              "address": "2440 W Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 533690,
@@ -3502,7 +3502,7 @@
             },
             {
               "id": "california-pratt-estates-2445-w-dale-ave",
-              "address": null,
+              "address": "2445 W Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 548490,
@@ -3519,7 +3519,7 @@
             },
             {
               "id": "california-pratt-estates-2449-w-dale-ave",
-              "address": null,
+              "address": "2449 W Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 479290,
@@ -3536,7 +3536,7 @@
             },
             {
               "id": "california-pratt-estates-4045-n-terrace-st",
-              "address": null,
+              "address": "4045 N Terrace St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 535490,
@@ -3737,7 +3737,7 @@
             },
             {
               "id": "california-jacobglen-4042-n-duke-st",
-              "address": null,
+              "address": "4042 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 415790,
@@ -3754,7 +3754,7 @@
             },
             {
               "id": "california-jacobglen-4043-n-duke-st",
-              "address": null,
+              "address": "4043 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 381140,
@@ -3771,7 +3771,7 @@
             },
             {
               "id": "california-jacobglen-4048-n-duke-st",
-              "address": null,
+              "address": "4048 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 391040,
@@ -3788,7 +3788,7 @@
             },
             {
               "id": "california-jacobglen-4104-n-duke-st",
-              "address": null,
+              "address": "4104 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 415790,
@@ -3805,7 +3805,7 @@
             },
             {
               "id": "california-jacobglen-4105-n-duke-st",
-              "address": null,
+              "address": "4105 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 415790,
@@ -3822,7 +3822,7 @@
             },
             {
               "id": "california-jacobglen-4112-n-duke-st",
-              "address": null,
+              "address": "4112 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 397970,
@@ -3839,7 +3839,7 @@
             },
             {
               "id": "california-jacobglen-4113-n-duke-st",
-              "address": null,
+              "address": "4113 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 399990,
@@ -3856,7 +3856,7 @@
             },
             {
               "id": "california-jacobglen-4120-n-duke-st",
-              "address": null,
+              "address": "4120 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 423990,
@@ -3873,7 +3873,7 @@
             },
             {
               "id": "california-jacobglen-4121-n-duke-st",
-              "address": null,
+              "address": "4121 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 432990,
@@ -3890,7 +3890,7 @@
             },
             {
               "id": "california-jacobglen-4129-n-duke-st",
-              "address": null,
+              "address": "4129 N Duke St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 422990,
@@ -4074,7 +4074,7 @@
             },
             {
               "id": "california-daleglen-3917-n-yale-st",
-              "address": null,
+              "address": "3917 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 426990,
@@ -4091,7 +4091,7 @@
             },
             {
               "id": "california-daleglen-3927-n-yale-st",
-              "address": null,
+              "address": "3927 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 379990,
@@ -4108,7 +4108,7 @@
             },
             {
               "id": "california-daleglen-3933-n-yale-st",
-              "address": null,
+              "address": "3933 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 429990,
@@ -4125,7 +4125,7 @@
             },
             {
               "id": "california-daleglen-2319-w-taylor-ave",
-              "address": null,
+              "address": "2319 W Taylor Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 457990,
@@ -4142,7 +4142,7 @@
             },
             {
               "id": "california-daleglen-3924-n-yale-st",
-              "address": null,
+              "address": "3924 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 434990,
@@ -4159,7 +4159,7 @@
             },
             {
               "id": "california-daleglen-3932-n-yale-st",
-              "address": null,
+              "address": "3932 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 406990,
@@ -4176,7 +4176,7 @@
             },
             {
               "id": "california-daleglen-3940-n-yale-st",
-              "address": null,
+              "address": "3940 N Yale St",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
               "price": 461740,
@@ -4475,7 +4475,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-1200-hobble-creek-court",
-              "address": null,
+              "address": "1200 Hobble Creek Court",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 438490,
@@ -4492,7 +4492,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2815-monarch-dunes-avenue",
-              "address": null,
+              "address": "2815 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 432490,
@@ -4509,7 +4509,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2839-monarch-dunes-avenue",
-              "address": null,
+              "address": "2839 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 456490,
@@ -4526,7 +4526,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2877-monarch-dunes-avenue",
-              "address": null,
+              "address": "2877 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 431990,
@@ -4543,7 +4543,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2911-monarch-dunes-avenue",
-              "address": null,
+              "address": "2911 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 450490,
@@ -4560,7 +4560,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2933-monarch-dunes-avenue",
-              "address": null,
+              "address": "2933 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 513490,
@@ -4577,7 +4577,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2955-monarch-dunes-avenue",
-              "address": null,
+              "address": "2955 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 548815,
@@ -4594,7 +4594,7 @@
             },
             {
               "id": "california-santa-fe-trail-tradition-2973-monarch-dunes-avenue",
-              "address": null,
+              "address": "2973 Monarch Dunes Avenue",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 456490,
@@ -5016,7 +5016,7 @@
             },
             {
               "id": "california-pearl-woods-2417-s-leah-st",
-              "address": null,
+              "address": "2417 S Leah St",
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
               "price": 433240,
@@ -5033,7 +5033,7 @@
             },
             {
               "id": "california-pearl-woods-2427-s-leah-st",
-              "address": null,
+              "address": "2427 S Leah St",
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
               "price": 385990,
@@ -5050,7 +5050,7 @@
             },
             {
               "id": "california-pearl-woods-2437-s-leah-st",
-              "address": null,
+              "address": "2437 S Leah St",
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
               "price": 413990,
@@ -5067,7 +5067,7 @@
             },
             {
               "id": "california-pearl-woods-2447-s-leah-st",
-              "address": null,
+              "address": "2447 S Leah St",
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
               "price": 382990,
@@ -5084,7 +5084,7 @@
             },
             {
               "id": "california-pearl-woods-2448-s-simon-st",
-              "address": null,
+              "address": "2448 S Simon St",
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
               "price": 413990,
@@ -5472,7 +5472,7 @@
             },
             {
               "id": "california-juniper-court-2349-east-foster-drive",
-              "address": null,
+              "address": "2349 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 423490,
@@ -5489,7 +5489,7 @@
             },
             {
               "id": "california-juniper-court-2355-east-foster-drive",
-              "address": null,
+              "address": "2355 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 389990,
@@ -5506,7 +5506,7 @@
             },
             {
               "id": "california-juniper-court-2361-east-foster-drive",
-              "address": null,
+              "address": "2361 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 417490,
@@ -5523,7 +5523,7 @@
             },
             {
               "id": "california-juniper-court-2373-east-foster-drive",
-              "address": null,
+              "address": "2373 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 392990,
@@ -5540,7 +5540,7 @@
             },
             {
               "id": "california-juniper-court-2389-east-foster-drive",
-              "address": null,
+              "address": "2389 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 420490,
@@ -5557,7 +5557,7 @@
             },
             {
               "id": "california-juniper-court-2401-east-foster-drive",
-              "address": null,
+              "address": "2401 East Foster Drive",
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
               "price": 499544,
@@ -5928,7 +5928,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3138-blue-water-drive",
-              "address": null,
+              "address": "3138 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 468990,
@@ -5945,7 +5945,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3142-blue-water-drive",
-              "address": null,
+              "address": "3142 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 518990,
@@ -5962,7 +5962,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3144-blue-water-drive",
-              "address": null,
+              "address": "3144 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 435990,
@@ -5979,7 +5979,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3148-blue-water-drive",
-              "address": null,
+              "address": "3148 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 471790,
@@ -5996,7 +5996,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3150-blue-water-drive",
-              "address": null,
+              "address": "3150 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 467290,
@@ -6013,7 +6013,7 @@
             },
             {
               "id": "california-sutton-grove-ii-3154-blue-water-drive",
-              "address": null,
+              "address": "3154 Blue Water Drive",
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
               "price": 439490,
@@ -6448,7 +6448,7 @@
             },
             {
               "id": "california-laurelwood-13817-norman-gould-dr",
-              "address": null,
+              "address": "13817 Norman Gould Dr",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 539990,
@@ -6465,7 +6465,7 @@
             },
             {
               "id": "california-laurelwood-6016-kobus-st",
-              "address": null,
+              "address": "6016 Kobus St",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 444990,
@@ -6482,7 +6482,7 @@
             },
             {
               "id": "california-laurelwood-13708-water-lilly-ct",
-              "address": null,
+              "address": "13708 Water Lilly Ct",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 467990,
@@ -6499,7 +6499,7 @@
             },
             {
               "id": "california-laurelwood-13712-water-lilly-ct",
-              "address": null,
+              "address": "13712 Water Lilly Ct",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 562265,
@@ -6516,7 +6516,7 @@
             },
             {
               "id": "california-laurelwood-13902-sweetbay-dr",
-              "address": null,
+              "address": "13902 Sweetbay Dr",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 555490,
@@ -6533,7 +6533,7 @@
             },
             {
               "id": "california-laurelwood-13906-sweetbay-dr",
-              "address": null,
+              "address": "13906 Sweetbay Dr",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 462990,
@@ -6550,7 +6550,7 @@
             },
             {
               "id": "california-laurelwood-5902-southern-flower-st",
-              "address": null,
+              "address": "5902 Southern Flower St",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 472690,
@@ -6567,7 +6567,7 @@
             },
             {
               "id": "california-laurelwood-5908-southern-flower-st",
-              "address": null,
+              "address": "5908 Southern Flower St",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 551240,
@@ -6584,7 +6584,7 @@
             },
             {
               "id": "california-laurelwood-5912-southern-flower-st",
-              "address": null,
+              "address": "5912 Southern Flower St",
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
               "price": 493490,
@@ -6955,7 +6955,7 @@
             },
             {
               "id": "california-brooke-pointe-9004-winding-stream-ave",
-              "address": null,
+              "address": "9004 Winding Stream Ave",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 463990,
@@ -6972,7 +6972,7 @@
             },
             {
               "id": "california-brooke-pointe-9007-arroyo-hondo-ct",
-              "address": null,
+              "address": "9007 Arroyo Hondo Ct",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 477490,
@@ -6989,7 +6989,7 @@
             },
             {
               "id": "california-brooke-pointe-9010-arroyo-hondo-ct",
-              "address": null,
+              "address": "9010 Arroyo Hondo Ct",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 447990,
@@ -7006,7 +7006,7 @@
             },
             {
               "id": "california-brooke-pointe-9012-winding-stream-ave",
-              "address": null,
+              "address": "9012 Winding Stream Ave",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 466990,
@@ -7023,7 +7023,7 @@
             },
             {
               "id": "california-brooke-pointe-9020-winding-stream-ave",
-              "address": null,
+              "address": "9020 Winding Stream Ave",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 486990,
@@ -7040,7 +7040,7 @@
             },
             {
               "id": "california-brooke-pointe-9011-arroyo-hondo-ct",
-              "address": null,
+              "address": "9011 Arroyo Hondo Ct",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 569615,
@@ -7057,7 +7057,7 @@
             },
             {
               "id": "california-brooke-pointe-9014-arroyo-hondo-ct",
-              "address": null,
+              "address": "9014 Arroyo Hondo Ct",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 542490,
@@ -7074,7 +7074,7 @@
             },
             {
               "id": "california-brooke-pointe-9018-arroyo-hondo-ct",
-              "address": null,
+              "address": "9018 Arroyo Hondo Ct",
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
               "price": 488990,
@@ -7411,7 +7411,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7610-savannah-height-avenue",
-              "address": null,
+              "address": "7610 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 452990,
@@ -7428,7 +7428,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7421-savannah-height-avenue",
-              "address": null,
+              "address": "7421 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 468490,
@@ -7445,7 +7445,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7424-savannah-height-avenue",
-              "address": null,
+              "address": "7424 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 468490,
@@ -7462,7 +7462,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7500-savannah-height-avenue",
-              "address": null,
+              "address": "7500 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 497490,
@@ -7479,7 +7479,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7506-savannah-height-avenue",
-              "address": null,
+              "address": "7506 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 546490,
@@ -7496,7 +7496,7 @@
             },
             {
               "id": "california-sterling-manor-ii-7509-savannah-height-avenue",
-              "address": null,
+              "address": "7509 Savannah Height Avenue",
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
               "price": 470990,
@@ -8042,7 +8042,7 @@
             },
             {
               "id": "california-abbey-court-8215-regis-road",
-              "address": null,
+              "address": "8215 Regis Road",
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
               "price": 427290,
@@ -8059,7 +8059,7 @@
             },
             {
               "id": "california-abbey-court-8233-regis-road",
-              "address": null,
+              "address": "8233 Regis Road",
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
               "price": 387990,
@@ -8076,7 +8076,7 @@
             },
             {
               "id": "california-abbey-court-8239-regis-road",
-              "address": null,
+              "address": "8239 Regis Road",
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
               "price": 413990,
@@ -8093,7 +8093,7 @@
             },
             {
               "id": "california-abbey-court-8305-regis-road",
-              "address": null,
+              "address": "8305 Regis Road",
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
               "price": 391190,
@@ -8679,7 +8679,7 @@
             },
             {
               "id": "california-citrus-at-bridle-ridge-18475-lurin-avenue",
-              "address": null,
+              "address": "18475 Lurin Avenue",
               "cityStateZip": "Riverside, CA 92508",
               "planName": null,
               "price": 1149990,
@@ -8829,7 +8829,7 @@
             },
             {
               "id": "california-mystic-pointe-27186-mystic-sky-ave",
-              "address": null,
+              "address": "27186 Mystic Sky Ave",
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
               "price": 588662,
@@ -8846,7 +8846,7 @@
             },
             {
               "id": "california-mystic-pointe-27194-mystic-sky-ave",
-              "address": null,
+              "address": "27194 Mystic Sky Ave",
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
               "price": 559000,
@@ -9992,7 +9992,7 @@
             },
             {
               "id": "california-la-ventana-28752-calle-de-nubes",
-              "address": null,
+              "address": "28752 Calle De Nubes",
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
               "price": 669990,
@@ -10009,7 +10009,7 @@
             },
             {
               "id": "california-la-ventana-28668-calle-de-nubes",
-              "address": null,
+              "address": "28668 Calle De Nubes",
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
               "price": 677990,
@@ -10026,7 +10026,7 @@
             },
             {
               "id": "california-la-ventana-28764-calle-de-nubes",
-              "address": null,
+              "address": "28764 Calle De Nubes",
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
               "price": 752990,
@@ -10043,7 +10043,7 @@
             },
             {
               "id": "california-la-ventana-30558-via-sereno",
-              "address": null,
+              "address": "30558 Via Sereno",
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
               "price": 746990,
@@ -10641,7 +10641,7 @@
             },
             {
               "id": "california-the-reserve-at-quartz-hill-41838-chianti-court",
-              "address": null,
+              "address": "41838 Chianti Court",
               "cityStateZip": "Palmdale, CA 93551",
               "planName": null,
               "price": 804038,
@@ -10862,7 +10862,7 @@
             },
             {
               "id": "california-the-collection-at-campanile-223-via-genova",
-              "address": null,
+              "address": "223 Via Genova",
               "cityStateZip": "Cathedral City, CA 92234",
               "planName": null,
               "price": 652508,
@@ -10879,7 +10879,7 @@
             },
             {
               "id": "california-the-collection-at-campanile-224-via-genova",
-              "address": null,
+              "address": "224 Via Genova",
               "cityStateZip": "Cathedral City, CA 92234",
               "planName": null,
               "price": 639990,
@@ -11128,7 +11128,7 @@
             },
             {
               "id": "california-dolfina-49599-quill-road",
-              "address": null,
+              "address": "49599 Quill Road",
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
               "price": 599680,
@@ -11680,7 +11680,7 @@
             },
             {
               "id": "california-ibiza-7962-riverflow-way",
-              "address": null,
+              "address": "7962 Riverflow Way",
               "cityStateZip": "Sacramento, CA 95832",
               "planName": null,
               "price": 660990,
@@ -11697,7 +11697,7 @@
             },
             {
               "id": "california-ibiza-7978-riverflow-way",
-              "address": null,
+              "address": "7978 Riverflow Way",
               "cityStateZip": "Sacramento, CA 95832",
               "planName": null,
               "price": 698990,
@@ -12011,7 +12011,7 @@
             },
             {
               "id": "california-jasper-2629-terra-cotta-drive",
-              "address": null,
+              "address": "2629 Terra Cotta Drive",
               "cityStateZip": "Lincoln, CA 95648",
               "planName": null,
               "price": 577990,
@@ -12191,7 +12191,7 @@
             },
             {
               "id": "california-montego-1790-brianna-way",
-              "address": null,
+              "address": "1790 Brianna Way",
               "cityStateZip": "Yuba City, CA 95993",
               "planName": null,
               "price": 537990,
@@ -12208,7 +12208,7 @@
             },
             {
               "id": "california-montego-1847-sanborn-road",
-              "address": null,
+              "address": "1847 Sanborn Road",
               "cityStateZip": "Yuba City, CA 95993",
               "planName": null,
               "price": 569990,
@@ -12812,7 +12812,7 @@
             },
             {
               "id": "california-kingston-at-west-creek-15549-tomahawk-street",
-              "address": null,
+              "address": "15549 Tomahawk Street",
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
               "price": 535090,

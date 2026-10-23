@@ -420,7 +420,7 @@
             },
             {
               "id": "west-virginia-riverpointe-203-eclipse-street",
-              "address": null,
+              "address": "203 Eclipse Street",
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
               "price": 462990,
@@ -779,7 +779,7 @@
           "availableHomes": [
             {
               "id": "west-virginia-woodside-ridge-342-dye-lane",
-              "address": null,
+              "address": "342 Dye Lane",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 449990,
@@ -796,7 +796,7 @@
             },
             {
               "id": "west-virginia-woodside-ridge-327-dye-lane",
-              "address": null,
+              "address": "327 Dye Lane",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 429990,
@@ -813,7 +813,7 @@
             },
             {
               "id": "west-virginia-woodside-ridge-742-hardman-drive",
-              "address": null,
+              "address": "742 Hardman Drive",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 319990,
@@ -830,7 +830,7 @@
             },
             {
               "id": "west-virginia-woodside-ridge-340-dye-lane",
-              "address": null,
+              "address": "340 Dye Lane",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 414990,
@@ -847,7 +847,7 @@
             },
             {
               "id": "west-virginia-woodside-ridge-761-hardman-drive",
-              "address": null,
+              "address": "761 Hardman Drive",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 312990,
@@ -864,7 +864,7 @@
             },
             {
               "id": "west-virginia-woodside-ridge-750-hardman-drive",
-              "address": null,
+              "address": "750 Hardman Drive",
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
               "price": 325990,
@@ -1228,7 +1228,7 @@
           "availableHomes": [
             {
               "id": "west-virginia-eastview-manor-15-vision-drive",
-              "address": null,
+              "address": "15 Vision Drive",
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
               "price": 389990,
@@ -1245,7 +1245,7 @@
             },
             {
               "id": "west-virginia-eastview-manor-19-vision-drive",
-              "address": null,
+              "address": "19 Vision Drive",
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
               "price": 399990,
@@ -1395,7 +1395,7 @@
             },
             {
               "id": "west-virginia-stafford-village-12-erow-street",
-              "address": null,
+              "address": "12 Erow Street",
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
               "price": 231990,
@@ -1412,7 +1412,7 @@
             },
             {
               "id": "west-virginia-stafford-village-2-erow-street",
-              "address": null,
+              "address": "2 Erow Street",
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
               "price": 234990,

@@ -73,7 +73,7 @@
           "availableHomes": [
             {
               "id": "mississippi-success-road-22290-success-road",
-              "address": null,
+              "address": "22290 Success Road",
               "cityStateZip": "Saucier, MS 39574",
               "planName": null,
               "price": 485900,
@@ -90,7 +90,7 @@
             },
             {
               "id": "mississippi-success-road-22324-success-road",
-              "address": null,
+              "address": "22324 Success Road",
               "cityStateZip": "Saucier, MS 39574",
               "planName": null,
               "price": 500900,
@@ -107,7 +107,7 @@
             },
             {
               "id": "mississippi-success-road-22356-success-road",
-              "address": null,
+              "address": "22356 Success Road",
               "cityStateZip": "Saucier, MS 39574",
               "planName": null,
               "price": 490900,
@@ -240,7 +240,7 @@
             },
             {
               "id": "mississippi-the-reserve-at-carr-bridge-9328-reserve-boulevard",
-              "address": null,
+              "address": "9328 Reserve Boulevard",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 346900,
@@ -257,7 +257,7 @@
             },
             {
               "id": "mississippi-the-reserve-at-carr-bridge-9320-reserve-boulevard",
-              "address": null,
+              "address": "9320 Reserve Boulevard",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 316900,
@@ -758,7 +758,7 @@
             },
             {
               "id": "mississippi-swan-landing-14474-majesta-drive",
-              "address": null,
+              "address": "14474 Majesta Drive",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 435900,
@@ -775,7 +775,7 @@
             },
             {
               "id": "mississippi-swan-landing-14475-majesta-drive",
-              "address": null,
+              "address": "14475 Majesta Drive",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 423900,
@@ -792,7 +792,7 @@
             },
             {
               "id": "mississippi-swan-landing-14478-majesta-drive",
-              "address": null,
+              "address": "14478 Majesta Drive",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 378900,
@@ -809,7 +809,7 @@
             },
             {
               "id": "mississippi-swan-landing-14479-majesta-drive",
-              "address": null,
+              "address": "14479 Majesta Drive",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 421400,
@@ -826,7 +826,7 @@
             },
             {
               "id": "mississippi-swan-landing-14482-majesta-drive",
-              "address": null,
+              "address": "14482 Majesta Drive",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 418400,
@@ -993,7 +993,7 @@
             },
             {
               "id": "mississippi-autumn-lake-13467-pond-ridge-way",
-              "address": null,
+              "address": "13467 Pond Ridge Way",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 324900,
@@ -1177,7 +1177,7 @@
             },
             {
               "id": "mississippi-hidden-springs-14278-quill-avenue",
-              "address": null,
+              "address": "14278 Quill Avenue",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 356900,
@@ -1194,7 +1194,7 @@
             },
             {
               "id": "mississippi-hidden-springs-14284-quill-avenue",
-              "address": null,
+              "address": "14284 Quill Avenue",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 365900,
@@ -1211,7 +1211,7 @@
             },
             {
               "id": "mississippi-hidden-springs-9596-thicket-lane",
-              "address": null,
+              "address": "9596 Thicket Lane",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 330900,
@@ -1228,7 +1228,7 @@
             },
             {
               "id": "mississippi-hidden-springs-9598-thicket-lane",
-              "address": null,
+              "address": "9598 Thicket Lane",
               "cityStateZip": "Biloxi, MS 39532",
               "planName": null,
               "price": 315900,
@@ -1950,7 +1950,7 @@
             },
             {
               "id": "mississippi-highland-lake-ths-12344-frazier-lane",
-              "address": null,
+              "address": "12344 Frazier Lane",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 220900,
@@ -1967,7 +1967,7 @@
             },
             {
               "id": "mississippi-highland-lake-ths-12350-frazier-lane",
-              "address": null,
+              "address": "12350 Frazier Lane",
               "cityStateZip": "Gulfport, MS 39503",
               "planName": null,
               "price": 239900,
@@ -2352,7 +2352,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14219-cabernet-street",
-              "address": null,
+              "address": "14219 Cabernet Street",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 392190,
@@ -2369,7 +2369,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-13300-sarsen-loop",
-              "address": null,
+              "address": "13300 Sarsen Loop",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 473900,
@@ -2386,7 +2386,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14054-jubilee-parkway",
-              "address": null,
+              "address": "14054 Jubilee Parkway",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 525900,
@@ -2403,7 +2403,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14067-jubilee-parkway",
-              "address": null,
+              "address": "14067 Jubilee Parkway",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 435900,
@@ -2420,7 +2420,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-13320-sarsen-loop",
-              "address": null,
+              "address": "13320 Sarsen Loop",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 395900,
@@ -2437,7 +2437,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14050-jubilee-parkway",
-              "address": null,
+              "address": "14050 Jubilee Parkway",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 553900,
@@ -2454,7 +2454,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14223-cabernet-street",
-              "address": null,
+              "address": "14223 Cabernet Street",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 370900,
@@ -2471,7 +2471,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14227-cabernet-street",
-              "address": null,
+              "address": "14227 Cabernet Street",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 393400,
@@ -2488,7 +2488,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-14224-cabernet-street",
-              "address": null,
+              "address": "14224 Cabernet Street",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 355900,
@@ -2505,7 +2505,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-13109-carnival-circle",
-              "address": null,
+              "address": "13109 Carnival Circle",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 344900,
@@ -2522,7 +2522,7 @@
             },
             {
               "id": "mississippi-ramsay-farms-13113-carnival-circle",
-              "address": null,
+              "address": "13113 Carnival Circle",
               "cityStateZip": "Vancleave, MS 39565",
               "planName": null,
               "price": 304900,
@@ -3267,7 +3267,7 @@
             },
             {
               "id": "mississippi-palm-point-6640-palm-pointe-drive",
-              "address": null,
+              "address": "6640 Palm Pointe Drive",
               "cityStateZip": "Ocean Springs, MS 39564",
               "planName": null,
               "price": 535900,
@@ -3284,7 +3284,7 @@
             },
             {
               "id": "mississippi-palm-point-6661-sago-palm-lane",
-              "address": null,
+              "address": "6661 Sago Palm Lane",
               "cityStateZip": "Ocean Springs, MS 39564",
               "planName": null,
               "price": 460900,
@@ -3301,7 +3301,7 @@
             },
             {
               "id": "mississippi-palm-point-6662-sago-palm-lane",
-              "address": null,
+              "address": "6662 Sago Palm Lane",
               "cityStateZip": "Ocean Springs, MS 39564",
               "planName": null,
               "price": 421900,
@@ -3451,7 +3451,7 @@
             },
             {
               "id": "mississippi-kings-crossing-64-kings-crossing-drive",
-              "address": null,
+              "address": "64 Kings Crossing Drive",
               "cityStateZip": "Lucedale, MS 39452",
               "planName": null,
               "price": 232400,
@@ -3601,7 +3601,7 @@
             },
             {
               "id": "mississippi-magnolia-farms-127-strawberry-drive",
-              "address": null,
+              "address": "127 Strawberry Drive",
               "cityStateZip": "Lucedale, MS 39452",
               "planName": null,
               "price": 271900,
@@ -3618,7 +3618,7 @@
             },
             {
               "id": "mississippi-magnolia-farms-107-strawberry-drive",
-              "address": null,
+              "address": "107 Strawberry Drive",
               "cityStateZip": "Lucedale, MS 39452",
               "planName": null,
               "price": 270900,
@@ -4475,7 +4475,7 @@
             },
             {
               "id": "mississippi-horseshoe-bend-112-saratoga-springs-ave",
-              "address": null,
+              "address": "112 Saratoga Springs Ave",
               "cityStateZip": "Clinton, MS 39056",
               "planName": null,
               "price": 414900,
@@ -4492,7 +4492,7 @@
             },
             {
               "id": "mississippi-horseshoe-bend-210-saratoga-springs-ave",
-              "address": null,
+              "address": "210 Saratoga Springs Ave",
               "cityStateZip": "Clinton, MS 39056",
               "planName": null,
               "price": 362340,
@@ -4659,7 +4659,7 @@
             },
             {
               "id": "mississippi-foxwood-4995-quail-ridge-dr",
-              "address": null,
+              "address": "4995 Quail Ridge Dr",
               "cityStateZip": "Jackson, MS 39212",
               "planName": null,
               "price": 229900,
@@ -4676,7 +4676,7 @@
             },
             {
               "id": "mississippi-foxwood-4997-quail-ridge-dr",
-              "address": null,
+              "address": "4997 Quail Ridge Dr",
               "cityStateZip": "Jackson, MS 39212",
               "planName": null,
               "price": 219900,
@@ -4693,7 +4693,7 @@
             },
             {
               "id": "mississippi-foxwood-5025-fox-glen-dr",
-              "address": null,
+              "address": "5025 Fox Glen Dr",
               "cityStateZip": "Jackson, MS 39212",
               "planName": null,
               "price": 229900,
@@ -4890,7 +4890,7 @@
             },
             {
               "id": "mississippi-barrington-276-raulston-dr",
-              "address": null,
+              "address": "276 Raulston Dr",
               "cityStateZip": "Byram, MS 39272",
               "planName": null,
               "price": 274900,
@@ -4907,7 +4907,7 @@
             },
             {
               "id": "mississippi-barrington-264-raulston-dr",
-              "address": null,
+              "address": "264 Raulston Dr",
               "cityStateZip": "Byram, MS 39272",
               "planName": null,
               "price": 313200,
@@ -5108,7 +5108,7 @@
             },
             {
               "id": "mississippi-serenity-lake-237-serenity-lake-dr",
-              "address": null,
+              "address": "237 Serenity Lake Dr",
               "cityStateZip": "Pearl, MS 39208",
               "planName": null,
               "price": 299900,
@@ -5125,7 +5125,7 @@
             },
             {
               "id": "mississippi-serenity-lake-418-hidden-reed-ct",
-              "address": null,
+              "address": "418 Hidden Reed Ct",
               "cityStateZip": "Pearl, MS 39208",
               "planName": null,
               "price": 299900,
@@ -5142,7 +5142,7 @@
             },
             {
               "id": "mississippi-serenity-lake-539-vista-pointe-dr",
-              "address": null,
+              "address": "539 Vista Pointe Dr",
               "cityStateZip": "Pearl, MS 39208",
               "planName": null,
               "price": 302900,
@@ -5820,7 +5820,7 @@
             },
             {
               "id": "mississippi-woodgate-311-castlewood-cir",
-              "address": null,
+              "address": "311 Castlewood Cir",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 434900,
@@ -5837,7 +5837,7 @@
             },
             {
               "id": "mississippi-woodgate-305-castlewood-cir",
-              "address": null,
+              "address": "305 Castlewood Cir",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 437395,
@@ -5854,7 +5854,7 @@
             },
             {
               "id": "mississippi-woodgate-515-bridgeway-street",
-              "address": null,
+              "address": "515 Bridgeway Street",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 455395,
@@ -5871,7 +5871,7 @@
             },
             {
               "id": "mississippi-woodgate-719-honeysuckle-loop",
-              "address": null,
+              "address": "719 Honeysuckle Loop",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 349900,
@@ -5888,7 +5888,7 @@
             },
             {
               "id": "mississippi-woodgate-307-castlewood-cir",
-              "address": null,
+              "address": "307 Castlewood Cir",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 434895,
@@ -5905,7 +5905,7 @@
             },
             {
               "id": "mississippi-woodgate-321-castlewood-cir",
-              "address": null,
+              "address": "321 Castlewood Cir",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 459895,
@@ -5922,7 +5922,7 @@
             },
             {
               "id": "mississippi-woodgate-323-castlewood-cir",
-              "address": null,
+              "address": "323 Castlewood Cir",
               "cityStateZip": "Canton, MS 39046",
               "planName": null,
               "price": 418895,
@@ -6140,7 +6140,7 @@
             },
             {
               "id": "mississippi-the-preserve-609-teal-cv",
-              "address": null,
+              "address": "609 Teal Cv",
               "cityStateZip": "Brandon, MS 39047",
               "planName": null,
               "price": 299900,
@@ -6157,7 +6157,7 @@
             },
             {
               "id": "mississippi-the-preserve-605-teal-cv",
-              "address": null,
+              "address": "605 Teal Cv",
               "cityStateZip": "Brandon, MS 39047",
               "planName": null,
               "price": 299900,
@@ -6542,7 +6542,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8228-bankhead-dr",
-              "address": null,
+              "address": "8228 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 357990,
@@ -6559,7 +6559,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8236-bankhead-dr",
-              "address": null,
+              "address": "8236 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 370990,
@@ -6576,7 +6576,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8248-bankhead-dr",
-              "address": null,
+              "address": "8248 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 357990,
@@ -6593,7 +6593,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8358-bankhead-dr",
-              "address": null,
+              "address": "8358 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 409990,
@@ -6610,7 +6610,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8370-bankhead-dr",
-              "address": null,
+              "address": "8370 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 437990,
@@ -6627,7 +6627,7 @@
             },
             {
               "id": "mississippi-villages-at-southbranch-8374-bankhead-dr",
-              "address": null,
+              "address": "8374 Bankhead Dr",
               "cityStateZip": "Olive Branch, MS 38654",
               "planName": null,
               "price": 373990,
@@ -6777,7 +6777,7 @@
             },
             {
               "id": "mississippi-indian-oaks-20-spirit-dance-drive",
-              "address": null,
+              "address": "20 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 341990,
@@ -6794,7 +6794,7 @@
             },
             {
               "id": "mississippi-indian-oaks-26-spirit-dance-drive",
-              "address": null,
+              "address": "26 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 301990,
@@ -6811,7 +6811,7 @@
             },
             {
               "id": "mississippi-indian-oaks-36-w-wolf-lane",
-              "address": null,
+              "address": "36 W Wolf Lane",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 299990,
@@ -6828,7 +6828,7 @@
             },
             {
               "id": "mississippi-indian-oaks-38-spirit-dance-drive",
-              "address": null,
+              "address": "38 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 338990,
@@ -6845,7 +6845,7 @@
             },
             {
               "id": "mississippi-indian-oaks-42-w-wolf-lane",
-              "address": null,
+              "address": "42 W Wolf Lane",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 289990,
@@ -6862,7 +6862,7 @@
             },
             {
               "id": "mississippi-indian-oaks-48-spirit-dance-drive",
-              "address": null,
+              "address": "48 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 330990,
@@ -6879,7 +6879,7 @@
             },
             {
               "id": "mississippi-indian-oaks-69-spirit-dance-drive",
-              "address": null,
+              "address": "69 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 322990,
@@ -6896,7 +6896,7 @@
             },
             {
               "id": "mississippi-indian-oaks-75-spirit-dance-drive",
-              "address": null,
+              "address": "75 Spirit Dance Drive",
               "cityStateZip": "Byhalia, MS 38611",
               "planName": null,
               "price": 341990,

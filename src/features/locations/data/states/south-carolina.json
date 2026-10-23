@@ -271,7 +271,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-818-feldspar-manor",
-              "address": null,
+              "address": "818 Feldspar Manor",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 221000,
@@ -288,7 +288,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3086-nolana-loop",
-              "address": null,
+              "address": "3086 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 219000,
@@ -305,7 +305,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3294-nolana-loop",
-              "address": null,
+              "address": "3294 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 219000,
@@ -322,7 +322,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3332-nolana-loop",
-              "address": null,
+              "address": "3332 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 227500,
@@ -339,7 +339,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3338-nolana-loop",
-              "address": null,
+              "address": "3338 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 226000,
@@ -356,7 +356,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3344-nolana-loop",
-              "address": null,
+              "address": "3344 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 226000,
@@ -373,7 +373,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3343-nolana-loop",
-              "address": null,
+              "address": "3343 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 225000,
@@ -390,7 +390,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3347-nolana-loop",
-              "address": null,
+              "address": "3347 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 225000,
@@ -407,7 +407,7 @@
             },
             {
               "id": "south-carolina-byrd-village-th-3353-nolana-loop",
-              "address": null,
+              "address": "3353 Nolana Loop",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 229500,
@@ -574,7 +574,7 @@
             },
             {
               "id": "south-carolina-highland-hills-4721-crimson-pass",
-              "address": null,
+              "address": "4721 Crimson Pass",
               "cityStateZip": "Graniteville, SC 29829",
               "planName": null,
               "price": 320130,
@@ -809,7 +809,7 @@
             },
             {
               "id": "south-carolina-rushing-waters-5181-montana-loop",
-              "address": null,
+              "address": "5181 Montana Loop",
               "cityStateZip": "North Augusta, SC 29841",
               "planName": null,
               "price": 243500,
@@ -942,7 +942,7 @@
             },
             {
               "id": "south-carolina-the-islands-2775-saltwater-bend",
-              "address": null,
+              "address": "2775 Saltwater Bend",
               "cityStateZip": "Beech Island, SC 29842",
               "planName": null,
               "price": 283230,
@@ -1126,7 +1126,7 @@
             },
             {
               "id": "south-carolina-wrenfield-at-chanticleer-3474-wrenfield-way",
-              "address": null,
+              "address": "3474 Wrenfield Way",
               "cityStateZip": "North Augusta, SC 29841",
               "planName": null,
               "price": 376720,
@@ -1143,7 +1143,7 @@
             },
             {
               "id": "south-carolina-wrenfield-at-chanticleer-3317-wrenfield-way",
-              "address": null,
+              "address": "3317 Wrenfield Way",
               "cityStateZip": "North Augusta, SC 29841",
               "planName": null,
               "price": 377355,
@@ -1392,7 +1392,7 @@
             },
             {
               "id": "south-carolina-the-cove--mallard-crossing-148-croaker-dr",
-              "address": null,
+              "address": "148 Croaker Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 400386,
@@ -1409,7 +1409,7 @@
             },
             {
               "id": "south-carolina-the-cove--mallard-crossing-194-grouper-ln",
-              "address": null,
+              "address": "194 Grouper Ln",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 468430,
@@ -1426,7 +1426,7 @@
             },
             {
               "id": "south-carolina-the-cove--mallard-crossing-198-grouper-ln",
-              "address": null,
+              "address": "198 Grouper Ln",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 435930,
@@ -1443,7 +1443,7 @@
             },
             {
               "id": "south-carolina-the-cove--mallard-crossing-234-grouper-ln",
-              "address": null,
+              "address": "234 Grouper Ln",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 470930,
@@ -1460,7 +1460,7 @@
             },
             {
               "id": "south-carolina-the-cove--mallard-crossing-243-grouper-ln",
-              "address": null,
+              "address": "243 Grouper Ln",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 399210,
@@ -1644,7 +1644,7 @@
             },
             {
               "id": "south-carolina-the-garrison-221-longbeard-dr",
-              "address": null,
+              "address": "221 Longbeard Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 430000,
@@ -1661,7 +1661,7 @@
             },
             {
               "id": "south-carolina-the-garrison-108-longbeard-dr",
-              "address": null,
+              "address": "108 Longbeard Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 490000,
@@ -1678,7 +1678,7 @@
             },
             {
               "id": "south-carolina-the-garrison-112-longbeard-dr",
-              "address": null,
+              "address": "112 Longbeard Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 530000,
@@ -1811,7 +1811,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1013-mountaintop-way",
-              "address": null,
+              "address": "1013 Mountaintop Way",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 375875,
@@ -1828,7 +1828,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1077-laurel-oaks-dr",
-              "address": null,
+              "address": "1077 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 378400,
@@ -1845,7 +1845,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1063-laurel-oaks-dr",
-              "address": null,
+              "address": "1063 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 385375,
@@ -1862,7 +1862,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1045-laurel-oaks-dr",
-              "address": null,
+              "address": "1045 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 392400,
@@ -1879,7 +1879,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1073-laurel-oaks-dr",
-              "address": null,
+              "address": "1073 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 397400,
@@ -1896,7 +1896,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1067-laurel-oaks-dr",
-              "address": null,
+              "address": "1067 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 399875,
@@ -1913,7 +1913,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1047-laurel-oaks-dr",
-              "address": null,
+              "address": "1047 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 400375,
@@ -1930,7 +1930,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1022-laurel-oaks-dr",
-              "address": null,
+              "address": "1022 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 402875,
@@ -1947,7 +1947,7 @@
             },
             {
               "id": "south-carolina-pineview-north-1025-laurel-oaks-dr",
-              "address": null,
+              "address": "1025 Laurel Oaks Dr",
               "cityStateZip": "Summerville, SC 29483",
               "planName": null,
               "price": 406375,
@@ -2229,7 +2229,7 @@
             },
             {
               "id": "south-carolina-sheep-island-128-midmills-ln",
-              "address": null,
+              "address": "128 Midmills Ln",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 668000,
@@ -2246,7 +2246,7 @@
             },
             {
               "id": "south-carolina-sheep-island-158-broadstone-dr",
-              "address": null,
+              "address": "158 Broadstone Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 446995,
@@ -2263,7 +2263,7 @@
             },
             {
               "id": "south-carolina-sheep-island-179-broadstone-dr",
-              "address": null,
+              "address": "179 Broadstone Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 475240,
@@ -2280,7 +2280,7 @@
             },
             {
               "id": "south-carolina-sheep-island-202-terrace-view-dr",
-              "address": null,
+              "address": "202 Terrace View Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 587070,
@@ -2297,7 +2297,7 @@
             },
             {
               "id": "south-carolina-sheep-island-223-terrace-view-dr",
-              "address": null,
+              "address": "223 Terrace View Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 594765,
@@ -2849,7 +2849,7 @@
             },
             {
               "id": "south-carolina-the-crossing-at-st-james-254-cloverleaf-acres-lane",
-              "address": null,
+              "address": "254 Cloverleaf Acres Lane",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 368340,
@@ -2866,7 +2866,7 @@
             },
             {
               "id": "south-carolina-the-crossing-at-st-james-256-cloverleaf-acres-lane",
-              "address": null,
+              "address": "256 Cloverleaf Acres Lane",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 368340,
@@ -2883,7 +2883,7 @@
             },
             {
               "id": "south-carolina-the-crossing-at-st-james-260-cloverleaf-acres-lane",
-              "address": null,
+              "address": "260 Cloverleaf Acres Lane",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 368340,
@@ -3084,7 +3084,7 @@
             },
             {
               "id": "south-carolina-pine-hills-361-willow-run-dr",
-              "address": null,
+              "address": "361 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 428907,
@@ -3101,7 +3101,7 @@
             },
             {
               "id": "south-carolina-pine-hills-566-lake-ridge-blvd",
-              "address": null,
+              "address": "566 Lake Ridge Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 430897,
@@ -3118,7 +3118,7 @@
             },
             {
               "id": "south-carolina-pine-hills-346-willows-run-drive",
-              "address": null,
+              "address": "346 Willows Run Drive",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 432877,
@@ -3135,7 +3135,7 @@
             },
             {
               "id": "south-carolina-pine-hills-708-breezy-palm-way",
-              "address": null,
+              "address": "708 Breezy Palm Way",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 433868,
@@ -3152,7 +3152,7 @@
             },
             {
               "id": "south-carolina-pine-hills-564-lake-ridge-blvd",
-              "address": null,
+              "address": "564 Lake Ridge Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 435847,
@@ -3169,7 +3169,7 @@
             },
             {
               "id": "south-carolina-pine-hills-348-willow-run-dr",
-              "address": null,
+              "address": "348 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 441579,
@@ -3186,7 +3186,7 @@
             },
             {
               "id": "south-carolina-pine-hills-331-lake-ridge-boulevard",
-              "address": null,
+              "address": "331 Lake Ridge Boulevard",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 442390,
@@ -3203,7 +3203,7 @@
             },
             {
               "id": "south-carolina-pine-hills-706-breezy-palm-way",
-              "address": null,
+              "address": "706 Breezy Palm Way",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 445747,
@@ -3220,7 +3220,7 @@
             },
             {
               "id": "south-carolina-pine-hills-350-willow-run-dr",
-              "address": null,
+              "address": "350 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 451000,
@@ -3237,7 +3237,7 @@
             },
             {
               "id": "south-carolina-pine-hills-201-hawk-tail-court",
-              "address": null,
+              "address": "201 Hawk Tail Court",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 456637,
@@ -3254,7 +3254,7 @@
             },
             {
               "id": "south-carolina-pine-hills-562-lake-ridge-blvd",
-              "address": null,
+              "address": "562 Lake Ridge Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 456638,
@@ -3271,7 +3271,7 @@
             },
             {
               "id": "south-carolina-pine-hills-186-bee-tree-blvd",
-              "address": null,
+              "address": "186 Bee Tree Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 461122,
@@ -3288,7 +3288,7 @@
             },
             {
               "id": "south-carolina-pine-hills-192-bee-tree-blvd",
-              "address": null,
+              "address": "192 Bee Tree Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 464240,
@@ -3305,7 +3305,7 @@
             },
             {
               "id": "south-carolina-pine-hills-365-willow-run-dr",
-              "address": null,
+              "address": "365 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 474457,
@@ -3322,7 +3322,7 @@
             },
             {
               "id": "south-carolina-pine-hills-354-willow-run-dr",
-              "address": null,
+              "address": "354 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 477427,
@@ -3339,7 +3339,7 @@
             },
             {
               "id": "south-carolina-pine-hills-370-willow-run-dr",
-              "address": null,
+              "address": "370 Willow Run Dr",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 477427,
@@ -3356,7 +3356,7 @@
             },
             {
               "id": "south-carolina-pine-hills-728-breezy-palm-way",
-              "address": null,
+              "address": "728 Breezy Palm Way",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 477428,
@@ -3373,7 +3373,7 @@
             },
             {
               "id": "south-carolina-pine-hills-560-lake-ridge-blvd",
-              "address": null,
+              "address": "560 Lake Ridge Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 485347,
@@ -3390,7 +3390,7 @@
             },
             {
               "id": "south-carolina-pine-hills-800-baywood-ln",
-              "address": null,
+              "address": "800 Baywood Ln",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 407770,
@@ -3407,7 +3407,7 @@
             },
             {
               "id": "south-carolina-pine-hills-197-bee-tree-blvd",
-              "address": null,
+              "address": "197 Bee Tree Blvd",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 422977,
@@ -3424,7 +3424,7 @@
             },
             {
               "id": "south-carolina-pine-hills-811-baywood-ln",
-              "address": null,
+              "address": "811 Baywood Ln",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 438770,
@@ -3441,7 +3441,7 @@
             },
             {
               "id": "south-carolina-pine-hills-710-breezy-palm-way",
-              "address": null,
+              "address": "710 Breezy Palm Way",
               "cityStateZip": "Summerville, SC 29486",
               "planName": null,
               "price": 455770,
@@ -3757,7 +3757,7 @@
             },
             {
               "id": "south-carolina-havenwood-115-serrano-st",
-              "address": null,
+              "address": "115 Serrano St",
               "cityStateZip": "North Charleston, SC 29420",
               "planName": null,
               "price": 423190,
@@ -3774,7 +3774,7 @@
             },
             {
               "id": "south-carolina-havenwood-116-serrano-st",
-              "address": null,
+              "address": "116 Serrano St",
               "cityStateZip": "North Charleston, SC 29420",
               "planName": null,
               "price": 450730,
@@ -3791,7 +3791,7 @@
             },
             {
               "id": "south-carolina-havenwood-121-serrano-st",
-              "address": null,
+              "address": "121 Serrano St",
               "cityStateZip": "North Charleston, SC 29420",
               "planName": null,
               "price": 452850,
@@ -3975,7 +3975,7 @@
             },
             {
               "id": "south-carolina-the-timbers-159-mims-academy-drive",
-              "address": null,
+              "address": "159 Mims Academy Drive",
               "cityStateZip": "Harleyville, SC 29448",
               "planName": null,
               "price": 246500,
@@ -3992,7 +3992,7 @@
             },
             {
               "id": "south-carolina-the-timbers-161-mims-academy-drive",
-              "address": null,
+              "address": "161 Mims Academy Drive",
               "cityStateZip": "Harleyville, SC 29448",
               "planName": null,
               "price": 246500,
@@ -4462,7 +4462,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-311-bluebell-way",
-              "address": null,
+              "address": "311 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 323973,
@@ -4479,7 +4479,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-325-bluebell-way",
-              "address": null,
+              "address": "325 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 326000,
@@ -4496,7 +4496,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-333-bluebell-way",
-              "address": null,
+              "address": "333 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 330000,
@@ -4513,7 +4513,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-336-bluebell-way",
-              "address": null,
+              "address": "336 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 333000,
@@ -4530,7 +4530,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-338-bluebell-way",
-              "address": null,
+              "address": "338 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 302950,
@@ -4547,7 +4547,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-340-bluebell-way",
-              "address": null,
+              "address": "340 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 312530,
@@ -4564,7 +4564,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-342-bluebell-way",
-              "address": null,
+              "address": "342 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 302940,
@@ -4581,7 +4581,7 @@
             },
             {
               "id": "south-carolina-carolina-groves-townhomes-344-bluebell-way",
-              "address": null,
+              "address": "344 Bluebell Way",
               "cityStateZip": "Moncks Corner, SC 29461",
               "planName": null,
               "price": 336665,
@@ -4748,7 +4748,7 @@
             },
             {
               "id": "south-carolina-hillcrest-6067-grangestone-lane",
-              "address": null,
+              "address": "6067 Grangestone Lane",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 344270,
@@ -4765,7 +4765,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3936-aberfeldy-lane",
-              "address": null,
+              "address": "3936 Aberfeldy Lane",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 358240,
@@ -4782,7 +4782,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3227-dalmore-drive",
-              "address": null,
+              "address": "3227 Dalmore Drive",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 370240,
@@ -4799,7 +4799,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3219-dalmore-drive",
-              "address": null,
+              "address": "3219 Dalmore Drive",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 390240,
@@ -4816,7 +4816,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3239-dalmore-drive",
-              "address": null,
+              "address": "3239 Dalmore Drive",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 406240,
@@ -4833,7 +4833,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3944-aberfeldy-lane",
-              "address": null,
+              "address": "3944 Aberfeldy Lane",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 406240,
@@ -4850,7 +4850,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3211-dalmore-drive",
-              "address": null,
+              "address": "3211 Dalmore Drive",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 410240,
@@ -4867,7 +4867,7 @@
             },
             {
               "id": "south-carolina-hillcrest-3223-dalmore-drive",
-              "address": null,
+              "address": "3223 Dalmore Drive",
               "cityStateZip": "Ravenel, SC 29470",
               "planName": null,
               "price": 412240,
@@ -5710,7 +5710,7 @@
             },
             {
               "id": "south-carolina-marion-village-107-cypress-hollow-way",
-              "address": null,
+              "address": "107 Cypress Hollow Way",
               "cityStateZip": "Santee, SC 29142",
               "planName": null,
               "price": 221730,
@@ -6040,7 +6040,7 @@
             },
             {
               "id": "south-carolina-rivers-reach-113-castle-hill-dr",
-              "address": null,
+              "address": "113 Castle Hill Dr",
               "cityStateZip": "Yemassee, SC 29945",
               "planName": null,
               "price": 707850,
@@ -6057,7 +6057,7 @@
             },
             {
               "id": "south-carolina-rivers-reach-801-castle-hill-dr",
-              "address": null,
+              "address": "801 Castle Hill Dr",
               "cityStateZip": "Yemassee, SC 29945",
               "planName": null,
               "price": 403960,
@@ -6074,7 +6074,7 @@
             },
             {
               "id": "south-carolina-rivers-reach-240-castle-hill-dr",
-              "address": null,
+              "address": "240 Castle Hill Dr",
               "cityStateZip": "Yemassee, SC 29945",
               "planName": null,
               "price": 407730,
@@ -6535,7 +6535,7 @@
           "availableHomes": [
             {
               "id": "south-carolina-hunters-branch-2055-grovefield-dr",
-              "address": null,
+              "address": "2055 Grovefield Dr",
               "cityStateZip": "Hopkins, SC 29061",
               "planName": null,
               "price": 316770,
@@ -7326,7 +7326,7 @@
             },
             {
               "id": "south-carolina-livingston-woods-312-kenworthy-ct",
-              "address": null,
+              "address": "312 Kenworthy Ct",
               "cityStateZip": "Irmo, SC 29063",
               "planName": null,
               "price": 444145,
@@ -7343,7 +7343,7 @@
             },
             {
               "id": "south-carolina-livingston-woods-408-lancashire-ln",
-              "address": null,
+              "address": "408 Lancashire Ln",
               "cityStateZip": "Irmo, SC 29063",
               "planName": null,
               "price": 352630,
@@ -7360,7 +7360,7 @@
             },
             {
               "id": "south-carolina-livingston-woods-435-lancashire-ln",
-              "address": null,
+              "address": "435 Lancashire Ln",
               "cityStateZip": "Irmo, SC 29063",
               "planName": null,
               "price": 369990,
@@ -7377,7 +7377,7 @@
             },
             {
               "id": "south-carolina-livingston-woods-439-lancashire-ln",
-              "address": null,
+              "address": "439 Lancashire Ln",
               "cityStateZip": "Irmo, SC 29063",
               "planName": null,
               "price": 370000,
@@ -7394,7 +7394,7 @@
             },
             {
               "id": "south-carolina-livingston-woods-441-lancashire-ln",
-              "address": null,
+              "address": "441 Lancashire Ln",
               "cityStateZip": "Irmo, SC 29063",
               "planName": null,
               "price": 369690,
@@ -7676,7 +7676,7 @@
             },
             {
               "id": "south-carolina-ferry-grove-725-glacier-road",
-              "address": null,
+              "address": "725 Glacier Road",
               "cityStateZip": "Lexington, SC 29072",
               "planName": null,
               "price": 284300,
@@ -7693,7 +7693,7 @@
             },
             {
               "id": "south-carolina-ferry-grove-909-snowflake-way",
-              "address": null,
+              "address": "909 Snowflake Way",
               "cityStateZip": "Lexington, SC 29072",
               "planName": null,
               "price": 269990,
@@ -7710,7 +7710,7 @@
             },
             {
               "id": "south-carolina-ferry-grove-913-snowflake-way",
-              "address": null,
+              "address": "913 Snowflake Way",
               "cityStateZip": "Lexington, SC 29072",
               "planName": null,
               "price": 267500,
@@ -7727,7 +7727,7 @@
             },
             {
               "id": "south-carolina-ferry-grove-917-snowflake-way",
-              "address": null,
+              "address": "917 Snowflake Way",
               "cityStateZip": "Lexington, SC 29072",
               "planName": null,
               "price": 303235,
@@ -7962,7 +7962,7 @@
             },
             {
               "id": "south-carolina-seases-pond-202-ruby-prince-road",
-              "address": null,
+              "address": "202 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 315000,
@@ -7979,7 +7979,7 @@
             },
             {
               "id": "south-carolina-seases-pond-209-ruby-prince-road",
-              "address": null,
+              "address": "209 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 317500,
@@ -7996,7 +7996,7 @@
             },
             {
               "id": "south-carolina-seases-pond-218-ruby-prince-road",
-              "address": null,
+              "address": "218 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 365000,
@@ -8013,7 +8013,7 @@
             },
             {
               "id": "south-carolina-seases-pond-222-ruby-prince-road",
-              "address": null,
+              "address": "222 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 327500,
@@ -8030,7 +8030,7 @@
             },
             {
               "id": "south-carolina-seases-pond-329-babcock-way",
-              "address": null,
+              "address": "329 Babcock Way",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 409853,
@@ -8047,7 +8047,7 @@
             },
             {
               "id": "south-carolina-seases-pond-174-ruby-prince-road",
-              "address": null,
+              "address": "174 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 315000,
@@ -8064,7 +8064,7 @@
             },
             {
               "id": "south-carolina-seases-pond-178-ruby-prince-road",
-              "address": null,
+              "address": "178 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 325000,
@@ -8081,7 +8081,7 @@
             },
             {
               "id": "south-carolina-seases-pond-182-ruby-prince-road",
-              "address": null,
+              "address": "182 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 265000,
@@ -8098,7 +8098,7 @@
             },
             {
               "id": "south-carolina-seases-pond-189-ruby-prince-road",
-              "address": null,
+              "address": "189 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 325000,
@@ -8115,7 +8115,7 @@
             },
             {
               "id": "south-carolina-seases-pond-190-ruby-prince-road",
-              "address": null,
+              "address": "190 Ruby Prince Road",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 295000,
@@ -8316,7 +8316,7 @@
             },
             {
               "id": "south-carolina-gates-village-184-horatio-lane",
-              "address": null,
+              "address": "184 Horatio Lane",
               "cityStateZip": "Lugoff, SC 29078",
               "planName": null,
               "price": 300990,
@@ -8333,7 +8333,7 @@
             },
             {
               "id": "south-carolina-gates-village-196-horatio-lane",
-              "address": null,
+              "address": "196 Horatio Lane",
               "cityStateZip": "Lugoff, SC 29078",
               "planName": null,
               "price": 333350,
@@ -8568,7 +8568,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-209-sunny-stream--dr",
-              "address": null,
+              "address": "209 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 475000,
@@ -8585,7 +8585,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-141-sunny-stream--dr",
-              "address": null,
+              "address": "141 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 415000,
@@ -8602,7 +8602,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-145-sunny-stream--dr",
-              "address": null,
+              "address": "145 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 445000,
@@ -8619,7 +8619,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-149-sunny-stream--dr",
-              "address": null,
+              "address": "149 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 468705,
@@ -8636,7 +8636,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-205-sunny-stream--dr",
-              "address": null,
+              "address": "205 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 460000,
@@ -8653,7 +8653,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-213-sunny-stream--dr",
-              "address": null,
+              "address": "213 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 379990,
@@ -8670,7 +8670,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-217-sunny-stream--dr",
-              "address": null,
+              "address": "217 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 480000,
@@ -8687,7 +8687,7 @@
             },
             {
               "id": "south-carolina-lake-tide-summit-225-sunny-stream--dr",
-              "address": null,
+              "address": "225 Sunny Stream Dr",
               "cityStateZip": "Chapin, SC 29036",
               "planName": null,
               "price": 435000,
@@ -8820,7 +8820,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-328-still-shores--dr",
-              "address": null,
+              "address": "328 Still Shores Dr",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 489990,
@@ -8837,7 +8837,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-340-still-shores--dr",
-              "address": null,
+              "address": "340 Still Shores Dr",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 460000,
@@ -8854,7 +8854,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-614-shining-sun-court",
-              "address": null,
+              "address": "614 Shining Sun Court",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 387500,
@@ -8871,7 +8871,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-618-shining-sun-court",
-              "address": null,
+              "address": "618 Shining Sun Court",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 426755,
@@ -8888,7 +8888,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-325-still-shores--dr",
-              "address": null,
+              "address": "325 Still Shores Dr",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 459990,
@@ -8905,7 +8905,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-333-still-shores--dr",
-              "address": null,
+              "address": "333 Still Shores Dr",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 550965,
@@ -8922,7 +8922,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-337-still-shores--dr",
-              "address": null,
+              "address": "337 Still Shores Dr",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 449990,
@@ -8939,7 +8939,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-626-shining-sun-court",
-              "address": null,
+              "address": "626 Shining Sun Court",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 534500,
@@ -8956,7 +8956,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-634-shining-sun-court",
-              "address": null,
+              "address": "634 Shining Sun Court",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 490080,
@@ -8973,7 +8973,7 @@
             },
             {
               "id": "south-carolina-shell-pointe-638-shining-sun-court",
-              "address": null,
+              "address": "638 Shining Sun Court",
               "cityStateZip": "Gilbert, SC 29054",
               "planName": null,
               "price": 484350,
@@ -9389,7 +9389,7 @@
             },
             {
               "id": "south-carolina-the-park-at-wilkinson-108-hale-rd",
-              "address": null,
+              "address": "108 Hale Rd",
               "cityStateZip": "Orangeburg, SC 29115",
               "planName": null,
               "price": 215000,
@@ -9406,7 +9406,7 @@
             },
             {
               "id": "south-carolina-the-park-at-wilkinson-112-hale-rd",
-              "address": null,
+              "address": "112 Hale Rd",
               "cityStateZip": "Orangeburg, SC 29115",
               "planName": null,
               "price": 219990,
@@ -9423,7 +9423,7 @@
             },
             {
               "id": "south-carolina-the-park-at-wilkinson-116-hale-rd",
-              "address": null,
+              "address": "116 Hale Rd",
               "cityStateZip": "Orangeburg, SC 29115",
               "planName": null,
               "price": 216500,
@@ -9440,7 +9440,7 @@
             },
             {
               "id": "south-carolina-the-park-at-wilkinson-120-hale-rd",
-              "address": null,
+              "address": "120 Hale Rd",
               "cityStateZip": "Orangeburg, SC 29115",
               "planName": null,
               "price": 216500,
@@ -9678,7 +9678,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3322-royal-star-lane",
-              "address": null,
+              "address": "3322 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 279880,
@@ -9695,7 +9695,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3244-royal-star-lane",
-              "address": null,
+              "address": "3244 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 287990,
@@ -9712,7 +9712,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3304-royal-star-lane",
-              "address": null,
+              "address": "3304 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 282880,
@@ -9729,7 +9729,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3308-royal-star-lane",
-              "address": null,
+              "address": "3308 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 292990,
@@ -9746,7 +9746,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3308-tulip-tree-lane",
-              "address": null,
+              "address": "3308 Tulip Tree Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 271740,
@@ -9763,7 +9763,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3525-royal-star-lane",
-              "address": null,
+              "address": "3525 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 429205,
@@ -9780,7 +9780,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3533-royal-star-lane",
-              "address": null,
+              "address": "3533 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 380575,
@@ -9797,7 +9797,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-3541-royal-star-lane",
-              "address": null,
+              "address": "3541 Royal Star Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 411440,
@@ -9814,7 +9814,7 @@
             },
             {
               "id": "south-carolina-magnolia-farms-720-magnolia-farms-lane",
-              "address": null,
+              "address": "720 Magnolia Farms Lane",
               "cityStateZip": "Florence, SC 29501",
               "planName": null,
               "price": 271740,
@@ -10216,7 +10216,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-269-bluff-view-lane",
-              "address": null,
+              "address": "269 Bluff View Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 362990,
@@ -10233,7 +10233,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-281-bluff-view-lane",
-              "address": null,
+              "address": "281 Bluff View Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 367990,
@@ -10250,7 +10250,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-285-bluff-view-lane",
-              "address": null,
+              "address": "285 Bluff View Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 344990,
@@ -10267,7 +10267,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-3000-royal-bluff-lane",
-              "address": null,
+              "address": "3000 Royal Bluff Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 264990,
@@ -10284,7 +10284,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-508-fiddlers-run-lane",
-              "address": null,
+              "address": "508 Fiddlers Run Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 254990,
@@ -10301,7 +10301,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-2899-fish-hawk-lane",
-              "address": null,
+              "address": "2899 Fish Hawk Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 401990,
@@ -10318,7 +10318,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-2983-fish-hawk-lane",
-              "address": null,
+              "address": "2983 Fish Hawk Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 337990,
@@ -10335,7 +10335,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-2987-fish-hawk-lane",
-              "address": null,
+              "address": "2987 Fish Hawk Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 369990,
@@ -10352,7 +10352,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-2991-fish-hawk-lane",
-              "address": null,
+              "address": "2991 Fish Hawk Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 328990,
@@ -10369,7 +10369,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-300-bluff-view-lane",
-              "address": null,
+              "address": "300 Bluff View Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 376990,
@@ -10386,7 +10386,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-312-bluff-view-lane",
-              "address": null,
+              "address": "312 Bluff View Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 342990,
@@ -10403,7 +10403,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-500-fiddlers-run-lane",
-              "address": null,
+              "address": "500 Fiddlers Run Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 296240,
@@ -10420,7 +10420,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-504-fiddlers-run-lane",
-              "address": null,
+              "address": "504 Fiddlers Run Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 337390,
@@ -10437,7 +10437,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-520-fiddlers-run-lane",
-              "address": null,
+              "address": "520 Fiddlers Run Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 307715,
@@ -10454,7 +10454,7 @@
             },
             {
               "id": "south-carolina-the-bluffs-at-mill-creek-524-fiddlers-run-lane",
-              "address": null,
+              "address": "524 Fiddlers Run Lane",
               "cityStateZip": "Florence, SC 29505",
               "planName": null,
               "price": 288740,
@@ -10752,7 +10752,7 @@
             },
             {
               "id": "south-carolina-adams-glen-117-scarlet-leaf-lane",
-              "address": null,
+              "address": "117 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 464900,
@@ -10769,7 +10769,7 @@
             },
             {
               "id": "south-carolina-adams-glen-151-scarlet-leaf-lane",
-              "address": null,
+              "address": "151 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 444900,
@@ -10786,7 +10786,7 @@
             },
             {
               "id": "south-carolina-adams-glen-307-scarlet-leaf-lane",
-              "address": null,
+              "address": "307 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 442900,
@@ -10803,7 +10803,7 @@
             },
             {
               "id": "south-carolina-adams-glen-205-scarlet-leaf-lane",
-              "address": null,
+              "address": "205 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 425690,
@@ -10820,7 +10820,7 @@
             },
             {
               "id": "south-carolina-adams-glen-424-scarlet-leaf-lane",
-              "address": null,
+              "address": "424 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 385900,
@@ -10837,7 +10837,7 @@
             },
             {
               "id": "south-carolina-adams-glen-103-scarlet-leaf-lane",
-              "address": null,
+              "address": "103 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 455900,
@@ -10854,7 +10854,7 @@
             },
             {
               "id": "south-carolina-adams-glen-422-scarlet-leaf-lane",
-              "address": null,
+              "address": "422 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 385500,
@@ -10871,7 +10871,7 @@
             },
             {
               "id": "south-carolina-adams-glen-425-scarlet-leaf-lane",
-              "address": null,
+              "address": "425 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 397500,
@@ -10888,7 +10888,7 @@
             },
             {
               "id": "south-carolina-adams-glen-211-scarlet-leaf-lane",
-              "address": null,
+              "address": "211 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 466900,
@@ -10905,7 +10905,7 @@
             },
             {
               "id": "south-carolina-adams-glen-423-scarlet-leaf-lane",
-              "address": null,
+              "address": "423 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 405900,
@@ -10922,7 +10922,7 @@
             },
             {
               "id": "south-carolina-adams-glen-420-scarlet-leaf-lane",
-              "address": null,
+              "address": "420 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 404900,
@@ -10939,7 +10939,7 @@
             },
             {
               "id": "south-carolina-adams-glen-149-scarlet-leaf-lane",
-              "address": null,
+              "address": "149 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 473900,
@@ -10956,7 +10956,7 @@
             },
             {
               "id": "south-carolina-adams-glen-301-scarlet-leaf-lane",
-              "address": null,
+              "address": "301 Scarlet Leaf Lane",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 494900,
@@ -10973,7 +10973,7 @@
             },
             {
               "id": "south-carolina-adams-glen-109-gold-leaf-drive",
-              "address": null,
+              "address": "109 Gold Leaf Drive",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 507675,
@@ -11191,7 +11191,7 @@
           "availableHomes": [
             {
               "id": "south-carolina-ashmore-hills-205-anora-way",
-              "address": null,
+              "address": "205 Anora Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 326900,
@@ -11208,7 +11208,7 @@
             },
             {
               "id": "south-carolina-ashmore-hills-5-hillfort-way",
-              "address": null,
+              "address": "5 Hillfort Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 324900,
@@ -11225,7 +11225,7 @@
             },
             {
               "id": "south-carolina-ashmore-hills-203-anora-way",
-              "address": null,
+              "address": "203 Anora Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 329900,
@@ -11242,7 +11242,7 @@
             },
             {
               "id": "south-carolina-ashmore-hills-201-anora-way",
-              "address": null,
+              "address": "201 Anora Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 343900,
@@ -11259,7 +11259,7 @@
             },
             {
               "id": "south-carolina-ashmore-hills-207-anora-way",
-              "address": null,
+              "address": "207 Anora Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 341900,
@@ -11276,7 +11276,7 @@
             },
             {
               "id": "south-carolina-ashmore-hills-7-hillfort-way",
-              "address": null,
+              "address": "7 Hillfort Way",
               "cityStateZip": "Mauldin, SC 29607",
               "planName": null,
               "price": 344900,
@@ -11409,7 +11409,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-744-marblewood-street",
-              "address": null,
+              "address": "744 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 356900,
@@ -11426,7 +11426,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-743-marblewood-street",
-              "address": null,
+              "address": "743 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 367490,
@@ -11443,7 +11443,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-736-marblewood-street",
-              "address": null,
+              "address": "736 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 367290,
@@ -11460,7 +11460,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-751-marblewood-street",
-              "address": null,
+              "address": "751 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 372900,
@@ -11477,7 +11477,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-734-marblewood-street",
-              "address": null,
+              "address": "734 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 385290,
@@ -11494,7 +11494,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-739-marblewood-street",
-              "address": null,
+              "address": "739 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 395435,
@@ -11511,7 +11511,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-742-marblewood-street",
-              "address": null,
+              "address": "742 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 383900,
@@ -11528,7 +11528,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-747-marblewood-street",
-              "address": null,
+              "address": "747 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 392290,
@@ -11545,7 +11545,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-737-marblewood-street",
-              "address": null,
+              "address": "737 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 410590,
@@ -11562,7 +11562,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-740-marblewood-street",
-              "address": null,
+              "address": "740 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 389790,
@@ -11579,7 +11579,7 @@
             },
             {
               "id": "south-carolina-chestnut-ridge-745-marblewood-street",
-              "address": null,
+              "address": "745 Marblewood Street",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 399590,
@@ -11712,7 +11712,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-204-river-grove-court",
-              "address": null,
+              "address": "204 River Grove Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 238900,
@@ -11729,7 +11729,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-208-river-grove-court",
-              "address": null,
+              "address": "208 River Grove Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 246900,
@@ -11746,7 +11746,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-8-pleasant-woods-trail",
-              "address": null,
+              "address": "8 Pleasant Woods Trail",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 242975,
@@ -11763,7 +11763,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-212-river-grove-court",
-              "address": null,
+              "address": "212 River Grove Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 258900,
@@ -11780,7 +11780,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-216-river-grove-court",
-              "address": null,
+              "address": "216 River Grove Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 247900,
@@ -11797,7 +11797,7 @@
             },
             {
               "id": "south-carolina-tanglewood-townes-220-river-grove-court",
-              "address": null,
+              "address": "220 River Grove Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 249900,
@@ -11998,7 +11998,7 @@
             },
             {
               "id": "south-carolina-edgewood-estates-241-chapel-creek-court",
-              "address": null,
+              "address": "241 Chapel Creek Court",
               "cityStateZip": "Greenville, SC 29605",
               "planName": null,
               "price": 323900,
@@ -12294,7 +12294,7 @@
             },
             {
               "id": "south-carolina-village-grove-12-bobbin-road",
-              "address": null,
+              "address": "12 Bobbin Road",
               "cityStateZip": "Greenville, SC 29611",
               "planName": null,
               "price": 319990,
@@ -12311,7 +12311,7 @@
             },
             {
               "id": "south-carolina-village-grove-8-bobbin-road",
-              "address": null,
+              "address": "8 Bobbin Road",
               "cityStateZip": "Greenville, SC 29611",
               "planName": null,
               "price": 319990,
@@ -12628,7 +12628,7 @@
             },
             {
               "id": "south-carolina-covington-village-817-embark-circle",
-              "address": null,
+              "address": "817 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 223900,
@@ -12645,7 +12645,7 @@
             },
             {
               "id": "south-carolina-covington-village-818-embark-circle",
-              "address": null,
+              "address": "818 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 207900,
@@ -12662,7 +12662,7 @@
             },
             {
               "id": "south-carolina-covington-village-832-embark-circle",
-              "address": null,
+              "address": "832 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 214900,
@@ -12679,7 +12679,7 @@
             },
             {
               "id": "south-carolina-covington-village-847-embark-circle",
-              "address": null,
+              "address": "847 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 226990,
@@ -12696,7 +12696,7 @@
             },
             {
               "id": "south-carolina-covington-village-851-embark-circle",
-              "address": null,
+              "address": "851 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 224990,
@@ -12713,7 +12713,7 @@
             },
             {
               "id": "south-carolina-covington-village-855-embark-circle",
-              "address": null,
+              "address": "855 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 232490,
@@ -12730,7 +12730,7 @@
             },
             {
               "id": "south-carolina-covington-village-853-embark-circle",
-              "address": null,
+              "address": "853 Embark Circle",
               "cityStateZip": "Greer, SC 29651",
               "planName": null,
               "price": 231990,
@@ -13025,7 +13025,7 @@
             },
             {
               "id": "south-carolina-harrison-valley-113-sweetwood-lane",
-              "address": null,
+              "address": "113 Sweetwood Lane",
               "cityStateZip": "Simpsonville, SC 29680",
               "planName": null,
               "price": 442900,
@@ -13286,7 +13286,7 @@
             },
             {
               "id": "south-carolina-blue-ridge-trail-116-watauga-road",
-              "address": null,
+              "address": "116 Watauga Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 421900,
@@ -13303,7 +13303,7 @@
             },
             {
               "id": "south-carolina-blue-ridge-trail-128-watauga-road",
-              "address": null,
+              "address": "128 Watauga Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 448900,
@@ -13453,7 +13453,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-618-fonseca-court",
-              "address": null,
+              "address": "618 Fonseca Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 358900,
@@ -13470,7 +13470,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-626-fonseca-court",
-              "address": null,
+              "address": "626 Fonseca Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 358900,
@@ -13487,7 +13487,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-630-fonseca-court",
-              "address": null,
+              "address": "630 Fonseca Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 347900,
@@ -13504,7 +13504,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-1101-arango-street",
-              "address": null,
+              "address": "1101 Arango Street",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 453900,
@@ -13521,7 +13521,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-1102-arango-street",
-              "address": null,
+              "address": "1102 Arango Street",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 476900,
@@ -13538,7 +13538,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-1105-arango-street",
-              "address": null,
+              "address": "1105 Arango Street",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 494900,
@@ -13555,7 +13555,7 @@
             },
             {
               "id": "south-carolina-sycamore-cove-488-inchmore-drive",
-              "address": null,
+              "address": "488 Inchmore Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 468900,
@@ -13804,7 +13804,7 @@
             },
             {
               "id": "south-carolina-cottonwood-ridge-120-higbie-drive",
-              "address": null,
+              "address": "120 Higbie Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 396900,
@@ -13821,7 +13821,7 @@
             },
             {
               "id": "south-carolina-cottonwood-ridge-4-levant-trail",
-              "address": null,
+              "address": "4 Levant Trail",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 420970,
@@ -14082,7 +14082,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-137-cranford-road",
-              "address": null,
+              "address": "137 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 270900,
@@ -14099,7 +14099,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-144-cranford-road",
-              "address": null,
+              "address": "144 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 281900,
@@ -14116,7 +14116,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-150-cranford-road",
-              "address": null,
+              "address": "150 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 294900,
@@ -14133,7 +14133,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-135-cranford-road",
-              "address": null,
+              "address": "135 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 305900,
@@ -14150,7 +14150,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-146-cranford-road",
-              "address": null,
+              "address": "146 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 308900,
@@ -14167,7 +14167,7 @@
             },
             {
               "id": "south-carolina-cedar-gap-148-cranford-road",
-              "address": null,
+              "address": "148 Cranford Road",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 311900,
@@ -14467,7 +14467,7 @@
             },
             {
               "id": "south-carolina-williams-ridge-458-kincord-court",
-              "address": null,
+              "address": "458 Kincord Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 417900,
@@ -14711,7 +14711,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-246-deskin-lane",
-              "address": null,
+              "address": "246 Deskin Lane",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 302900,
@@ -14728,7 +14728,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-244-deskin-lane",
-              "address": null,
+              "address": "244 Deskin Lane",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 307900,
@@ -14745,7 +14745,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-247-deskin-lane",
-              "address": null,
+              "address": "247 Deskin Lane",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 309900,
@@ -14997,7 +14997,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-335-boxbury-way",
-              "address": null,
+              "address": "335 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 330900,
@@ -15014,7 +15014,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-326-boxbury-way",
-              "address": null,
+              "address": "326 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 333900,
@@ -15031,7 +15031,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-345-boxbury-way",
-              "address": null,
+              "address": "345 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 332900,
@@ -15048,7 +15048,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-323-boxbury-way",
-              "address": null,
+              "address": "323 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 345900,
@@ -15065,7 +15065,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-332-boxbury-way",
-              "address": null,
+              "address": "332 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 338900,
@@ -15082,7 +15082,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-331-boxbury-way",
-              "address": null,
+              "address": "331 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 365900,
@@ -15099,7 +15099,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-325-boxbury-way",
-              "address": null,
+              "address": "325 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 365900,
@@ -15116,7 +15116,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-330-boxbury-way",
-              "address": null,
+              "address": "330 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 370900,
@@ -15133,7 +15133,7 @@
             },
             {
               "id": "south-carolina-durbin-meadows-traditions-333-boxbury-way",
-              "address": null,
+              "address": "333 Boxbury Way",
               "cityStateZip": "Fountain Inn, SC 29644",
               "planName": null,
               "price": 365900,
@@ -15300,7 +15300,7 @@
             },
             {
               "id": "south-carolina-benjamins-grove-1079-bywell-drive",
-              "address": null,
+              "address": "1079 Bywell Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 328900,
@@ -15317,7 +15317,7 @@
             },
             {
               "id": "south-carolina-benjamins-grove-1071-bywell-drive",
-              "address": null,
+              "address": "1071 Bywell Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 352900,
@@ -15334,7 +15334,7 @@
             },
             {
               "id": "south-carolina-benjamins-grove-1088-bywell-drive",
-              "address": null,
+              "address": "1088 Bywell Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 346900,
@@ -15351,7 +15351,7 @@
             },
             {
               "id": "south-carolina-benjamins-grove-1075-bywell-drive",
-              "address": null,
+              "address": "1075 Bywell Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 337900,
@@ -15711,7 +15711,7 @@
             },
             {
               "id": "south-carolina-rutledge-estates-314-glarside-court",
-              "address": null,
+              "address": "314 Glarside Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 415900,
@@ -15844,7 +15844,7 @@
             },
             {
               "id": "south-carolina-tyger-pines-42-147-lazzon-road",
-              "address": null,
+              "address": "147 Lazzon Road",
               "cityStateZip": "Moore, SC 29369",
               "planName": null,
               "price": 271900,
@@ -15977,7 +15977,7 @@
             },
             {
               "id": "south-carolina-woodglen-1621-castlen-court",
-              "address": null,
+              "address": "1621 Castlen Court",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 390900,
@@ -15994,7 +15994,7 @@
             },
             {
               "id": "south-carolina-woodglen-1418-wexley-drive",
-              "address": null,
+              "address": "1418 Wexley Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 342900,
@@ -16011,7 +16011,7 @@
             },
             {
               "id": "south-carolina-woodglen-1411-wexley-drive",
-              "address": null,
+              "address": "1411 Wexley Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 368900,
@@ -16028,7 +16028,7 @@
             },
             {
               "id": "south-carolina-woodglen-1412-wexley-drive",
-              "address": null,
+              "address": "1412 Wexley Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 370900,
@@ -16045,7 +16045,7 @@
             },
             {
               "id": "south-carolina-woodglen-1413-wexley-drive",
-              "address": null,
+              "address": "1413 Wexley Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 376900,
@@ -16062,7 +16062,7 @@
             },
             {
               "id": "south-carolina-woodglen-1414-wexley-drive",
-              "address": null,
+              "address": "1414 Wexley Drive",
               "cityStateZip": "Piedmont, SC 29673",
               "planName": null,
               "price": 372900,
@@ -16307,7 +16307,7 @@
             },
             {
               "id": "south-carolina-lakestone-998-jubilee-trail",
-              "address": null,
+              "address": "998 Jubilee Trail",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 287400,
@@ -16324,7 +16324,7 @@
             },
             {
               "id": "south-carolina-lakestone-1002-jubilee-trail",
-              "address": null,
+              "address": "1002 Jubilee Trail",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 288900,
@@ -16341,7 +16341,7 @@
             },
             {
               "id": "south-carolina-lakestone-1006-jubilee-trail",
-              "address": null,
+              "address": "1006 Jubilee Trail",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 294900,
@@ -16358,7 +16358,7 @@
             },
             {
               "id": "south-carolina-lakestone-1005-jubilee-trail",
-              "address": null,
+              "address": "1005 Jubilee Trail",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 319900,
@@ -16675,7 +16675,7 @@
             },
             {
               "id": "south-carolina-hunters-ridge-1276-saginaw-court",
-              "address": null,
+              "address": "1276 Saginaw Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 289900,
@@ -16692,7 +16692,7 @@
             },
             {
               "id": "south-carolina-hunters-ridge-1263-saginaw-court",
-              "address": null,
+              "address": "1263 Saginaw Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 301900,
@@ -16709,7 +16709,7 @@
             },
             {
               "id": "south-carolina-hunters-ridge-1272-saginaw-court",
-              "address": null,
+              "address": "1272 Saginaw Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 328900,
@@ -16726,7 +16726,7 @@
             },
             {
               "id": "south-carolina-hunters-ridge-1267-saginaw-court",
-              "address": null,
+              "address": "1267 Saginaw Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 337900,
@@ -16743,7 +16743,7 @@
             },
             {
               "id": "south-carolina-hunters-ridge-1268-saginaw-court",
-              "address": null,
+              "address": "1268 Saginaw Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 326900,
@@ -17203,7 +17203,7 @@
           "availableHomes": [
             {
               "id": "south-carolina-pinebrook-559-winstone-trail",
-              "address": null,
+              "address": "559 Winstone Trail",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 573735,
@@ -17220,7 +17220,7 @@
             },
             {
               "id": "south-carolina-pinebrook-701-forbury-way",
-              "address": null,
+              "address": "701 Forbury Way",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 623735,
@@ -17353,7 +17353,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-944-kerwood-street",
-              "address": null,
+              "address": "944 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 278500,
@@ -17370,7 +17370,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-957-kerwood-street",
-              "address": null,
+              "address": "957 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 285900,
@@ -17387,7 +17387,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-952-kerwood-street",
-              "address": null,
+              "address": "952 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 289900,
@@ -17404,7 +17404,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-961-kerwood-street",
-              "address": null,
+              "address": "961 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 291900,
@@ -17421,7 +17421,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-949-kerwood-street",
-              "address": null,
+              "address": "949 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 296900,
@@ -17438,7 +17438,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-968-kerwood-street",
-              "address": null,
+              "address": "968 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 296900,
@@ -17455,7 +17455,7 @@
             },
             {
               "id": "south-carolina-treemont-commons-953-kerwood-street",
-              "address": null,
+              "address": "953 Kerwood Street",
               "cityStateZip": "Wellford, SC 29385",
               "planName": null,
               "price": 313900,
@@ -17935,7 +17935,7 @@
             },
             {
               "id": "south-carolina-varner-station-746-north-ivyblake-court",
-              "address": null,
+              "address": "746 North Ivyblake Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 232900,
@@ -17952,7 +17952,7 @@
             },
             {
               "id": "south-carolina-varner-station-828-south-ivyblake-court",
-              "address": null,
+              "address": "828 South Ivyblake Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 254900,
@@ -17969,7 +17969,7 @@
             },
             {
               "id": "south-carolina-varner-station-750-north-ivyblake-court",
-              "address": null,
+              "address": "750 North Ivyblake Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 250900,
@@ -17986,7 +17986,7 @@
             },
             {
               "id": "south-carolina-varner-station-742-north-ivyblake-court",
-              "address": null,
+              "address": "742 North Ivyblake Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 257900,
@@ -18003,7 +18003,7 @@
             },
             {
               "id": "south-carolina-varner-station-745-north-ivyblake-court",
-              "address": null,
+              "address": "745 North Ivyblake Court",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 268900,
@@ -18453,7 +18453,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2023-gracie-drive",
-              "address": null,
+              "address": "2023 Gracie Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 271900,
@@ -18470,7 +18470,7 @@
             },
             {
               "id": "south-carolina-harrier-point-1940-gracie-drive",
-              "address": null,
+              "address": "1940 Gracie Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 284900,
@@ -18487,7 +18487,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2109-pierett-circle",
-              "address": null,
+              "address": "2109 Pierett Circle",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 290900,
@@ -18504,7 +18504,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2113-pierett-circle",
-              "address": null,
+              "address": "2113 Pierett Circle",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 297900,
@@ -18521,7 +18521,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2019-gracie-drive",
-              "address": null,
+              "address": "2019 Gracie Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 286900,
@@ -18538,7 +18538,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2015-gracie-drive",
-              "address": null,
+              "address": "2015 Gracie Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 294900,
@@ -18555,7 +18555,7 @@
             },
             {
               "id": "south-carolina-harrier-point-1920-gracie-drive",
-              "address": null,
+              "address": "1920 Gracie Drive",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 315900,
@@ -18572,7 +18572,7 @@
             },
             {
               "id": "south-carolina-harrier-point-2105-pierett-circle",
-              "address": null,
+              "address": "2105 Pierett Circle",
               "cityStateZip": "Woodruff, SC 29388",
               "planName": null,
               "price": 318900,
@@ -18804,7 +18804,7 @@
             },
             {
               "id": "south-carolina-hidden-hills-713-lesbury-lane",
-              "address": null,
+              "address": "713 Lesbury Lane",
               "cityStateZip": "Spartanburg, SC 29301",
               "planName": null,
               "price": 239900,
@@ -18821,7 +18821,7 @@
             },
             {
               "id": "south-carolina-hidden-hills-717-lesbury-lane",
-              "address": null,
+              "address": "717 Lesbury Lane",
               "cityStateZip": "Spartanburg, SC 29301",
               "planName": null,
               "price": 245900,
@@ -19053,7 +19053,7 @@
             },
             {
               "id": "south-carolina-harper-ridge-1209-golf-drive",
-              "address": null,
+              "address": "1209 Golf Drive",
               "cityStateZip": "Roebuck, SC 29376",
               "planName": null,
               "price": 260900,
@@ -19203,7 +19203,7 @@
             },
             {
               "id": "south-carolina-ravencrest-3181-emberly-drive",
-              "address": null,
+              "address": "3181 Emberly Drive",
               "cityStateZip": "Roebuck, SC 29376",
               "planName": null,
               "price": 309240,
@@ -19387,7 +19387,7 @@
             },
             {
               "id": "south-carolina-baxter-village-3459-hunters-brook-drive",
-              "address": null,
+              "address": "3459 Hunters Brook Drive",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 217900,
@@ -19404,7 +19404,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4125-springshire-lane",
-              "address": null,
+              "address": "4125 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 259900,
@@ -19421,7 +19421,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4137-springshire-lane",
-              "address": null,
+              "address": "4137 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 269900,
@@ -19438,7 +19438,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4138-springshire-lane",
-              "address": null,
+              "address": "4138 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 271900,
@@ -19455,7 +19455,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4129-springshire-lane",
-              "address": null,
+              "address": "4129 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 279900,
@@ -19472,7 +19472,7 @@
             },
             {
               "id": "south-carolina-baxter-village-2155-springview-court",
-              "address": null,
+              "address": "2155 Springview Court",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 321900,
@@ -19489,7 +19489,7 @@
             },
             {
               "id": "south-carolina-baxter-village-2164-springview-court",
-              "address": null,
+              "address": "2164 Springview Court",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 356900,
@@ -19506,7 +19506,7 @@
             },
             {
               "id": "south-carolina-baxter-village-2171-springview-ct",
-              "address": null,
+              "address": "2171 Springview Ct",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 343900,
@@ -19523,7 +19523,7 @@
             },
             {
               "id": "south-carolina-baxter-village-2163-springview-court",
-              "address": null,
+              "address": "2163 Springview Court",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 344900,
@@ -19540,7 +19540,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4149-springshire-lane",
-              "address": null,
+              "address": "4149 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 279900,
@@ -19557,7 +19557,7 @@
             },
             {
               "id": "south-carolina-baxter-village-2178-springview-court",
-              "address": null,
+              "address": "2178 Springview Court",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 314900,
@@ -19574,7 +19574,7 @@
             },
             {
               "id": "south-carolina-baxter-village-4145-springshire-lane",
-              "address": null,
+              "address": "4145 Springshire Lane",
               "cityStateZip": "Boiling Springs, SC 29316",
               "planName": null,
               "price": 314900,
@@ -19724,7 +19724,7 @@
           "availableHomes": [
             {
               "id": "south-carolina-arrowood-acres-205-timberidge-road",
-              "address": null,
+              "address": "205 Timberidge Road",
               "cityStateZip": "Enoree, SC 29335",
               "planName": null,
               "price": 459900,
@@ -19741,7 +19741,7 @@
             },
             {
               "id": "south-carolina-arrowood-acres-209-timberidge-road",
-              "address": null,
+              "address": "209 Timberidge Road",
               "cityStateZip": "Enoree, SC 29335",
               "planName": null,
               "price": 499900,
@@ -19758,7 +19758,7 @@
             },
             {
               "id": "south-carolina-arrowood-acres-484-adhurst-drive",
-              "address": null,
+              "address": "484 Adhurst Drive",
               "cityStateZip": "Enoree, SC 29335",
               "planName": null,
               "price": 499900,
@@ -19775,7 +19775,7 @@
             },
             {
               "id": "south-carolina-arrowood-acres-217-timberidge-road",
-              "address": null,
+              "address": "217 Timberidge Road",
               "cityStateZip": "Enoree, SC 29335",
               "planName": null,
               "price": 489900,
@@ -19908,7 +19908,7 @@
             },
             {
               "id": "south-carolina-sherwood-gardens-569-landseer-drive",
-              "address": null,
+              "address": "569 Landseer Drive",
               "cityStateZip": "Landrum, SC 29356",
               "planName": null,
               "price": 332900,
@@ -19925,7 +19925,7 @@
             },
             {
               "id": "south-carolina-sherwood-gardens-572-landseer-drive",
-              "address": null,
+              "address": "572 Landseer Drive",
               "cityStateZip": "Landrum, SC 29356",
               "planName": null,
               "price": 335900,
@@ -19942,7 +19942,7 @@
             },
             {
               "id": "south-carolina-sherwood-gardens-592-landseer-drive",
-              "address": null,
+              "address": "592 Landseer Drive",
               "cityStateZip": "Landrum, SC 29356",
               "planName": null,
               "price": 355900,
@@ -19959,7 +19959,7 @@
             },
             {
               "id": "south-carolina-sherwood-gardens-565-landseer-drive",
-              "address": null,
+              "address": "565 Landseer Drive",
               "cityStateZip": "Landrum, SC 29356",
               "planName": null,
               "price": 360900,
@@ -19976,7 +19976,7 @@
             },
             {
               "id": "south-carolina-sherwood-gardens-873-sir-curran-court",
-              "address": null,
+              "address": "873 Sir Curran Court",
               "cityStateZip": "Landrum, SC 29356",
               "planName": null,
               "price": 333215,
@@ -20259,7 +20259,7 @@
             },
             {
               "id": "south-carolina-gibson-grove-106-sipsey-circle",
-              "address": null,
+              "address": "106 Sipsey Circle",
               "cityStateZip": "Laurens, SC 29360",
               "planName": null,
               "price": 246900,
@@ -20276,7 +20276,7 @@
             },
             {
               "id": "south-carolina-gibson-grove-101-pengrove-place",
-              "address": null,
+              "address": "101 Pengrove Place",
               "cityStateZip": "Laurens, SC 29360",
               "planName": null,
               "price": 257900,
@@ -20293,7 +20293,7 @@
             },
             {
               "id": "south-carolina-gibson-grove-103-sipsey-circle",
-              "address": null,
+              "address": "103 Sipsey Circle",
               "cityStateZip": "Laurens, SC 29360",
               "planName": null,
               "price": 250900,
@@ -20310,7 +20310,7 @@
             },
             {
               "id": "south-carolina-gibson-grove-108-sipsey-circle",
-              "address": null,
+              "address": "108 Sipsey Circle",
               "cityStateZip": "Laurens, SC 29360",
               "planName": null,
               "price": 247900,
@@ -20327,7 +20327,7 @@
             },
             {
               "id": "south-carolina-gibson-grove-110-sipsey-circle",
-              "address": null,
+              "address": "110 Sipsey Circle",
               "cityStateZip": "Laurens, SC 29360",
               "planName": null,
               "price": 271990,
@@ -20579,7 +20579,7 @@
             },
             {
               "id": "south-carolina-spring-ridge-reserve-1228-rarity-street",
-              "address": null,
+              "address": "1228 Rarity Street",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 432900,
@@ -20712,7 +20712,7 @@
             },
             {
               "id": "south-carolina-spring-ridge-338-addalynn-lane",
-              "address": null,
+              "address": "338 Addalynn Lane",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 341840,
@@ -20729,7 +20729,7 @@
             },
             {
               "id": "south-carolina-spring-ridge-339-addalynn-lane",
-              "address": null,
+              "address": "339 Addalynn Lane",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 352840,
@@ -20746,7 +20746,7 @@
             },
             {
               "id": "south-carolina-spring-ridge-336-addalynn-lane",
-              "address": null,
+              "address": "336 Addalynn Lane",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 369990,
@@ -20763,7 +20763,7 @@
             },
             {
               "id": "south-carolina-spring-ridge-337-addalynn-lane",
-              "address": null,
+              "address": "337 Addalynn Lane",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 360390,
@@ -21277,7 +21277,7 @@
             },
             {
               "id": "south-carolina-hawk-ridge---anderson-107-kestrel-court",
-              "address": null,
+              "address": "107 Kestrel Court",
               "cityStateZip": "Anderson, SC 29621",
               "planName": null,
               "price": 288990,
@@ -21628,7 +21628,7 @@
             },
             {
               "id": "south-carolina-stone-creek-614-oak-ridge-drive",
-              "address": null,
+              "address": "614 Oak Ridge Drive",
               "cityStateZip": "Clinton, SC 29325",
               "planName": null,
               "price": 268900,
@@ -21761,7 +21761,7 @@
             },
             {
               "id": "south-carolina-shadowood-ii-609-hidden-creek-court",
-              "address": null,
+              "address": "609 Hidden Creek Court",
               "cityStateZip": "Seneca, SC 29678",
               "planName": null,
               "price": 461100,
@@ -21778,7 +21778,7 @@
             },
             {
               "id": "south-carolina-shadowood-ii-516-broad-creek-court",
-              "address": null,
+              "address": "516 Broad Creek Court",
               "cityStateZip": "Seneca, SC 29678",
               "planName": null,
               "price": 556820,
@@ -21958,7 +21958,7 @@
             },
             {
               "id": "south-carolina-cascade-point-136-cascade-lane",
-              "address": null,
+              "address": "136 Cascade Lane",
               "cityStateZip": "Seneca, SC 29678",
               "planName": null,
               "price": 316990,
@@ -22125,7 +22125,7 @@
             },
             {
               "id": "south-carolina-seneca-falls-535-whitewater-ridge",
-              "address": null,
+              "address": "535 Whitewater Ridge",
               "cityStateZip": "Seneca, SC 29678",
               "planName": null,
               "price": 283900,
@@ -22142,7 +22142,7 @@
             },
             {
               "id": "south-carolina-seneca-falls-543-whitewater-ridge",
-              "address": null,
+              "address": "543 Whitewater Ridge",
               "cityStateZip": "Seneca, SC 29678",
               "planName": null,
               "price": 322990,
@@ -22691,7 +22691,7 @@
             },
             {
               "id": "south-carolina-waverly-station-125-depot-circle",
-              "address": null,
+              "address": "125 Depot Circle",
               "cityStateZip": "Greenwood, SC 29646",
               "planName": null,
               "price": 279990,
@@ -22708,7 +22708,7 @@
             },
             {
               "id": "south-carolina-waverly-station-127-depot-circle",
-              "address": null,
+              "address": "127 Depot Circle",
               "cityStateZip": "Greenwood, SC 29646",
               "planName": null,
               "price": 282990,
@@ -22841,7 +22841,7 @@
             },
             {
               "id": "south-carolina-bentley-park-116-cades-cove-drive",
-              "address": null,
+              "address": "116 Cades Cove Drive",
               "cityStateZip": "Greenwood, SC 29646",
               "planName": null,
               "price": 280900,
@@ -22858,7 +22858,7 @@
             },
             {
               "id": "south-carolina-bentley-park-109-cades-cove-drive",
-              "address": null,
+              "address": "109 Cades Cove Drive",
               "cityStateZip": "Greenwood, SC 29646",
               "planName": null,
               "price": 285900,
@@ -23045,7 +23045,7 @@
             },
             {
               "id": "south-carolina-old-bailey-towns-353-black-duck-road",
-              "address": null,
+              "address": "353 Black Duck Road",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 291990,
@@ -23062,7 +23062,7 @@
             },
             {
               "id": "south-carolina-old-bailey-towns-357-black-duck-road",
-              "address": null,
+              "address": "357 Black Duck Road",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 314490,
@@ -23195,7 +23195,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-864-sanctum-street",
-              "address": null,
+              "address": "864 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 343880,
@@ -23212,7 +23212,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-848-sanctum-street",
-              "address": null,
+              "address": "848 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 344880,
@@ -23229,7 +23229,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1084-sanctuary-drive",
-              "address": null,
+              "address": "1084 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 389880,
@@ -23246,7 +23246,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-758-sanctum-street",
-              "address": null,
+              "address": "758 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 392880,
@@ -23263,7 +23263,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-772-sanctum-street",
-              "address": null,
+              "address": "772 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 404880,
@@ -23280,7 +23280,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1087-sanctuary-drive",
-              "address": null,
+              "address": "1087 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 409880,
@@ -23297,7 +23297,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-731-sanctum-street",
-              "address": null,
+              "address": "731 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 414880,
@@ -23314,7 +23314,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1090-sanctuary-drive",
-              "address": null,
+              "address": "1090 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 434880,
@@ -23331,7 +23331,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-646-sanctum-street",
-              "address": null,
+              "address": "646 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 341990,
@@ -23348,7 +23348,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-559-sanctum-st",
-              "address": null,
+              "address": "559 Sanctum St",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 350990,
@@ -23365,7 +23365,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-686-sanctum-street",
-              "address": null,
+              "address": "686 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 353990,
@@ -23382,7 +23382,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-579-sanctum-st",
-              "address": null,
+              "address": "579 Sanctum St",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 358490,
@@ -23399,7 +23399,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1156-sanctuary-dr",
-              "address": null,
+              "address": "1156 Sanctuary Dr",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 393790,
@@ -23416,7 +23416,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-677-sanctum-street",
-              "address": null,
+              "address": "677 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 406490,
@@ -23433,7 +23433,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-743-sanctum-street",
-              "address": null,
+              "address": "743 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 407490,
@@ -23450,7 +23450,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-658-sanctum-street",
-              "address": null,
+              "address": "658 Sanctum Street",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 409490,
@@ -23467,7 +23467,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1088-sanctuary-drive",
-              "address": null,
+              "address": "1088 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 409790,
@@ -23484,7 +23484,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1078-sanctuary-drive",
-              "address": null,
+              "address": "1078 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 416140,
@@ -23501,7 +23501,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1115-sanctuary-dr",
-              "address": null,
+              "address": "1115 Sanctuary Dr",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 429990,
@@ -23518,7 +23518,7 @@
             },
             {
               "id": "south-carolina-the-retreat-at-east-argent-1096-sanctuary-drive",
-              "address": null,
+              "address": "1096 Sanctuary Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 450190,
@@ -23983,7 +23983,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-21-planters-court",
-              "address": null,
+              "address": "21 Planters Court",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 424880,
@@ -24000,7 +24000,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-100-planters-court",
-              "address": null,
+              "address": "100 Planters Court",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 434880,
@@ -24017,7 +24017,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-113-harbour-drive",
-              "address": null,
+              "address": "113 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 444880,
@@ -24034,7 +24034,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-64-harbour-drive",
-              "address": null,
+              "address": "64 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 385465,
@@ -24051,7 +24051,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-59-harbour-drive",
-              "address": null,
+              "address": "59 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 404440,
@@ -24068,7 +24068,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-73-harbour-drive",
-              "address": null,
+              "address": "73 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 404480,
@@ -24085,7 +24085,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-96-harbour-drive",
-              "address": null,
+              "address": "96 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 410265,
@@ -24102,7 +24102,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-101-planters-court",
-              "address": null,
+              "address": "101 Planters Court",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 417190,
@@ -24119,7 +24119,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-95-harbour-drive",
-              "address": null,
+              "address": "95 Harbour Drive",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 458180,
@@ -24136,7 +24136,7 @@
             },
             {
               "id": "south-carolina-cypress-landing-57-planters-row",
-              "address": null,
+              "address": "57 Planters Row",
               "cityStateZip": "Hardeeville, SC 29927",
               "planName": null,
               "price": 458990,
@@ -24269,7 +24269,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-39-pollen-drive",
-              "address": null,
+              "address": "39 Pollen Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 339880,
@@ -24286,7 +24286,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-87-pollen-drive",
-              "address": null,
+              "address": "87 Pollen Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 299990,
@@ -24303,7 +24303,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-14-veil-drive",
-              "address": null,
+              "address": "14 Veil Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 303990,
@@ -24320,7 +24320,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-41-veil-dr",
-              "address": null,
+              "address": "41 Veil Dr",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 314490,
@@ -24337,7 +24337,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-79-pollen-drive",
-              "address": null,
+              "address": "79 Pollen Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 317490,
@@ -24354,7 +24354,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-84-pollen-drive",
-              "address": null,
+              "address": "84 Pollen Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 320490,
@@ -24371,7 +24371,7 @@
             },
             {
               "id": "south-carolina-the-groves-at-bees-creek-112-pollen-drive",
-              "address": null,
+              "address": "112 Pollen Drive",
               "cityStateZip": "Ridgeland, SC 29936",
               "planName": null,
               "price": 373490,
@@ -24614,7 +24614,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-7036-cinnamon-drive",
-              "address": null,
+              "address": "7036 Cinnamon Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 499990,
@@ -24631,7 +24631,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-7045-cinnamon-drive",
-              "address": null,
+              "address": "7045 Cinnamon Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 478290,
@@ -24648,7 +24648,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-1036-bear-bone-drive",
-              "address": null,
+              "address": "1036 Bear Bone Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 415710,
@@ -24665,7 +24665,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-1043-bear-bone-drive",
-              "address": null,
+              "address": "1043 Bear Bone Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 356840,
@@ -24682,7 +24682,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-5012-red-bear-court",
-              "address": null,
+              "address": "5012 Red Bear Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 529990,
@@ -24699,7 +24699,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-6008-kermode-drive",
-              "address": null,
+              "address": "6008 Kermode Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 387940,
@@ -24716,7 +24716,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-6009-kermode-drive",
-              "address": null,
+              "address": "6009 Kermode Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 391040,
@@ -24733,7 +24733,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-6016-kermode-drive",
-              "address": null,
+              "address": "6016 Kermode Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 349990,
@@ -24750,7 +24750,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-6024-kermode-drive",
-              "address": null,
+              "address": "6024 Kermode Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 386940,
@@ -24767,7 +24767,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-6032-kermode-drive",
-              "address": null,
+              "address": "6032 Kermode Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 357090,
@@ -24784,7 +24784,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-604-asiatic-court",
-              "address": null,
+              "address": "604 Asiatic Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 468525,
@@ -24801,7 +24801,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-605-asiatic-court",
-              "address": null,
+              "address": "605 Asiatic Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 472990,
@@ -24818,7 +24818,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-613-asiatic-court",
-              "address": null,
+              "address": "613 Asiatic Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 467990,
@@ -24835,7 +24835,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-7023-cinnamon-drive",
-              "address": null,
+              "address": "7023 Cinnamon Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 517990,
@@ -24852,7 +24852,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-7028-cinnamon-drive",
-              "address": null,
+              "address": "7028 Cinnamon Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 453990,
@@ -24869,7 +24869,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8004-panda-bear-way",
-              "address": null,
+              "address": "8004 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 331040,
@@ -24886,7 +24886,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8024-panda-bear-way",
-              "address": null,
+              "address": "8024 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 349990,
@@ -24903,7 +24903,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8028-panda-bear-way",
-              "address": null,
+              "address": "8028 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 385040,
@@ -24920,7 +24920,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8044-panda-bear-way",
-              "address": null,
+              "address": "8044 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 349090,
@@ -24937,7 +24937,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8053-panda-bear-way",
-              "address": null,
+              "address": "8053 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 339990,
@@ -24954,7 +24954,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-8061-panda-bear-way",
-              "address": null,
+              "address": "8061 Panda Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 369390,
@@ -24971,7 +24971,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-9053-polar-bear-way",
-              "address": null,
+              "address": "9053 Polar Bear Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 562313,
@@ -24988,7 +24988,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-919-hibernation-way",
-              "address": null,
+              "address": "919 Hibernation Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 507990,
@@ -25005,7 +25005,7 @@
             },
             {
               "id": "south-carolina-auberon-woods-935-hibernation-way",
-              "address": null,
+              "address": "935 Hibernation Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 530660,
@@ -25546,7 +25546,7 @@
             },
             {
               "id": "south-carolina-eden-springs-395-hadley-springs-avenue",
-              "address": null,
+              "address": "395 Hadley Springs Avenue",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 346090,
@@ -25563,7 +25563,7 @@
             },
             {
               "id": "south-carolina-eden-springs-624-layla-way",
-              "address": null,
+              "address": "624 Layla Way",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 367140,
@@ -25580,7 +25580,7 @@
             },
             {
               "id": "south-carolina-eden-springs-751-hadara-drive",
-              "address": null,
+              "address": "751 Hadara Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 439990,
@@ -25597,7 +25597,7 @@
             },
             {
               "id": "south-carolina-eden-springs-293-hadley-springs-avenue",
-              "address": null,
+              "address": "293 Hadley Springs Avenue",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 514310,
@@ -25614,7 +25614,7 @@
             },
             {
               "id": "south-carolina-eden-springs-301-hadley-springs-avenue",
-              "address": null,
+              "address": "301 Hadley Springs Avenue",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 462945,
@@ -25631,7 +25631,7 @@
             },
             {
               "id": "south-carolina-eden-springs-355-hadley-springs-avenue",
-              "address": null,
+              "address": "355 Hadley Springs Avenue",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 423540,
@@ -25648,7 +25648,7 @@
             },
             {
               "id": "south-carolina-eden-springs-420-hadley-springs-avenue",
-              "address": null,
+              "address": "420 Hadley Springs Avenue",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 374465,
@@ -25665,7 +25665,7 @@
             },
             {
               "id": "south-carolina-eden-springs-739-hadara-drive",
-              "address": null,
+              "address": "739 Hadara Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 471455,
@@ -25682,7 +25682,7 @@
             },
             {
               "id": "south-carolina-eden-springs-909-ireland-drive",
-              "address": null,
+              "address": "909 Ireland Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 511330,
@@ -25699,7 +25699,7 @@
             },
             {
               "id": "south-carolina-eden-springs-956-ireland-drive",
-              "address": null,
+              "address": "956 Ireland Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 400780,
@@ -25716,7 +25716,7 @@
             },
             {
               "id": "south-carolina-eden-springs-966-ireland-drive",
-              "address": null,
+              "address": "966 Ireland Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 465455,
@@ -25733,7 +25733,7 @@
             },
             {
               "id": "south-carolina-eden-springs-970-ireland-drive",
-              "address": null,
+              "address": "970 Ireland Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 455655,
@@ -25750,7 +25750,7 @@
             },
             {
               "id": "south-carolina-eden-springs-978-ireland-drive",
-              "address": null,
+              "address": "978 Ireland Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 471445,
@@ -26070,7 +26070,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-209-bantry-lane",
-              "address": null,
+              "address": "209 Bantry Lane",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 357965,
@@ -26087,7 +26087,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-230-bantry-lane",
-              "address": null,
+              "address": "230 Bantry Lane",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 447805,
@@ -26104,7 +26104,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-284-bantry-lane",
-              "address": null,
+              "address": "284 Bantry Lane",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 361550,
@@ -26121,7 +26121,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-409-port-rush-court",
-              "address": null,
+              "address": "409 Port Rush Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 424150,
@@ -26138,7 +26138,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-601-glens-way",
-              "address": null,
+              "address": "601 Glens Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 388235,
@@ -26155,7 +26155,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-724-doonbeg-court",
-              "address": null,
+              "address": "724 Doonbeg Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 378820,
@@ -26172,7 +26172,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-740-doonbeg-court",
-              "address": null,
+              "address": "740 Doonbeg Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 342880,
@@ -26189,7 +26189,7 @@
             },
             {
               "id": "south-carolina-shaftsbury-glen-sf-744-doonbeg-court",
-              "address": null,
+              "address": "744 Doonbeg Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 379880,
@@ -26437,7 +26437,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-463-gemstone-boulevard",
-              "address": null,
+              "address": "463 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 238490,
@@ -26454,7 +26454,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-464-gemstone-boulevard",
-              "address": null,
+              "address": "464 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 242490,
@@ -26471,7 +26471,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-467-gemstone-boulevard",
-              "address": null,
+              "address": "467 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 238490,
@@ -26488,7 +26488,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-470-gemstone-boulevard",
-              "address": null,
+              "address": "470 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 242490,
@@ -26505,7 +26505,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-471-gemstone-boulevard",
-              "address": null,
+              "address": "471 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 238490,
@@ -26522,7 +26522,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-475-gemstone-boulevard",
-              "address": null,
+              "address": "475 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 238490,
@@ -26539,7 +26539,7 @@
             },
             {
               "id": "south-carolina-the-townes-at-amber-bluff-479-gemstone-boulevard",
-              "address": null,
+              "address": "479 Gemstone Boulevard",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 242490,
@@ -27142,7 +27142,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-151-grazing-street",
-              "address": null,
+              "address": "151 Grazing Street",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 382990,
@@ -27159,7 +27159,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-160-homestead-way",
-              "address": null,
+              "address": "160 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 341990,
@@ -27176,7 +27176,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-161-homestead-way",
-              "address": null,
+              "address": "161 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 383660,
@@ -27193,7 +27193,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-164-homestead-way",
-              "address": null,
+              "address": "164 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 360990,
@@ -27210,7 +27210,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-168-homestead-way",
-              "address": null,
+              "address": "168 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 411990,
@@ -27227,7 +27227,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-173-homestead-way",
-              "address": null,
+              "address": "173 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 343770,
@@ -27244,7 +27244,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-180-homestead-way",
-              "address": null,
+              "address": "180 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 418990,
@@ -27261,7 +27261,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-184-homestead-way",
-              "address": null,
+              "address": "184 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 350990,
@@ -27278,7 +27278,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-188-homestead-way",
-              "address": null,
+              "address": "188 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 338990,
@@ -27295,7 +27295,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-189-homestead-way",
-              "address": null,
+              "address": "189 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 384880,
@@ -27312,7 +27312,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-193-homestead-way",
-              "address": null,
+              "address": "193 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 434840,
@@ -27329,7 +27329,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-197-homestead-way",
-              "address": null,
+              "address": "197 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 353990,
@@ -27346,7 +27346,7 @@
             },
             {
               "id": "south-carolina-winfield-farms-200-homestead-way",
-              "address": null,
+              "address": "200 Homestead Way",
               "cityStateZip": "Myrtle Beach, SC 29588",
               "planName": null,
               "price": 356880,
@@ -27662,7 +27662,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-736-grateful-drive",
-              "address": null,
+              "address": "736 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 338880,
@@ -27679,7 +27679,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-473-blissful-drive",
-              "address": null,
+              "address": "473 Blissful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 351790,
@@ -27696,7 +27696,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-505-blissful-drive",
-              "address": null,
+              "address": "505 Blissful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 336040,
@@ -27713,7 +27713,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-660-grateful-drive",
-              "address": null,
+              "address": "660 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 346940,
@@ -27730,7 +27730,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-677-grateful-drive",
-              "address": null,
+              "address": "677 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 330540,
@@ -27747,7 +27747,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-681-grateful-drive",
-              "address": null,
+              "address": "681 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 322880,
@@ -27764,7 +27764,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-685-grateful-drive",
-              "address": null,
+              "address": "685 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 353305,
@@ -27781,7 +27781,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-705-grateful-drive",
-              "address": null,
+              "address": "705 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 342990,
@@ -27798,7 +27798,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-715-grateful-drive",
-              "address": null,
+              "address": "715 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 322880,
@@ -27815,7 +27815,7 @@
             },
             {
               "id": "south-carolina-sandridge-park-722-grateful-drive",
-              "address": null,
+              "address": "722 Grateful Drive",
               "cityStateZip": "Little River, SC 29566",
               "planName": null,
               "price": 341990,
@@ -28016,7 +28016,7 @@
             },
             {
               "id": "south-carolina-elmhurst-place-4421-rockwood-drive",
-              "address": null,
+              "address": "4421 Rockwood Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 326790,
@@ -28033,7 +28033,7 @@
             },
             {
               "id": "south-carolina-elmhurst-place-4501-rockwood-drive",
-              "address": null,
+              "address": "4501 Rockwood Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 362990,
@@ -28200,7 +28200,7 @@
             },
             {
               "id": "south-carolina-hemingway-landing-1333-parkside-court",
-              "address": null,
+              "address": "1333 Parkside Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 264770,
@@ -28217,7 +28217,7 @@
             },
             {
               "id": "south-carolina-hemingway-landing-1336-parkside-court",
-              "address": null,
+              "address": "1336 Parkside Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 314880,
@@ -28234,7 +28234,7 @@
             },
             {
               "id": "south-carolina-hemingway-landing-1337-parkside-court",
-              "address": null,
+              "address": "1337 Parkside Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 307880,
@@ -28251,7 +28251,7 @@
             },
             {
               "id": "south-carolina-hemingway-landing-1357-parkside-court",
-              "address": null,
+              "address": "1357 Parkside Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 344880,
@@ -28268,7 +28268,7 @@
             },
             {
               "id": "south-carolina-hemingway-landing-1363-starlight-drive",
-              "address": null,
+              "address": "1363 Starlight Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 327880,
@@ -28418,7 +28418,7 @@
             },
             {
               "id": "south-carolina-chapman-village-2109-eloise-lane",
-              "address": null,
+              "address": "2109 Eloise Lane",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 349990,
@@ -28435,7 +28435,7 @@
             },
             {
               "id": "south-carolina-chapman-village-2602-caisa-court",
-              "address": null,
+              "address": "2602 Caisa Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 287040,
@@ -28452,7 +28452,7 @@
             },
             {
               "id": "south-carolina-chapman-village-2603-caisa-court",
-              "address": null,
+              "address": "2603 Caisa Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 275240,
@@ -28469,7 +28469,7 @@
             },
             {
               "id": "south-carolina-chapman-village-2606-caisa-court",
-              "address": null,
+              "address": "2606 Caisa Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 258240,
@@ -28486,7 +28486,7 @@
             },
             {
               "id": "south-carolina-chapman-village-2607-caisa-court",
-              "address": null,
+              "address": "2607 Caisa Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 270240,
@@ -28718,7 +28718,7 @@
             },
             {
               "id": "south-carolina-ravenloft-405-rookroost-circle",
-              "address": null,
+              "address": "405 Rookroost Circle",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 279840,
@@ -28735,7 +28735,7 @@
             },
             {
               "id": "south-carolina-ravenloft-408-rookroost-circle",
-              "address": null,
+              "address": "408 Rookroost Circle",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 283840,
@@ -28752,7 +28752,7 @@
             },
             {
               "id": "south-carolina-ravenloft-412-rookroost-circle",
-              "address": null,
+              "address": "412 Rookroost Circle",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 277000,
@@ -29411,7 +29411,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-109-keithland-drive",
-              "address": null,
+              "address": "109 Keithland Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 399990,
@@ -29428,7 +29428,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-200-squirrel-run-drive",
-              "address": null,
+              "address": "200 Squirrel Run Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 319990,
@@ -29445,7 +29445,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-204-squirrel-run-drive",
-              "address": null,
+              "address": "204 Squirrel Run Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 336880,
@@ -29462,7 +29462,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-212-squirrel-run-drive",
-              "address": null,
+              "address": "212 Squirrel Run Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 299990,
@@ -29479,7 +29479,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-216-squirrel-run-drive",
-              "address": null,
+              "address": "216 Squirrel Run Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 321990,
@@ -29496,7 +29496,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-316-mcgill-drive",
-              "address": null,
+              "address": "316 Mcgill Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 349880,
@@ -29513,7 +29513,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-320-mcgill-drive",
-              "address": null,
+              "address": "320 Mcgill Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 356880,
@@ -29530,7 +29530,7 @@
             },
             {
               "id": "south-carolina-coastal-farms-340-mcgill-drive",
-              "address": null,
+              "address": "340 Mcgill Drive",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 434990,
@@ -29714,7 +29714,7 @@
             },
             {
               "id": "south-carolina-dove-crossing-277-red-buckeye-drive",
-              "address": null,
+              "address": "277 Red Buckeye Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 301990,
@@ -29731,7 +29731,7 @@
             },
             {
               "id": "south-carolina-dove-crossing-293-red-buckeye-drive",
-              "address": null,
+              "address": "293 Red Buckeye Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 357270,
@@ -29748,7 +29748,7 @@
             },
             {
               "id": "south-carolina-dove-crossing-317-black-gum-drive",
-              "address": null,
+              "address": "317 Black Gum Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 296990,
@@ -29765,7 +29765,7 @@
             },
             {
               "id": "south-carolina-dove-crossing-420-green-ash-drive",
-              "address": null,
+              "address": "420 Green Ash Drive",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 292990,
@@ -29949,7 +29949,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-713-silver-cypress-street",
-              "address": null,
+              "address": "713 Silver Cypress Street",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 323440,
@@ -29966,7 +29966,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-280-bald-cypress-way",
-              "address": null,
+              "address": "280 Bald Cypress Way",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 338015,
@@ -29983,7 +29983,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-500-italian-cypress-court",
-              "address": null,
+              "address": "500 Italian Cypress Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 313570,
@@ -30000,7 +30000,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-514-italian-cypress-court",
-              "address": null,
+              "address": "514 Italian Cypress Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 311990,
@@ -30017,7 +30017,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-527-italian-cypress-court",
-              "address": null,
+              "address": "527 Italian Cypress Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 302990,
@@ -30034,7 +30034,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-531-italian-cypress-court",
-              "address": null,
+              "address": "531 Italian Cypress Court",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 327990,
@@ -30051,7 +30051,7 @@
             },
             {
               "id": "south-carolina-preserve-at-cypress-commons-704-silver-cypress-street",
-              "address": null,
+              "address": "704 Silver Cypress Street",
               "cityStateZip": "Conway, SC 29526",
               "planName": null,
               "price": 342475,
@@ -30487,7 +30487,7 @@
             },
             {
               "id": "south-carolina-the-forest-at-black-bear-228-blueberry-fields-court",
-              "address": null,
+              "address": "228 Blueberry Fields Court",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 412925,
@@ -30504,7 +30504,7 @@
             },
             {
               "id": "south-carolina-the-forest-at-black-bear-348-black-bean-way",
-              "address": null,
+              "address": "348 Black Bean Way",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 238140,
@@ -30521,7 +30521,7 @@
             },
             {
               "id": "south-carolina-the-forest-at-black-bear-631-long-spur-drive",
-              "address": null,
+              "address": "631 Long Spur Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 230140,
@@ -30892,7 +30892,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-616-anthem-court",
-              "address": null,
+              "address": "616 Anthem Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 337990,
@@ -30909,7 +30909,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-624-anthem-court",
-              "address": null,
+              "address": "624 Anthem Court",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 359990,
@@ -30926,7 +30926,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-335-acosta-circle",
-              "address": null,
+              "address": "335 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 315990,
@@ -30943,7 +30943,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-340-acosta-circle",
-              "address": null,
+              "address": "340 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 291490,
@@ -30960,7 +30960,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-341-acosta-circle",
-              "address": null,
+              "address": "341 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 327490,
@@ -30977,7 +30977,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-350-acosta-circle",
-              "address": null,
+              "address": "350 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 277985,
@@ -30994,7 +30994,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-544-acosta-circle",
-              "address": null,
+              "address": "544 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 281880,
@@ -31011,7 +31011,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-551-acosta-circle",
-              "address": null,
+              "address": "551 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 305880,
@@ -31028,7 +31028,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-563-acosta-circle",
-              "address": null,
+              "address": "563 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 308990,
@@ -31045,7 +31045,7 @@
             },
             {
               "id": "south-carolina-heritage-crossing-564-acosta-circle",
-              "address": null,
+              "address": "564 Acosta Circle",
               "cityStateZip": "Conway, SC 29527",
               "planName": null,
               "price": 284490,
@@ -31246,7 +31246,7 @@
             },
             {
               "id": "south-carolina-evington-place-209-evington-drive",
-              "address": null,
+              "address": "209 Evington Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 348990,
@@ -31263,7 +31263,7 @@
             },
             {
               "id": "south-carolina-evington-place-213-evington-drive",
-              "address": null,
+              "address": "213 Evington Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 298640,
@@ -31280,7 +31280,7 @@
             },
             {
               "id": "south-carolina-evington-place-604-songbird-court",
-              "address": null,
+              "address": "604 Songbird Court",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 300640,
@@ -31297,7 +31297,7 @@
             },
             {
               "id": "south-carolina-evington-place-608-songbird-court",
-              "address": null,
+              "address": "608 Songbird Court",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 303985,
@@ -31314,7 +31314,7 @@
             },
             {
               "id": "south-carolina-evington-place-843-old-pine-drive",
-              "address": null,
+              "address": "843 Old Pine Drive",
               "cityStateZip": "Longs, SC 29568",
               "planName": null,
               "price": 275990,
@@ -31498,7 +31498,7 @@
             },
             {
               "id": "south-carolina-meadow-walk-4032-robin-song-way",
-              "address": null,
+              "address": "4032 Robin Song Way",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 264990,
@@ -31515,7 +31515,7 @@
             },
             {
               "id": "south-carolina-meadow-walk-4035-robin-song-way",
-              "address": null,
+              "address": "4035 Robin Song Way",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 269770,
@@ -31532,7 +31532,7 @@
             },
             {
               "id": "south-carolina-meadow-walk-4064-robin-song-way",
-              "address": null,
+              "address": "4064 Robin Song Way",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 272880,
@@ -31549,7 +31549,7 @@
             },
             {
               "id": "south-carolina-meadow-walk-4067-robin-song-way",
-              "address": null,
+              "address": "4067 Robin Song Way",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 268770,
@@ -31566,7 +31566,7 @@
             },
             {
               "id": "south-carolina-meadow-walk-4080-robin-song-way",
-              "address": null,
+              "address": "4080 Robin Song Way",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 259770,
@@ -31733,7 +31733,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-968-farmers-passage-loop",
-              "address": null,
+              "address": "968 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 249880,
@@ -31750,7 +31750,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-821-farmers-passage-loop",
-              "address": null,
+              "address": "821 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 349990,
@@ -31767,7 +31767,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-826-farmers-passage-loop",
-              "address": null,
+              "address": "826 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 284880,
@@ -31784,7 +31784,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-842-farmers-passage-loop",
-              "address": null,
+              "address": "842 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 264880,
@@ -31801,7 +31801,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-910-farmers-passage-loop",
-              "address": null,
+              "address": "910 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 349990,
@@ -31818,7 +31818,7 @@
             },
             {
               "id": "south-carolina-sutton-farm-958-farmers-passage-loop",
-              "address": null,
+              "address": "958 Farmers Passage Loop",
               "cityStateZip": "Loris, SC 29569",
               "planName": null,
               "price": 262880,
@@ -32002,7 +32002,7 @@
             },
             {
               "id": "south-carolina-jordanville-farms-606-strawberry-field-way",
-              "address": null,
+              "address": "606 Strawberry Field Way",
               "cityStateZip": "Galivants Ferry, SC 29544",
               "planName": null,
               "price": 349570,
@@ -32019,7 +32019,7 @@
             },
             {
               "id": "south-carolina-jordanville-farms-622-strawberry-field-way",
-              "address": null,
+              "address": "622 Strawberry Field Way",
               "cityStateZip": "Galivants Ferry, SC 29544",
               "planName": null,
               "price": 305190,
@@ -32036,7 +32036,7 @@
             },
             {
               "id": "south-carolina-jordanville-farms-645-strawberry-field-way",
-              "address": null,
+              "address": "645 Strawberry Field Way",
               "cityStateZip": "Galivants Ferry, SC 29544",
               "planName": null,
               "price": 343270,
@@ -32053,7 +32053,7 @@
             },
             {
               "id": "south-carolina-jordanville-farms-649-strawberry-field-way",
-              "address": null,
+              "address": "649 Strawberry Field Way",
               "cityStateZip": "Galivants Ferry, SC 29544",
               "planName": null,
               "price": 290235,
@@ -32070,7 +32070,7 @@
             },
             {
               "id": "south-carolina-jordanville-farms-653-strawberry-field-way",
-              "address": null,
+              "address": "653 Strawberry Field Way",
               "cityStateZip": "Galivants Ferry, SC 29544",
               "planName": null,
               "price": 270990,
@@ -32152,7 +32152,7 @@
           "availableHomes": [
             {
               "id": "south-carolina-shoreline-two-1992-petigru-drive",
-              "address": null,
+              "address": "1992 Petigru Drive",
               "cityStateZip": "Litchfield, SC 29585",
               "planName": null,
               "price": 731330,
@@ -32169,7 +32169,7 @@
             },
             {
               "id": "south-carolina-shoreline-two-2008-petigru-drive",
-              "address": null,
+              "address": "2008 Petigru Drive",
               "cityStateZip": "Litchfield, SC 29585",
               "planName": null,
               "price": 697570,
@@ -32457,7 +32457,7 @@
             },
             {
               "id": "south-carolina-stanton-1340-lily-drive",
-              "address": null,
+              "address": "1340 Lily Drive",
               "cityStateZip": "Richburg, SC 29729",
               "planName": null,
               "price": 323290,
@@ -32474,7 +32474,7 @@
             },
             {
               "id": "south-carolina-stanton-1336-lily-drive",
-              "address": null,
+              "address": "1336 Lily Drive",
               "cityStateZip": "Richburg, SC 29729",
               "planName": null,
               "price": 289000,
@@ -32491,7 +32491,7 @@
             },
             {
               "id": "south-carolina-stanton-1265-lavender-drive",
-              "address": null,
+              "address": "1265 Lavender Drive",
               "cityStateZip": "Richburg, SC 29729",
               "planName": null,
               "price": 314790,
@@ -32927,7 +32927,7 @@
             },
             {
               "id": "south-carolina-granite-falls-4196-granite-falls-avenue",
-              "address": null,
+              "address": "4196 Granite Falls Avenue",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 388740,
@@ -32944,7 +32944,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2101-moorside-court",
-              "address": null,
+              "address": "2101 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 389000,
@@ -32961,7 +32961,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2109-moorside-court",
-              "address": null,
+              "address": "2109 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 389000,
@@ -32978,7 +32978,7 @@
             },
             {
               "id": "south-carolina-granite-falls-4127-granite-falls-avenue",
-              "address": null,
+              "address": "4127 Granite Falls Avenue",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 399000,
@@ -32995,7 +32995,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2049-moorside-court",
-              "address": null,
+              "address": "2049 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 401740,
@@ -33012,7 +33012,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2027-moorside-court",
-              "address": null,
+              "address": "2027 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 425000,
@@ -33029,7 +33029,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2005-moorside-court",
-              "address": null,
+              "address": "2005 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 429000,
@@ -33046,7 +33046,7 @@
             },
             {
               "id": "south-carolina-granite-falls-4135-granite-falls-avenue",
-              "address": null,
+              "address": "4135 Granite Falls Avenue",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 429000,
@@ -33063,7 +33063,7 @@
             },
             {
               "id": "south-carolina-granite-falls-4139-granite-falls-avenue",
-              "address": null,
+              "address": "4139 Granite Falls Avenue",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 435000,
@@ -33080,7 +33080,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2023-moorside-court",
-              "address": null,
+              "address": "2023 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 466590,
@@ -33097,7 +33097,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2015-moorside-court",
-              "address": null,
+              "address": "2015 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 470590,
@@ -33114,7 +33114,7 @@
             },
             {
               "id": "south-carolina-granite-falls-4200-granite-falls-avenue",
-              "address": null,
+              "address": "4200 Granite Falls Avenue",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 349000,
@@ -33131,7 +33131,7 @@
             },
             {
               "id": "south-carolina-granite-falls-2009-moorside-court",
-              "address": null,
+              "address": "2009 Moorside Court",
               "cityStateZip": "Lancaster, SC 29720",
               "planName": null,
               "price": 456690,
@@ -33315,7 +33315,7 @@
             },
             {
               "id": "south-carolina-westport-3256-oberon-street",
-              "address": null,
+              "address": "3256 Oberon Street",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 417340,
@@ -33332,7 +33332,7 @@
             },
             {
               "id": "south-carolina-westport-524-mahogany-road",
-              "address": null,
+              "address": "524 Mahogany Road",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 440000,
@@ -33349,7 +33349,7 @@
             },
             {
               "id": "south-carolina-westport-3253-oberon-street",
-              "address": null,
+              "address": "3253 Oberon Street",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 445000,
@@ -33366,7 +33366,7 @@
             },
             {
               "id": "south-carolina-westport-507-mahogany-road",
-              "address": null,
+              "address": "507 Mahogany Road",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 449000,
@@ -33383,7 +33383,7 @@
             },
             {
               "id": "south-carolina-westport-6020-shady-terrace-lane",
-              "address": null,
+              "address": "6020 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 489000,
@@ -33400,7 +33400,7 @@
             },
             {
               "id": "south-carolina-westport-3013-brandywine-way",
-              "address": null,
+              "address": "3013 Brandywine Way",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 499020,
@@ -33417,7 +33417,7 @@
             },
             {
               "id": "south-carolina-westport-506-mahogany-road",
-              "address": null,
+              "address": "506 Mahogany Road",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 509284,
@@ -33434,7 +33434,7 @@
             },
             {
               "id": "south-carolina-westport-6038-shady-terrace-lane",
-              "address": null,
+              "address": "6038 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 525000,
@@ -33451,7 +33451,7 @@
             },
             {
               "id": "south-carolina-westport-7051-wishing-well-way",
-              "address": null,
+              "address": "7051 Wishing Well Way",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 537995,
@@ -33468,7 +33468,7 @@
             },
             {
               "id": "south-carolina-westport-7050-wishing-well-way",
-              "address": null,
+              "address": "7050 Wishing Well Way",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 549000,
@@ -33485,7 +33485,7 @@
             },
             {
               "id": "south-carolina-westport-6021-shady-terrace-lane",
-              "address": null,
+              "address": "6021 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 559000,
@@ -33502,7 +33502,7 @@
             },
             {
               "id": "south-carolina-westport-6014-shady-terrace-lane",
-              "address": null,
+              "address": "6014 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 499000,
@@ -33519,7 +33519,7 @@
             },
             {
               "id": "south-carolina-westport-6024-shady-terrace-lane",
-              "address": null,
+              "address": "6024 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 543155,
@@ -33536,7 +33536,7 @@
             },
             {
               "id": "south-carolina-westport-7034-wishing-well-way",
-              "address": null,
+              "address": "7034 Wishing Well Way",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 546535,
@@ -33553,7 +33553,7 @@
             },
             {
               "id": "south-carolina-westport-6015-shady-terrace-lane",
-              "address": null,
+              "address": "6015 Shady Terrace Lane",
               "cityStateZip": "York, SC 29745",
               "planName": null,
               "price": 559355,

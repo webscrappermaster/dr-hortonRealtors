@@ -144,7 +144,7 @@
             },
             {
               "id": "oklahoma-the-enclave-10312-red-thistle-dr",
-              "address": null,
+              "address": "10312 Red Thistle Dr",
               "cityStateZip": "Oklahoma City, OK 73114",
               "planName": null,
               "price": 268990,
@@ -161,7 +161,7 @@
             },
             {
               "id": "oklahoma-the-enclave-10316-red-thistle-dr",
-              "address": null,
+              "address": "10316 Red Thistle Dr",
               "cityStateZip": "Oklahoma City, OK 73114",
               "planName": null,
               "price": 258990,
@@ -178,7 +178,7 @@
             },
             {
               "id": "oklahoma-the-enclave-10317-red-thistle-dr",
-              "address": null,
+              "address": "10317 Red Thistle Dr",
               "cityStateZip": "Oklahoma City, OK 73114",
               "planName": null,
               "price": 305990,
@@ -195,7 +195,7 @@
             },
             {
               "id": "oklahoma-the-enclave-10325-red-thistle-dr",
-              "address": null,
+              "address": "10325 Red Thistle Dr",
               "cityStateZip": "Oklahoma City, OK 73114",
               "planName": null,
               "price": 255990,
@@ -212,7 +212,7 @@
             },
             {
               "id": "oklahoma-the-enclave-10501-red-thistle-dr",
-              "address": null,
+              "address": "10501 Red Thistle Dr",
               "cityStateZip": "Oklahoma City, OK 73114",
               "planName": null,
               "price": 255000,
@@ -549,7 +549,7 @@
             },
             {
               "id": "oklahoma-buffalo-farms-8704-sw-31st-st",
-              "address": null,
+              "address": "8704 SW 31st St",
               "cityStateZip": "Oklahoma City, OK 73179",
               "planName": null,
               "price": 224990,
@@ -566,7 +566,7 @@
             },
             {
               "id": "oklahoma-buffalo-farms-8709-sw-31st-st",
-              "address": null,
+              "address": "8709 SW 31st St",
               "cityStateZip": "Oklahoma City, OK 73179",
               "planName": null,
               "price": 214990,
@@ -583,7 +583,7 @@
             },
             {
               "id": "oklahoma-buffalo-farms-8712-sw-31st-st",
-              "address": null,
+              "address": "8712 SW 31st St",
               "cityStateZip": "Oklahoma City, OK 73179",
               "planName": null,
               "price": 214990,
@@ -600,7 +600,7 @@
             },
             {
               "id": "oklahoma-buffalo-farms-8713-sw-31st-st",
-              "address": null,
+              "address": "8713 SW 31st St",
               "cityStateZip": "Oklahoma City, OK 73179",
               "planName": null,
               "price": 199990,
@@ -617,7 +617,7 @@
             },
             {
               "id": "oklahoma-buffalo-farms-8716-sw-31st-st",
-              "address": null,
+              "address": "8716 SW 31st St",
               "cityStateZip": "Oklahoma City, OK 73179",
               "planName": null,
               "price": 199990,
@@ -971,7 +971,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8220-nw-59th-street",
-              "address": null,
+              "address": "8220 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 264990,
@@ -988,7 +988,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8300-nw-59th-street",
-              "address": null,
+              "address": "8300 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 292990,
@@ -1005,7 +1005,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8304-nw-59th-street",
-              "address": null,
+              "address": "8304 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 250990,
@@ -1022,7 +1022,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8305-nw-59th-street",
-              "address": null,
+              "address": "8305 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 266990,
@@ -1039,7 +1039,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8313-nw-59th-street",
-              "address": null,
+              "address": "8313 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 295990,
@@ -1056,7 +1056,7 @@
             },
             {
               "id": "oklahoma-the-enclave-at-blackwood-farms-8400-nw-59th-street",
-              "address": null,
+              "address": "8400 NW 59th Street",
               "cityStateZip": "Oklahoma City, OK 73132",
               "planName": null,
               "price": 340990,
@@ -1521,7 +1521,7 @@
             },
             {
               "id": "oklahoma-the-woods-at-wilshire-7709-three-woods-lane",
-              "address": null,
+              "address": "7709 Three Woods Lane",
               "cityStateZip": "Yukon, OK 73099",
               "planName": null,
               "price": 341990,
@@ -1538,7 +1538,7 @@
             },
             {
               "id": "oklahoma-the-woods-at-wilshire-7716-three-woods-lane",
-              "address": null,
+              "address": "7716 Three Woods Lane",
               "cityStateZip": "Yukon, OK 73099",
               "planName": null,
               "price": 279990,
@@ -1555,7 +1555,7 @@
             },
             {
               "id": "oklahoma-the-woods-at-wilshire-7720-three-woods-lane",
-              "address": null,
+              "address": "7720 Three Woods Lane",
               "cityStateZip": "Yukon, OK 73099",
               "planName": null,
               "price": 327990,
@@ -1572,7 +1572,7 @@
             },
             {
               "id": "oklahoma-the-woods-at-wilshire-7721-three-woods-lane",
-              "address": null,
+              "address": "7721 Three Woods Lane",
               "cityStateZip": "Yukon, OK 73099",
               "planName": null,
               "price": 294990,
@@ -1705,7 +1705,7 @@
             },
             {
               "id": "oklahoma-wild-horse-canyon-section-3-1113-e-stetson-ln---window",
-              "address": null,
+              "address": "1113 E Stetson Ln Window",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 269990,
@@ -1906,7 +1906,7 @@
             },
             {
               "id": "oklahoma-fireside-creek-2913-fireside-drive",
-              "address": null,
+              "address": "2913 Fireside Drive",
               "cityStateZip": "Oklahoma City, OK 73099",
               "planName": null,
               "price": 304990,
@@ -2209,7 +2209,7 @@
             },
             {
               "id": "oklahoma-montage-11520-sw-38th-street",
-              "address": null,
+              "address": "11520 SW 38th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 236990,
@@ -2226,7 +2226,7 @@
             },
             {
               "id": "oklahoma-montage-11532-sw-37th-street",
-              "address": null,
+              "address": "11532 SW 37th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 259990,
@@ -2243,7 +2243,7 @@
             },
             {
               "id": "oklahoma-montage-11536-sw-37th-street",
-              "address": null,
+              "address": "11536 SW 37th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 229990,
@@ -2260,7 +2260,7 @@
             },
             {
               "id": "oklahoma-montage-11540-sw-37th-street",
-              "address": null,
+              "address": "11540 SW 37th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 252990,
@@ -2277,7 +2277,7 @@
             },
             {
               "id": "oklahoma-montage-11544-sw-37th-street",
-              "address": null,
+              "address": "11544 SW 37th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 225000,
@@ -2294,7 +2294,7 @@
             },
             {
               "id": "oklahoma-montage-11548-sw-37th-street",
-              "address": null,
+              "address": "11548 SW 37th Street",
               "cityStateZip": "Mustang, OK 73064",
               "planName": null,
               "price": 234990,
@@ -2563,7 +2563,7 @@
             },
             {
               "id": "oklahoma-windstone-4214-dusty-trail",
-              "address": null,
+              "address": "4214 Dusty Trail",
               "cityStateZip": "Norman, OK 73072",
               "planName": null,
               "price": 382990,
@@ -2580,7 +2580,7 @@
             },
             {
               "id": "oklahoma-windstone-4300-dusty-trail",
-              "address": null,
+              "address": "4300 Dusty Trail",
               "cityStateZip": "Norman, OK 73072",
               "planName": null,
               "price": 429000,
@@ -2747,7 +2747,7 @@
             },
             {
               "id": "oklahoma-wyndemere-557-st-charles-place",
-              "address": null,
+              "address": "557 St Charles Place",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 242990,
@@ -2764,7 +2764,7 @@
             },
             {
               "id": "oklahoma-wyndemere-601-st-charles-place",
-              "address": null,
+              "address": "601 St Charles Place",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 242000,
@@ -2781,7 +2781,7 @@
             },
             {
               "id": "oklahoma-wyndemere-800-states-ave",
-              "address": null,
+              "address": "800 States Ave",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 279000,
@@ -2798,7 +2798,7 @@
             },
             {
               "id": "oklahoma-wyndemere-801-states-ave",
-              "address": null,
+              "address": "801 States Ave",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 275000,
@@ -2815,7 +2815,7 @@
             },
             {
               "id": "oklahoma-wyndemere-1403-nw-8th-ter",
-              "address": null,
+              "address": "1403 NW 8th Ter",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 263990,
@@ -2832,7 +2832,7 @@
             },
             {
               "id": "oklahoma-wyndemere-1419-nw-8th-ter",
-              "address": null,
+              "address": "1419 NW 8th Ter",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 296990,
@@ -2849,7 +2849,7 @@
             },
             {
               "id": "oklahoma-wyndemere-608-st-charles-place",
-              "address": null,
+              "address": "608 St Charles Place",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 229990,
@@ -2866,7 +2866,7 @@
             },
             {
               "id": "oklahoma-wyndemere-620-st-charles-place",
-              "address": null,
+              "address": "620 St Charles Place",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 272990,
@@ -2883,7 +2883,7 @@
             },
             {
               "id": "oklahoma-wyndemere-772-states-ave",
-              "address": null,
+              "address": "772 States Ave",
               "cityStateZip": "Newcastle, OK 73065",
               "planName": null,
               "price": 285000,
@@ -3118,7 +3118,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5517-florence-terrace",
-              "address": null,
+              "address": "5517 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 326990,
@@ -3135,7 +3135,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5520-florence-terrace",
-              "address": null,
+              "address": "5520 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 337990,
@@ -3152,7 +3152,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5521-florence-terrace",
-              "address": null,
+              "address": "5521 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 372990,
@@ -3169,7 +3169,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5524-florence-terrace",
-              "address": null,
+              "address": "5524 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 289990,
@@ -3186,7 +3186,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5525-florence-terrace",
-              "address": null,
+              "address": "5525 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 309990,
@@ -3203,7 +3203,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5528-florence-terrace",
-              "address": null,
+              "address": "5528 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 329990,
@@ -3220,7 +3220,7 @@
             },
             {
               "id": "oklahoma-hollow-brook-square-5529-florence-terrace",
-              "address": null,
+              "address": "5529 Florence Terrace",
               "cityStateZip": "Tuttle, OK 73089",
               "planName": null,
               "price": 292990,
@@ -3353,7 +3353,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16149-cherokee-trail",
-              "address": null,
+              "address": "16149 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 290000,
@@ -3370,7 +3370,7 @@
             },
             {
               "id": "oklahoma-rose-rock-11000-nw-161st-terrace",
-              "address": null,
+              "address": "11000 NW 161st Terrace",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 265990,
@@ -3387,7 +3387,7 @@
             },
             {
               "id": "oklahoma-rose-rock-11008-nw-161st-terrace",
-              "address": null,
+              "address": "11008 NW 161st Terrace",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 277990,
@@ -3404,7 +3404,7 @@
             },
             {
               "id": "oklahoma-rose-rock-11012-nw-161st-terrace",
-              "address": null,
+              "address": "11012 NW 161st Terrace",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 260990,
@@ -3421,7 +3421,7 @@
             },
             {
               "id": "oklahoma-rose-rock-11104-nw-161st-terrace",
-              "address": null,
+              "address": "11104 NW 161st Terrace",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 257990,
@@ -3438,7 +3438,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16112-cherokee-trail",
-              "address": null,
+              "address": "16112 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 299990,
@@ -3455,7 +3455,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16116-cherokee-trail",
-              "address": null,
+              "address": "16116 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 282990,
@@ -3472,7 +3472,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16128-red-stone-drive",
-              "address": null,
+              "address": "16128 Red Stone Drive",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 245990,
@@ -3489,7 +3489,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16132-cherokee-trail",
-              "address": null,
+              "address": "16132 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 292790,
@@ -3506,7 +3506,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16136-cherokee-trail",
-              "address": null,
+              "address": "16136 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 269990,
@@ -3523,7 +3523,7 @@
             },
             {
               "id": "oklahoma-rose-rock-16205-cherokee-trail",
-              "address": null,
+              "address": "16205 Cherokee Trail",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 274000,
@@ -3792,7 +3792,7 @@
             },
             {
               "id": "oklahoma-the-brook-14200-still-stream-way",
-              "address": null,
+              "address": "14200 Still Stream Way",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 243990,
@@ -3809,7 +3809,7 @@
             },
             {
               "id": "oklahoma-the-brook-14213-still-stream-way",
-              "address": null,
+              "address": "14213 Still Stream Way",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 238990,
@@ -3826,7 +3826,7 @@
             },
             {
               "id": "oklahoma-the-brook-12516-nw-141st-street",
-              "address": null,
+              "address": "12516 NW 141st Street",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 219990,
@@ -3843,7 +3843,7 @@
             },
             {
               "id": "oklahoma-the-brook-12520-nw-141st-street",
-              "address": null,
+              "address": "12520 NW 141st Street",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 230990,
@@ -3860,7 +3860,7 @@
             },
             {
               "id": "oklahoma-the-brook-12524-nw-141st-street",
-              "address": null,
+              "address": "12524 NW 141st Street",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 219990,
@@ -3877,7 +3877,7 @@
             },
             {
               "id": "oklahoma-the-brook-12528-nw-141st-street",
-              "address": null,
+              "address": "12528 NW 141st Street",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 264990,
@@ -3894,7 +3894,7 @@
             },
             {
               "id": "oklahoma-the-brook-14201-still-stream-way",
-              "address": null,
+              "address": "14201 Still Stream Way",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 244600,
@@ -3911,7 +3911,7 @@
             },
             {
               "id": "oklahoma-the-brook-14209-still-stream-way",
-              "address": null,
+              "address": "14209 Still Stream Way",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 226990,
@@ -4146,7 +4146,7 @@
             },
             {
               "id": "oklahoma-woodland-park-9009-hidden-meadow-dr",
-              "address": null,
+              "address": "9009 Hidden Meadow Dr",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 684000,
@@ -4163,7 +4163,7 @@
             },
             {
               "id": "oklahoma-woodland-park-9017-hidden-meadow-dr",
-              "address": null,
+              "address": "9017 Hidden Meadow Dr",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 651000,
@@ -4180,7 +4180,7 @@
             },
             {
               "id": "oklahoma-woodland-park-3201-almond-ave",
-              "address": null,
+              "address": "3201 Almond Ave",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 705290,
@@ -4197,7 +4197,7 @@
             },
             {
               "id": "oklahoma-woodland-park-3309-sunnywood-cir",
-              "address": null,
+              "address": "3309 Sunnywood Cir",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 587040,
@@ -4214,7 +4214,7 @@
             },
             {
               "id": "oklahoma-woodland-park-8817-hidden-meadow-dr",
-              "address": null,
+              "address": "8817 Hidden Meadow Dr",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 473000,
@@ -4231,7 +4231,7 @@
             },
             {
               "id": "oklahoma-woodland-park-8825-hidden-meadow-dr",
-              "address": null,
+              "address": "8825 Hidden Meadow Dr",
               "cityStateZip": "Edmond, OK 73007",
               "planName": null,
               "price": 465000,
@@ -4398,7 +4398,7 @@
             },
             {
               "id": "oklahoma-autumn-chase-at-town-central-1242-burlywood-lane",
-              "address": null,
+              "address": "1242 Burlywood Lane",
               "cityStateZip": "Piedmont, OK 73078",
               "planName": null,
               "price": 392990,
@@ -4599,7 +4599,7 @@
             },
             {
               "id": "oklahoma-woods-in-noble-4913-kaeden-dr",
-              "address": null,
+              "address": "4913 Kaeden Dr",
               "cityStateZip": "Noble, OK 73068",
               "planName": null,
               "price": 234990,
@@ -4616,7 +4616,7 @@
             },
             {
               "id": "oklahoma-woods-in-noble-4917-kaeden-dr",
-              "address": null,
+              "address": "4917 Kaeden Dr",
               "cityStateZip": "Noble, OK 73068",
               "planName": null,
               "price": 240990,
@@ -4633,7 +4633,7 @@
             },
             {
               "id": "oklahoma-woods-in-noble-4929-kaeden-dr",
-              "address": null,
+              "address": "4929 Kaeden Dr",
               "cityStateZip": "Noble, OK 73068",
               "planName": null,
               "price": 294990,
@@ -4650,7 +4650,7 @@
             },
             {
               "id": "oklahoma-woods-in-noble-5001-kaeden-dr",
-              "address": null,
+              "address": "5001 Kaeden Dr",
               "cityStateZip": "Noble, OK 73068",
               "planName": null,
               "price": 286990,
@@ -4667,7 +4667,7 @@
             },
             {
               "id": "oklahoma-woods-in-noble-5001-maleah-ave",
-              "address": null,
+              "address": "5001 Maleah Ave",
               "cityStateZip": "Noble, OK 73068",
               "planName": null,
               "price": 253990,
@@ -4902,7 +4902,7 @@
             },
             {
               "id": "oklahoma-crimson-lake-estates-2103-malus-way",
-              "address": null,
+              "address": "2103 Malus Way",
               "cityStateZip": "El Reno, OK 73036",
               "planName": null,
               "price": 199990,
@@ -4919,7 +4919,7 @@
             },
             {
               "id": "oklahoma-crimson-lake-estates-2107-malus-way",
-              "address": null,
+              "address": "2107 Malus Way",
               "cityStateZip": "El Reno, OK 73036",
               "planName": null,
               "price": 185990,
@@ -5607,7 +5607,7 @@
             },
             {
               "id": "oklahoma-brook-chase-2022-e-toledo-st",
-              "address": null,
+              "address": "2022 E Toledo St",
               "cityStateZip": "Broken Arrow, OK 74012",
               "planName": null,
               "price": 329900,
@@ -5624,7 +5624,7 @@
             },
             {
               "id": "oklahoma-brook-chase-2102-e-toledo-st",
-              "address": null,
+              "address": "2102 E Toledo St",
               "cityStateZip": "Broken Arrow, OK 74012",
               "planName": null,
               "price": 299900,
@@ -5641,7 +5641,7 @@
             },
             {
               "id": "oklahoma-brook-chase-2201-e-toledo-st",
-              "address": null,
+              "address": "2201 E Toledo St",
               "cityStateZip": "Broken Arrow, OK 74012",
               "planName": null,
               "price": 291540,
@@ -5658,7 +5658,7 @@
             },
             {
               "id": "oklahoma-brook-chase-2021-e-toledo-st",
-              "address": null,
+              "address": "2021 E Toledo St",
               "cityStateZip": "Broken Arrow, OK 74012",
               "planName": null,
               "price": 281900,
@@ -5859,7 +5859,7 @@
             },
             {
               "id": "oklahoma-maybelle-villas-750-w-83rd-st-south",
-              "address": null,
+              "address": "750 W 83rd St South",
               "cityStateZip": "Tulsa, OK 74132",
               "planName": null,
               "price": 609900,
@@ -5876,7 +5876,7 @@
             },
             {
               "id": "oklahoma-maybelle-villas-602-w-83rd-st-south",
-              "address": null,
+              "address": "602 W 83rd St South",
               "cityStateZip": "Tulsa, OK 74132",
               "planName": null,
               "price": 519900,
@@ -5893,7 +5893,7 @@
             },
             {
               "id": "oklahoma-maybelle-villas-8229-s-guthrie-ave-west",
-              "address": null,
+              "address": "8229 S Guthrie Ave West",
               "cityStateZip": "Tulsa, OK 74132",
               "planName": null,
               "price": 589900,
@@ -5910,7 +5910,7 @@
             },
             {
               "id": "oklahoma-maybelle-villas-8303-s-guthrie-ave-west",
-              "address": null,
+              "address": "8303 S Guthrie Ave West",
               "cityStateZip": "Tulsa, OK 74132",
               "planName": null,
               "price": 464400,
@@ -6352,7 +6352,7 @@
           "availableHomes": [
             {
               "id": "oklahoma-the-preserve-16942-s-72nd-e-ave",
-              "address": null,
+              "address": "16942 S 72nd E Ave",
               "cityStateZip": "Bixby, OK 74008",
               "planName": null,
               "price": 304900,
@@ -6369,7 +6369,7 @@
             },
             {
               "id": "oklahoma-the-preserve-7205-e-169th-st-s",
-              "address": null,
+              "address": "7205 E 169th St S",
               "cityStateZip": "Bixby, OK 74008",
               "planName": null,
               "price": 302900,
@@ -6386,7 +6386,7 @@
             },
             {
               "id": "oklahoma-the-preserve-7217-e-169th-st-s",
-              "address": null,
+              "address": "7217 E 169th St S",
               "cityStateZip": "Bixby, OK 74008",
               "planName": null,
               "price": 292900,

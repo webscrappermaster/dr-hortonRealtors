@@ -135,7 +135,7 @@
             },
             {
               "id": "wisconsin-kettle-park-west-500-oak-opening-dr",
-              "address": null,
+              "address": "500 Oak Opening Dr",
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
               "price": 424990,
@@ -152,7 +152,7 @@
             },
             {
               "id": "wisconsin-kettle-park-west-533-boulder-ln",
-              "address": null,
+              "address": "533 Boulder Ln",
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
               "price": 429990,
@@ -169,7 +169,7 @@
             },
             {
               "id": "wisconsin-kettle-park-west-601-boulder-ln",
-              "address": null,
+              "address": "601 Boulder Ln",
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
               "price": 429990,
@@ -374,7 +374,7 @@
             },
             {
               "id": "wisconsin-schaefer-farms-twinhomes-795b-concord-circle",
-              "address": null,
+              "address": "795b Concord Circle",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
               "price": 354990,
@@ -507,7 +507,7 @@
             },
             {
               "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-770a-concord-circle",
-              "address": null,
+              "address": "770a Concord Circle",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
               "price": 449990,
@@ -524,7 +524,7 @@
             },
             {
               "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-770b-concord-circle",
-              "address": null,
+              "address": "770b Concord Circle",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
               "price": 449990,
@@ -541,7 +541,7 @@
             },
             {
               "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-762a-concord-circle",
-              "address": null,
+              "address": "762a Concord Circle",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
               "price": 458990,
@@ -558,7 +558,7 @@
             },
             {
               "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-762b-concord-circle",
-              "address": null,
+              "address": "762b Concord Circle",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
               "price": 459990,
@@ -1038,7 +1038,7 @@
             },
             {
               "id": "wisconsin-pike-river-crossing-twinhomes-5038-yates-drive",
-              "address": null,
+              "address": "5038 Yates Drive",
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
               "price": 349990,
@@ -1188,7 +1188,7 @@
             },
             {
               "id": "wisconsin-pike-river-crossing-7143-oakmont-road",
-              "address": null,
+              "address": "7143 Oakmont Road",
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
               "price": 446990,
@@ -1205,7 +1205,7 @@
             },
             {
               "id": "wisconsin-pike-river-crossing-7151-oakmont-road",
-              "address": null,
+              "address": "7151 Oakmont Road",
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
               "price": 456990,

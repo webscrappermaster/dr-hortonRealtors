@@ -123,7 +123,7 @@
           "availableHomes": [
             {
               "id": "michigan-whispering-pines-village-205-whispering-pines-dr",
-              "address": null,
+              "address": "205 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 321651,
@@ -140,7 +140,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-225-whispering-pines-dr",
-              "address": null,
+              "address": "225 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 339900,
@@ -157,7 +157,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-235-whispering-pines-dr",
-              "address": null,
+              "address": "235 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 344629,
@@ -174,7 +174,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-245-whispering-pines-dr",
-              "address": null,
+              "address": "245 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 339900,
@@ -191,7 +191,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-255-whispering-pines-dr",
-              "address": null,
+              "address": "255 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 339900,
@@ -208,7 +208,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-265-whispering-pines-dr",
-              "address": null,
+              "address": "265 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 349900,
@@ -225,7 +225,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-275-whispering-pines-dr",
-              "address": null,
+              "address": "275 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 349900,
@@ -242,7 +242,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-285-whispering-pines-dr",
-              "address": null,
+              "address": "285 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 349900,
@@ -259,7 +259,7 @@
             },
             {
               "id": "michigan-whispering-pines-village-295-whispering-pines-dr",
-              "address": null,
+              "address": "295 Whispering Pines Dr",
               "cityStateZip": "Fenton, MI 48430",
               "planName": null,
               "price": 349900,
@@ -418,7 +418,7 @@
           "availableHomes": [
             {
               "id": "michigan-goodrich-meadows-0078",
-              "address": null,
+              "address": "0078",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 439900,
@@ -435,7 +435,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-10440-valley-dr",
-              "address": null,
+              "address": "10440 Valley Dr",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 534900,
@@ -452,7 +452,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0075",
-              "address": null,
+              "address": "0075",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 349900,
@@ -469,7 +469,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0034",
-              "address": null,
+              "address": "0034",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 374800,
@@ -486,7 +486,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0074",
-              "address": null,
+              "address": "0074",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 367700,
@@ -503,7 +503,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0033",
-              "address": null,
+              "address": "0033",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 378700,
@@ -520,7 +520,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0035",
-              "address": null,
+              "address": "0035",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 397252,
@@ -537,7 +537,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0064",
-              "address": null,
+              "address": "0064",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 449900,
@@ -554,7 +554,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0020",
-              "address": null,
+              "address": "0020",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 449900,
@@ -571,7 +571,7 @@
             },
             {
               "id": "michigan-goodrich-meadows-0031",
-              "address": null,
+              "address": "0031",
               "cityStateZip": "Goodrich, MI 48438",
               "planName": null,
               "price": 369700,
@@ -683,7 +683,7 @@
           "availableHomes": [
             {
               "id": "michigan-steeplechase-unit-25-medford-hill-drive",
-              "address": null,
+              "address": "Unit 25 Medford Hill Drive",
               "cityStateZip": "Metamora Township, MI 48439",
               "planName": null,
               "price": 624900,
@@ -795,7 +795,7 @@
           "availableHomes": [
             {
               "id": "michigan-devonshire-place-374-devonshire-dr",
-              "address": null,
+              "address": "374 Devonshire Dr",
               "cityStateZip": "Lapeer, MI 48446",
               "planName": null,
               "price": 346401,
@@ -860,7 +860,7 @@
           "availableHomes": [
             {
               "id": "michigan-woodland-meadows-53170-woodland-meadows",
-              "address": null,
+              "address": "53170 Woodland Meadows",
               "cityStateZip": "Chesterfield Township, MI 48047",
               "planName": null,
               "price": 574900,
@@ -877,7 +877,7 @@
             },
             {
               "id": "michigan-woodland-meadows-53182-woodland-meadows",
-              "address": null,
+              "address": "53182 Woodland Meadows",
               "cityStateZip": "Chesterfield Township, MI 48047",
               "planName": null,
               "price": 499900,
@@ -894,7 +894,7 @@
             },
             {
               "id": "michigan-woodland-meadows-53188-woodland-meadows",
-              "address": null,
+              "address": "53188 Woodland Meadows",
               "cityStateZip": "Chesterfield Township, MI 48047",
               "planName": null,
               "price": 474900,
@@ -911,7 +911,7 @@
             },
             {
               "id": "michigan-woodland-meadows-53234-woodland-meadows",
-              "address": null,
+              "address": "53234 Woodland Meadows",
               "cityStateZip": "Chesterfield Township, MI 48047",
               "planName": null,
               "price": 599900,
@@ -928,7 +928,7 @@
             },
             {
               "id": "michigan-woodland-meadows-53249-woodland-meadows",
-              "address": null,
+              "address": "53249 Woodland Meadows",
               "cityStateZip": "Chesterfield Township, MI 48047",
               "planName": null,
               "price": 524900,

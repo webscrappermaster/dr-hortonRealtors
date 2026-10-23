@@ -67,7 +67,7 @@
           "availableHomes": [
             {
               "id": "washington-mallard-meadows-1206-e--eider-ln",
-              "address": null,
+              "address": "1206 E Eider Ln",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 409995,
@@ -84,7 +84,7 @@
             },
             {
               "id": "washington-mallard-meadows-1611-s-goldeneye-st",
-              "address": null,
+              "address": "1611 S Goldeneye St",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 499995,
@@ -101,7 +101,7 @@
             },
             {
               "id": "washington-mallard-meadows-1200-e-cancasback-ln",
-              "address": null,
+              "address": "1200 E Cancasback Ln",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 519995,
@@ -118,7 +118,7 @@
             },
             {
               "id": "washington-mallard-meadows-1207-e--eider-ln",
-              "address": null,
+              "address": "1207 E Eider Ln",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 489995,
@@ -135,7 +135,7 @@
             },
             {
               "id": "washington-mallard-meadows-1507-s-mallard-way",
-              "address": null,
+              "address": "1507 S Mallard Way",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 519995,
@@ -152,7 +152,7 @@
             },
             {
               "id": "washington-mallard-meadows-1608-s-goldeneye-st",
-              "address": null,
+              "address": "1608 S Goldeneye St",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 464995,
@@ -169,7 +169,7 @@
             },
             {
               "id": "washington-mallard-meadows-1807-s-mallard-way",
-              "address": null,
+              "address": "1807 S Mallard Way",
               "cityStateZip": "Ellensburg, WA 98926",
               "planName": null,
               "price": 464995,
@@ -263,7 +263,7 @@
           "availableHomes": [
             {
               "id": "washington-towns-on-12th-1221-tacoma-court-ne",
-              "address": null,
+              "address": "1221 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 619995,
@@ -280,7 +280,7 @@
             },
             {
               "id": "washington-towns-on-12th-1236-tacoma-court-ne",
-              "address": null,
+              "address": "1236 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 649995,
@@ -297,7 +297,7 @@
             },
             {
               "id": "washington-towns-on-12th-1201-tacoma-court-ne",
-              "address": null,
+              "address": "1201 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 714995,
@@ -314,7 +314,7 @@
             },
             {
               "id": "washington-towns-on-12th-1203-tacoma-court-ne",
-              "address": null,
+              "address": "1203 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 704995,
@@ -331,7 +331,7 @@
             },
             {
               "id": "washington-towns-on-12th-1234-tacoma-court-ne",
-              "address": null,
+              "address": "1234 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 624995,
@@ -348,7 +348,7 @@
             },
             {
               "id": "washington-towns-on-12th-1219-tacoma-court-ne",
-              "address": null,
+              "address": "1219 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 647995,
@@ -365,7 +365,7 @@
             },
             {
               "id": "washington-towns-on-12th-1214-tacoma-court-ne",
-              "address": null,
+              "address": "1214 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 704995,
@@ -382,7 +382,7 @@
             },
             {
               "id": "washington-towns-on-12th-1216-tacoma-court-ne",
-              "address": null,
+              "address": "1216 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 699995,
@@ -399,7 +399,7 @@
             },
             {
               "id": "washington-towns-on-12th-1311-tacoma-court-ne",
-              "address": null,
+              "address": "1311 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 599995,
@@ -416,7 +416,7 @@
             },
             {
               "id": "washington-towns-on-12th-1313-tacoma-court-ne",
-              "address": null,
+              "address": "1313 Tacoma Court NE",
               "cityStateZip": "Renton, WA 98056",
               "planName": null,
               "price": 649995,
@@ -515,7 +515,7 @@
           "availableHomes": [
             {
               "id": "washington-parkside-at-may-creek-8320-115th-pl-se",
-              "address": null,
+              "address": "8320 115th Pl SE",
               "cityStateZip": "Newcastle, WA 98056",
               "planName": null,
               "price": 1399995,
@@ -532,7 +532,7 @@
             },
             {
               "id": "washington-parkside-at-may-creek-11411-se-83rd-pl",
-              "address": null,
+              "address": "11411 SE 83rd Pl",
               "cityStateZip": "Newcastle, WA 98056",
               "planName": null,
               "price": 1424995,
@@ -597,7 +597,7 @@
           "availableHomes": [
             {
               "id": "washington-parkland-heights-4904-237th-ct-se",
-              "address": null,
+              "address": "4904 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1599995,
@@ -614,7 +614,7 @@
             },
             {
               "id": "washington-parkland-heights-23735-se-49th-st",
-              "address": null,
+              "address": "23735 SE 49th St",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1649995,
@@ -631,7 +631,7 @@
             },
             {
               "id": "washington-parkland-heights-23712-se-49th-st",
-              "address": null,
+              "address": "23712 SE 49th St",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1749995,
@@ -648,7 +648,7 @@
             },
             {
               "id": "washington-parkland-heights-4998-237th-ct-se",
-              "address": null,
+              "address": "4998 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1899995,
@@ -665,7 +665,7 @@
             },
             {
               "id": "washington-parkland-heights-23699-se-49th-st",
-              "address": null,
+              "address": "23699 SE 49th St",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1774995,
@@ -682,7 +682,7 @@
             },
             {
               "id": "washington-parkland-heights-23700-se-49th-st",
-              "address": null,
+              "address": "23700 SE 49th St",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1709995,
@@ -699,7 +699,7 @@
             },
             {
               "id": "washington-parkland-heights-4912-237th-ct-se",
-              "address": null,
+              "address": "4912 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1684995,
@@ -716,7 +716,7 @@
             },
             {
               "id": "washington-parkland-heights-4963-237th-ct-se",
-              "address": null,
+              "address": "4963 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1729995,
@@ -733,7 +733,7 @@
             },
             {
               "id": "washington-parkland-heights-4971-237th-ct-se",
-              "address": null,
+              "address": "4971 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1804995,
@@ -750,7 +750,7 @@
             },
             {
               "id": "washington-parkland-heights-4994-237th-ct-se",
-              "address": null,
+              "address": "4994 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 2049995,
@@ -767,7 +767,7 @@
             },
             {
               "id": "washington-parkland-heights-4999-237th-ct-se",
-              "address": null,
+              "address": "4999 237th Ct SE",
               "cityStateZip": "Issaquah, WA 98029",
               "planName": null,
               "price": 1914995,
@@ -832,7 +832,7 @@
           "availableHomes": [
             {
               "id": "washington-harrison-court-1165-clearwater-way-se",
-              "address": null,
+              "address": "1165 Clearwater Way SE",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1274995,
@@ -849,7 +849,7 @@
             },
             {
               "id": "washington-harrison-court-1151-clearwater-way-se",
-              "address": null,
+              "address": "1151 Clearwater Way SE",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1324995,
@@ -866,7 +866,7 @@
             },
             {
               "id": "washington-harrison-court-561-se-12th-pl",
-              "address": null,
+              "address": "561 SE 12th Pl",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1499995,
@@ -883,7 +883,7 @@
             },
             {
               "id": "washington-harrison-court-587-se-12th-pl",
-              "address": null,
+              "address": "587 SE 12th Pl",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1429995,
@@ -900,7 +900,7 @@
             },
             {
               "id": "washington-harrison-court-715-se-11th-pl",
-              "address": null,
+              "address": "715 SE 11th Pl",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1349995,
@@ -917,7 +917,7 @@
             },
             {
               "id": "washington-harrison-court-872-se-11th-pl",
-              "address": null,
+              "address": "872 SE 11th Pl",
               "cityStateZip": "North Bend, WA 98045",
               "planName": null,
               "price": 1399995,
@@ -982,7 +982,7 @@
           "availableHomes": [
             {
               "id": "washington-stetson-heights-5829-ivanoff-ln-sw",
-              "address": null,
+              "address": "5829 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 459995,
@@ -999,7 +999,7 @@
             },
             {
               "id": "washington-stetson-heights-5917-addison-rd-sw",
-              "address": null,
+              "address": "5917 Addison Rd SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 549995,
@@ -1016,7 +1016,7 @@
             },
             {
               "id": "washington-stetson-heights-5910-ivanoff-ln-sw",
-              "address": null,
+              "address": "5910 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 574995,
@@ -1033,7 +1033,7 @@
             },
             {
               "id": "washington-stetson-heights-5901-ivanoff-ln-sw",
-              "address": null,
+              "address": "5901 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 599995,
@@ -1050,7 +1050,7 @@
             },
             {
               "id": "washington-stetson-heights-5901-addison-rd-sw",
-              "address": null,
+              "address": "5901 Addison Rd SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 624995,
@@ -1067,7 +1067,7 @@
             },
             {
               "id": "washington-stetson-heights-6100-ivanoff-ln-sw",
-              "address": null,
+              "address": "6100 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 464995,
@@ -1084,7 +1084,7 @@
             },
             {
               "id": "washington-stetson-heights-5881-ivanoff-ln-sw",
-              "address": null,
+              "address": "5881 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 469995,
@@ -1101,7 +1101,7 @@
             },
             {
               "id": "washington-stetson-heights-6079-ivanoff-ln-sw",
-              "address": null,
+              "address": "6079 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 519995,
@@ -1118,7 +1118,7 @@
             },
             {
               "id": "washington-stetson-heights-5909-addison-rd-sw",
-              "address": null,
+              "address": "5909 Addison Rd SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 544995,
@@ -1135,7 +1135,7 @@
             },
             {
               "id": "washington-stetson-heights-5888-ivanoff-ln-sw",
-              "address": null,
+              "address": "5888 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 559995,
@@ -1152,7 +1152,7 @@
             },
             {
               "id": "washington-stetson-heights-5746-ivanoff-ln-sw",
-              "address": null,
+              "address": "5746 Ivanoff Ln SW",
               "cityStateZip": "Port Orchard, WA 98367",
               "planName": null,
               "price": 584995,
@@ -1234,7 +1234,7 @@
           "availableHomes": [
             {
               "id": "washington-rosewood-court-10494-135th-pl-ne",
-              "address": null,
+              "address": "10494 135th Pl NE",
               "cityStateZip": "Kirkland, WA 98033",
               "planName": null,
               "price": 1699995,
@@ -1251,7 +1251,7 @@
             },
             {
               "id": "washington-rosewood-court-10484-135th-pl-ne",
-              "address": null,
+              "address": "10484 135th Pl NE",
               "cityStateZip": "Kirkland, WA 98033",
               "planName": null,
               "price": 1874995,
@@ -1268,7 +1268,7 @@
             },
             {
               "id": "washington-rosewood-court-10534-135th-pl-ne",
-              "address": null,
+              "address": "10534 135th Pl NE",
               "cityStateZip": "Kirkland, WA 98033",
               "planName": null,
               "price": 1899995,
@@ -1333,7 +1333,7 @@
           "availableHomes": [
             {
               "id": "washington-legacy-farms-estates-14470-133rd-pl-ne",
-              "address": null,
+              "address": "14470 133rd Pl NE",
               "cityStateZip": "Woodinville, WA 98072",
               "planName": null,
               "price": 1899995,
@@ -1350,7 +1350,7 @@
             },
             {
               "id": "washington-legacy-farms-estates-14460-133rd-pl-ne",
-              "address": null,
+              "address": "14460 133rd Pl NE",
               "cityStateZip": "Woodinville, WA 98072",
               "planName": null,
               "price": 1999995,
@@ -1462,7 +1462,7 @@
           "availableHomes": [
             {
               "id": "washington-vada-grove-9208-ne-186th-pl",
-              "address": null,
+              "address": "9208 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1449995,
@@ -1479,7 +1479,7 @@
             },
             {
               "id": "washington-vada-grove-9214-ne-186th-pl",
-              "address": null,
+              "address": "9214 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1399995,
@@ -1496,7 +1496,7 @@
             },
             {
               "id": "washington-vada-grove-9230-ne-186th-pl",
-              "address": null,
+              "address": "9230 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1599995,
@@ -1513,7 +1513,7 @@
             },
             {
               "id": "washington-vada-grove-9220-ne-186th-pl",
-              "address": null,
+              "address": "9220 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1499995,
@@ -1530,7 +1530,7 @@
             },
             {
               "id": "washington-vada-grove-9226-ne-186th-pl",
-              "address": null,
+              "address": "9226 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1499995,
@@ -1547,7 +1547,7 @@
             },
             {
               "id": "washington-vada-grove-9236-ne-186th-pl",
-              "address": null,
+              "address": "9236 NE 186th Pl",
               "cityStateZip": "Bothell, WA 98011",
               "planName": null,
               "price": 1659995,
@@ -1612,7 +1612,7 @@
           "availableHomes": [
             {
               "id": "washington-the-alder-16830-20th-ave-w-e3",
-              "address": null,
+              "address": "16830 20th Ave W E3",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 589995,
@@ -1629,7 +1629,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-f7",
-              "address": null,
+              "address": "16830 20th Ave W F7",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 544995,
@@ -1646,7 +1646,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-b3",
-              "address": null,
+              "address": "16830 20th Ave W B3",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 539995,
@@ -1663,7 +1663,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-d7",
-              "address": null,
+              "address": "16830 20th Ave W D7",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 524995,
@@ -1680,7 +1680,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-a9",
-              "address": null,
+              "address": "16830 20th Ave W A9",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 549995,
@@ -1697,7 +1697,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-b5",
-              "address": null,
+              "address": "16830 20th Ave W B5",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 549995,
@@ -1714,7 +1714,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-e6",
-              "address": null,
+              "address": "16830 20th Ave W E6",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 554995,
@@ -1731,7 +1731,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-e7",
-              "address": null,
+              "address": "16830 20th Ave W E7",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 629995,
@@ -1748,7 +1748,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-e8",
-              "address": null,
+              "address": "16830 20th Ave W E8",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 554995,
@@ -1765,7 +1765,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-e9",
-              "address": null,
+              "address": "16830 20th Ave W E9",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 629995,
@@ -1782,7 +1782,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-a3",
-              "address": null,
+              "address": "16830 20th Ave W A3",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 554995,
@@ -1799,7 +1799,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-e5",
-              "address": null,
+              "address": "16830 20th Ave W E5",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 629995,
@@ -1816,7 +1816,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-a7",
-              "address": null,
+              "address": "16830 20th Ave W A7",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 554995,
@@ -1833,7 +1833,7 @@
             },
             {
               "id": "washington-the-alder-16830-20th-ave-w-b6",
-              "address": null,
+              "address": "16830 20th Ave W B6",
               "cityStateZip": "Lynnwood, WA 98037",
               "planName": null,
               "price": 599995,
@@ -1898,7 +1898,7 @@
           "availableHomes": [
             {
               "id": "washington-wisteria-park-16202-manor-way-e01",
-              "address": null,
+              "address": "16202 Manor Way E01",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 699995,
@@ -1915,7 +1915,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-e05",
-              "address": null,
+              "address": "16202 Manor Way E05",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 649995,
@@ -1932,7 +1932,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-d07",
-              "address": null,
+              "address": "16202 Manor Way D07",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 664995,
@@ -1949,7 +1949,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-e10",
-              "address": null,
+              "address": "16202 Manor Way E10",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 669995,
@@ -1966,7 +1966,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-g02",
-              "address": null,
+              "address": "16202 Manor Way G02",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 599995,
@@ -1983,7 +1983,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-e11",
-              "address": null,
+              "address": "16202 Manor Way E11",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 604995,
@@ -2000,7 +2000,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-g01",
-              "address": null,
+              "address": "16202 Manor Way G01",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 754995,
@@ -2017,7 +2017,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-e02",
-              "address": null,
+              "address": "16202 Manor Way E02",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 604995,
@@ -2034,7 +2034,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-e03",
-              "address": null,
+              "address": "16202 Manor Way E03",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 669995,
@@ -2051,7 +2051,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-g07",
-              "address": null,
+              "address": "16202 Manor Way G07",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 599995,
@@ -2068,7 +2068,7 @@
             },
             {
               "id": "washington-wisteria-park-16202-manor-way-g03",
-              "address": null,
+              "address": "16202 Manor Way G03",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 664995,
@@ -2150,7 +2150,7 @@
           "availableHomes": [
             {
               "id": "washington-aspen-woods-15215-35th-ave-w-unit-c3",
-              "address": null,
+              "address": "15215 35th Ave W Unit C3",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 549995,
@@ -2167,7 +2167,7 @@
             },
             {
               "id": "washington-aspen-woods-15215-35th-ave-w-unit-c4",
-              "address": null,
+              "address": "15215 35th Ave W Unit C4",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 549995,
@@ -2184,7 +2184,7 @@
             },
             {
               "id": "washington-aspen-woods-15215-35th-ave-w-unit-a1",
-              "address": null,
+              "address": "15215 35th Ave W Unit A1",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 574995,
@@ -2201,7 +2201,7 @@
             },
             {
               "id": "washington-aspen-woods-15215-35th-ave-w-unit-c5",
-              "address": null,
+              "address": "15215 35th Ave W Unit C5",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 559995,
@@ -2218,7 +2218,7 @@
             },
             {
               "id": "washington-aspen-woods-15215-35th-ave-w-unit-c6",
-              "address": null,
+              "address": "15215 35th Ave W Unit C6",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 559995,
@@ -2283,7 +2283,7 @@
           "availableHomes": [
             {
               "id": "washington-ashton-park-13828-11th-pl-w",
-              "address": null,
+              "address": "13828 11th Pl W",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 899995,
@@ -2300,7 +2300,7 @@
             },
             {
               "id": "washington-ashton-park-13912-11th-pl-w",
-              "address": null,
+              "address": "13912 11th Pl W",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 784995,
@@ -2317,7 +2317,7 @@
             },
             {
               "id": "washington-ashton-park-1122-138th-pl-sw",
-              "address": null,
+              "address": "1122 138th Pl SW",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 774995,
@@ -2334,7 +2334,7 @@
             },
             {
               "id": "washington-ashton-park-13913-11th-pl-w",
-              "address": null,
+              "address": "13913 11th Pl W",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 824995,
@@ -2351,7 +2351,7 @@
             },
             {
               "id": "washington-ashton-park-13901-b-11th-pl-w",
-              "address": null,
+              "address": "13901 B 11th Pl W",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 699995,
@@ -2368,7 +2368,7 @@
             },
             {
               "id": "washington-ashton-park-1126-138th-pl-sw",
-              "address": null,
+              "address": "1126 138th Pl SW",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 809995,
@@ -2385,7 +2385,7 @@
             },
             {
               "id": "washington-ashton-park-1109-138th-pl-sw",
-              "address": null,
+              "address": "1109 138th Pl SW",
               "cityStateZip": "Lynnwood, WA 98087",
               "planName": null,
               "price": 849995,
@@ -3148,7 +3148,7 @@
             },
             {
               "id": "washington-latah-glen-3836-s-walden-st",
-              "address": null,
+              "address": "3836 S Walden St",
               "cityStateZip": "Spokane, WA 99224",
               "planName": null,
               "price": 429995,
@@ -3165,7 +3165,7 @@
             },
             {
               "id": "washington-latah-glen-3848-s-walden-st",
-              "address": null,
+              "address": "3848 S Walden St",
               "cityStateZip": "Spokane, WA 99224",
               "planName": null,
               "price": 449995,
@@ -3315,7 +3315,7 @@
             },
             {
               "id": "washington-meadowlane-greens-311-w-pheasant-bluff-ave",
-              "address": null,
+              "address": "311 W Pheasant Bluff Ave",
               "cityStateZip": "Spokane, WA 99224",
               "planName": null,
               "price": 464995,
@@ -3332,7 +3332,7 @@
             },
             {
               "id": "washington-meadowlane-greens-5784-s-bernard-st",
-              "address": null,
+              "address": "5784 S Bernard St",
               "cityStateZip": "Spokane, WA 99224",
               "planName": null,
               "price": 444995,
@@ -3349,7 +3349,7 @@
             },
             {
               "id": "washington-meadowlane-greens-5831-s-bernard-st",
-              "address": null,
+              "address": "5831 S Bernard St",
               "cityStateZip": "Spokane, WA 99224",
               "planName": null,
               "price": 459995,
@@ -3911,7 +3911,7 @@
             },
             {
               "id": "washington-country-club-estates-619-duffer-loop",
-              "address": null,
+              "address": "619 Duffer Loop",
               "cityStateZip": "Deer Park, WA 99006",
               "planName": null,
               "price": 424995,
@@ -3996,7 +3996,7 @@
           "availableHomes": [
             {
               "id": "washington-bakerview-28202-74th-dr-nw",
-              "address": null,
+              "address": "28202 74th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 599995,
@@ -4013,7 +4013,7 @@
             },
             {
               "id": "washington-bakerview-28004-75th-dr-nw",
-              "address": null,
+              "address": "28004 75th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 629995,
@@ -4030,7 +4030,7 @@
             },
             {
               "id": "washington-bakerview-28010-75th-dr-nw",
-              "address": null,
+              "address": "28010 75th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 674995,
@@ -4047,7 +4047,7 @@
             },
             {
               "id": "washington-bakerview-7408-281st-pl-nw",
-              "address": null,
+              "address": "7408 281st Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 699995,
@@ -4064,7 +4064,7 @@
             },
             {
               "id": "washington-bakerview-28008-75th-dr-nw",
-              "address": null,
+              "address": "28008 75th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 654995,
@@ -4081,7 +4081,7 @@
             },
             {
               "id": "washington-bakerview-28104-75th-dr-nw",
-              "address": null,
+              "address": "28104 75th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 654995,
@@ -4098,7 +4098,7 @@
             },
             {
               "id": "washington-bakerview-28106-75th-dr-nw",
-              "address": null,
+              "address": "28106 75th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 694995,
@@ -4115,7 +4115,7 @@
             },
             {
               "id": "washington-bakerview-7409-281st-st-nw",
-              "address": null,
+              "address": "7409 281st St NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 654995,
@@ -4132,7 +4132,7 @@
             },
             {
               "id": "washington-bakerview-7409-283rd-pl-nw",
-              "address": null,
+              "address": "7409 283rd Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 699995,
@@ -4149,7 +4149,7 @@
             },
             {
               "id": "washington-bakerview-7412-281st-pl-nw",
-              "address": null,
+              "address": "7412 281st Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 639995,
@@ -4166,7 +4166,7 @@
             },
             {
               "id": "washington-bakerview-7413-281st-st-nw",
-              "address": null,
+              "address": "7413 281st St NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 724995,
@@ -4183,7 +4183,7 @@
             },
             {
               "id": "washington-bakerview-7415-281st-st-nw",
-              "address": null,
+              "address": "7415 281st St NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 679995,
@@ -4248,7 +4248,7 @@
           "availableHomes": [
             {
               "id": "washington-meadow-hawk-28815-77th-dr-nw",
-              "address": null,
+              "address": "28815 77th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 584995,
@@ -4265,7 +4265,7 @@
             },
             {
               "id": "washington-meadow-hawk-7806-286th-pl-nw",
-              "address": null,
+              "address": "7806 286th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 649995,
@@ -4282,7 +4282,7 @@
             },
             {
               "id": "washington-meadow-hawk-7808-287th-pl-nw",
-              "address": null,
+              "address": "7808 287th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 669995,
@@ -4299,7 +4299,7 @@
             },
             {
               "id": "washington-meadow-hawk-7815-287th-pl-nw",
-              "address": null,
+              "address": "7815 287th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 699995,
@@ -4316,7 +4316,7 @@
             },
             {
               "id": "washington-meadow-hawk-7825-286th-pl-nw",
-              "address": null,
+              "address": "7825 286th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 699995,
@@ -4333,7 +4333,7 @@
             },
             {
               "id": "washington-meadow-hawk-28611-79th-dr-nw",
-              "address": null,
+              "address": "28611 79th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 629995,
@@ -4350,7 +4350,7 @@
             },
             {
               "id": "washington-meadow-hawk-28811-77th-dr-nw",
-              "address": null,
+              "address": "28811 77th Dr NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 679995,
@@ -4367,7 +4367,7 @@
             },
             {
               "id": "washington-meadow-hawk-7800-287th-pl-nw",
-              "address": null,
+              "address": "7800 287th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 669995,
@@ -4384,7 +4384,7 @@
             },
             {
               "id": "washington-meadow-hawk-7814-286th-pl-nw",
-              "address": null,
+              "address": "7814 286th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 679995,
@@ -4401,7 +4401,7 @@
             },
             {
               "id": "washington-meadow-hawk-7817-286th-pl-nw",
-              "address": null,
+              "address": "7817 286th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 734995,
@@ -4418,7 +4418,7 @@
             },
             {
               "id": "washington-meadow-hawk-7821-286th-pl-nw",
-              "address": null,
+              "address": "7821 286th Pl NW",
               "cityStateZip": "Stanwood, WA 98292",
               "planName": null,
               "price": 689995,
@@ -4557,7 +4557,7 @@
           "availableHomes": [
             {
               "id": "washington-wolf-point-3922-98th-ave-ct-e",
-              "address": null,
+              "address": "3922 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 824995,
@@ -4574,7 +4574,7 @@
             },
             {
               "id": "washington-wolf-point-3935-98th-ave-ct-e",
-              "address": null,
+              "address": "3935 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 849995,
@@ -4591,7 +4591,7 @@
             },
             {
               "id": "washington-wolf-point-4028-98th-ave-ct-e",
-              "address": null,
+              "address": "4028 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 849995,
@@ -4608,7 +4608,7 @@
             },
             {
               "id": "washington-wolf-point-10132-38th-st-ct-e",
-              "address": null,
+              "address": "10132 38th St Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 849995,
@@ -4625,7 +4625,7 @@
             },
             {
               "id": "washington-wolf-point-3929-98th-ave-ct-e",
-              "address": null,
+              "address": "3929 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 949995,
@@ -4642,7 +4642,7 @@
             },
             {
               "id": "washington-wolf-point-10017-38th-st-ct-e",
-              "address": null,
+              "address": "10017 38th St Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 774995,
@@ -4659,7 +4659,7 @@
             },
             {
               "id": "washington-wolf-point-3810-98th-ave-ct-e",
-              "address": null,
+              "address": "3810 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 999995,
@@ -4676,7 +4676,7 @@
             },
             {
               "id": "washington-wolf-point-3928-98th-ave-ct-e",
-              "address": null,
+              "address": "3928 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 874995,
@@ -4693,7 +4693,7 @@
             },
             {
               "id": "washington-wolf-point-3934-98th-ave-ct-e",
-              "address": null,
+              "address": "3934 98th Ave Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 874995,
@@ -4710,7 +4710,7 @@
             },
             {
               "id": "washington-wolf-point-9819-38th-st-ct-e",
-              "address": null,
+              "address": "9819 38th St Ct E",
               "cityStateZip": "Edgewood, WA 98371",
               "planName": null,
               "price": 899995,
@@ -4775,7 +4775,7 @@
           "availableHomes": [
             {
               "id": "washington-walnut-lane-5418-s-328th-st",
-              "address": null,
+              "address": "5418 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 824995,
@@ -4792,7 +4792,7 @@
             },
             {
               "id": "washington-walnut-lane-5417-s-328th-st",
-              "address": null,
+              "address": "5417 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 829995,
@@ -4809,7 +4809,7 @@
             },
             {
               "id": "washington-walnut-lane-5324-s-328th-st",
-              "address": null,
+              "address": "5324 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 839995,
@@ -4826,7 +4826,7 @@
             },
             {
               "id": "washington-walnut-lane-5225-s-328th-st",
-              "address": null,
+              "address": "5225 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 844995,
@@ -4843,7 +4843,7 @@
             },
             {
               "id": "washington-walnut-lane-5328-s-328th-st",
-              "address": null,
+              "address": "5328 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 829995,
@@ -4860,7 +4860,7 @@
             },
             {
               "id": "washington-walnut-lane-5416-s-328th-st",
-              "address": null,
+              "address": "5416 S 328th St",
               "cityStateZip": "Auburn, WA 98001",
               "planName": null,
               "price": 829995,
@@ -5036,7 +5036,7 @@
           "availableHomes": [
             {
               "id": "washington-torrey-farms-5702-147th-st-ct-e",
-              "address": null,
+              "address": "5702 147th St Ct E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 652995,
@@ -5053,7 +5053,7 @@
             },
             {
               "id": "washington-torrey-farms-5719-147th-st-ct-e",
-              "address": null,
+              "address": "5719 147th St Ct E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 699995,
@@ -5070,7 +5070,7 @@
             },
             {
               "id": "washington-torrey-farms-5655-147th-st-ct-e",
-              "address": null,
+              "address": "5655 147th St Ct E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 634995,
@@ -5087,7 +5087,7 @@
             },
             {
               "id": "washington-torrey-farms-5647-147th-st-ct-e",
-              "address": null,
+              "address": "5647 147th St Ct E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 649995,
@@ -5152,7 +5152,7 @@
           "availableHomes": [
             {
               "id": "washington-scarletts-landing-14612-59th-ave-e",
-              "address": null,
+              "address": "14612 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 619995,
@@ -5169,7 +5169,7 @@
             },
             {
               "id": "washington-scarletts-landing-14707-59th-ave-e",
-              "address": null,
+              "address": "14707 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 647995,
@@ -5186,7 +5186,7 @@
             },
             {
               "id": "washington-scarletts-landing-14706-59th-ave-e",
-              "address": null,
+              "address": "14706 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 674995,
@@ -5203,7 +5203,7 @@
             },
             {
               "id": "washington-scarletts-landing-14703-59th-ave-e",
-              "address": null,
+              "address": "14703 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 689995,
@@ -5220,7 +5220,7 @@
             },
             {
               "id": "washington-scarletts-landing-14616-59th-ave-e",
-              "address": null,
+              "address": "14616 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 639995,
@@ -5237,7 +5237,7 @@
             },
             {
               "id": "washington-scarletts-landing-14623-59th-ave-e",
-              "address": null,
+              "address": "14623 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 714995,
@@ -5254,7 +5254,7 @@
             },
             {
               "id": "washington-scarletts-landing-14624-59th-ave-e",
-              "address": null,
+              "address": "14624 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 719995,
@@ -5271,7 +5271,7 @@
             },
             {
               "id": "washington-scarletts-landing-14702-59th-ave-e",
-              "address": null,
+              "address": "14702 59th Ave E",
               "cityStateZip": "Puyallup, WA 98375",
               "planName": null,
               "price": 659995,
@@ -5336,7 +5336,7 @@
           "availableHomes": [
             {
               "id": "washington-presley-hills-708-129th-st-e",
-              "address": null,
+              "address": "708 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 599995,
@@ -5353,7 +5353,7 @@
             },
             {
               "id": "washington-presley-hills-726-129th-st-e",
-              "address": null,
+              "address": "726 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 642995,
@@ -5370,7 +5370,7 @@
             },
             {
               "id": "washington-presley-hills-738-129th-st-e",
-              "address": null,
+              "address": "738 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 682995,
@@ -5387,7 +5387,7 @@
             },
             {
               "id": "washington-presley-hills-707-129th-st-e",
-              "address": null,
+              "address": "707 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 619995,
@@ -5404,7 +5404,7 @@
             },
             {
               "id": "washington-presley-hills-712-129th-st-e",
-              "address": null,
+              "address": "712 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 699995,
@@ -5421,7 +5421,7 @@
             },
             {
               "id": "washington-presley-hills-729-129th-st-ee",
-              "address": null,
+              "address": "729 129th St Ee",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 599995,
@@ -5438,7 +5438,7 @@
             },
             {
               "id": "washington-presley-hills-730-129th-st-e",
-              "address": null,
+              "address": "730 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 699995,
@@ -5455,7 +5455,7 @@
             },
             {
               "id": "washington-presley-hills-734-129th-st-e",
-              "address": null,
+              "address": "734 129th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 674995,
@@ -5520,7 +5520,7 @@
           "availableHomes": [
             {
               "id": "washington-trails-end-at-brookdale-1417-138th-st-e",
-              "address": null,
+              "address": "1417 138th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 664995,
@@ -5537,7 +5537,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1429-138th-st-e",
-              "address": null,
+              "address": "1429 138th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 689995,
@@ -5554,7 +5554,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-13739-14th-ave-ct-e",
-              "address": null,
+              "address": "13739 14th Ave Ct E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 679995,
@@ -5571,7 +5571,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1448-139th-st-e",
-              "address": null,
+              "address": "1448 139th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 699995,
@@ -5588,7 +5588,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-13735-14th-ave-ct-e",
-              "address": null,
+              "address": "13735 14th Ave Ct E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 724995,
@@ -5605,7 +5605,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1416-138th-st-e",
-              "address": null,
+              "address": "1416 138th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 704995,
@@ -5622,7 +5622,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1422-138th-st-e",
-              "address": null,
+              "address": "1422 138th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 724995,
@@ -5639,7 +5639,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1441-139th-st-e",
-              "address": null,
+              "address": "1441 139th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 724995,
@@ -5656,7 +5656,7 @@
             },
             {
               "id": "washington-trails-end-at-brookdale-1442-139th-st-e",
-              "address": null,
+              "address": "1442 139th St E",
               "cityStateZip": "Tacoma, WA 98445",
               "planName": null,
               "price": 709995,
@@ -5785,7 +5785,7 @@
           "availableHomes": [
             {
               "id": "washington-glacier-pointe-20310-161st-st-e",
-              "address": null,
+              "address": "20310 161st St E",
               "cityStateZip": "Bonney Lake, WA 98391",
               "planName": null,
               "price": 609995,
@@ -5802,7 +5802,7 @@
             },
             {
               "id": "washington-glacier-pointe-20305-162nd-st-e",
-              "address": null,
+              "address": "20305 162nd St E",
               "cityStateZip": "Bonney Lake, WA 98391",
               "planName": null,
               "price": 639995,
@@ -5819,7 +5819,7 @@
             },
             {
               "id": "washington-glacier-pointe-16308-205th-ave-ct-e",
-              "address": null,
+              "address": "16308 205th Ave Ct E",
               "cityStateZip": "Bonney Lake, WA 98391",
               "planName": null,
               "price": 514995,
@@ -5836,7 +5836,7 @@
             },
             {
               "id": "washington-glacier-pointe-16301-204th-ave-e",
-              "address": null,
+              "address": "16301 204th Ave E",
               "cityStateZip": "Bonney Lake, WA 98391",
               "planName": null,
               "price": 524995,
@@ -5853,7 +5853,7 @@
             },
             {
               "id": "washington-glacier-pointe-20314-161st-st-e",
-              "address": null,
+              "address": "20314 161st St E",
               "cityStateZip": "Bonney Lake, WA 98391",
               "planName": null,
               "price": 649995,
@@ -5918,7 +5918,7 @@
           "availableHomes": [
             {
               "id": "washington-blueberry-farm-573-wall-st",
-              "address": null,
+              "address": "573 Wall St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 559995,
@@ -5935,7 +5935,7 @@
             },
             {
               "id": "washington-blueberry-farm-569-hann-st",
-              "address": null,
+              "address": "569 Hann St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 619995,
@@ -5952,7 +5952,7 @@
             },
             {
               "id": "washington-blueberry-farm-586-hann-st",
-              "address": null,
+              "address": "586 Hann St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 624995,
@@ -5969,7 +5969,7 @@
             },
             {
               "id": "washington-blueberry-farm-577-hann-st",
-              "address": null,
+              "address": "577 Hann St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 642995,
@@ -5986,7 +5986,7 @@
             },
             {
               "id": "washington-blueberry-farm-1411-lambertus-ave",
-              "address": null,
+              "address": "1411 Lambertus Ave",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 599995,
@@ -6003,7 +6003,7 @@
             },
             {
               "id": "washington-blueberry-farm-570-wall-st",
-              "address": null,
+              "address": "570 Wall St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 649995,
@@ -6020,7 +6020,7 @@
             },
             {
               "id": "washington-blueberry-farm-585-wall-st",
-              "address": null,
+              "address": "585 Wall St",
               "cityStateZip": "Buckley, WA 98321",
               "planName": null,
               "price": 649995,
@@ -6085,7 +6085,7 @@
           "availableHomes": [
             {
               "id": "washington-morel-meadows-8331-ostrom-ave-se",
-              "address": null,
+              "address": "8331 Ostrom Ave SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 459995,
@@ -6102,7 +6102,7 @@
             },
             {
               "id": "washington-morel-meadows-8437-ostrom-ave-se",
-              "address": null,
+              "address": "8437 Ostrom Ave SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 469995,
@@ -6119,7 +6119,7 @@
             },
             {
               "id": "washington-morel-meadows-481-cremini-loop-se",
-              "address": null,
+              "address": "481 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 589995,
@@ -6136,7 +6136,7 @@
             },
             {
               "id": "washington-morel-meadows-265-cremini-ct-se",
-              "address": null,
+              "address": "265 Cremini Ct SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 634995,
@@ -6153,7 +6153,7 @@
             },
             {
               "id": "washington-morel-meadows-269-cremini-loop-se",
-              "address": null,
+              "address": "269 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 609995,
@@ -6170,7 +6170,7 @@
             },
             {
               "id": "washington-morel-meadows-208-cremini-loop-se",
-              "address": null,
+              "address": "208 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 474995,
@@ -6187,7 +6187,7 @@
             },
             {
               "id": "washington-morel-meadows-225-cremini-loop-se",
-              "address": null,
+              "address": "225 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 634995,
@@ -6204,7 +6204,7 @@
             },
             {
               "id": "washington-morel-meadows-477-cremini-loop-se",
-              "address": null,
+              "address": "477 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 684995,
@@ -6221,7 +6221,7 @@
             },
             {
               "id": "washington-morel-meadows-494-cremini-loop-se",
-              "address": null,
+              "address": "494 Cremini Loop SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 469995,
@@ -6238,7 +6238,7 @@
             },
             {
               "id": "washington-morel-meadows-8454-ostrom-ave-se",
-              "address": null,
+              "address": "8454 Ostrom Ave SE",
               "cityStateZip": "Lacey, WA 98513",
               "planName": null,
               "price": 639995,
@@ -6350,7 +6350,7 @@
           "availableHomes": [
             {
               "id": "washington-ventura-crossing-5170-emily-way-ne",
-              "address": null,
+              "address": "5170 Emily Way NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 474995,
@@ -6367,7 +6367,7 @@
             },
             {
               "id": "washington-ventura-crossing-5171-emily-way-ne",
-              "address": null,
+              "address": "5171 Emily Way NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 499995,
@@ -6384,7 +6384,7 @@
             },
             {
               "id": "washington-ventura-crossing-1562-fiona-st-ne",
-              "address": null,
+              "address": "1562 Fiona St NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 566995,
@@ -6401,7 +6401,7 @@
             },
             {
               "id": "washington-ventura-crossing-1642-fiona-st-ne",
-              "address": null,
+              "address": "1642 Fiona St NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 609995,
@@ -6418,7 +6418,7 @@
             },
             {
               "id": "washington-ventura-crossing-5134-emery-ave-ne",
-              "address": null,
+              "address": "5134 Emery Ave NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 589995,
@@ -6435,7 +6435,7 @@
             },
             {
               "id": "washington-ventura-crossing-1556-fiona-st-ne",
-              "address": null,
+              "address": "1556 Fiona St NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 614995,
@@ -6452,7 +6452,7 @@
             },
             {
               "id": "washington-ventura-crossing-1600-fiona-st-ne",
-              "address": null,
+              "address": "1600 Fiona St NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 579995,
@@ -6469,7 +6469,7 @@
             },
             {
               "id": "washington-ventura-crossing-5138-emery-ave-ne",
-              "address": null,
+              "address": "5138 Emery Ave NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 619995,
@@ -6486,7 +6486,7 @@
             },
             {
               "id": "washington-ventura-crossing-5142-emery-ave-ne",
-              "address": null,
+              "address": "5142 Emery Ave NE",
               "cityStateZip": "Lacey, WA 98516",
               "planName": null,
               "price": 589995,
@@ -6551,7 +6551,7 @@
           "availableHomes": [
             {
               "id": "washington-sleater-crossing-4005-hyde-loop-ne",
-              "address": null,
+              "address": "4005 Hyde Loop NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 584995,
@@ -6568,7 +6568,7 @@
             },
             {
               "id": "washington-sleater-crossing-4016-hyde-loop-ne",
-              "address": null,
+              "address": "4016 Hyde Loop NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 607995,
@@ -6585,7 +6585,7 @@
             },
             {
               "id": "washington-sleater-crossing-2230-boxcar-st-ne",
-              "address": null,
+              "address": "2230 Boxcar St NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 619995,
@@ -6602,7 +6602,7 @@
             },
             {
               "id": "washington-sleater-crossing-2425-trailside-dr-ne",
-              "address": null,
+              "address": "2425 Trailside Dr NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 719995,
@@ -6619,7 +6619,7 @@
             },
             {
               "id": "washington-sleater-crossing-2224-boxcar-st-ne",
-              "address": null,
+              "address": "2224 Boxcar St NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 655995,
@@ -6636,7 +6636,7 @@
             },
             {
               "id": "washington-sleater-crossing-4009-hyde-loop-ne",
-              "address": null,
+              "address": "4009 Hyde Loop NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 579995,
@@ -6653,7 +6653,7 @@
             },
             {
               "id": "washington-sleater-crossing-4011-hyde-loop-ne",
-              "address": null,
+              "address": "4011 Hyde Loop NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 630995,
@@ -6670,7 +6670,7 @@
             },
             {
               "id": "washington-sleater-crossing-4015-hyde-loop-ne",
-              "address": null,
+              "address": "4015 Hyde Loop NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 599995,
@@ -6687,7 +6687,7 @@
             },
             {
               "id": "washington-sleater-crossing-4046-23rd-ave-ne",
-              "address": null,
+              "address": "4046 23rd Ave NE",
               "cityStateZip": "Olympia, WA 98506",
               "planName": null,
               "price": 709995,
@@ -6936,7 +6936,7 @@
             },
             {
               "id": "washington-sterling-ranch-2708-nw-3rd-ave",
-              "address": null,
+              "address": "2708 NW 3rd Ave",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 559995,
@@ -6953,7 +6953,7 @@
             },
             {
               "id": "washington-sterling-ranch-2806-nw-3rd-ave",
-              "address": null,
+              "address": "2806 NW 3rd Ave",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 569995,
@@ -6970,7 +6970,7 @@
             },
             {
               "id": "washington-sterling-ranch-173-nw-29th-way",
-              "address": null,
+              "address": "173 NW 29th Way",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 545995,
@@ -6987,7 +6987,7 @@
             },
             {
               "id": "washington-sterling-ranch-234-nw-28th-st",
-              "address": null,
+              "address": "234 NW 28th St",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 567995,
@@ -7004,7 +7004,7 @@
             },
             {
               "id": "washington-sterling-ranch-361-nw-30th-st",
-              "address": null,
+              "address": "361 NW 30th St",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 592995,
@@ -7021,7 +7021,7 @@
             },
             {
               "id": "washington-sterling-ranch-369-nw-30th-st",
-              "address": null,
+              "address": "369 NW 30th St",
               "cityStateZip": "Battle Ground, WA 98604",
               "planName": null,
               "price": 567995,
@@ -7235,7 +7235,7 @@
             },
             {
               "id": "washington-kunze-farms-6319-ne-51st-loop",
-              "address": null,
+              "address": "6319 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 449995,
@@ -7252,7 +7252,7 @@
             },
             {
               "id": "washington-kunze-farms-6323-ne-51st-loop",
-              "address": null,
+              "address": "6323 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 469995,
@@ -7269,7 +7269,7 @@
             },
             {
               "id": "washington-kunze-farms-6413-ne-51st-loop",
-              "address": null,
+              "address": "6413 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 499995,
@@ -7286,7 +7286,7 @@
             },
             {
               "id": "washington-kunze-farms-4915-ne-57th-court",
-              "address": null,
+              "address": "4915 NE 57th Court",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 539995,
@@ -7303,7 +7303,7 @@
             },
             {
               "id": "washington-kunze-farms-4919-ne-57th-court",
-              "address": null,
+              "address": "4919 NE 57th Court",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 559995,
@@ -7320,7 +7320,7 @@
             },
             {
               "id": "washington-kunze-farms-4923-ne-57th-court",
-              "address": null,
+              "address": "4923 NE 57th Court",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 551995,
@@ -7337,7 +7337,7 @@
             },
             {
               "id": "washington-kunze-farms-4924-ne-57th-court",
-              "address": null,
+              "address": "4924 NE 57th Court",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 554995,
@@ -7354,7 +7354,7 @@
             },
             {
               "id": "washington-kunze-farms-4927-ne-57th-court",
-              "address": null,
+              "address": "4927 NE 57th Court",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 546995,
@@ -7371,7 +7371,7 @@
             },
             {
               "id": "washington-kunze-farms-6315-ne-51st-loop",
-              "address": null,
+              "address": "6315 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 524995,
@@ -7388,7 +7388,7 @@
             },
             {
               "id": "washington-kunze-farms-6401-ne-51st-loop",
-              "address": null,
+              "address": "6401 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 499995,
@@ -7405,7 +7405,7 @@
             },
             {
               "id": "washington-kunze-farms-6405-ne-51st-loop",
-              "address": null,
+              "address": "6405 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 527995,
@@ -7422,7 +7422,7 @@
             },
             {
               "id": "washington-kunze-farms-6409-ne-51st-loop",
-              "address": null,
+              "address": "6409 NE 51st Loop",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 524995,
@@ -7555,7 +7555,7 @@
             },
             {
               "id": "washington-kunze-farms-townhomes-6243-ne-51st-street",
-              "address": null,
+              "address": "6243 NE 51st Street",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 414995,
@@ -7572,7 +7572,7 @@
             },
             {
               "id": "washington-kunze-farms-townhomes-6223-ne-51st-street",
-              "address": null,
+              "address": "6223 NE 51st Street",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 409995,
@@ -7589,7 +7589,7 @@
             },
             {
               "id": "washington-kunze-farms-townhomes-6227-ne-51st-street",
-              "address": null,
+              "address": "6227 NE 51st Street",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 379995,
@@ -7606,7 +7606,7 @@
             },
             {
               "id": "washington-kunze-farms-townhomes-6235-ne-51st-street",
-              "address": null,
+              "address": "6235 NE 51st Street",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 434995,
@@ -7623,7 +7623,7 @@
             },
             {
               "id": "washington-kunze-farms-townhomes-6239-ne-51st-street",
-              "address": null,
+              "address": "6239 NE 51st Street",
               "cityStateZip": "Vancouver, WA 98661",
               "planName": null,
               "price": 409995,
@@ -7920,7 +7920,7 @@
             },
             {
               "id": "washington-oakpointe-crossing-11202-se-20th-circle",
-              "address": null,
+              "address": "11202 SE 20th Circle",
               "cityStateZip": "Vancouver, WA 98664",
               "planName": null,
               "price": 449995,
@@ -7937,7 +7937,7 @@
             },
             {
               "id": "washington-oakpointe-crossing-11205-se-20th-circle",
-              "address": null,
+              "address": "11205 SE 20th Circle",
               "cityStateZip": "Vancouver, WA 98664",
               "planName": null,
               "price": 454995,
@@ -7954,7 +7954,7 @@
             },
             {
               "id": "washington-oakpointe-crossing-11206-se-20th-circle",
-              "address": null,
+              "address": "11206 SE 20th Circle",
               "cityStateZip": "Vancouver, WA 98664",
               "planName": null,
               "price": 449995,
@@ -7971,7 +7971,7 @@
             },
             {
               "id": "washington-oakpointe-crossing-11207-se-20th-circle",
-              "address": null,
+              "address": "11207 SE 20th Circle",
               "cityStateZip": "Vancouver, WA 98664",
               "planName": null,
               "price": 454995,
@@ -8104,7 +8104,7 @@
             },
             {
               "id": "washington-cascade-terrace-19304-se-11th-way",
-              "address": null,
+              "address": "19304 SE 11th Way",
               "cityStateZip": "Camas, WA 98607",
               "planName": null,
               "price": 484995,
@@ -8121,7 +8121,7 @@
             },
             {
               "id": "washington-cascade-terrace-19312-se-11th-way",
-              "address": null,
+              "address": "19312 SE 11th Way",
               "cityStateZip": "Camas, WA 98607",
               "planName": null,
               "price": 484995,
@@ -8138,7 +8138,7 @@
             },
             {
               "id": "washington-cascade-terrace-19316-se-11th-way",
-              "address": null,
+              "address": "19316 SE 11th Way",
               "cityStateZip": "Camas, WA 98607",
               "planName": null,
               "price": 489995,
@@ -8155,7 +8155,7 @@
             },
             {
               "id": "washington-cascade-terrace-19322-se-11th-way",
-              "address": null,
+              "address": "19322 SE 11th Way",
               "cityStateZip": "Camas, WA 98607",
               "planName": null,
               "price": 469995,
@@ -8335,7 +8335,7 @@
             },
             {
               "id": "washington-northfork-landing-162-coho-lp",
-              "address": null,
+              "address": "162 Coho Lp",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 399995,
@@ -8352,7 +8352,7 @@
             },
             {
               "id": "washington-northfork-landing-142-coho-lp",
-              "address": null,
+              "address": "142 Coho Lp",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 409995,
@@ -8369,7 +8369,7 @@
             },
             {
               "id": "washington-northfork-landing-150-coho-lp",
-              "address": null,
+              "address": "150 Coho Lp",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 389995,
@@ -8386,7 +8386,7 @@
             },
             {
               "id": "washington-northfork-landing-151-coho-loop",
-              "address": null,
+              "address": "151 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 444995,
@@ -8403,7 +8403,7 @@
             },
             {
               "id": "washington-northfork-landing-155-coho-loop",
-              "address": null,
+              "address": "155 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 444995,
@@ -8420,7 +8420,7 @@
             },
             {
               "id": "washington-northfork-landing-159-coho-loop",
-              "address": null,
+              "address": "159 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 448995,
@@ -8437,7 +8437,7 @@
             },
             {
               "id": "washington-northfork-landing-163-coho-loop",
-              "address": null,
+              "address": "163 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 448995,
@@ -8454,7 +8454,7 @@
             },
             {
               "id": "washington-northfork-landing-168-coho-loop",
-              "address": null,
+              "address": "168 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 412995,
@@ -8471,7 +8471,7 @@
             },
             {
               "id": "washington-northfork-landing-311-coho-loop",
-              "address": null,
+              "address": "311 Coho Loop",
               "cityStateZip": "Woodland, WA 98674",
               "planName": null,
               "price": 414995,
@@ -8624,7 +8624,7 @@
             },
             {
               "id": "washington-the-dunes-5910-road-112",
-              "address": null,
+              "address": "5910 Road 112",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 378995,
@@ -8641,7 +8641,7 @@
             },
             {
               "id": "washington-the-dunes-5914-road-112",
-              "address": null,
+              "address": "5914 Road 112",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 449995,
@@ -8658,7 +8658,7 @@
             },
             {
               "id": "washington-the-dunes-5918-road-112",
-              "address": null,
+              "address": "5918 Road 112",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 409995,
@@ -8675,7 +8675,7 @@
             },
             {
               "id": "washington-the-dunes-5921-road-112",
-              "address": null,
+              "address": "5921 Road 112",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 474995,
@@ -8692,7 +8692,7 @@
             },
             {
               "id": "washington-the-dunes-6017-road-112",
-              "address": null,
+              "address": "6017 Road 112",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 449995,
@@ -8709,7 +8709,7 @@
             },
             {
               "id": "washington-the-dunes-6113-road-115",
-              "address": null,
+              "address": "6113 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 464995,
@@ -8726,7 +8726,7 @@
             },
             {
               "id": "washington-the-dunes-6118-road-115",
-              "address": null,
+              "address": "6118 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 409995,
@@ -8743,7 +8743,7 @@
             },
             {
               "id": "washington-the-dunes-6122-road-115",
-              "address": null,
+              "address": "6122 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 464995,
@@ -8760,7 +8760,7 @@
             },
             {
               "id": "washington-the-dunes-6126-road-115",
-              "address": null,
+              "address": "6126 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 474995,
@@ -8777,7 +8777,7 @@
             },
             {
               "id": "washington-the-dunes-6202-road-115",
-              "address": null,
+              "address": "6202 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 410995,
@@ -8794,7 +8794,7 @@
             },
             {
               "id": "washington-the-dunes-6205-road-115",
-              "address": null,
+              "address": "6205 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 490995,
@@ -8811,7 +8811,7 @@
             },
             {
               "id": "washington-the-dunes-6206-road-115",
-              "address": null,
+              "address": "6206 Road 115",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 545995,
@@ -8978,7 +8978,7 @@
             },
             {
               "id": "washington-glacier-park-6524-polar-dr",
-              "address": null,
+              "address": "6524 Polar Dr",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 379995,
@@ -8995,7 +8995,7 @@
             },
             {
               "id": "washington-glacier-park-6527-polar-dr",
-              "address": null,
+              "address": "6527 Polar Dr",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 449995,
@@ -9012,7 +9012,7 @@
             },
             {
               "id": "washington-glacier-park-6528-polar-dr",
-              "address": null,
+              "address": "6528 Polar Dr",
               "cityStateZip": "Pasco, WA 99301",
               "planName": null,
               "price": 409995,
@@ -9260,7 +9260,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2250-vido-ave",
-              "address": null,
+              "address": "2250 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 524995,
@@ -9277,7 +9277,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2251-tall-sage-ave",
-              "address": null,
+              "address": "2251 Tall Sage Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 529995,
@@ -9294,7 +9294,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2257-vido-ave",
-              "address": null,
+              "address": "2257 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 514995,
@@ -9311,7 +9311,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2258-vido-ave",
-              "address": null,
+              "address": "2258 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 504995,
@@ -9328,7 +9328,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2259-tall-sage-ave",
-              "address": null,
+              "address": "2259 Tall Sage Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 474995,
@@ -9345,7 +9345,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2265-vido-ave",
-              "address": null,
+              "address": "2265 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 529995,
@@ -9362,7 +9362,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2266-vido-ave",
-              "address": null,
+              "address": "2266 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 514995,
@@ -9379,7 +9379,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2274-vido-ave",
-              "address": null,
+              "address": "2274 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 524995,
@@ -9396,7 +9396,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2275-tall-sage-ave",
-              "address": null,
+              "address": "2275 Tall Sage Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 514995,
@@ -9413,7 +9413,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-2281-vido-ave",
-              "address": null,
+              "address": "2281 Vido Ave",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 517995,
@@ -9430,7 +9430,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-3589-barbera-street",
-              "address": null,
+              "address": "3589 Barbera Street",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 494995,
@@ -9447,7 +9447,7 @@
             },
             {
               "id": "washington-the-orchards-at-goose-ridge-estates-3625-barbera-street",
-              "address": null,
+              "address": "3625 Barbera Street",
               "cityStateZip": "Richland, WA 99352",
               "planName": null,
               "price": 494995,

@@ -165,7 +165,7 @@
           "availableHomes": [
             {
               "id": "utah-west-meadows-estates-1380-west-2350-south",
-              "address": null,
+              "address": "1380 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 549990,
@@ -182,7 +182,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1239-west-2350-south",
-              "address": null,
+              "address": "1239 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 551205,
@@ -199,7 +199,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1256-west-2350-south",
-              "address": null,
+              "address": "1256 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 606545,
@@ -216,7 +216,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1270-west-2350-south",
-              "address": null,
+              "address": "1270 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 564990,
@@ -233,7 +233,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1281-west-2350-south",
-              "address": null,
+              "address": "1281 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 569990,
@@ -250,7 +250,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1295-west-2350-south",
-              "address": null,
+              "address": "1295 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 574990,
@@ -267,7 +267,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1298-west-2350-south",
-              "address": null,
+              "address": "1298 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 594990,
@@ -284,7 +284,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1310-west-2350-south",
-              "address": null,
+              "address": "1310 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 584990,
@@ -301,7 +301,7 @@
             },
             {
               "id": "utah-west-meadows-estates-1313-west-2350-south",
-              "address": null,
+              "address": "1313 West 2350 South",
               "cityStateZip": "Perry, UT 84302",
               "planName": null,
               "price": 599990,
@@ -413,7 +413,7 @@
           "availableHomes": [
             {
               "id": "utah-nibley-coach-662-west-2840-south",
-              "address": null,
+              "address": "662 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 479990,
@@ -430,7 +430,7 @@
             },
             {
               "id": "utah-nibley-coach-665-west-2840-south",
-              "address": null,
+              "address": "665 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 444990,
@@ -447,7 +447,7 @@
             },
             {
               "id": "utah-nibley-coach-672-west-2840-south",
-              "address": null,
+              "address": "672 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 519990,
@@ -464,7 +464,7 @@
             },
             {
               "id": "utah-nibley-coach-673-west-2840-south",
-              "address": null,
+              "address": "673 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 449990,
@@ -481,7 +481,7 @@
             },
             {
               "id": "utah-nibley-coach-682-west-2840-south",
-              "address": null,
+              "address": "682 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 467990,
@@ -498,7 +498,7 @@
             },
             {
               "id": "utah-nibley-coach-683-west-2840-south",
-              "address": null,
+              "address": "683 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 519990,
@@ -515,7 +515,7 @@
             },
             {
               "id": "utah-nibley-coach-748-west-2840-south",
-              "address": null,
+              "address": "748 West 2840 South",
               "cityStateZip": "Nibley, UT 84321",
               "planName": null,
               "price": 564990,
@@ -580,7 +580,7 @@
           "availableHomes": [
             {
               "id": "utah-wolf-pack-place-413-w-370-s",
-              "address": null,
+              "address": "413 W 370 S",
               "cityStateZip": "Hyde Park, UT 84318",
               "planName": null,
               "price": 399990,
@@ -597,7 +597,7 @@
             },
             {
               "id": "utah-wolf-pack-place-415-w-370-s",
-              "address": null,
+              "address": "415 W 370 S",
               "cityStateZip": "Hyde Park, UT 84318",
               "planName": null,
               "price": 414990,
@@ -739,7 +739,7 @@
           "availableHomes": [
             {
               "id": "utah-inverness-11-e-talisman-ave",
-              "address": null,
+              "address": "11 E Talisman Ave",
               "cityStateZip": "Lehi, UT 84048",
               "planName": null,
               "price": 1149000,
@@ -804,7 +804,7 @@
           "availableHomes": [
             {
               "id": "utah-western-acres-1682-n-copper-canyon-drive",
-              "address": null,
+              "address": "1682 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 299990,
@@ -821,7 +821,7 @@
             },
             {
               "id": "utah-western-acres-1684-n-copper-canyon-drive",
-              "address": null,
+              "address": "1684 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 299990,
@@ -838,7 +838,7 @@
             },
             {
               "id": "utah-western-acres-1688-n-copper-canyon-drive",
-              "address": null,
+              "address": "1688 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 299990,
@@ -855,7 +855,7 @@
             },
             {
               "id": "utah-western-acres-1692-n-copper-canyon-drive",
-              "address": null,
+              "address": "1692 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 299990,
@@ -872,7 +872,7 @@
             },
             {
               "id": "utah-western-acres-1662-n-copper-canyon-drive",
-              "address": null,
+              "address": "1662 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 304990,
@@ -889,7 +889,7 @@
             },
             {
               "id": "utah-western-acres-1666-n-copper-canyon-drive",
-              "address": null,
+              "address": "1666 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 304990,
@@ -906,7 +906,7 @@
             },
             {
               "id": "utah-western-acres-1668-n-copper-canyon-drive",
-              "address": null,
+              "address": "1668 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 304990,
@@ -923,7 +923,7 @@
             },
             {
               "id": "utah-western-acres-1672-n-copper-canyon-drive",
-              "address": null,
+              "address": "1672 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 314990,
@@ -940,7 +940,7 @@
             },
             {
               "id": "utah-western-acres-1678-n-copper-canyon-drive",
-              "address": null,
+              "address": "1678 N Copper Canyon Drive",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 314990,
@@ -957,7 +957,7 @@
             },
             {
               "id": "utah-western-acres-1644-n-black-gold-ave",
-              "address": null,
+              "address": "1644 N Black Gold Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 349990,
@@ -974,7 +974,7 @@
             },
             {
               "id": "utah-western-acres-1645-n-old-loon-ave",
-              "address": null,
+              "address": "1645 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 349990,
@@ -991,7 +991,7 @@
             },
             {
               "id": "utah-western-acres-1635-n-old-loon-ave",
-              "address": null,
+              "address": "1635 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 354990,
@@ -1008,7 +1008,7 @@
             },
             {
               "id": "utah-western-acres-1639-n-old-loon-ave",
-              "address": null,
+              "address": "1639 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 354990,
@@ -1025,7 +1025,7 @@
             },
             {
               "id": "utah-western-acres-1640-n-black-gold-ave",
-              "address": null,
+              "address": "1640 N Black Gold Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 359990,
@@ -1042,7 +1042,7 @@
             },
             {
               "id": "utah-western-acres-1672-n-old-loon-ave",
-              "address": null,
+              "address": "1672 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 439990,
@@ -1059,7 +1059,7 @@
             },
             {
               "id": "utah-western-acres-1684-n-old-loon-ave",
-              "address": null,
+              "address": "1684 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 449990,
@@ -1076,7 +1076,7 @@
             },
             {
               "id": "utah-western-acres-1666-n-old-loon-ave",
-              "address": null,
+              "address": "1666 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 459990,
@@ -1093,7 +1093,7 @@
             },
             {
               "id": "utah-western-acres-1710-n-old-loon-ave",
-              "address": null,
+              "address": "1710 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 464990,
@@ -1110,7 +1110,7 @@
             },
             {
               "id": "utah-western-acres-1706-n-old-loon-ave",
-              "address": null,
+              "address": "1706 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 474990,
@@ -1127,7 +1127,7 @@
             },
             {
               "id": "utah-western-acres-1700-n-old-loon-ave",
-              "address": null,
+              "address": "1700 N Old Loon Ave",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 484990,
@@ -1192,7 +1192,7 @@
           "availableHomes": [
             {
               "id": "utah-riley-park-4085-n-560-w",
-              "address": null,
+              "address": "4085 N 560 W",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 799990,
@@ -1209,7 +1209,7 @@
             },
             {
               "id": "utah-riley-park-4125-n-560-w",
-              "address": null,
+              "address": "4125 N 560 W",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 759990,
@@ -1226,7 +1226,7 @@
             },
             {
               "id": "utah-riley-park-4130-n-560-w",
-              "address": null,
+              "address": "4130 N 560 W",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 799990,
@@ -1243,7 +1243,7 @@
             },
             {
               "id": "utah-riley-park-4170-n-560-w",
-              "address": null,
+              "address": "4170 N 560 W",
               "cityStateZip": "Tooele, UT 84074",
               "planName": null,
               "price": 809990,
@@ -1355,7 +1355,7 @@
           "availableHomes": [
             {
               "id": "utah-aquila-1066-e-ira-hodges-scenic-pkwy",
-              "address": null,
+              "address": "1066 E Ira Hodges Scenic Pkwy",
               "cityStateZip": "Eagle Mountain, UT 84005",
               "planName": null,
               "price": 739990,
@@ -1372,7 +1372,7 @@
             },
             {
               "id": "utah-aquila-3965-north-major-street",
-              "address": null,
+              "address": "3965 North Major Street",
               "cityStateZip": "Eagle Mountain, UT 84005",
               "planName": null,
               "price": 759990,
@@ -1389,7 +1389,7 @@
             },
             {
               "id": "utah-aquila-4067-north-major-street",
-              "address": null,
+              "address": "4067 North Major Street",
               "cityStateZip": "Eagle Mountain, UT 84005",
               "planName": null,
               "price": 699990,
@@ -1501,7 +1501,7 @@
           "availableHomes": [
             {
               "id": "utah-montreux-2014-n-high-uintas-lane",
-              "address": null,
+              "address": "2014 N High Uintas Lane",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 659990,
@@ -1518,7 +1518,7 @@
             },
             {
               "id": "utah-montreux-2022-n-high-uintas-lane",
-              "address": null,
+              "address": "2022 N High Uintas Lane",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 669990,
@@ -1535,7 +1535,7 @@
             },
             {
               "id": "utah-montreux-2030-n-high-uintas-lane",
-              "address": null,
+              "address": "2030 N High Uintas Lane",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 678150,
@@ -1552,7 +1552,7 @@
             },
             {
               "id": "utah-montreux-2036-n-high-uintas-lane",
-              "address": null,
+              "address": "2036 N High Uintas Lane",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 649990,
@@ -1569,7 +1569,7 @@
             },
             {
               "id": "utah-montreux-2044-n-high-uintas-lane",
-              "address": null,
+              "address": "2044 N High Uintas Lane",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 668150,
@@ -1586,7 +1586,7 @@
             },
             {
               "id": "utah-montreux-2081-n-ostler-peak-road",
-              "address": null,
+              "address": "2081 N Ostler Peak Road",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 720450,
@@ -1603,7 +1603,7 @@
             },
             {
               "id": "utah-montreux-2165-n-glacier-ln",
-              "address": null,
+              "address": "2165 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 449990,
@@ -1620,7 +1620,7 @@
             },
             {
               "id": "utah-montreux-2193-n-glacier-ln",
-              "address": null,
+              "address": "2193 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 449990,
@@ -1637,7 +1637,7 @@
             },
             {
               "id": "utah-montreux-2213-n-glacier-ln",
-              "address": null,
+              "address": "2213 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 454990,
@@ -1654,7 +1654,7 @@
             },
             {
               "id": "utah-montreux-2217-n-glacier-ln",
-              "address": null,
+              "address": "2217 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 454990,
@@ -1671,7 +1671,7 @@
             },
             {
               "id": "utah-montreux-2221-n-glacier-ln",
-              "address": null,
+              "address": "2221 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 454990,
@@ -1688,7 +1688,7 @@
             },
             {
               "id": "utah-montreux-2237-n-glacier-ln",
-              "address": null,
+              "address": "2237 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 434990,
@@ -1705,7 +1705,7 @@
             },
             {
               "id": "utah-montreux-2238-n-glacier-ln",
-              "address": null,
+              "address": "2238 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 424990,
@@ -1722,7 +1722,7 @@
             },
             {
               "id": "utah-montreux-2241-n-glacier-ln",
-              "address": null,
+              "address": "2241 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 424990,
@@ -1739,7 +1739,7 @@
             },
             {
               "id": "utah-montreux-2245-n-glacier-ln",
-              "address": null,
+              "address": "2245 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 434990,
@@ -1756,7 +1756,7 @@
             },
             {
               "id": "utah-montreux-2252-n-glacier-ln",
-              "address": null,
+              "address": "2252 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 419990,
@@ -1773,7 +1773,7 @@
             },
             {
               "id": "utah-montreux-2256-n-glacier-ln",
-              "address": null,
+              "address": "2256 N Glacier Ln",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 429990,
@@ -1790,7 +1790,7 @@
             },
             {
               "id": "utah-montreux-344-e-sophie-place",
-              "address": null,
+              "address": "344 E Sophie Place",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 829880,
@@ -1807,7 +1807,7 @@
             },
             {
               "id": "utah-montreux-2053-n-ostler-peak-road",
-              "address": null,
+              "address": "2053 N Ostler Peak Road",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 709990,
@@ -1824,7 +1824,7 @@
             },
             {
               "id": "utah-montreux-341-e-sophie-place",
-              "address": null,
+              "address": "341 E Sophie Place",
               "cityStateZip": "Heber City, UT 84032",
               "planName": null,
               "price": 743170,
@@ -1906,7 +1906,7 @@
           "availableHomes": [
             {
               "id": "utah-midtown-village-1410-s-470-e",
-              "address": null,
+              "address": "1410 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 329990,
@@ -1923,7 +1923,7 @@
             },
             {
               "id": "utah-midtown-village-1414-s-470-e",
-              "address": null,
+              "address": "1414 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 329990,
@@ -1940,7 +1940,7 @@
             },
             {
               "id": "utah-midtown-village-1418-s-470-e",
-              "address": null,
+              "address": "1418 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 357990,
@@ -1957,7 +1957,7 @@
             },
             {
               "id": "utah-midtown-village-1442-s-470-e",
-              "address": null,
+              "address": "1442 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 367990,
@@ -1974,7 +1974,7 @@
             },
             {
               "id": "utah-midtown-village-1446-s-470-e",
-              "address": null,
+              "address": "1446 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 354990,
@@ -1991,7 +1991,7 @@
             },
             {
               "id": "utah-midtown-village-1450-s-470-e",
-              "address": null,
+              "address": "1450 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 354990,
@@ -2008,7 +2008,7 @@
             },
             {
               "id": "utah-midtown-village-1454-s-470-e",
-              "address": null,
+              "address": "1454 S 470 E",
               "cityStateZip": "Ogden, UT 84404",
               "planName": null,
               "price": 354990,
@@ -2120,7 +2120,7 @@
           "availableHomes": [
             {
               "id": "utah-palomino-1454-s-4125-west",
-              "address": null,
+              "address": "1454 S 4125 West",
               "cityStateZip": "Ogden, UT 84401",
               "planName": null,
               "price": 689990,
@@ -2137,7 +2137,7 @@
             },
             {
               "id": "utah-palomino-1461-s-4125-west",
-              "address": null,
+              "address": "1461 S 4125 West",
               "cityStateZip": "Ogden, UT 84401",
               "planName": null,
               "price": 769990,
@@ -2154,7 +2154,7 @@
             },
             {
               "id": "utah-palomino-1464-s-4125-west",
-              "address": null,
+              "address": "1464 S 4125 West",
               "cityStateZip": "Ogden, UT 84401",
               "planName": null,
               "price": 569990,
@@ -2171,7 +2171,7 @@
             },
             {
               "id": "utah-palomino-1473-s-4125-west",
-              "address": null,
+              "address": "1473 S 4125 West",
               "cityStateZip": "Ogden, UT 84401",
               "planName": null,
               "price": 769990,
@@ -2188,7 +2188,7 @@
             },
             {
               "id": "utah-palomino-1549-s-4125-west",
-              "address": null,
+              "address": "1549 S 4125 West",
               "cityStateZip": "Ogden, UT 84401",
               "planName": null,
               "price": 699990,
@@ -2253,7 +2253,7 @@
           "availableHomes": [
             {
               "id": "utah-dixon-creek-townhomes-1218-north-275-east",
-              "address": null,
+              "address": "1218 North 275 East",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 329990,
@@ -2270,7 +2270,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1219-n-235-e",
-              "address": null,
+              "address": "1219 N 235 E",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 339990,
@@ -2287,7 +2287,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1223-n-235-e",
-              "address": null,
+              "address": "1223 N 235 E",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 379990,
@@ -2304,7 +2304,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1227-n-235-e",
-              "address": null,
+              "address": "1227 N 235 E",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 379990,
@@ -2321,7 +2321,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1231-n-235-e",
-              "address": null,
+              "address": "1231 N 235 E",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 339990,
@@ -2338,7 +2338,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1242-north-275-east",
-              "address": null,
+              "address": "1242 North 275 East",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 319990,
@@ -2355,7 +2355,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1292-north-375-east",
-              "address": null,
+              "address": "1292 North 375 East",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 349990,
@@ -2372,7 +2372,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-1298-north-375-east",
-              "address": null,
+              "address": "1298 North 375 East",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 349990,
@@ -2389,7 +2389,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-243-e-1235-n",
-              "address": null,
+              "address": "243 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 334990,
@@ -2406,7 +2406,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-245-e-1235-n",
-              "address": null,
+              "address": "245 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 334990,
@@ -2423,7 +2423,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-249-e-1235-n",
-              "address": null,
+              "address": "249 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 344990,
@@ -2440,7 +2440,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-253-e-1235-n",
-              "address": null,
+              "address": "253 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 369990,
@@ -2457,7 +2457,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-257-e-1235-n",
-              "address": null,
+              "address": "257 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 359990,
@@ -2474,7 +2474,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-261-e-1235-n",
-              "address": null,
+              "address": "261 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 359990,
@@ -2491,7 +2491,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-265-e-1235-n",
-              "address": null,
+              "address": "265 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 359990,
@@ -2508,7 +2508,7 @@
             },
             {
               "id": "utah-dixon-creek-townhomes-269-e-1235-n",
-              "address": null,
+              "address": "269 E 1235 N",
               "cityStateZip": "Harrisville, UT 84404",
               "planName": null,
               "price": 369990,
@@ -2573,7 +2573,7 @@
           "availableHomes": [
             {
               "id": "utah-arrowhead-1581-n-1360-e",
-              "address": null,
+              "address": "1581 N 1360 E",
               "cityStateZip": "Payson, UT 84651",
               "planName": null,
               "price": 404990,
@@ -2590,7 +2590,7 @@
             },
             {
               "id": "utah-arrowhead-1583-n-1360-e",
-              "address": null,
+              "address": "1583 N 1360 E",
               "cityStateZip": "Payson, UT 84651",
               "planName": null,
               "price": 404990,
@@ -2655,7 +2655,7 @@
           "availableHomes": [
             {
               "id": "utah-viridian-1612-e-960-n",
-              "address": null,
+              "address": "1612 E 960 N",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 809990,
@@ -2672,7 +2672,7 @@
             },
             {
               "id": "utah-viridian-1827-e-1060-north",
-              "address": null,
+              "address": "1827 E 1060 North",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 999990,
@@ -2689,7 +2689,7 @@
             },
             {
               "id": "utah-viridian-1849-e-1060-north",
-              "address": null,
+              "address": "1849 E 1060 North",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 1050000,
@@ -2706,7 +2706,7 @@
             },
             {
               "id": "utah-viridian-1944-e-corriente-dr",
-              "address": null,
+              "address": "1944 E Corriente Dr",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 429990,
@@ -2723,7 +2723,7 @@
             },
             {
               "id": "utah-viridian-1954-e-corriente-dr",
-              "address": null,
+              "address": "1954 E Corriente Dr",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 429990,
@@ -2740,7 +2740,7 @@
             },
             {
               "id": "utah-viridian-1975-e-belmont-lane",
-              "address": null,
+              "address": "1975 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 429990,
@@ -2757,7 +2757,7 @@
             },
             {
               "id": "utah-viridian-1983-e-belmont-lane",
-              "address": null,
+              "address": "1983 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 424990,
@@ -2774,7 +2774,7 @@
             },
             {
               "id": "utah-viridian-1985-e-belmont-lane",
-              "address": null,
+              "address": "1985 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 424990,
@@ -2791,7 +2791,7 @@
             },
             {
               "id": "utah-viridian-1987-e-belmont-lane",
-              "address": null,
+              "address": "1987 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 419990,
@@ -2808,7 +2808,7 @@
             },
             {
               "id": "utah-viridian-1993-e-belmont-lane",
-              "address": null,
+              "address": "1993 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 429990,
@@ -2825,7 +2825,7 @@
             },
             {
               "id": "utah-viridian-655-n-1620-east",
-              "address": null,
+              "address": "655 N 1620 East",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 364990,
@@ -2842,7 +2842,7 @@
             },
             {
               "id": "utah-viridian-657-n-1620-east",
-              "address": null,
+              "address": "657 N 1620 East",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 374990,
@@ -2859,7 +2859,7 @@
             },
             {
               "id": "utah-viridian-868-n-1600-e",
-              "address": null,
+              "address": "868 N 1600 E",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 799990,
@@ -2876,7 +2876,7 @@
             },
             {
               "id": "utah-viridian-884-n-1820-east",
-              "address": null,
+              "address": "884 N 1820 East",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 599990,
@@ -2893,7 +2893,7 @@
             },
             {
               "id": "utah-viridian-973-n-1750-east",
-              "address": null,
+              "address": "973 N 1750 East",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 999990,
@@ -2910,7 +2910,7 @@
             },
             {
               "id": "utah-viridian-992-n-1750-e",
-              "address": null,
+              "address": "992 N 1750 E",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 849990,
@@ -2927,7 +2927,7 @@
             },
             {
               "id": "utah-viridian-1021-n-1690-e",
-              "address": null,
+              "address": "1021 N 1690 E",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 889990,
@@ -2944,7 +2944,7 @@
             },
             {
               "id": "utah-viridian-1664-e-960-n",
-              "address": null,
+              "address": "1664 E 960 N",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 759990,
@@ -2961,7 +2961,7 @@
             },
             {
               "id": "utah-viridian-1986-e-belmont-lane",
-              "address": null,
+              "address": "1986 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 535990,
@@ -2978,7 +2978,7 @@
             },
             {
               "id": "utah-viridian-1994-e-belmont-lane",
-              "address": null,
+              "address": "1994 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 549990,
@@ -2995,7 +2995,7 @@
             },
             {
               "id": "utah-viridian-2008-e-belmont-lane",
-              "address": null,
+              "address": "2008 E Belmont Lane",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 549990,
@@ -3012,7 +3012,7 @@
             },
             {
               "id": "utah-viridian-2031-e-corriente-dr",
-              "address": null,
+              "address": "2031 E Corriente Dr",
               "cityStateZip": "Salem, UT 84653",
               "planName": null,
               "price": 509990,
@@ -3111,7 +3111,7 @@
           "availableHomes": [
             {
               "id": "utah-mountainside-estates-1352-n-1275-e",
-              "address": null,
+              "address": "1352 N 1275 E",
               "cityStateZip": "Logan, UT 84321",
               "planName": null,
               "price": 699990,
@@ -3128,7 +3128,7 @@
             },
             {
               "id": "utah-mountainside-estates-1334-n-1275-e",
-              "address": null,
+              "address": "1334 N 1275 E",
               "cityStateZip": "Logan, UT 84321",
               "planName": null,
               "price": 669990,
@@ -3145,7 +3145,7 @@
             },
             {
               "id": "utah-mountainside-estates-1340-n-1275-e",
-              "address": null,
+              "address": "1340 N 1275 E",
               "cityStateZip": "Logan, UT 84321",
               "planName": null,
               "price": 689990,
@@ -3279,7 +3279,7 @@
           "availableHomes": [
             {
               "id": "utah-pointe-west-3183-w-pointe-west-way",
-              "address": null,
+              "address": "3183 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 289990,
@@ -3296,7 +3296,7 @@
             },
             {
               "id": "utah-pointe-west-3191-w-pointe-west-way",
-              "address": null,
+              "address": "3191 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 289990,
@@ -3313,7 +3313,7 @@
             },
             {
               "id": "utah-pointe-west-3199-w-pointe-west-way",
-              "address": null,
+              "address": "3199 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 309990,
@@ -3330,7 +3330,7 @@
             },
             {
               "id": "utah-pointe-west-3207-w-pointe-west-way",
-              "address": null,
+              "address": "3207 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 309990,
@@ -3347,7 +3347,7 @@
             },
             {
               "id": "utah-pointe-west-3223-w-pointe-west-way",
-              "address": null,
+              "address": "3223 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 291990,
@@ -3364,7 +3364,7 @@
             },
             {
               "id": "utah-pointe-west-3234-w-pointe-west-way",
-              "address": null,
+              "address": "3234 W Pointe West Way",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 274990,
@@ -3429,7 +3429,7 @@
           "availableHomes": [
             {
               "id": "utah-fire-rock-1886-w-400-n",
-              "address": null,
+              "address": "1886 W 400 N",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 589990,
@@ -3446,7 +3446,7 @@
             },
             {
               "id": "utah-fire-rock-1897-w-400-n",
-              "address": null,
+              "address": "1897 W 400 N",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 579990,
@@ -3463,7 +3463,7 @@
             },
             {
               "id": "utah-fire-rock-1919-w-400-n",
-              "address": null,
+              "address": "1919 W 400 N",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 699990,
@@ -3480,7 +3480,7 @@
             },
             {
               "id": "utah-fire-rock-1941-w-400-n",
-              "address": null,
+              "address": "1941 W 400 N",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 609990,
@@ -3497,7 +3497,7 @@
             },
             {
               "id": "utah-fire-rock-349-n-firerock-way",
-              "address": null,
+              "address": "349 N Firerock Way",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 699990,
@@ -3514,7 +3514,7 @@
             },
             {
               "id": "utah-fire-rock-352-n-rhyolite-dr",
-              "address": null,
+              "address": "352 N Rhyolite Dr",
               "cityStateZip": "Hurricane, UT 84737",
               "planName": null,
               "price": 744990,
@@ -3626,7 +3626,7 @@
           "availableHomes": [
             {
               "id": "utah-chelsey-3026-w-chelsey-pkwy",
-              "address": null,
+              "address": "3026 W Chelsey Pkwy",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 534990,
@@ -3643,7 +3643,7 @@
             },
             {
               "id": "utah-chelsey-3042-w-chelsey-pkwy",
-              "address": null,
+              "address": "3042 W Chelsey Pkwy",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 524990,
@@ -3660,7 +3660,7 @@
             },
             {
               "id": "utah-chelsey-2513-n-locust-st",
-              "address": null,
+              "address": "2513 N Locust St",
               "cityStateZip": "Cedar City, UT 84721",
               "planName": null,
               "price": 532730,
@@ -3725,7 +3725,7 @@
           "availableHomes": [
             {
               "id": "utah-long-valley---skyline-1708-s-viewcrest-dr",
-              "address": null,
+              "address": "1708 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 469990,
@@ -3742,7 +3742,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1712-s-viewcrest-dr",
-              "address": null,
+              "address": "1712 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 459990,
@@ -3759,7 +3759,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1716-s-viewcrest-dr",
-              "address": null,
+              "address": "1716 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 449990,
@@ -3776,7 +3776,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1720-s-viewcrest-dr",
-              "address": null,
+              "address": "1720 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 459990,
@@ -3793,7 +3793,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1723-s-viewcrest-dr",
-              "address": null,
+              "address": "1723 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 499990,
@@ -3810,7 +3810,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1724-s-viewcrest-dr",
-              "address": null,
+              "address": "1724 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 459990,
@@ -3827,7 +3827,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1727-s-viewcrest-dr",
-              "address": null,
+              "address": "1727 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 499990,
@@ -3844,7 +3844,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1728-s-viewcrest-dr",
-              "address": null,
+              "address": "1728 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 469990,
@@ -3861,7 +3861,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1736-s-viewcrest-dr",
-              "address": null,
+              "address": "1736 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 489990,
@@ -3878,7 +3878,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1740-s-viewcrest-dr",
-              "address": null,
+              "address": "1740 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 479990,
@@ -3895,7 +3895,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1744-s-viewcrest-dr",
-              "address": null,
+              "address": "1744 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 479990,
@@ -3912,7 +3912,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1748-s-viewcrest-dr",
-              "address": null,
+              "address": "1748 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 479990,
@@ -3929,7 +3929,7 @@
             },
             {
               "id": "utah-long-valley---skyline-1754-s-viewcrest-dr",
-              "address": null,
+              "address": "1754 S Viewcrest Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 479990,
@@ -3994,7 +3994,7 @@
           "availableHomes": [
             {
               "id": "utah-long-valley-trails-2177-s-tower-bridge-dr",
-              "address": null,
+              "address": "2177 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 319990,
@@ -4011,7 +4011,7 @@
             },
             {
               "id": "utah-long-valley-trails-2181-s-tower-bridge-dr",
-              "address": null,
+              "address": "2181 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 329990,
@@ -4028,7 +4028,7 @@
             },
             {
               "id": "utah-long-valley-trails-2201-s-tower-bridge-dr",
-              "address": null,
+              "address": "2201 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 334990,
@@ -4045,7 +4045,7 @@
             },
             {
               "id": "utah-long-valley-trails-2188-s-wolverine-way",
-              "address": null,
+              "address": "2188 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 339990,
@@ -4062,7 +4062,7 @@
             },
             {
               "id": "utah-long-valley-trails-2211-s-tower-bridge-dr",
-              "address": null,
+              "address": "2211 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 344990,
@@ -4079,7 +4079,7 @@
             },
             {
               "id": "utah-long-valley-trails-3290-e-elkhorn-ln",
-              "address": null,
+              "address": "3290 E Elkhorn Ln",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 344990,
@@ -4096,7 +4096,7 @@
             },
             {
               "id": "utah-long-valley-trails-2193-s-tower-bridge-dr",
-              "address": null,
+              "address": "2193 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 349990,
@@ -4113,7 +4113,7 @@
             },
             {
               "id": "utah-long-valley-trails-2197-s-tower-bridge-dr",
-              "address": null,
+              "address": "2197 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 349990,
@@ -4130,7 +4130,7 @@
             },
             {
               "id": "utah-long-valley-trails-2256-s-wolverine-way",
-              "address": null,
+              "address": "2256 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 349990,
@@ -4147,7 +4147,7 @@
             },
             {
               "id": "utah-long-valley-trails-2176-s-tower-bridge-dr",
-              "address": null,
+              "address": "2176 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 359990,
@@ -4164,7 +4164,7 @@
             },
             {
               "id": "utah-long-valley-trails-2189-s-tower-bridge-dr",
-              "address": null,
+              "address": "2189 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 359990,
@@ -4181,7 +4181,7 @@
             },
             {
               "id": "utah-long-valley-trails-2162-s-tower-bridge-dr",
-              "address": null,
+              "address": "2162 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 364990,
@@ -4198,7 +4198,7 @@
             },
             {
               "id": "utah-long-valley-trails-2166-s-tower-bridge-dr",
-              "address": null,
+              "address": "2166 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 364990,
@@ -4215,7 +4215,7 @@
             },
             {
               "id": "utah-long-valley-trails-2170-s-tower-bridge-dr",
-              "address": null,
+              "address": "2170 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 364990,
@@ -4232,7 +4232,7 @@
             },
             {
               "id": "utah-long-valley-trails-2180-s-tower-bridge-dr",
-              "address": null,
+              "address": "2180 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 369990,
@@ -4249,7 +4249,7 @@
             },
             {
               "id": "utah-long-valley-trails-2158-s-tower-bridge-dr",
-              "address": null,
+              "address": "2158 S Tower Bridge Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 371990,
@@ -4266,7 +4266,7 @@
             },
             {
               "id": "utah-long-valley-trails-2271-s-wolverine-way",
-              "address": null,
+              "address": "2271 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 374990,
@@ -4283,7 +4283,7 @@
             },
             {
               "id": "utah-long-valley-trails-2253-s-wolverine-way",
-              "address": null,
+              "address": "2253 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 379990,
@@ -4300,7 +4300,7 @@
             },
             {
               "id": "utah-long-valley-trails-2273-s-wolverine-way",
-              "address": null,
+              "address": "2273 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 379990,
@@ -4317,7 +4317,7 @@
             },
             {
               "id": "utah-long-valley-trails-2275-s-wolverine-way",
-              "address": null,
+              "address": "2275 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 379990,
@@ -4334,7 +4334,7 @@
             },
             {
               "id": "utah-long-valley-trails-2263-s-wolverine-way",
-              "address": null,
+              "address": "2263 S Wolverine Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 384990,
@@ -4351,7 +4351,7 @@
             },
             {
               "id": "utah-long-valley-trails-1684-s-staircase-way",
-              "address": null,
+              "address": "1684 S Staircase Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 454990,
@@ -4368,7 +4368,7 @@
             },
             {
               "id": "utah-long-valley-trails-1654-s-staircase-way",
-              "address": null,
+              "address": "1654 S Staircase Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 459990,
@@ -4385,7 +4385,7 @@
             },
             {
               "id": "utah-long-valley-trails-1644-s-staircase-way",
-              "address": null,
+              "address": "1644 S Staircase Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 484990,
@@ -4402,7 +4402,7 @@
             },
             {
               "id": "utah-long-valley-trails-1650-s-staircase-way",
-              "address": null,
+              "address": "1650 S Staircase Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 499990,
@@ -4419,7 +4419,7 @@
             },
             {
               "id": "utah-long-valley-trails-1966-s-cyclone-dr",
-              "address": null,
+              "address": "1966 S Cyclone Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 509990,
@@ -4436,7 +4436,7 @@
             },
             {
               "id": "utah-long-valley-trails-1875-s-forbidding-way",
-              "address": null,
+              "address": "1875 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 519990,
@@ -4453,7 +4453,7 @@
             },
             {
               "id": "utah-long-valley-trails-1652-s-sinawava-dr",
-              "address": null,
+              "address": "1652 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 599990,
@@ -4470,7 +4470,7 @@
             },
             {
               "id": "utah-long-valley-trails-1868-s-forbidding-way",
-              "address": null,
+              "address": "1868 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 639990,
@@ -4487,7 +4487,7 @@
             },
             {
               "id": "utah-long-valley-trails-1826-s-forbidding-way",
-              "address": null,
+              "address": "1826 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 679990,
@@ -4504,7 +4504,7 @@
             },
             {
               "id": "utah-long-valley-trails-3339-e-defiance-house-dr",
-              "address": null,
+              "address": "3339 E Defiance House Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 479990,
@@ -4521,7 +4521,7 @@
             },
             {
               "id": "utah-long-valley-trails-1657-s-sinawava-dr",
-              "address": null,
+              "address": "1657 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 484990,
@@ -4538,7 +4538,7 @@
             },
             {
               "id": "utah-long-valley-trails-1670-s-sinawava-dr",
-              "address": null,
+              "address": "1670 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 484990,
@@ -4555,7 +4555,7 @@
             },
             {
               "id": "utah-long-valley-trails-1576-s-fins-rd",
-              "address": null,
+              "address": "1576 S Fins Rd",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 489990,
@@ -4572,7 +4572,7 @@
             },
             {
               "id": "utah-long-valley-trails-1678-s-sinawava-dr",
-              "address": null,
+              "address": "1678 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 489990,
@@ -4589,7 +4589,7 @@
             },
             {
               "id": "utah-long-valley-trails-1582-s-fins-rd",
-              "address": null,
+              "address": "1582 S Fins Rd",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 494990,
@@ -4606,7 +4606,7 @@
             },
             {
               "id": "utah-long-valley-trails-1609-s-sinawava-dr",
-              "address": null,
+              "address": "1609 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 494990,
@@ -4623,7 +4623,7 @@
             },
             {
               "id": "utah-long-valley-trails-1588-s-fins-rd",
-              "address": null,
+              "address": "1588 S Fins Rd",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 499990,
@@ -4640,7 +4640,7 @@
             },
             {
               "id": "utah-long-valley-trails-1601-s-sinawava-dr",
-              "address": null,
+              "address": "1601 S Sinawava Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 499990,
@@ -4657,7 +4657,7 @@
             },
             {
               "id": "utah-long-valley-trails-1966-s-queens-garden-dr",
-              "address": null,
+              "address": "1966 S Queens Garden Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 509990,
@@ -4674,7 +4674,7 @@
             },
             {
               "id": "utah-long-valley-trails-1974-s-queens-garden-dr",
-              "address": null,
+              "address": "1974 S Queens Garden Dr",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 524990,
@@ -4691,7 +4691,7 @@
             },
             {
               "id": "utah-long-valley-trails-1909-s-forbidding-way",
-              "address": null,
+              "address": "1909 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 549990,
@@ -4708,7 +4708,7 @@
             },
             {
               "id": "utah-long-valley-trails-1701-s-staircase-way",
-              "address": null,
+              "address": "1701 S Staircase Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 569990,
@@ -4725,7 +4725,7 @@
             },
             {
               "id": "utah-long-valley-trails-1897-s-forbidding-way",
-              "address": null,
+              "address": "1897 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 569990,
@@ -4742,7 +4742,7 @@
             },
             {
               "id": "utah-long-valley-trails-1921-s-forbidding-way",
-              "address": null,
+              "address": "1921 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 569990,
@@ -4759,7 +4759,7 @@
             },
             {
               "id": "utah-long-valley-trails-1863-s-forbidding-way",
-              "address": null,
+              "address": "1863 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 629990,
@@ -4776,7 +4776,7 @@
             },
             {
               "id": "utah-long-valley-trails-1914-s-forbidding-way",
-              "address": null,
+              "address": "1914 S Forbidding Way",
               "cityStateZip": "Washington, UT 84780",
               "planName": null,
               "price": 639990,

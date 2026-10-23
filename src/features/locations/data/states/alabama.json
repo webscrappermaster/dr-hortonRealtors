@@ -135,7 +135,7 @@
             },
             {
               "id": "alabama-the-preserve-express-2324-beaver-drive",
-              "address": null,
+              "address": "2324 Beaver Drive",
               "cityStateZip": "Auburn, AL 36879",
               "planName": null,
               "price": 407000,
@@ -285,7 +285,7 @@
             },
             {
               "id": "alabama-the-preserve-2146-bluebird-drive",
-              "address": null,
+              "address": "2146 Bluebird Drive",
               "cityStateZip": "Auburn, AL 36879",
               "planName": null,
               "price": 384900,
@@ -302,7 +302,7 @@
             },
             {
               "id": "alabama-the-preserve-2152-bluebird-drive",
-              "address": null,
+              "address": "2152 Bluebird Drive",
               "cityStateZip": "Auburn, AL 36879",
               "planName": null,
               "price": 429900,
@@ -319,7 +319,7 @@
             },
             {
               "id": "alabama-the-preserve-2188-bluebird-drive",
-              "address": null,
+              "address": "2188 Bluebird Drive",
               "cityStateZip": "Auburn, AL 36879",
               "planName": null,
               "price": 429900,
@@ -585,7 +585,7 @@
             },
             {
               "id": "alabama-asheton-village-640-asheton-drive",
-              "address": null,
+              "address": "640 Asheton Drive",
               "cityStateZip": "Opelika, AL 36801",
               "planName": null,
               "price": 434900,
@@ -602,7 +602,7 @@
             },
             {
               "id": "alabama-asheton-village-676-asheton-drive",
-              "address": null,
+              "address": "676 Asheton Drive",
               "cityStateZip": "Opelika, AL 36801",
               "planName": null,
               "price": 397800,
@@ -619,7 +619,7 @@
             },
             {
               "id": "alabama-asheton-village-712-asheton-drive",
-              "address": null,
+              "address": "712 Asheton Drive",
               "cityStateZip": "Opelika, AL 36801",
               "planName": null,
               "price": 429900,
@@ -798,7 +798,7 @@
             },
             {
               "id": "alabama-dogwood-estates-19357-treehill-lane",
-              "address": null,
+              "address": "19357 Treehill Lane",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 279580,
@@ -815,7 +815,7 @@
             },
             {
               "id": "alabama-dogwood-estates-19087-pagoda-lane",
-              "address": null,
+              "address": "19087 Pagoda Lane",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 279580,
@@ -832,7 +832,7 @@
             },
             {
               "id": "alabama-dogwood-estates-19343-treehill-lane",
-              "address": null,
+              "address": "19343 Treehill Lane",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 268380,
@@ -849,7 +849,7 @@
             },
             {
               "id": "alabama-dogwood-estates-21123-roughleaf-drive",
-              "address": null,
+              "address": "21123 Roughleaf Drive",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 274476,
@@ -866,7 +866,7 @@
             },
             {
               "id": "alabama-dogwood-estates-21137-roughleaf-drive",
-              "address": null,
+              "address": "21137 Roughleaf Drive",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 280540,
@@ -883,7 +883,7 @@
             },
             {
               "id": "alabama-dogwood-estates-21264-roughleaf-drive",
-              "address": null,
+              "address": "21264 Roughleaf Drive",
               "cityStateZip": "Summerdale, AL 36580",
               "planName": null,
               "price": 269888,
@@ -1080,7 +1080,7 @@
             },
             {
               "id": "alabama-blackwater-ridge-21024-gibson-avenue",
-              "address": null,
+              "address": "21024 Gibson Avenue",
               "cityStateZip": "Robertsdale, AL 36567",
               "planName": null,
               "price": 351558,
@@ -1097,7 +1097,7 @@
             },
             {
               "id": "alabama-blackwater-ridge-21060-gibson-avenue",
-              "address": null,
+              "address": "21060 Gibson Avenue",
               "cityStateZip": "Robertsdale, AL 36567",
               "planName": null,
               "price": 344058,
@@ -1114,7 +1114,7 @@
             },
             {
               "id": "alabama-blackwater-ridge-22568-thatch-street",
-              "address": null,
+              "address": "22568 Thatch Street",
               "cityStateZip": "Robertsdale, AL 36567",
               "planName": null,
               "price": 364274,
@@ -1264,7 +1264,7 @@
             },
             {
               "id": "alabama-iron-horse-18408-iron-horse-circle",
-              "address": null,
+              "address": "18408 Iron Horse Circle",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 349900,
@@ -1281,7 +1281,7 @@
             },
             {
               "id": "alabama-iron-horse-18418-iron-horse-circle",
-              "address": null,
+              "address": "18418 Iron Horse Circle",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 356504,
@@ -1298,7 +1298,7 @@
             },
             {
               "id": "alabama-iron-horse-18428-iron-horse-circle",
-              "address": null,
+              "address": "18428 Iron Horse Circle",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 364228,
@@ -1315,7 +1315,7 @@
             },
             {
               "id": "alabama-iron-horse-18338-iron-horse-circle",
-              "address": null,
+              "address": "18338 Iron Horse Circle",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 358004,
@@ -1332,7 +1332,7 @@
             },
             {
               "id": "alabama-iron-horse-18368-iron-horse-circle",
-              "address": null,
+              "address": "18368 Iron Horse Circle",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 347400,
@@ -1867,7 +1867,7 @@
             },
             {
               "id": "alabama-tealwood-estates-13577-redhead-ln",
-              "address": null,
+              "address": "13577 Redhead Ln",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 329854,
@@ -1884,7 +1884,7 @@
             },
             {
               "id": "alabama-tealwood-estates-13560-redhead-ln",
-              "address": null,
+              "address": "13560 Redhead Ln",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 348158,
@@ -1901,7 +1901,7 @@
             },
             {
               "id": "alabama-tealwood-estates-13561-redhead-ln",
-              "address": null,
+              "address": "13561 Redhead Ln",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 361558,
@@ -1918,7 +1918,7 @@
             },
             {
               "id": "alabama-tealwood-estates-13691-bluewing-dr",
-              "address": null,
+              "address": "13691 Bluewing Dr",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 348304,
@@ -2252,7 +2252,7 @@
             },
             {
               "id": "alabama-cottonwood-estates-16121-tigris-drive",
-              "address": null,
+              "address": "16121 Tigris Drive",
               "cityStateZip": "Fairhope, AL 36532",
               "planName": null,
               "price": 335552,
@@ -2668,7 +2668,7 @@
             },
             {
               "id": "alabama-azalea-gardens-3176-brookgreen-avenue",
-              "address": null,
+              "address": "3176 Brookgreen Avenue",
               "cityStateZip": "Loxley, AL 36551",
               "planName": null,
               "price": 343200,
@@ -2852,7 +2852,7 @@
             },
             {
               "id": "alabama-harvest-green-east-529-huller-avenue",
-              "address": null,
+              "address": "529 Huller Avenue",
               "cityStateZip": "Fairhope, AL 36532",
               "planName": null,
               "price": 476954,
@@ -2869,7 +2869,7 @@
             },
             {
               "id": "alabama-harvest-green-east-22914-bushel-drive",
-              "address": null,
+              "address": "22914 Bushel Drive",
               "cityStateZip": "Fairhope, AL 36532",
               "planName": null,
               "price": 497882,
@@ -3901,7 +3901,7 @@
           "availableHomes": [
             {
               "id": "alabama-jubilee-farms-10264-secretariat-blvd",
-              "address": null,
+              "address": "10264 Secretariat Blvd",
               "cityStateZip": "Daphne, AL 36526",
               "planName": null,
               "price": 581172,
@@ -3918,7 +3918,7 @@
             },
             {
               "id": "alabama-jubilee-farms-10207-secretariat-blvd",
-              "address": null,
+              "address": "10207 Secretariat Blvd",
               "cityStateZip": "Daphne, AL 36526",
               "planName": null,
               "price": 585479,
@@ -4371,7 +4371,7 @@
             },
             {
               "id": "alabama-bienville-landing-7563-sable-drive",
-              "address": null,
+              "address": "7563 Sable Drive",
               "cityStateZip": "Foley, AL 36535",
               "planName": null,
               "price": 292580,
@@ -4722,7 +4722,7 @@
           "availableHomes": [
             {
               "id": "alabama-village-at-brights-creek-6677-schoel-ln",
-              "address": null,
+              "address": "6677 Schoel Ln",
               "cityStateZip": "Gulf Shores, AL 36542",
               "planName": null,
               "price": 650540,
@@ -4739,7 +4739,7 @@
             },
             {
               "id": "alabama-village-at-brights-creek-6689-schoel-ln",
-              "address": null,
+              "address": "6689 Schoel Ln",
               "cityStateZip": "Gulf Shores, AL 36542",
               "planName": null,
               "price": 659226,
@@ -4872,7 +4872,7 @@
             },
             {
               "id": "alabama-stonebridge-31835-lyon-road",
-              "address": null,
+              "address": "31835 Lyon Road",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 356708,
@@ -4889,7 +4889,7 @@
             },
             {
               "id": "alabama-stonebridge-13173-antler-hill-road",
-              "address": null,
+              "address": "13173 Antler Hill Road",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 413870,
@@ -5257,7 +5257,7 @@
             },
             {
               "id": "alabama-driftwood-cove-13347-county-rd-91",
-              "address": null,
+              "address": "13347 County Rd 91",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 430424,
@@ -5274,7 +5274,7 @@
             },
             {
               "id": "alabama-driftwood-cove-13459-county-rd-91",
-              "address": null,
+              "address": "13459 County Rd 91",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 431474,
@@ -5424,7 +5424,7 @@
             },
             {
               "id": "alabama-independence-32271-emancipation-cir",
-              "address": null,
+              "address": "32271 Emancipation Cir",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 242400,
@@ -5441,7 +5441,7 @@
             },
             {
               "id": "alabama-independence-32275-emancipation-cir",
-              "address": null,
+              "address": "32275 Emancipation Cir",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 242400,
@@ -5458,7 +5458,7 @@
             },
             {
               "id": "alabama-independence-32272-revere-drive",
-              "address": null,
+              "address": "32272 Revere Drive",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 287389,
@@ -5475,7 +5475,7 @@
             },
             {
               "id": "alabama-independence-32270-emancipation-cir",
-              "address": null,
+              "address": "32270 Emancipation Cir",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 242400,
@@ -5492,7 +5492,7 @@
             },
             {
               "id": "alabama-independence-32314-revere-drive",
-              "address": null,
+              "address": "32314 Revere Drive",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 284388,
@@ -5509,7 +5509,7 @@
             },
             {
               "id": "alabama-independence-32259-revere-drive",
-              "address": null,
+              "address": "32259 Revere Drive",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 294580,
@@ -5795,7 +5795,7 @@
             },
             {
               "id": "alabama-churchill-11421-thistledown-loop",
-              "address": null,
+              "address": "11421 Thistledown Loop",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 507633,
@@ -5812,7 +5812,7 @@
             },
             {
               "id": "alabama-churchill-31726-bramshell-drive",
-              "address": null,
+              "address": "31726 Bramshell Drive",
               "cityStateZip": "Spanish Fort, AL 36527",
               "planName": null,
               "price": 490150,
@@ -5894,7 +5894,7 @@
           "availableHomes": [
             {
               "id": "alabama-seville-estates-13142-cripple-creek-ln",
-              "address": null,
+              "address": "13142 Cripple Creek Ln",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 519554,
@@ -5911,7 +5911,7 @@
             },
             {
               "id": "alabama-seville-estates-13342-county-rd-93",
-              "address": null,
+              "address": "13342 County Rd 93",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 517404,
@@ -5928,7 +5928,7 @@
             },
             {
               "id": "alabama-seville-estates-13170-cripple-creek-ln",
-              "address": null,
+              "address": "13170 Cripple Creek Ln",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 464501,
@@ -5945,7 +5945,7 @@
             },
             {
               "id": "alabama-seville-estates-13350-county-rd-93",
-              "address": null,
+              "address": "13350 County Rd 93",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 469150,
@@ -5962,7 +5962,7 @@
             },
             {
               "id": "alabama-seville-estates-13206-cripple-creek-ln",
-              "address": null,
+              "address": "13206 Cripple Creek Ln",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 522555,
@@ -5979,7 +5979,7 @@
             },
             {
               "id": "alabama-seville-estates-13222-cripple-creek-ln",
-              "address": null,
+              "address": "13222 Cripple Creek Ln",
               "cityStateZip": "Lillian, AL 36549",
               "planName": null,
               "price": 593404,
@@ -6143,7 +6143,7 @@
           "availableHomes": [
             {
               "id": "alabama-baldwin---spot-lots-7026-shallow-brook-ct-gulf-sh",
-              "address": null,
+              "address": "7026 Shallow Brook Ct Gulf Sh",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 420128,
@@ -6160,7 +6160,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-7053-stone-chase-ln-gulf-sho",
-              "address": null,
+              "address": "7053 Stone Chase Ln Gulf Sho",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 426548,
@@ -6211,7 +6211,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-23629-fountain-st-robertsdale",
-              "address": null,
+              "address": "23629 Fountain St Robertsdale",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 427944,
@@ -6228,7 +6228,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-23643-fountain-st-robertsdale",
-              "address": null,
+              "address": "23643 Fountain St Robertsdale",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 392800,
@@ -6245,7 +6245,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-1105-orlando-dr-foley",
-              "address": null,
+              "address": "1105 Orlando Dr Foley",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 470492,
@@ -6262,7 +6262,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-11239-tall-timbers-ln-elberta",
-              "address": null,
+              "address": "11239 Tall Timbers Ln Elberta",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 632413,
@@ -6279,7 +6279,7 @@
             },
             {
               "id": "alabama-baldwin---spot-lots-11295-tall-timbers-ln-elberta",
-              "address": null,
+              "address": "11295 Tall Timbers Ln Elberta",
               "cityStateZip": "Fairhope, Gulf Shores, Lillian, AL 36532",
               "planName": null,
               "price": 657227,
@@ -6528,7 +6528,7 @@
             },
             {
               "id": "alabama-townes-on-main-115-lavender-haze-way",
-              "address": null,
+              "address": "115 Lavender Haze Way",
               "cityStateZip": "Gardendale, AL 35071",
               "planName": null,
               "price": 277900,
@@ -6828,7 +6828,7 @@
             },
             {
               "id": "alabama-rosser-farms-5803-ridgeline-drive",
-              "address": null,
+              "address": "5803 Ridgeline Drive",
               "cityStateZip": "Bessemer, AL 35022",
               "planName": null,
               "price": 364900,
@@ -6845,7 +6845,7 @@
             },
             {
               "id": "alabama-rosser-farms-5799-ridgeline-drive",
-              "address": null,
+              "address": "5799 Ridgeline Drive",
               "cityStateZip": "Bessemer, AL 35022",
               "planName": null,
               "price": 419900,
@@ -7278,7 +7278,7 @@
             },
             {
               "id": "alabama-shady-cove-5473-shady-maple-dr",
-              "address": null,
+              "address": "5473 Shady Maple Dr",
               "cityStateZip": "Bessemer, AL 35022",
               "planName": null,
               "price": 384900,
@@ -7295,7 +7295,7 @@
             },
             {
               "id": "alabama-shady-cove-5437-shady-maple-dr",
-              "address": null,
+              "address": "5437 Shady Maple Dr",
               "cityStateZip": "Bessemer, AL 35022",
               "planName": null,
               "price": 404900,
@@ -7577,7 +7577,7 @@
             },
             {
               "id": "alabama-peavine-crossing-329-creek-bend-lane",
-              "address": null,
+              "address": "329 Creek Bend Lane",
               "cityStateZip": "Alabaster, AL 35007",
               "planName": null,
               "price": 377400,
@@ -7978,7 +7978,7 @@
             },
             {
               "id": "alabama-tannehill-12913-hillman-lane",
-              "address": null,
+              "address": "12913 Hillman Lane",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 364900,
@@ -7995,7 +7995,7 @@
             },
             {
               "id": "alabama-tannehill-12918-hillman-lane",
-              "address": null,
+              "address": "12918 Hillman Lane",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 339900,
@@ -8012,7 +8012,7 @@
             },
             {
               "id": "alabama-tannehill-12925-hillman-lane",
-              "address": null,
+              "address": "12925 Hillman Lane",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 339900,
@@ -8029,7 +8029,7 @@
             },
             {
               "id": "alabama-tannehill-12760-collier-curve",
-              "address": null,
+              "address": "12760 Collier Curve",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 314900,
@@ -8046,7 +8046,7 @@
             },
             {
               "id": "alabama-tannehill-12754-collier-curve",
-              "address": null,
+              "address": "12754 Collier Curve",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 329900,
@@ -8063,7 +8063,7 @@
             },
             {
               "id": "alabama-tannehill-12766-collier-curve",
-              "address": null,
+              "address": "12766 Collier Curve",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 334900,
@@ -8080,7 +8080,7 @@
             },
             {
               "id": "alabama-tannehill-12772-collier-curve",
-              "address": null,
+              "address": "12772 Collier Curve",
               "cityStateZip": "Lake View, AL 35111",
               "planName": null,
               "price": 309900,
@@ -8315,7 +8315,7 @@
             },
             {
               "id": "alabama-chelsea-acres-617-foggy-brook-loop",
-              "address": null,
+              "address": "617 Foggy Brook Loop",
               "cityStateZip": "Chelsea, AL 35043",
               "planName": null,
               "price": 334900,
@@ -8836,7 +8836,7 @@
             },
             {
               "id": "alabama-park-ridge-6508-little-goose-dr",
-              "address": null,
+              "address": "6508 Little Goose Dr",
               "cityStateZip": "Trussville, AL 35173",
               "planName": null,
               "price": 492875,
@@ -8870,7 +8870,7 @@
             },
             {
               "id": "alabama-park-ridge-6605-little-goose-dr",
-              "address": null,
+              "address": "6605 Little Goose Dr",
               "cityStateZip": "Trussville, AL 35173",
               "planName": null,
               "price": 439900,
@@ -9122,7 +9122,7 @@
             },
             {
               "id": "alabama-rimel-farms-580-rimel-farms-parkway",
-              "address": null,
+              "address": "580 Rimel Farms Parkway",
               "cityStateZip": "Warrior, AL 35091",
               "planName": null,
               "price": 359900,
@@ -9139,7 +9139,7 @@
             },
             {
               "id": "alabama-rimel-farms-616-wenonah-way",
-              "address": null,
+              "address": "616 Wenonah Way",
               "cityStateZip": "Warrior, AL 35091",
               "planName": null,
               "price": 329400,
@@ -9306,7 +9306,7 @@
             },
             {
               "id": "alabama-chelsea-park-9898-chelsea-park-trail",
-              "address": null,
+              "address": "9898 Chelsea Park Trail",
               "cityStateZip": "Chelsea, AL 35043",
               "planName": null,
               "price": 379900,
@@ -9456,7 +9456,7 @@
             },
             {
               "id": "alabama-stonehenge-215-willoughby-road",
-              "address": null,
+              "address": "215 Willoughby Road",
               "cityStateZip": "Sterrett, AL 35147",
               "planName": null,
               "price": 292900,
@@ -9473,7 +9473,7 @@
             },
             {
               "id": "alabama-stonehenge-240-willoughby-road",
-              "address": null,
+              "address": "240 Willoughby Road",
               "cityStateZip": "Sterrett, AL 35147",
               "planName": null,
               "price": 292900,
@@ -9490,7 +9490,7 @@
             },
             {
               "id": "alabama-stonehenge-241-willoughby-road",
-              "address": null,
+              "address": "241 Willoughby Road",
               "cityStateZip": "Sterrett, AL 35147",
               "planName": null,
               "price": 342900,
@@ -9507,7 +9507,7 @@
             },
             {
               "id": "alabama-stonehenge-248-willoughby-road",
-              "address": null,
+              "address": "248 Willoughby Road",
               "cityStateZip": "Sterrett, AL 35147",
               "planName": null,
               "price": 342900,
@@ -9721,7 +9721,7 @@
             },
             {
               "id": "alabama-aberdeen-616-aberdeen-trc",
-              "address": null,
+              "address": "616 Aberdeen Trc",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 333850,
@@ -9738,7 +9738,7 @@
             },
             {
               "id": "alabama-aberdeen-621-aberdeen-trc",
-              "address": null,
+              "address": "621 Aberdeen Trc",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 307900,
@@ -9755,7 +9755,7 @@
             },
             {
               "id": "alabama-aberdeen-201-aberdeen-loop",
-              "address": null,
+              "address": "201 Aberdeen Loop",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 364900,
@@ -9772,7 +9772,7 @@
             },
             {
               "id": "alabama-aberdeen-24-aberdeen-dr",
-              "address": null,
+              "address": "24 Aberdeen Dr",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 399900,
@@ -9789,7 +9789,7 @@
             },
             {
               "id": "alabama-aberdeen-620-aberdeen-trc",
-              "address": null,
+              "address": "620 Aberdeen Trc",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 297900,
@@ -10573,7 +10573,7 @@
             },
             {
               "id": "alabama-wright-farms-333-archers-brook-way",
-              "address": null,
+              "address": "333 Archers Brook Way",
               "cityStateZip": "Springville, AL 35146",
               "planName": null,
               "price": 339900,
@@ -10590,7 +10590,7 @@
             },
             {
               "id": "alabama-wright-farms-418-archers-brook-way",
-              "address": null,
+              "address": "418 Archers Brook Way",
               "cityStateZip": "Springville, AL 35146",
               "planName": null,
               "price": 309900,
@@ -10607,7 +10607,7 @@
             },
             {
               "id": "alabama-wright-farms-338-archers-brook-way",
-              "address": null,
+              "address": "338 Archers Brook Way",
               "cityStateZip": "Springville, AL 35146",
               "planName": null,
               "price": 377900,
@@ -10624,7 +10624,7 @@
             },
             {
               "id": "alabama-wright-farms-373-archers-brook-way",
-              "address": null,
+              "address": "373 Archers Brook Way",
               "cityStateZip": "Springville, AL 35146",
               "planName": null,
               "price": 374900,
@@ -10825,7 +10825,7 @@
             },
             {
               "id": "alabama-timberline-328-oakmont-cir",
-              "address": null,
+              "address": "328 Oakmont Cir",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 307900,
@@ -10842,7 +10842,7 @@
             },
             {
               "id": "alabama-timberline-341-oakmont-cir",
-              "address": null,
+              "address": "341 Oakmont Cir",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 309900,
@@ -10859,7 +10859,7 @@
             },
             {
               "id": "alabama-timberline-345-oakmont-cir",
-              "address": null,
+              "address": "345 Oakmont Cir",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 314900,
@@ -10876,7 +10876,7 @@
             },
             {
               "id": "alabama-timberline-612-acorn-court",
-              "address": null,
+              "address": "612 Acorn Court",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 319900,
@@ -10893,7 +10893,7 @@
             },
             {
               "id": "alabama-timberline-721-spruce-circle",
-              "address": null,
+              "address": "721 Spruce Circle",
               "cityStateZip": "Calera, AL 35040",
               "planName": null,
               "price": 329900,
@@ -12361,7 +12361,7 @@
             },
             {
               "id": "alabama-highland-hills-200-ruby-elm-avenue-ne",
-              "address": null,
+              "address": "200 Ruby Elm Avenue NE",
               "cityStateZip": "Huntsville, AL 35810",
               "planName": null,
               "price": 313400,
@@ -13026,7 +13026,7 @@
             },
             {
               "id": "alabama-sequoyah-cove-10026-anders-way-se",
-              "address": null,
+              "address": "10026 Anders Way SE",
               "cityStateZip": "Owens Cross Roads, AL 35763",
               "planName": null,
               "price": 324900,
@@ -13043,7 +13043,7 @@
             },
             {
               "id": "alabama-sequoyah-cove-10028-anders-way-se",
-              "address": null,
+              "address": "10028 Anders Way SE",
               "cityStateZip": "Owens Cross Roads, AL 35763",
               "planName": null,
               "price": 311900,
@@ -13227,7 +13227,7 @@
             },
             {
               "id": "alabama-deerfield-380-jackson-point-circle",
-              "address": null,
+              "address": "380 Jackson Point Circle",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 299680,
@@ -13244,7 +13244,7 @@
             },
             {
               "id": "alabama-deerfield-382-jackson-point-circle-unita",
-              "address": null,
+              "address": "382 Jackson Point Circle Unita",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 333400,
@@ -13261,7 +13261,7 @@
             },
             {
               "id": "alabama-deerfield-353-jackson-point-cir",
-              "address": null,
+              "address": "353 Jackson Point Cir",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 334900,
@@ -13278,7 +13278,7 @@
             },
             {
               "id": "alabama-deerfield-244-antler-ridge-dr",
-              "address": null,
+              "address": "244 Antler Ridge Dr",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 281900,
@@ -13295,7 +13295,7 @@
             },
             {
               "id": "alabama-deerfield-378-jackson-point-circle-unita",
-              "address": null,
+              "address": "378 Jackson Point Circle Unita",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 302900,
@@ -13312,7 +13312,7 @@
             },
             {
               "id": "alabama-deerfield-243-antler-ridge-drive",
-              "address": null,
+              "address": "243 Antler Ridge Drive",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 261900,
@@ -13329,7 +13329,7 @@
             },
             {
               "id": "alabama-deerfield-245-antler-ridge-drive",
-              "address": null,
+              "address": "245 Antler Ridge Drive",
               "cityStateZip": "Huntsville, AL 35811",
               "planName": null,
               "price": 282900,
@@ -13428,7 +13428,7 @@
           "availableHomes": [
             {
               "id": "alabama-briercreek-100-meadow-path-drive",
-              "address": null,
+              "address": "100 Meadow Path Drive",
               "cityStateZip": "Meridianville, AL 35759",
               "planName": null,
               "price": 299400,
@@ -13445,7 +13445,7 @@
             },
             {
               "id": "alabama-briercreek-103-samuel-nash-drive",
-              "address": null,
+              "address": "103 Samuel Nash Drive",
               "cityStateZip": "Meridianville, AL 35759",
               "planName": null,
               "price": 304900,
@@ -13462,7 +13462,7 @@
             },
             {
               "id": "alabama-briercreek-200-bramble-creek-drive",
-              "address": null,
+              "address": "200 Bramble Creek Drive",
               "cityStateZip": "Meridianville, AL 35759",
               "planName": null,
               "price": 305900,
@@ -13479,7 +13479,7 @@
             },
             {
               "id": "alabama-briercreek-101-samuel-nash-drive",
-              "address": null,
+              "address": "101 Samuel Nash Drive",
               "cityStateZip": "Meridianville, AL 35759",
               "planName": null,
               "price": 294900,
@@ -14401,7 +14401,7 @@
             },
             {
               "id": "alabama-inverness-springs-28074-saddle-springs-dr-nw",
-              "address": null,
+              "address": "28074 Saddle Springs Dr NW",
               "cityStateZip": "Madison, AL 35756",
               "planName": null,
               "price": 346990,
@@ -14418,7 +14418,7 @@
             },
             {
               "id": "alabama-inverness-springs-13246-gallop-quick-ct-nw",
-              "address": null,
+              "address": "13246 Gallop Quick Ct NW",
               "cityStateZip": "Madison, AL 35756",
               "planName": null,
               "price": 369900,
@@ -14435,7 +14435,7 @@
             },
             {
               "id": "alabama-inverness-springs-13245-gallop-quick-ct-nw",
-              "address": null,
+              "address": "13245 Gallop Quick Ct NW",
               "cityStateZip": "Madison, AL 35756",
               "planName": null,
               "price": 289990,
@@ -15499,7 +15499,7 @@
             },
             {
               "id": "alabama-townsend-farms-190-keller-drive",
-              "address": null,
+              "address": "190 Keller Drive",
               "cityStateZip": "Hazel Green, AL 35750",
               "planName": null,
               "price": 270900,
@@ -15516,7 +15516,7 @@
             },
             {
               "id": "alabama-townsend-farms-193-keller-drive",
-              "address": null,
+              "address": "193 Keller Drive",
               "cityStateZip": "Hazel Green, AL 35750",
               "planName": null,
               "price": 261900,
@@ -15533,7 +15533,7 @@
             },
             {
               "id": "alabama-townsend-farms-195-keller-drive",
-              "address": null,
+              "address": "195 Keller Drive",
               "cityStateZip": "Hazel Green, AL 35750",
               "planName": null,
               "price": 320900,
@@ -15812,7 +15812,7 @@
             },
             {
               "id": "alabama-the-links-at-canebrake-14512-lannister-lane",
-              "address": null,
+              "address": "14512 Lannister Lane",
               "cityStateZip": "Athens, AL 35613",
               "planName": null,
               "price": 372900,
@@ -15829,7 +15829,7 @@
             },
             {
               "id": "alabama-the-links-at-canebrake-14486-lannister-lane",
-              "address": null,
+              "address": "14486 Lannister Lane",
               "cityStateZip": "Athens, AL 35613",
               "planName": null,
               "price": 311900,
@@ -16481,7 +16481,7 @@
             },
             {
               "id": "alabama-hawkins-manor-7356-hawkins-manor-north",
-              "address": null,
+              "address": "7356 Hawkins Manor North",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 351900,
@@ -16498,7 +16498,7 @@
             },
             {
               "id": "alabama-hawkins-manor-7364-hawkins-manor-north",
-              "address": null,
+              "address": "7364 Hawkins Manor North",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 349900,
@@ -16999,7 +16999,7 @@
             },
             {
               "id": "alabama-anglebrook-7610-anglebrook-road-south",
-              "address": null,
+              "address": "7610 Anglebrook Road South",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 328900,
@@ -17016,7 +17016,7 @@
             },
             {
               "id": "alabama-anglebrook-7614-anglebrook-road-south",
-              "address": null,
+              "address": "7614 Anglebrook Road South",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 332650,
@@ -17299,7 +17299,7 @@
             },
             {
               "id": "alabama-heritage-lake-1073-realm-road-east",
-              "address": null,
+              "address": "1073 Realm Road East",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 311900,
@@ -17316,7 +17316,7 @@
             },
             {
               "id": "alabama-heritage-lake-10244-heirloom-road-south",
-              "address": null,
+              "address": "10244 Heirloom Road South",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 377900,
@@ -17333,7 +17333,7 @@
             },
             {
               "id": "alabama-heritage-lake-10256-heirloom-road-south",
-              "address": null,
+              "address": "10256 Heirloom Road South",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 367900,
@@ -17350,7 +17350,7 @@
             },
             {
               "id": "alabama-heritage-lake-10520-relic-road-south",
-              "address": null,
+              "address": "10520 Relic Road South",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 311900,
@@ -17367,7 +17367,7 @@
             },
             {
               "id": "alabama-heritage-lake-1104-relic-road-west",
-              "address": null,
+              "address": "1104 Relic Road West",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 310900,
@@ -17384,7 +17384,7 @@
             },
             {
               "id": "alabama-heritage-lake-10395-heirloom-road-south",
-              "address": null,
+              "address": "10395 Heirloom Road South",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 430400,
@@ -17401,7 +17401,7 @@
             },
             {
               "id": "alabama-heritage-lake-1053-realm-road-east",
-              "address": null,
+              "address": "1053 Realm Road East",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 320900,
@@ -17418,7 +17418,7 @@
             },
             {
               "id": "alabama-heritage-lake-1063-realm-road-east",
-              "address": null,
+              "address": "1063 Realm Road East",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 336900,
@@ -17435,7 +17435,7 @@
             },
             {
               "id": "alabama-heritage-lake-10407-heirloom-road-south",
-              "address": null,
+              "address": "10407 Heirloom Road South",
               "cityStateZip": "Mobile, AL 36608",
               "planName": null,
               "price": 447900,
@@ -17602,7 +17602,7 @@
             },
             {
               "id": "alabama-valor-ridge-4479-valor-ridge-way-west",
-              "address": null,
+              "address": "4479 Valor Ridge Way West",
               "cityStateZip": "Mobile, AL 36619",
               "planName": null,
               "price": 333900,
@@ -17619,7 +17619,7 @@
             },
             {
               "id": "alabama-valor-ridge-4506-valor-ridge-way-west",
-              "address": null,
+              "address": "4506 Valor Ridge Way West",
               "cityStateZip": "Mobile, AL 36619",
               "planName": null,
               "price": 333900,
@@ -17837,7 +17837,7 @@
             },
             {
               "id": "alabama-rossfield-10310-lowell-street-east",
-              "address": null,
+              "address": "10310 Lowell Street East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 274900,
@@ -17854,7 +17854,7 @@
             },
             {
               "id": "alabama-rossfield-10314-lowell-street-east",
-              "address": null,
+              "address": "10314 Lowell Street East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 299900,
@@ -17871,7 +17871,7 @@
             },
             {
               "id": "alabama-rossfield-10318-lowell-street-east",
-              "address": null,
+              "address": "10318 Lowell Street East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 323900,
@@ -17888,7 +17888,7 @@
             },
             {
               "id": "alabama-rossfield-10326-lowell-street-east",
-              "address": null,
+              "address": "10326 Lowell Street East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 299900,
@@ -17905,7 +17905,7 @@
             },
             {
               "id": "alabama-rossfield-10330-fletcher-terrace-east",
-              "address": null,
+              "address": "10330 Fletcher Terrace East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 342900,
@@ -17922,7 +17922,7 @@
             },
             {
               "id": "alabama-rossfield-10342-fletcher-terrace-east",
-              "address": null,
+              "address": "10342 Fletcher Terrace East",
               "cityStateZip": "Mobile, AL 36695",
               "planName": null,
               "price": 342900,
@@ -19166,7 +19166,7 @@
             },
             {
               "id": "alabama-taylor-lakes-4817-monarch-pass",
-              "address": null,
+              "address": "4817 Monarch Pass",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 380900,
@@ -19316,7 +19316,7 @@
             },
             {
               "id": "alabama-patriot-farms-733-patriot-drive",
-              "address": null,
+              "address": "733 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 355900,
@@ -19333,7 +19333,7 @@
             },
             {
               "id": "alabama-patriot-farms-741-patriot-drive",
-              "address": null,
+              "address": "741 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 315900,
@@ -19350,7 +19350,7 @@
             },
             {
               "id": "alabama-patriot-farms-745-patriot-drive",
-              "address": null,
+              "address": "745 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 359900,
@@ -19367,7 +19367,7 @@
             },
             {
               "id": "alabama-patriot-farms-768-patriot-drive",
-              "address": null,
+              "address": "768 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 268900,
@@ -19384,7 +19384,7 @@
             },
             {
               "id": "alabama-patriot-farms-776-patriot-drive",
-              "address": null,
+              "address": "776 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 308900,
@@ -19401,7 +19401,7 @@
             },
             {
               "id": "alabama-patriot-farms-780-patriot-drive",
-              "address": null,
+              "address": "780 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 313900,
@@ -19418,7 +19418,7 @@
             },
             {
               "id": "alabama-patriot-farms-7994-valor-way",
-              "address": null,
+              "address": "7994 Valor Way",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 343460,
@@ -19435,7 +19435,7 @@
             },
             {
               "id": "alabama-patriot-farms-816-patriot-drive",
-              "address": null,
+              "address": "816 Patriot Drive",
               "cityStateZip": "Pike Road, AL 36064",
               "planName": null,
               "price": 293900,
@@ -19636,7 +19636,7 @@
             },
             {
               "id": "alabama-chase-creek-3130-leo-lane",
-              "address": null,
+              "address": "3130 Leo Lane",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 275900,
@@ -19653,7 +19653,7 @@
             },
             {
               "id": "alabama-chase-creek-3212-knotts-drive",
-              "address": null,
+              "address": "3212 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 334400,
@@ -19670,7 +19670,7 @@
             },
             {
               "id": "alabama-chase-creek-3324-knotts-drive",
-              "address": null,
+              "address": "3324 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 334400,
@@ -19687,7 +19687,7 @@
             },
             {
               "id": "alabama-chase-creek-3328-knotts-drive",
-              "address": null,
+              "address": "3328 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 354400,
@@ -19704,7 +19704,7 @@
             },
             {
               "id": "alabama-chase-creek-3400-knotts-drive",
-              "address": null,
+              "address": "3400 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 312400,
@@ -19721,7 +19721,7 @@
             },
             {
               "id": "alabama-chase-creek-3408-knotts-drive",
-              "address": null,
+              "address": "3408 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 296400,
@@ -19738,7 +19738,7 @@
             },
             {
               "id": "alabama-chase-creek-3411-knotts-drive",
-              "address": null,
+              "address": "3411 Knotts Drive",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 379900,
@@ -19755,7 +19755,7 @@
             },
             {
               "id": "alabama-chase-creek-7405-bayne-circle",
-              "address": null,
+              "address": "7405 Bayne Circle",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 274900,
@@ -19772,7 +19772,7 @@
             },
             {
               "id": "alabama-chase-creek-7408-bayne-circle",
-              "address": null,
+              "address": "7408 Bayne Circle",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 255900,
@@ -19789,7 +19789,7 @@
             },
             {
               "id": "alabama-chase-creek-7413-bayne-circle",
-              "address": null,
+              "address": "7413 Bayne Circle",
               "cityStateZip": "Montgomery, AL 36116",
               "planName": null,
               "price": 266900,
@@ -20307,7 +20307,7 @@
             },
             {
               "id": "alabama-mclemore-spur-7370-orange-blossom-way",
-              "address": null,
+              "address": "7370 Orange Blossom Way",
               "cityStateZip": "Montgomery, AL 36117",
               "planName": null,
               "price": 329400,
@@ -20593,7 +20593,7 @@
             },
             {
               "id": "alabama-laurel-ridge-70-clemmensen-street",
-              "address": null,
+              "address": "70 Clemmensen Street",
               "cityStateZip": "Wetumpka, AL 36093",
               "planName": null,
               "price": 378900,
@@ -21201,7 +21201,7 @@
             },
             {
               "id": "alabama-sagebrush-129-sagebrush-drive",
-              "address": null,
+              "address": "129 Sagebrush Drive",
               "cityStateZip": "Headland, AL 36345",
               "planName": null,
               "price": 244900,
@@ -21467,7 +21467,7 @@
             },
             {
               "id": "alabama-heritage-ridge-107-heritage-way",
-              "address": null,
+              "address": "107 Heritage Way",
               "cityStateZip": "Headland, AL 36345",
               "planName": null,
               "price": 329400,
@@ -21484,7 +21484,7 @@
             },
             {
               "id": "alabama-heritage-ridge-311-heritage-way",
-              "address": null,
+              "address": "311 Heritage Way",
               "cityStateZip": "Headland, AL 36345",
               "planName": null,
               "price": 379400,
@@ -21699,7 +21699,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-124-red-deer-trace-unit-6",
-              "address": null,
+              "address": "124 Red Deer Trace Unit 6",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 197900,
@@ -21716,7 +21716,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-124-red-deer-trace-unit-7",
-              "address": null,
+              "address": "124 Red Deer Trace Unit 7",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 218950,
@@ -21733,7 +21733,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-163-red-deer-trace-unit-1",
-              "address": null,
+              "address": "163 Red Deer Trace Unit 1",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 212900,
@@ -21750,7 +21750,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-163-red-deer-trace-unit-3",
-              "address": null,
+              "address": "163 Red Deer Trace Unit 3",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 197900,
@@ -21767,7 +21767,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-163-red-deer-trace-unit-4",
-              "address": null,
+              "address": "163 Red Deer Trace Unit 4",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 197900,
@@ -21784,7 +21784,7 @@
             },
             {
               "id": "alabama-buckhead-townhomes-163-red-deer-trace-unit-5",
-              "address": null,
+              "address": "163 Red Deer Trace Unit 5",
               "cityStateZip": "Dothan, AL 36301",
               "planName": null,
               "price": 197900,
@@ -22402,7 +22402,7 @@
             },
             {
               "id": "alabama-cypress-creek-4462-henry-road",
-              "address": null,
+              "address": "4462 Henry Road",
               "cityStateZip": "Tuscaloosa, AL 35405",
               "planName": null,
               "price": 267900,
@@ -23005,7 +23005,7 @@
             },
             {
               "id": "alabama-caffee-place-18588-blocton-drive",
-              "address": null,
+              "address": "18588 Blocton Drive",
               "cityStateZip": "Vance, AL 35490",
               "planName": null,
               "price": 287400,
@@ -23022,7 +23022,7 @@
             },
             {
               "id": "alabama-caffee-place-18746-caffee-drive",
-              "address": null,
+              "address": "18746 Caffee Drive",
               "cityStateZip": "Vance, AL 35490",
               "planName": null,
               "price": 279400,
@@ -23039,7 +23039,7 @@
             },
             {
               "id": "alabama-caffee-place-18794-caffee-drive",
-              "address": null,
+              "address": "18794 Caffee Drive",
               "cityStateZip": "Vance, AL 35490",
               "planName": null,
               "price": 256950,

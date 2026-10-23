@@ -67,7 +67,7 @@
           "availableHomes": [
             {
               "id": "oregon-ponderosa-62615-ne-lawler-place",
-              "address": null,
+              "address": "62615 NE Lawler Place",
               "cityStateZip": "Bend, OR 97701",
               "planName": null,
               "price": 395995,
@@ -132,7 +132,7 @@
           "availableHomes": [
             {
               "id": "oregon-stevens-ranch-townhomes-61739-se-santorini-street",
-              "address": null,
+              "address": "61739 SE Santorini Street",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 419995,
@@ -149,7 +149,7 @@
             },
             {
               "id": "oregon-stevens-ranch-townhomes-61743-se-santorini-street",
-              "address": null,
+              "address": "61743 SE Santorini Street",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 424995,
@@ -166,7 +166,7 @@
             },
             {
               "id": "oregon-stevens-ranch-townhomes-61751-se-santorini-street",
-              "address": null,
+              "address": "61751 SE Santorini Street",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 444995,
@@ -231,7 +231,7 @@
           "availableHomes": [
             {
               "id": "oregon-stevens-ranch-21545-se-etna-place",
-              "address": null,
+              "address": "21545 SE Etna Place",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 614995,
@@ -248,7 +248,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21548-se-etna-place",
-              "address": null,
+              "address": "21548 SE Etna Place",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 629995,
@@ -265,7 +265,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21549-se-etna-place",
-              "address": null,
+              "address": "21549 SE Etna Place",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 637995,
@@ -282,7 +282,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21709-se-stromboli-lane",
-              "address": null,
+              "address": "21709 SE Stromboli Lane",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 559995,
@@ -299,7 +299,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21357-se-kilimanjaro-loop",
-              "address": null,
+              "address": "21357 SE Kilimanjaro Loop",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 599995,
@@ -316,7 +316,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21556-se-etna-place",
-              "address": null,
+              "address": "21556 SE Etna Place",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 664995,
@@ -333,7 +333,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21717-se-stromboli-lane",
-              "address": null,
+              "address": "21717 SE Stromboli Lane",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 584995,
@@ -350,7 +350,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21756-se-stromboli-lane",
-              "address": null,
+              "address": "21756 SE Stromboli Lane",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 605995,
@@ -367,7 +367,7 @@
             },
             {
               "id": "oregon-stevens-ranch-21812-se-stromboli-court",
-              "address": null,
+              "address": "21812 SE Stromboli Court",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 699995,
@@ -432,7 +432,7 @@
           "availableHomes": [
             {
               "id": "oregon-thunder-ridge-61016-se-buxton-loop",
-              "address": null,
+              "address": "61016 SE Buxton Loop",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 429995,
@@ -449,7 +449,7 @@
             },
             {
               "id": "oregon-thunder-ridge-61018-se-buxton-loop",
-              "address": null,
+              "address": "61018 SE Buxton Loop",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 429995,
@@ -466,7 +466,7 @@
             },
             {
               "id": "oregon-thunder-ridge-61209-parrell-rd",
-              "address": null,
+              "address": "61209 Parrell Rd",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 380995,
@@ -483,7 +483,7 @@
             },
             {
               "id": "oregon-thunder-ridge-61211-parrell-rd",
-              "address": null,
+              "address": "61211 Parrell Rd",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 384995,
@@ -500,7 +500,7 @@
             },
             {
               "id": "oregon-thunder-ridge-61219-parrell-rd",
-              "address": null,
+              "address": "61219 Parrell Rd",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 389995,
@@ -517,7 +517,7 @@
             },
             {
               "id": "oregon-thunder-ridge-61225-parrell-rd",
-              "address": null,
+              "address": "61225 Parrell Rd",
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
               "price": 379995,
@@ -671,7 +671,7 @@
             },
             {
               "id": "oregon-bailey-meadows-3755-ash-street",
-              "address": null,
+              "address": "3755 Ash Street",
               "cityStateZip": "Forest Grove, OR 97116",
               "planName": null,
               "price": 574995,
@@ -688,7 +688,7 @@
             },
             {
               "id": "oregon-bailey-meadows-3774-ash-street",
-              "address": null,
+              "address": "3774 Ash Street",
               "cityStateZip": "Forest Grove, OR 97116",
               "planName": null,
               "price": 524995,
@@ -838,7 +838,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3490-sw-royal-avenue",
-              "address": null,
+              "address": "3490 SW Royal Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 407995,
@@ -855,7 +855,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3512-sw-royal-avenue",
-              "address": null,
+              "address": "3512 SW Royal Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 414995,
@@ -872,7 +872,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3517-sw-hartley-avenue",
-              "address": null,
+              "address": "3517 SW Hartley Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 414995,
@@ -889,7 +889,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3520-sw-royal-avenue",
-              "address": null,
+              "address": "3520 SW Royal Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 414995,
@@ -906,7 +906,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3531-sw-hartley-avenue",
-              "address": null,
+              "address": "3531 SW Hartley Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 407995,
@@ -923,7 +923,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3534-sw-royal-avenue",
-              "address": null,
+              "address": "3534 SW Royal Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 407995,
@@ -940,7 +940,7 @@
             },
             {
               "id": "oregon-terrace-at-pleasant-valley-3559-sw-hartley-avenue",
-              "address": null,
+              "address": "3559 SW Hartley Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 379995,
@@ -1073,7 +1073,7 @@
             },
             {
               "id": "oregon-avery-terrace-16671-se-wintergreen-street",
-              "address": null,
+              "address": "16671 SE Wintergreen Street",
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
               "price": 634995,
@@ -1090,7 +1090,7 @@
             },
             {
               "id": "oregon-avery-terrace-9310-se-162nd-avenue",
-              "address": null,
+              "address": "9310 SE 162nd Avenue",
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
               "price": 604995,
@@ -1107,7 +1107,7 @@
             },
             {
               "id": "oregon-avery-terrace-9328-se-162nd-avenue",
-              "address": null,
+              "address": "9328 SE 162nd Avenue",
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
               "price": 584995,
@@ -1257,7 +1257,7 @@
             },
             {
               "id": "oregon-butler-creek-crossing-2414-sw-37th-street",
-              "address": null,
+              "address": "2414 SW 37th Street",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 534995,
@@ -1274,7 +1274,7 @@
             },
             {
               "id": "oregon-butler-creek-crossing-2419-sw-39th-street",
-              "address": null,
+              "address": "2419 SW 39th Street",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 509995,
@@ -1291,7 +1291,7 @@
             },
             {
               "id": "oregon-butler-creek-crossing-2431-sw-39th-street",
-              "address": null,
+              "address": "2431 SW 39th Street",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 534995,
@@ -1308,7 +1308,7 @@
             },
             {
               "id": "oregon-butler-creek-crossing-3860-sw-eleven-mile-avenue",
-              "address": null,
+              "address": "3860 SW Eleven Mile Avenue",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 490995,
@@ -1441,7 +1441,7 @@
             },
             {
               "id": "oregon-the-vineyards-at-blue-pearl-6224-se-lusted-road",
-              "address": null,
+              "address": "6224 SE Lusted Road",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 396995,
@@ -1458,7 +1458,7 @@
             },
             {
               "id": "oregon-the-vineyards-at-blue-pearl-6236-se-lusted-road",
-              "address": null,
+              "address": "6236 SE Lusted Road",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 389995,
@@ -1475,7 +1475,7 @@
             },
             {
               "id": "oregon-the-vineyards-at-blue-pearl-6203-se-15th-street",
-              "address": null,
+              "address": "6203 SE 15th Street",
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
               "price": 379995,
@@ -1623,7 +1623,7 @@
           "availableHomes": [
             {
               "id": "oregon-addysen-park-2595-addysen-park-way",
-              "address": null,
+              "address": "2595 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 424995,
@@ -1640,7 +1640,7 @@
             },
             {
               "id": "oregon-addysen-park-2643-addysen-park-way",
-              "address": null,
+              "address": "2643 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 439995,
@@ -1657,7 +1657,7 @@
             },
             {
               "id": "oregon-addysen-park-2651-addysen-park-way",
-              "address": null,
+              "address": "2651 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 434995,
@@ -1674,7 +1674,7 @@
             },
             {
               "id": "oregon-addysen-park-2578-addysen-park-way",
-              "address": null,
+              "address": "2578 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 459995,
@@ -1691,7 +1691,7 @@
             },
             {
               "id": "oregon-addysen-park-2586-addysen-park-way",
-              "address": null,
+              "address": "2586 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 441995,
@@ -1708,7 +1708,7 @@
             },
             {
               "id": "oregon-addysen-park-2594-addysen-park-way",
-              "address": null,
+              "address": "2594 Addysen Park Way",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 479995,
@@ -1725,7 +1725,7 @@
             },
             {
               "id": "oregon-addysen-park-2639-dakota-ave",
-              "address": null,
+              "address": "2639 Dakota Ave",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 399995,
@@ -1742,7 +1742,7 @@
             },
             {
               "id": "oregon-addysen-park-504-dawn-court",
-              "address": null,
+              "address": "504 Dawn Court",
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
               "price": 449995,
@@ -1843,7 +1843,7 @@
           "availableHomes": [
             {
               "id": "oregon-east-park-village-440-reno-street-ne",
-              "address": null,
+              "address": "440 Reno Street NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 399995,
@@ -1860,7 +1860,7 @@
             },
             {
               "id": "oregon-east-park-village-455-pietro-street-ne",
-              "address": null,
+              "address": "455 Pietro Street NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 454995,
@@ -1877,7 +1877,7 @@
             },
             {
               "id": "oregon-east-park-village-4941-elvis-avenue-ne",
-              "address": null,
+              "address": "4941 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 484995,
@@ -1894,7 +1894,7 @@
             },
             {
               "id": "oregon-east-park-village-432-reno-street-ne",
-              "address": null,
+              "address": "432 Reno Street NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 414995,
@@ -1911,7 +1911,7 @@
             },
             {
               "id": "oregon-east-park-village-444-reno-street-ne",
-              "address": null,
+              "address": "444 Reno Street NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 474995,
@@ -1928,7 +1928,7 @@
             },
             {
               "id": "oregon-east-park-village-467-pietro-street-ne",
-              "address": null,
+              "address": "467 Pietro Street NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 414995,
@@ -1945,7 +1945,7 @@
             },
             {
               "id": "oregon-east-park-village-4958-elvis-avenue-ne",
-              "address": null,
+              "address": "4958 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 454995,
@@ -1962,7 +1962,7 @@
             },
             {
               "id": "oregon-east-park-village-4964-elvis-avenue-ne",
-              "address": null,
+              "address": "4964 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 489995,
@@ -1979,7 +1979,7 @@
             },
             {
               "id": "oregon-east-park-village-4965-elvis-avenue-ne",
-              "address": null,
+              "address": "4965 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 474995,
@@ -1996,7 +1996,7 @@
             },
             {
               "id": "oregon-east-park-village-4971-elvis-avenue-ne",
-              "address": null,
+              "address": "4971 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 449995,
@@ -2013,7 +2013,7 @@
             },
             {
               "id": "oregon-east-park-village-4972-elvis-avenue-ne",
-              "address": null,
+              "address": "4972 Elvis Avenue NE",
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
               "price": 449995,
@@ -2095,7 +2095,7 @@
           "availableHomes": [
             {
               "id": "oregon-landau-heights-2705-soapstone-avenue-se",
-              "address": null,
+              "address": "2705 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 553995,
@@ -2112,7 +2112,7 @@
             },
             {
               "id": "oregon-landau-heights-2713-soapstone-avenue-se",
-              "address": null,
+              "address": "2713 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 549995,
@@ -2129,7 +2129,7 @@
             },
             {
               "id": "oregon-landau-heights-5788-granger-street-se",
-              "address": null,
+              "address": "5788 Granger Street SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 549995,
@@ -2146,7 +2146,7 @@
             },
             {
               "id": "oregon-landau-heights-5794-granger-street-se",
-              "address": null,
+              "address": "5794 Granger Street SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 564995,
@@ -2163,7 +2163,7 @@
             },
             {
               "id": "oregon-landau-heights-2632-landau-street-se",
-              "address": null,
+              "address": "2632 Landau Street SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 559995,
@@ -2180,7 +2180,7 @@
             },
             {
               "id": "oregon-landau-heights-2648-landau-street-se",
-              "address": null,
+              "address": "2648 Landau Street SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 539995,
@@ -2197,7 +2197,7 @@
             },
             {
               "id": "oregon-landau-heights-2649-soapstone-avenue-se",
-              "address": null,
+              "address": "2649 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 504995,
@@ -2214,7 +2214,7 @@
             },
             {
               "id": "oregon-landau-heights-2663-soapstone-avenue-se",
-              "address": null,
+              "address": "2663 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 572995,
@@ -2231,7 +2231,7 @@
             },
             {
               "id": "oregon-landau-heights-2689-soapstone-avenue-se",
-              "address": null,
+              "address": "2689 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 547995,
@@ -2248,7 +2248,7 @@
             },
             {
               "id": "oregon-landau-heights-2697-soapstone-avenue-se",
-              "address": null,
+              "address": "2697 Soapstone Avenue SE",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 549995,
@@ -2347,7 +2347,7 @@
           "availableHomes": [
             {
               "id": "oregon-sorrento-estates-2176-veneta-avenue-south",
-              "address": null,
+              "address": "2176 Veneta Avenue South",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 621995,
@@ -2364,7 +2364,7 @@
             },
             {
               "id": "oregon-sorrento-estates-2188-veneta-avenue-south",
-              "address": null,
+              "address": "2188 Veneta Avenue South",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 624995,
@@ -2381,7 +2381,7 @@
             },
             {
               "id": "oregon-sorrento-estates-2197-veneta-avenue-south",
-              "address": null,
+              "address": "2197 Veneta Avenue South",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 589995,
@@ -2398,7 +2398,7 @@
             },
             {
               "id": "oregon-sorrento-estates-2293-veneta-avenue-south",
-              "address": null,
+              "address": "2293 Veneta Avenue South",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 614995,
@@ -2415,7 +2415,7 @@
             },
             {
               "id": "oregon-sorrento-estates-2281-veneta-avenue-south",
-              "address": null,
+              "address": "2281 Veneta Avenue South",
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
               "price": 599995,

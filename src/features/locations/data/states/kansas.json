@@ -75,7 +75,7 @@
           "availableHomes": [
             {
               "id": "kansas-stony-point-meadows-709-n-86th-ter",
-              "address": null,
+              "address": "709 N 86th Ter",
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
               "price": 339990,
@@ -92,7 +92,7 @@
             },
             {
               "id": "kansas-stony-point-meadows-710-n-86th-ter",
-              "address": null,
+              "address": "710 N 86th Ter",
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
               "price": 371990,
@@ -109,7 +109,7 @@
             },
             {
               "id": "kansas-stony-point-meadows-713-n-86th-ter",
-              "address": null,
+              "address": "713 N 86th Ter",
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
               "price": 376990,
@@ -126,7 +126,7 @@
             },
             {
               "id": "kansas-stony-point-meadows-717-n-86th-ter",
-              "address": null,
+              "address": "717 N 86th Ter",
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
               "price": 365990,
@@ -306,7 +306,7 @@
             },
             {
               "id": "kansas-parkside-reserve-16798-s-loiret-st",
-              "address": null,
+              "address": "16798 S Loiret St",
               "cityStateZip": "Olathe, KS 66062",
               "planName": null,
               "price": 632990,
@@ -700,7 +700,7 @@
             },
             {
               "id": "kansas-prairie-trace-25031-178th-ter",
-              "address": null,
+              "address": "25031 178th Ter",
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
               "price": 486990,
@@ -717,7 +717,7 @@
             },
             {
               "id": "kansas-prairie-trace-25230-w-177th-terr",
-              "address": null,
+              "address": "25230 W 177th Terr",
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
               "price": 414990,
@@ -734,7 +734,7 @@
             },
             {
               "id": "kansas-prairie-trace-25243-w-177th-ter",
-              "address": null,
+              "address": "25243 W 177th Ter",
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
               "price": 404990,
@@ -751,7 +751,7 @@
             },
             {
               "id": "kansas-prairie-trace-25254-w-177th-ter",
-              "address": null,
+              "address": "25254 W 177th Ter",
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
               "price": 419990,
@@ -952,7 +952,7 @@
             },
             {
               "id": "kansas-dayton-creek-18812-bittersweet-dr",
-              "address": null,
+              "address": "18812 Bittersweet Dr",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 602990,
@@ -969,7 +969,7 @@
             },
             {
               "id": "kansas-dayton-creek-18824-bittersweet-dr",
-              "address": null,
+              "address": "18824 Bittersweet Dr",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 619990,
@@ -986,7 +986,7 @@
             },
             {
               "id": "kansas-dayton-creek-20752-w-188th-st",
-              "address": null,
+              "address": "20752 W 188th St",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 513990,
@@ -1003,7 +1003,7 @@
             },
             {
               "id": "kansas-dayton-creek-20757-w-188th-ter",
-              "address": null,
+              "address": "20757 W 188th Ter",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 522990,
@@ -1020,7 +1020,7 @@
             },
             {
               "id": "kansas-dayton-creek-20827-w-188th-terr",
-              "address": null,
+              "address": "20827 W 188th Terr",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 499990,
@@ -1037,7 +1037,7 @@
             },
             {
               "id": "kansas-dayton-creek-20941-w-188th-ter",
-              "address": null,
+              "address": "20941 W 188th Ter",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 529990,
@@ -1054,7 +1054,7 @@
             },
             {
               "id": "kansas-dayton-creek-21011-w-188th-ter",
-              "address": null,
+              "address": "21011 W 188th Ter",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 548990,
@@ -1204,7 +1204,7 @@
             },
             {
               "id": "kansas-woodland-crossing-20059-cornice-st",
-              "address": null,
+              "address": "20059 Cornice St",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 414990,
@@ -1221,7 +1221,7 @@
             },
             {
               "id": "kansas-woodland-crossing-20113-cornice-street",
-              "address": null,
+              "address": "20113 Cornice Street",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 399990,
@@ -1452,7 +1452,7 @@
             },
             {
               "id": "kansas-maplewood-valley-21090-w-217th-st",
-              "address": null,
+              "address": "21090 W 217th St",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
               "price": 389990,

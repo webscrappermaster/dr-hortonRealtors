@@ -1071,7 +1071,7 @@
             },
             {
               "id": "virginia-spring-lakes-0032",
-              "address": null,
+              "address": "0032",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 441990,
@@ -1088,7 +1088,7 @@
             },
             {
               "id": "virginia-spring-lakes-0034",
-              "address": null,
+              "address": "0034",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 421845,
@@ -1105,7 +1105,7 @@
             },
             {
               "id": "virginia-spring-lakes-0033",
-              "address": null,
+              "address": "0033",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 419990,
@@ -1122,7 +1122,7 @@
             },
             {
               "id": "virginia-spring-lakes-0038",
-              "address": null,
+              "address": "0038",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 399990,
@@ -1139,7 +1139,7 @@
             },
             {
               "id": "virginia-spring-lakes-0037",
-              "address": null,
+              "address": "0037",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 414990,
@@ -1156,7 +1156,7 @@
             },
             {
               "id": "virginia-spring-lakes-0039",
-              "address": null,
+              "address": "0039",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
               "price": 399990,
@@ -1430,7 +1430,7 @@
             },
             {
               "id": "virginia-the-townes-at-riverview-18-w-strasburg-road",
-              "address": null,
+              "address": "18 W Strasburg Road",
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
               "price": 379990,
@@ -1447,7 +1447,7 @@
             },
             {
               "id": "virginia-the-townes-at-riverview-24-w-strasburg-road",
-              "address": null,
+              "address": "24 W Strasburg Road",
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
               "price": 379990,
@@ -1464,7 +1464,7 @@
             },
             {
               "id": "virginia-the-townes-at-riverview-26-w-strasburg-road",
-              "address": null,
+              "address": "26 W Strasburg Road",
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
               "price": 389990,
@@ -1529,7 +1529,7 @@
           "availableHomes": [
             {
               "id": "virginia-innovation-town-center-8903-curie-street",
-              "address": null,
+              "address": "8903 Curie Street",
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
               "price": 599990,
@@ -1546,7 +1546,7 @@
             },
             {
               "id": "virginia-innovation-town-center-11334-hypatia-loop",
-              "address": null,
+              "address": "11334 Hypatia Loop",
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
               "price": 684990,
@@ -1563,7 +1563,7 @@
             },
             {
               "id": "virginia-innovation-town-center-11336-hypatia-loop",
-              "address": null,
+              "address": "11336 Hypatia Loop",
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
               "price": 684990,
@@ -1713,7 +1713,7 @@
           "availableHomes": [
             {
               "id": "virginia-meadowbrook-420-sophie-street",
-              "address": null,
+              "address": "420 Sophie Street",
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
               "price": 338240,
@@ -1730,7 +1730,7 @@
             },
             {
               "id": "virginia-meadowbrook-430-sophie-street",
-              "address": null,
+              "address": "430 Sophie Street",
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
               "price": 336240,
@@ -1944,7 +1944,7 @@
             },
             {
               "id": "virginia-valley-view-106-bookers-crest-drive",
-              "address": null,
+              "address": "106 Bookers Crest Drive",
               "cityStateZip": "Stephens City, VA 22655",
               "planName": null,
               "price": 545990,
@@ -2043,7 +2043,7 @@
           "availableHomes": [
             {
               "id": "virginia-retreat-at-winding-creek-townhomes-171-sioux-loop",
-              "address": null,
+              "address": "171 Sioux Loop",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 359990,
@@ -2060,7 +2060,7 @@
             },
             {
               "id": "virginia-retreat-at-winding-creek-townhomes-173-sioux-loop",
-              "address": null,
+              "address": "173 Sioux Loop",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 365990,
@@ -2077,7 +2077,7 @@
             },
             {
               "id": "virginia-retreat-at-winding-creek-townhomes-141-sioux-loop",
-              "address": null,
+              "address": "141 Sioux Loop",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 378645,
@@ -2227,7 +2227,7 @@
             },
             {
               "id": "virginia-retreat-at-winding-creek-143-wappinger-terrace",
-              "address": null,
+              "address": "143 Wappinger Terrace",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 579990,
@@ -2244,7 +2244,7 @@
             },
             {
               "id": "virginia-retreat-at-winding-creek-112-wappinger-terrace",
-              "address": null,
+              "address": "112 Wappinger Terrace",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 589990,
@@ -2360,7 +2360,7 @@
           "availableHomes": [
             {
               "id": "virginia-willow-run-243-hydrangea-way",
-              "address": null,
+              "address": "243 Hydrangea Way",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 558490,
@@ -2377,7 +2377,7 @@
             },
             {
               "id": "virginia-willow-run-239-hydrangea-way",
-              "address": null,
+              "address": "239 Hydrangea Way",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 589990,
@@ -2394,7 +2394,7 @@
             },
             {
               "id": "virginia-willow-run-232-hydrangea-way",
-              "address": null,
+              "address": "232 Hydrangea Way",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 609990,
@@ -2411,7 +2411,7 @@
             },
             {
               "id": "virginia-willow-run-137-trellis-view-lane",
-              "address": null,
+              "address": "137 Trellis View Lane",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 489990,
@@ -2428,7 +2428,7 @@
             },
             {
               "id": "virginia-willow-run-241-hydrangea-way",
-              "address": null,
+              "address": "241 Hydrangea Way",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 589990,
@@ -2445,7 +2445,7 @@
             },
             {
               "id": "virginia-willow-run-hydrangea-way-lot-57",
-              "address": null,
+              "address": "Hydrangea Way Lot 57",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 607990,
@@ -2462,7 +2462,7 @@
             },
             {
               "id": "virginia-willow-run-lot-90---hydrangea-way",
-              "address": null,
+              "address": "Lot 90 Hydrangea Way",
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
               "price": 646045,
@@ -3031,7 +3031,7 @@
             },
             {
               "id": "virginia-sierra-ridge-3739-sierra-crossing",
-              "address": null,
+              "address": "3739 Sierra Crossing",
               "cityStateZip": "King George, VA 22485",
               "planName": null,
               "price": 604990,
@@ -3238,7 +3238,7 @@
             },
             {
               "id": "virginia-oak-crest-townhomes-8710-coastal-terrace",
-              "address": null,
+              "address": "8710 Coastal Terrace",
               "cityStateZip": "Mechanicsville, VA 23111",
               "planName": null,
               "price": 474990,
@@ -3701,7 +3701,7 @@
             },
             {
               "id": "virginia-anchor-point-3925-schooner-ln",
-              "address": null,
+              "address": "3925 Schooner Ln",
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
               "price": 319990,
@@ -3718,7 +3718,7 @@
             },
             {
               "id": "virginia-anchor-point-3937-schooner-ln",
-              "address": null,
+              "address": "3937 Schooner Ln",
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
               "price": 314740,
@@ -3966,7 +3966,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-16907-barmer-rd",
-              "address": null,
+              "address": "16907 Barmer Rd",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 834740,
@@ -3983,7 +3983,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-16914-barmer-rd",
-              "address": null,
+              "address": "16914 Barmer Rd",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 722740,
@@ -4000,7 +4000,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-16925-barmer-rd",
-              "address": null,
+              "address": "16925 Barmer Rd",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 699740,
@@ -4017,7 +4017,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-16931-barmer-rd",
-              "address": null,
+              "address": "16931 Barmer Rd",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 684990,
@@ -4034,7 +4034,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-8807-midmay-ter",
-              "address": null,
+              "address": "8807 Midmay Ter",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 689990,
@@ -4051,7 +4051,7 @@
             },
             {
               "id": "virginia-copper-grove-at-harpers-mill-16824-copperland-ct",
-              "address": null,
+              "address": "16824 Copperland Ct",
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
               "price": 659990,
@@ -4535,7 +4535,7 @@
             },
             {
               "id": "virginia-ladysmith-village-17399-riverside-dr",
-              "address": null,
+              "address": "17399 Riverside Dr",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 367740,
@@ -4552,7 +4552,7 @@
             },
             {
               "id": "virginia-ladysmith-village-17401-riverside-dr",
-              "address": null,
+              "address": "17401 Riverside Dr",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 367740,
@@ -4569,7 +4569,7 @@
             },
             {
               "id": "virginia-ladysmith-village-17403-riverside-dr",
-              "address": null,
+              "address": "17403 Riverside Dr",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 377740,
@@ -4586,7 +4586,7 @@
             },
             {
               "id": "virginia-ladysmith-village-17480-clark--york-boulevard",
-              "address": null,
+              "address": "17480 Clark York Boulevard",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 513740,
@@ -4603,7 +4603,7 @@
             },
             {
               "id": "virginia-ladysmith-village-6235-sterling-way",
-              "address": null,
+              "address": "6235 Sterling Way",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 542740,
@@ -4620,7 +4620,7 @@
             },
             {
               "id": "virginia-ladysmith-village-6245-sterling-way",
-              "address": null,
+              "address": "6245 Sterling Way",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 516740,
@@ -4637,7 +4637,7 @@
             },
             {
               "id": "virginia-ladysmith-village-6292-sterling-way",
-              "address": null,
+              "address": "6292 Sterling Way",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
               "price": 607740,
@@ -5082,7 +5082,7 @@
             },
             {
               "id": "virginia-smith-farm-5106-duxbury-rd",
-              "address": null,
+              "address": "5106 Duxbury Rd",
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
               "price": 603990,
@@ -5099,7 +5099,7 @@
             },
             {
               "id": "virginia-smith-farm-5119-duxbury-rd",
-              "address": null,
+              "address": "5119 Duxbury Rd",
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
               "price": 629065,
@@ -5116,7 +5116,7 @@
             },
             {
               "id": "virginia-smith-farm-5125-duxbury-rd",
-              "address": null,
+              "address": "5125 Duxbury Rd",
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
               "price": 549990,
@@ -5787,7 +5787,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2338-somerset-way",
-              "address": null,
+              "address": "2338 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 448740,
@@ -5804,7 +5804,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2340-somerset-way",
-              "address": null,
+              "address": "2340 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 448740,
@@ -5821,7 +5821,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2342-somerset-way",
-              "address": null,
+              "address": "2342 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 463740,
@@ -5838,7 +5838,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2348-somerset-way",
-              "address": null,
+              "address": "2348 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 448740,
@@ -5855,7 +5855,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2350-somerset-way",
-              "address": null,
+              "address": "2350 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 429990,
@@ -5872,7 +5872,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2352-somerset-way",
-              "address": null,
+              "address": "2352 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 442990,
@@ -5889,7 +5889,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2356-somerset-way",
-              "address": null,
+              "address": "2356 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 457990,
@@ -5906,7 +5906,7 @@
             },
             {
               "id": "virginia-riverclub-on-the-york-2358-somerset-way",
-              "address": null,
+              "address": "2358 Somerset Way",
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
               "price": 457990,
@@ -6073,7 +6073,7 @@
             },
             {
               "id": "virginia-country-club-villas-1324-treviso-bay",
-              "address": null,
+              "address": "1324 Treviso Bay",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 681990,
@@ -6090,7 +6090,7 @@
             },
             {
               "id": "virginia-country-club-villas-1328-treviso-bay",
-              "address": null,
+              "address": "1328 Treviso Bay",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 636990,
@@ -6321,7 +6321,7 @@
             },
             {
               "id": "virginia-fenton-hollow-111-michigan-avenue",
-              "address": null,
+              "address": "111 Michigan Avenue",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 654990,
@@ -6338,7 +6338,7 @@
             },
             {
               "id": "virginia-fenton-hollow-205-wisconsin-avenue",
-              "address": null,
+              "address": "205 Wisconsin Avenue",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 664990,
@@ -6355,7 +6355,7 @@
             },
             {
               "id": "virginia-fenton-hollow-211-wisconsin-avenue",
-              "address": null,
+              "address": "211 Wisconsin Avenue",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 574990,
@@ -6372,7 +6372,7 @@
             },
             {
               "id": "virginia-fenton-hollow-219-wisconsin-avenue",
-              "address": null,
+              "address": "219 Wisconsin Avenue",
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
               "price": 629990,
@@ -6539,7 +6539,7 @@
             },
             {
               "id": "virginia-riverview-landing-984-intracoastal-way",
-              "address": null,
+              "address": "984 Intracoastal Way",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 764890,
@@ -6774,7 +6774,7 @@
             },
             {
               "id": "virginia-retreat-at-edinburgh-farms-2180-edwin-dr",
-              "address": null,
+              "address": "2180 Edwin Dr",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 597740,
@@ -6791,7 +6791,7 @@
             },
             {
               "id": "virginia-retreat-at-edinburgh-farms-2182-edwin-dr",
-              "address": null,
+              "address": "2182 Edwin Dr",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 597740,
@@ -6808,7 +6808,7 @@
             },
             {
               "id": "virginia-retreat-at-edinburgh-farms-2184-edwin-dr",
-              "address": null,
+              "address": "2184 Edwin Dr",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 597740,
@@ -6825,7 +6825,7 @@
             },
             {
               "id": "virginia-retreat-at-edinburgh-farms-2202-edwin-dr",
-              "address": null,
+              "address": "2202 Edwin Dr",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 499990,
@@ -6842,7 +6842,7 @@
             },
             {
               "id": "virginia-retreat-at-edinburgh-farms-2213-edwin-dr",
-              "address": null,
+              "address": "2213 Edwin Dr",
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
               "price": 494990,

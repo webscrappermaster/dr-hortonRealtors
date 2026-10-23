@@ -152,7 +152,7 @@
             },
             {
               "id": "minnesota-century-ponds-713-waterleaf-way",
-              "address": null,
+              "address": "713 Waterleaf Way",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 365000,
@@ -169,7 +169,7 @@
             },
             {
               "id": "minnesota-century-ponds-710-waterleaf-way",
-              "address": null,
+              "address": "710 Waterleaf Way",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 365990,
@@ -186,7 +186,7 @@
             },
             {
               "id": "minnesota-century-ponds-708-waterleaf-way",
-              "address": null,
+              "address": "708 Waterleaf Way",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 383695,
@@ -203,7 +203,7 @@
             },
             {
               "id": "minnesota-century-ponds-704-waterleaf-way",
-              "address": null,
+              "address": "704 Waterleaf Way",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 385000,
@@ -220,7 +220,7 @@
             },
             {
               "id": "minnesota-century-ponds-469-bluestem-st",
-              "address": null,
+              "address": "469 Bluestem St",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 460255,
@@ -237,7 +237,7 @@
             },
             {
               "id": "minnesota-century-ponds-458-bluestem-st",
-              "address": null,
+              "address": "458 Bluestem St",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 474335,
@@ -254,7 +254,7 @@
             },
             {
               "id": "minnesota-century-ponds-475-bluestem-st",
-              "address": null,
+              "address": "475 Bluestem St",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 546580,
@@ -271,7 +271,7 @@
             },
             {
               "id": "minnesota-century-ponds-2709-indigo-ave",
-              "address": null,
+              "address": "2709 Indigo Ave",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 627300,
@@ -288,7 +288,7 @@
             },
             {
               "id": "minnesota-century-ponds-2721-indigo-ave",
-              "address": null,
+              "address": "2721 Indigo Ave",
               "cityStateZip": "Maplewood, MN 55119",
               "planName": null,
               "price": 690740,
@@ -438,7 +438,7 @@
             },
             {
               "id": "minnesota-grass-lake-preserve-19187-136th-ave-n",
-              "address": null,
+              "address": "19187 136th Ave N",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 399990,
@@ -455,7 +455,7 @@
             },
             {
               "id": "minnesota-grass-lake-preserve-19199-136th-ave-n",
-              "address": null,
+              "address": "19199 136th Ave N",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 400000,
@@ -472,7 +472,7 @@
             },
             {
               "id": "minnesota-grass-lake-preserve-19301-137th-avenue-n",
-              "address": null,
+              "address": "19301 137th Avenue N",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 350000,
@@ -789,7 +789,7 @@
             },
             {
               "id": "minnesota-big-woods-23879-ashbury-dr",
-              "address": null,
+              "address": "23879 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 466990,
@@ -806,7 +806,7 @@
             },
             {
               "id": "minnesota-big-woods-23863-ashbury-dr",
-              "address": null,
+              "address": "23863 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 471990,
@@ -823,7 +823,7 @@
             },
             {
               "id": "minnesota-big-woods-12750-williams-road",
-              "address": null,
+              "address": "12750 Williams Road",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 475190,
@@ -840,7 +840,7 @@
             },
             {
               "id": "minnesota-big-woods-12760-williams-road",
-              "address": null,
+              "address": "12760 Williams Road",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 485000,
@@ -857,7 +857,7 @@
             },
             {
               "id": "minnesota-big-woods-23625-marshview-dr",
-              "address": null,
+              "address": "23625 Marshview Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 509840,
@@ -874,7 +874,7 @@
             },
             {
               "id": "minnesota-big-woods-23656-marshview-dr",
-              "address": null,
+              "address": "23656 Marshview Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 514800,
@@ -891,7 +891,7 @@
             },
             {
               "id": "minnesota-big-woods-12691-ashbury-dr",
-              "address": null,
+              "address": "12691 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 319990,
@@ -908,7 +908,7 @@
             },
             {
               "id": "minnesota-big-woods-12685-ashbury-dr",
-              "address": null,
+              "address": "12685 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 325000,
@@ -925,7 +925,7 @@
             },
             {
               "id": "minnesota-big-woods-12689-ashbury-dr",
-              "address": null,
+              "address": "12689 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 325000,
@@ -942,7 +942,7 @@
             },
             {
               "id": "minnesota-big-woods-12695-ashbury-dr",
-              "address": null,
+              "address": "12695 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 335000,
@@ -959,7 +959,7 @@
             },
             {
               "id": "minnesota-big-woods-12681-ashbury-dr",
-              "address": null,
+              "address": "12681 Ashbury Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 339990,
@@ -976,7 +976,7 @@
             },
             {
               "id": "minnesota-big-woods-12740-williams-road",
-              "address": null,
+              "address": "12740 Williams Road",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 489990,
@@ -993,7 +993,7 @@
             },
             {
               "id": "minnesota-big-woods-23548-ashbury-drive",
-              "address": null,
+              "address": "23548 Ashbury Drive",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 525000,
@@ -1010,7 +1010,7 @@
             },
             {
               "id": "minnesota-big-woods-23648-marshview-dr",
-              "address": null,
+              "address": "23648 Marshview Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 594990,
@@ -1027,7 +1027,7 @@
             },
             {
               "id": "minnesota-big-woods-23640-marshview-dr",
-              "address": null,
+              "address": "23640 Marshview Dr",
               "cityStateZip": "Rogers, MN 55374",
               "planName": null,
               "price": 660000,
@@ -1228,7 +1228,7 @@
             },
             {
               "id": "minnesota-hinton-woods-express-townhomes-6621-hinterland-trail-s",
-              "address": null,
+              "address": "6621 Hinterland Trail S",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 334990,
@@ -1245,7 +1245,7 @@
             },
             {
               "id": "minnesota-hinton-woods-express-townhomes-6625-hinterland-trail-s",
-              "address": null,
+              "address": "6625 Hinterland Trail S",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 334990,
@@ -1262,7 +1262,7 @@
             },
             {
               "id": "minnesota-hinton-woods-express-townhomes-6613-hinterland-trail-s",
-              "address": null,
+              "address": "6613 Hinterland Trail S",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 349990,
@@ -1279,7 +1279,7 @@
             },
             {
               "id": "minnesota-hinton-woods-express-townhomes-6629-hinterland-trail-s",
-              "address": null,
+              "address": "6629 Hinterland Trail S",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 349990,
@@ -1480,7 +1480,7 @@
             },
             {
               "id": "minnesota-ardan-place-express-townhomes-13753-victoria-meadows-court",
-              "address": null,
+              "address": "13753 Victoria Meadows Court",
               "cityStateZip": "Rosemount, MN 55068",
               "planName": null,
               "price": 349990,
@@ -1677,7 +1677,7 @@
             },
             {
               "id": "minnesota-northwick-valley-6107-jennifer-avenue-south",
-              "address": null,
+              "address": "6107 Jennifer Avenue South",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 659990,
@@ -1694,7 +1694,7 @@
             },
             {
               "id": "minnesota-northwick-valley-6156-jennifer-avenue-south",
-              "address": null,
+              "address": "6156 Jennifer Avenue South",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 599990,
@@ -1844,7 +1844,7 @@
             },
             {
               "id": "minnesota-sienna-grove-4901-blake-way",
-              "address": null,
+              "address": "4901 Blake Way",
               "cityStateZip": "Woodbury, MN 55129",
               "planName": null,
               "price": 722735,
@@ -1861,7 +1861,7 @@
             },
             {
               "id": "minnesota-sienna-grove-4762-blake-court",
-              "address": null,
+              "address": "4762 Blake Court",
               "cityStateZip": "Woodbury, MN 55129",
               "planName": null,
               "price": 787085,
@@ -1878,7 +1878,7 @@
             },
             {
               "id": "minnesota-sienna-grove-4919-blake-way",
-              "address": null,
+              "address": "4919 Blake Way",
               "cityStateZip": "Woodbury, MN 55129",
               "planName": null,
               "price": 679990,
@@ -1895,7 +1895,7 @@
             },
             {
               "id": "minnesota-sienna-grove-4913-blake-way",
-              "address": null,
+              "address": "4913 Blake Way",
               "cityStateZip": "Woodbury, MN 55129",
               "planName": null,
               "price": 730000,
@@ -2126,7 +2126,7 @@
             },
             {
               "id": "minnesota-bluff-view-freedom-series-2147-bluff-heights-dr",
-              "address": null,
+              "address": "2147 Bluff Heights Dr",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 528990,
@@ -2276,7 +2276,7 @@
             },
             {
               "id": "minnesota-bluff-view-1972-aztec-ave",
-              "address": null,
+              "address": "1972 Aztec Ave",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 439990,
@@ -2293,7 +2293,7 @@
             },
             {
               "id": "minnesota-bluff-view-1976-aztec-ave",
-              "address": null,
+              "address": "1976 Aztec Ave",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 440000,
@@ -2310,7 +2310,7 @@
             },
             {
               "id": "minnesota-bluff-view-2071-kestrel-dr",
-              "address": null,
+              "address": "2071 Kestrel Dr",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 658665,
@@ -2327,7 +2327,7 @@
             },
             {
               "id": "minnesota-bluff-view-1631-zumbro-ave",
-              "address": null,
+              "address": "1631 Zumbro Ave",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 665980,
@@ -2344,7 +2344,7 @@
             },
             {
               "id": "minnesota-bluff-view-2077-kestrel-dr",
-              "address": null,
+              "address": "2077 Kestrel Dr",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 683190,
@@ -2361,7 +2361,7 @@
             },
             {
               "id": "minnesota-bluff-view-1635-zumbro-ave",
-              "address": null,
+              "address": "1635 Zumbro Ave",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 683340,
@@ -2647,7 +2647,7 @@
             },
             {
               "id": "minnesota-ravine-crossing-8825-jules-ave-s",
-              "address": null,
+              "address": "8825 Jules Ave S",
               "cityStateZip": "Cottage Grove, MN 55016",
               "planName": null,
               "price": 550000,
@@ -2797,7 +2797,7 @@
             },
             {
               "id": "minnesota-brookshire-17122-dysart-place",
-              "address": null,
+              "address": "17122 Dysart Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 381140,
@@ -2814,7 +2814,7 @@
             },
             {
               "id": "minnesota-brookshire-17089-draper-way",
-              "address": null,
+              "address": "17089 Draper Way",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 470240,
@@ -2831,7 +2831,7 @@
             },
             {
               "id": "minnesota-brookshire-17250-dimension-ave",
-              "address": null,
+              "address": "17250 Dimension Ave",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 499000,
@@ -2848,7 +2848,7 @@
             },
             {
               "id": "minnesota-brookshire-17420-dulles-ln",
-              "address": null,
+              "address": "17420 Dulles Ln",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 536190,
@@ -2865,7 +2865,7 @@
             },
             {
               "id": "minnesota-brookshire-4645-173rd-st-w",
-              "address": null,
+              "address": "4645 173rd St W",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 558645,
@@ -2882,7 +2882,7 @@
             },
             {
               "id": "minnesota-brookshire-17508-diplomat-loop",
-              "address": null,
+              "address": "17508 Diplomat Loop",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 349990,
@@ -2899,7 +2899,7 @@
             },
             {
               "id": "minnesota-brookshire-17506-diplomat-loop",
-              "address": null,
+              "address": "17506 Diplomat Loop",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 359990,
@@ -2916,7 +2916,7 @@
             },
             {
               "id": "minnesota-brookshire-17547-driscoll-place",
-              "address": null,
+              "address": "17547 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 375000,
@@ -2933,7 +2933,7 @@
             },
             {
               "id": "minnesota-brookshire-17545-driscoll-place",
-              "address": null,
+              "address": "17545 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 389990,
@@ -2950,7 +2950,7 @@
             },
             {
               "id": "minnesota-brookshire-17549-driscoll-place",
-              "address": null,
+              "address": "17549 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 390000,
@@ -2967,7 +2967,7 @@
             },
             {
               "id": "minnesota-brookshire-17543-driscoll-place",
-              "address": null,
+              "address": "17543 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 399990,
@@ -2984,7 +2984,7 @@
             },
             {
               "id": "minnesota-brookshire-17551-driscoll-place",
-              "address": null,
+              "address": "17551 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 399990,
@@ -3001,7 +3001,7 @@
             },
             {
               "id": "minnesota-brookshire-17541-driscoll-place",
-              "address": null,
+              "address": "17541 Driscoll Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 404990,
@@ -3018,7 +3018,7 @@
             },
             {
               "id": "minnesota-brookshire-17081-draper-way",
-              "address": null,
+              "address": "17081 Draper Way",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 449990,
@@ -3035,7 +3035,7 @@
             },
             {
               "id": "minnesota-brookshire-4881-171st-street-west",
-              "address": null,
+              "address": "4881 171st Street West",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 449990,
@@ -3052,7 +3052,7 @@
             },
             {
               "id": "minnesota-brookshire-4853-171st-street-west",
-              "address": null,
+              "address": "4853 171st Street West",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 489990,
@@ -3069,7 +3069,7 @@
             },
             {
               "id": "minnesota-brookshire-17396-dulles-ln",
-              "address": null,
+              "address": "17396 Dulles Ln",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 515000,
@@ -3086,7 +3086,7 @@
             },
             {
               "id": "minnesota-brookshire-17412-dulles-ln",
-              "address": null,
+              "address": "17412 Dulles Ln",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 525000,
@@ -3103,7 +3103,7 @@
             },
             {
               "id": "minnesota-brookshire-17616-dresden-place",
-              "address": null,
+              "address": "17616 Dresden Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 545000,
@@ -3120,7 +3120,7 @@
             },
             {
               "id": "minnesota-brookshire-17404-dulles-ln",
-              "address": null,
+              "address": "17404 Dulles Ln",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 559990,
@@ -3137,7 +3137,7 @@
             },
             {
               "id": "minnesota-brookshire-17004-doppler-lane",
-              "address": null,
+              "address": "17004 Doppler Lane",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 575000,
@@ -3154,7 +3154,7 @@
             },
             {
               "id": "minnesota-brookshire-4659-173rd-st-w",
-              "address": null,
+              "address": "4659 173rd St W",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 630000,
@@ -3171,7 +3171,7 @@
             },
             {
               "id": "minnesota-brookshire-4687-173rd-st-w",
-              "address": null,
+              "address": "4687 173rd St W",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 641500,
@@ -3188,7 +3188,7 @@
             },
             {
               "id": "minnesota-brookshire-17641-dresden-place",
-              "address": null,
+              "address": "17641 Dresden Place",
               "cityStateZip": "Lakeville, MN 55044",
               "planName": null,
               "price": 694990,
@@ -3406,7 +3406,7 @@
             },
             {
               "id": "minnesota-highview-park-2029-aquarius-drive",
-              "address": null,
+              "address": "2029 Aquarius Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 519750,
@@ -3423,7 +3423,7 @@
             },
             {
               "id": "minnesota-highview-park-1950-shady-view-court",
-              "address": null,
+              "address": "1950 Shady View Court",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 612990,
@@ -3440,7 +3440,7 @@
             },
             {
               "id": "minnesota-highview-park-1963-shady-view-court",
-              "address": null,
+              "address": "1963 Shady View Court",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 647990,
@@ -3457,7 +3457,7 @@
             },
             {
               "id": "minnesota-highview-park-2053-highview-terrace",
-              "address": null,
+              "address": "2053 Highview Terrace",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 369990,
@@ -3474,7 +3474,7 @@
             },
             {
               "id": "minnesota-highview-park-2057-highview-terrace",
-              "address": null,
+              "address": "2057 Highview Terrace",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 375000,
@@ -3491,7 +3491,7 @@
             },
             {
               "id": "minnesota-highview-park-1922-highview-terrace",
-              "address": null,
+              "address": "1922 Highview Terrace",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 405000,
@@ -3508,7 +3508,7 @@
             },
             {
               "id": "minnesota-highview-park-1957-highview-terrace",
-              "address": null,
+              "address": "1957 Highview Terrace",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 429990,
@@ -3525,7 +3525,7 @@
             },
             {
               "id": "minnesota-highview-park-1961-highview-terrace",
-              "address": null,
+              "address": "1961 Highview Terrace",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 430000,
@@ -3542,7 +3542,7 @@
             },
             {
               "id": "minnesota-highview-park-2045-aquarius-drive",
-              "address": null,
+              "address": "2045 Aquarius Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 504730,
@@ -3559,7 +3559,7 @@
             },
             {
               "id": "minnesota-highview-park-1638-shasta-drive",
-              "address": null,
+              "address": "1638 Shasta Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 534310,
@@ -3576,7 +3576,7 @@
             },
             {
               "id": "minnesota-highview-park-2013-aquarius-drive",
-              "address": null,
+              "address": "2013 Aquarius Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 539000,
@@ -3593,7 +3593,7 @@
             },
             {
               "id": "minnesota-highview-park-1650-shasta-drive",
-              "address": null,
+              "address": "1650 Shasta Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 539990,
@@ -3610,7 +3610,7 @@
             },
             {
               "id": "minnesota-highview-park-2037-aquarius-drive",
-              "address": null,
+              "address": "2037 Aquarius Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 544990,
@@ -3627,7 +3627,7 @@
             },
             {
               "id": "minnesota-highview-park-1632-shasta-drive",
-              "address": null,
+              "address": "1632 Shasta Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 576265,
@@ -3644,7 +3644,7 @@
             },
             {
               "id": "minnesota-highview-park-1931-shady-view-court",
-              "address": null,
+              "address": "1931 Shady View Court",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 605290,
@@ -3661,7 +3661,7 @@
             },
             {
               "id": "minnesota-highview-park-1824-rainier-drive",
-              "address": null,
+              "address": "1824 Rainier Drive",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 639000,
@@ -3678,7 +3678,7 @@
             },
             {
               "id": "minnesota-highview-park-1918-shady-view-court",
-              "address": null,
+              "address": "1918 Shady View Court",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 649990,
@@ -3695,7 +3695,7 @@
             },
             {
               "id": "minnesota-highview-park-1934-shady-view-court",
-              "address": null,
+              "address": "1934 Shady View Court",
               "cityStateZip": "Shakopee, MN 55379",
               "planName": null,
               "price": 670000,
@@ -4046,7 +4046,7 @@
             },
             {
               "id": "minnesota-oak-creek-1721-oak-creek-pass",
-              "address": null,
+              "address": "1721 Oak Creek Pass",
               "cityStateZip": "Chaska, MN 55318",
               "planName": null,
               "price": 674990,
@@ -4063,7 +4063,7 @@
             },
             {
               "id": "minnesota-oak-creek-1692-oak-creek-pass",
-              "address": null,
+              "address": "1692 Oak Creek Pass",
               "cityStateZip": "Chaska, MN 55318",
               "planName": null,
               "price": 679990,
@@ -4080,7 +4080,7 @@
             },
             {
               "id": "minnesota-oak-creek-1709-oak-creek-drive",
-              "address": null,
+              "address": "1709 Oak Creek Drive",
               "cityStateZip": "Chaska, MN 55318",
               "planName": null,
               "price": 685000,
@@ -4213,7 +4213,7 @@
             },
             {
               "id": "minnesota-northwater-12369-71st-street-ne",
-              "address": null,
+              "address": "12369 71st Street NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 459990,
@@ -4230,7 +4230,7 @@
             },
             {
               "id": "minnesota-northwater-12377-71st-street-ne",
-              "address": null,
+              "address": "12377 71st Street NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 475000,
@@ -4380,7 +4380,7 @@
             },
             {
               "id": "minnesota-rivertown-heights-3796-brookside-dr",
-              "address": null,
+              "address": "3796 Brookside Dr",
               "cityStateZip": "Chaska, MN 55318",
               "planName": null,
               "price": 694730,
@@ -4397,7 +4397,7 @@
             },
             {
               "id": "minnesota-rivertown-heights-4594-percheron-blvd",
-              "address": null,
+              "address": "4594 Percheron Blvd",
               "cityStateZip": "Chaska, MN 55318",
               "planName": null,
               "price": 733985,
@@ -4581,7 +4581,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7631-marquette-ave-ne",
-              "address": null,
+              "address": "7631 Marquette Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 434990,
@@ -4598,7 +4598,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7665-marquette-ave-ne",
-              "address": null,
+              "address": "7665 Marquette Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 469990,
@@ -4615,7 +4615,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-8166-martin-ave-ne",
-              "address": null,
+              "address": "8166 Martin Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 475000,
@@ -4632,7 +4632,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-8150-martin-ave-ne",
-              "address": null,
+              "address": "8150 Martin Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 485000,
@@ -4649,7 +4649,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-8026-martin-ave-ne",
-              "address": null,
+              "address": "8026 Martin Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 495000,
@@ -4666,7 +4666,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-8182-martin-ave-ne",
-              "address": null,
+              "address": "8182 Martin Ave NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 499990,
@@ -4683,7 +4683,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7917-martin-avenue-ne",
-              "address": null,
+              "address": "7917 Martin Avenue NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 525000,
@@ -4700,7 +4700,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7928-martin-avenue-ne",
-              "address": null,
+              "address": "7928 Martin Avenue NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 589990,
@@ -4717,7 +4717,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7906-marquette-ct-ne",
-              "address": null,
+              "address": "7906 Marquette Ct NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 590000,
@@ -4734,7 +4734,7 @@
             },
             {
               "id": "minnesota-prairie-pointe-7923-martin-avenue-ne",
-              "address": null,
+              "address": "7923 Martin Avenue NE",
               "cityStateZip": "Otsego, MN 55330",
               "planName": null,
               "price": 599990,
@@ -4935,7 +4935,7 @@
             },
             {
               "id": "minnesota-anton-village-9760-47th-bay-ne",
-              "address": null,
+              "address": "9760 47th Bay NE",
               "cityStateZip": "St Michael, MN 55376",
               "planName": null,
               "price": 593990,
@@ -4952,7 +4952,7 @@
             },
             {
               "id": "minnesota-anton-village-9781-47th-bay-ne",
-              "address": null,
+              "address": "9781 47th Bay NE",
               "cityStateZip": "St Michael, MN 55376",
               "planName": null,
               "price": 535000,
@@ -4969,7 +4969,7 @@
             },
             {
               "id": "minnesota-anton-village-9767-47th-bay-ne",
-              "address": null,
+              "address": "9767 47th Bay NE",
               "cityStateZip": "St Michael, MN 55376",
               "planName": null,
               "price": 615000,
@@ -5166,7 +5166,7 @@
             },
             {
               "id": "minnesota-whispering-fields-express-select-6672-209th-street-w",
-              "address": null,
+              "address": "6672 209th Street W",
               "cityStateZip": "Farmington, MN 55024",
               "planName": null,
               "price": 525000,
@@ -5350,7 +5350,7 @@
             },
             {
               "id": "minnesota-greywood-express-select-561-greywood-blvd-sw",
-              "address": null,
+              "address": "561 Greywood Blvd SW",
               "cityStateZip": "Delano, MN 55328",
               "planName": null,
               "price": 440655,
@@ -5615,7 +5615,7 @@
             },
             {
               "id": "minnesota-fields-of-waconia-dr-horton-919-foxglove-terrace",
-              "address": null,
+              "address": "919 Foxglove Terrace",
               "cityStateZip": "Waconia, MN 55387",
               "planName": null,
               "price": 584090,
@@ -5632,7 +5632,7 @@
             },
             {
               "id": "minnesota-fields-of-waconia-dr-horton-613-goldenrod-trail",
-              "address": null,
+              "address": "613 Goldenrod Trail",
               "cityStateZip": "Waconia, MN 55387",
               "planName": null,
               "price": 509990,
@@ -5649,7 +5649,7 @@
             },
             {
               "id": "minnesota-fields-of-waconia-dr-horton-918-foxglove-terrace",
-              "address": null,
+              "address": "918 Foxglove Terrace",
               "cityStateZip": "Waconia, MN 55387",
               "planName": null,
               "price": 559990,
@@ -5666,7 +5666,7 @@
             },
             {
               "id": "minnesota-fields-of-waconia-dr-horton-916-foxglove-terrace",
-              "address": null,
+              "address": "916 Foxglove Terrace",
               "cityStateZip": "Waconia, MN 55387",
               "planName": null,
               "price": 605000,
@@ -5683,7 +5683,7 @@
             },
             {
               "id": "minnesota-fields-of-waconia-dr-horton-925-foxglove-terrace",
-              "address": null,
+              "address": "925 Foxglove Terrace",
               "cityStateZip": "Waconia, MN 55387",
               "planName": null,
               "price": 665000,
@@ -6017,7 +6017,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-951-huntington-way",
-              "address": null,
+              "address": "951 Huntington Way",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 430650,
@@ -6034,7 +6034,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-947-huntington-way",
-              "address": null,
+              "address": "947 Huntington Way",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 435590,
@@ -6051,7 +6051,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-929-stone-creek-drive",
-              "address": null,
+              "address": "929 Stone Creek Drive",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 385000,
@@ -6068,7 +6068,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-945-stone-creek-drive",
-              "address": null,
+              "address": "945 Stone Creek Drive",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 385000,
@@ -6085,7 +6085,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-944-stone-creek-drive",
-              "address": null,
+              "address": "944 Stone Creek Drive",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 402730,
@@ -6102,7 +6102,7 @@
             },
             {
               "id": "minnesota-bridle-creek-express-select-936-stone-creek-drive",
-              "address": null,
+              "address": "936 Stone Creek Drive",
               "cityStateZip": "Jordan, MN 55352",
               "planName": null,
               "price": 437510,
@@ -6402,7 +6402,7 @@
             },
             {
               "id": "minnesota-badger-heights-3665-worrall-ct-nw",
-              "address": null,
+              "address": "3665 Worrall Ct NW",
               "cityStateZip": "Rochester, MN 55901",
               "planName": null,
               "price": 644990,

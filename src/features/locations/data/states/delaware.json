@@ -121,7 +121,7 @@
           "availableHomes": [
             {
               "id": "delaware-ingram-village-501-sherman-street",
-              "address": null,
+              "address": "501 Sherman Street",
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
               "price": 389990,
@@ -172,7 +172,7 @@
             },
             {
               "id": "delaware-ingram-village-676-south-lee-avenue",
-              "address": null,
+              "address": "676 South Lee Avenue",
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
               "price": 379390,
@@ -506,7 +506,7 @@
             },
             {
               "id": "delaware-the-granary-121-topaz-street",
-              "address": null,
+              "address": "121 Topaz Street",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
               "price": 399990,
@@ -1174,7 +1174,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-32507-emory-court",
-              "address": null,
+              "address": "32507 Emory Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 359990,
@@ -1191,7 +1191,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-32509-emory-court",
-              "address": null,
+              "address": "32509 Emory Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 344990,
@@ -1208,7 +1208,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-21323-cottage-court",
-              "address": null,
+              "address": "21323 Cottage Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 414725,
@@ -1225,7 +1225,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-21352-cottage-court",
-              "address": null,
+              "address": "21352 Cottage Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 492205,
@@ -1242,7 +1242,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-32513-emory-court",
-              "address": null,
+              "address": "32513 Emory Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 339990,
@@ -1259,7 +1259,7 @@
             },
             {
               "id": "delaware-west-bay-village-at-millville-by-the-sea-32515-emory-court",
-              "address": null,
+              "address": "32515 Emory Court",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 365490,
@@ -1545,7 +1545,7 @@
             },
             {
               "id": "delaware-millville-by-the-sea-34511-east-bend-street",
-              "address": null,
+              "address": "34511 East Bend Street",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 379990,
@@ -1562,7 +1562,7 @@
             },
             {
               "id": "delaware-millville-by-the-sea-34521-east-bend-street",
-              "address": null,
+              "address": "34521 East Bend Street",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 399990,
@@ -1579,7 +1579,7 @@
             },
             {
               "id": "delaware-millville-by-the-sea-34242-forest-acres-drive",
-              "address": null,
+              "address": "34242 Forest Acres Drive",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 425490,
@@ -1596,7 +1596,7 @@
             },
             {
               "id": "delaware-millville-by-the-sea-34352-east-lake-lane",
-              "address": null,
+              "address": "34352 East Lake Lane",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 595990,
@@ -1613,7 +1613,7 @@
             },
             {
               "id": "delaware-millville-by-the-sea-34513-east-bend-street",
-              "address": null,
+              "address": "34513 East Bend Street",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
               "price": 409990,
@@ -1848,7 +1848,7 @@
             },
             {
               "id": "delaware-coastal-villages-9355-greenway-trail",
-              "address": null,
+              "address": "9355 Greenway Trail",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 369990,
@@ -1865,7 +1865,7 @@
             },
             {
               "id": "delaware-coastal-villages-9357-greenway-trail",
-              "address": null,
+              "address": "9357 Greenway Trail",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 379990,
@@ -1882,7 +1882,7 @@
             },
             {
               "id": "delaware-coastal-villages-9359-greenway-trail",
-              "address": null,
+              "address": "9359 Greenway Trail",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 374990,
@@ -1899,7 +1899,7 @@
             },
             {
               "id": "delaware-coastal-villages-9368-greenway-trail",
-              "address": null,
+              "address": "9368 Greenway Trail",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 424990,
@@ -1916,7 +1916,7 @@
             },
             {
               "id": "delaware-coastal-villages-9371-streamside-drive",
-              "address": null,
+              "address": "9371 Streamside Drive",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 514990,
@@ -1933,7 +1933,7 @@
             },
             {
               "id": "delaware-coastal-villages-tbd-streamside-drive",
-              "address": null,
+              "address": "Tbd Streamside Drive",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
               "price": 528740,

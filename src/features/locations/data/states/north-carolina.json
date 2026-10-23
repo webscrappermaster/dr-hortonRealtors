@@ -457,7 +457,7 @@
             },
             {
               "id": "north-carolina-pleasant-grove-135-sugg-trail",
-              "address": null,
+              "address": "135 Sugg Trail",
               "cityStateZip": "Weaverville, NC 28787",
               "planName": null,
               "price": 384990,
@@ -474,7 +474,7 @@
             },
             {
               "id": "north-carolina-pleasant-grove-143-sugg-trail",
-              "address": null,
+              "address": "143 Sugg Trail",
               "cityStateZip": "Weaverville, NC 28787",
               "planName": null,
               "price": 399990,
@@ -491,7 +491,7 @@
             },
             {
               "id": "north-carolina-pleasant-grove-145-sugg-trail",
-              "address": null,
+              "address": "145 Sugg Trail",
               "cityStateZip": "Weaverville, NC 28787",
               "planName": null,
               "price": 389825,
@@ -508,7 +508,7 @@
             },
             {
               "id": "north-carolina-pleasant-grove-147-sugg-trail",
-              "address": null,
+              "address": "147 Sugg Trail",
               "cityStateZip": "Weaverville, NC 28787",
               "planName": null,
               "price": 378990,
@@ -525,7 +525,7 @@
             },
             {
               "id": "north-carolina-pleasant-grove-149-sugg-trail",
-              "address": null,
+              "address": "149 Sugg Trail",
               "cityStateZip": "Weaverville, NC 28787",
               "planName": null,
               "price": 409999,
@@ -876,7 +876,7 @@
             },
             {
               "id": "north-carolina-tap-root-farms-42-piney-woods-rd",
-              "address": null,
+              "address": "42 Piney Woods Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 508840,
@@ -893,7 +893,7 @@
             },
             {
               "id": "north-carolina-tap-root-farms-57-piney-woods-rd",
-              "address": null,
+              "address": "57 Piney Woods Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 511990,
@@ -910,7 +910,7 @@
             },
             {
               "id": "north-carolina-tap-root-farms-71-piney-woods-rd",
-              "address": null,
+              "address": "71 Piney Woods Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 475790,
@@ -1077,7 +1077,7 @@
             },
             {
               "id": "north-carolina-townes-at-tap-root-farms-179-valley-breeze-rd",
-              "address": null,
+              "address": "179 Valley Breeze Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 359620,
@@ -1094,7 +1094,7 @@
             },
             {
               "id": "north-carolina-townes-at-tap-root-farms-296-lagoon-rd",
-              "address": null,
+              "address": "296 Lagoon Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 357920,
@@ -1111,7 +1111,7 @@
             },
             {
               "id": "north-carolina-townes-at-tap-root-farms-300-lagoon-rd",
-              "address": null,
+              "address": "300 Lagoon Rd",
               "cityStateZip": "Fletcher, NC 28732",
               "planName": null,
               "price": 329890,
@@ -1411,7 +1411,7 @@
             },
             {
               "id": "north-carolina-providence-walk-248-lauren-lane",
-              "address": null,
+              "address": "248 Lauren Lane",
               "cityStateZip": "Hendersonville, NC 28792",
               "planName": null,
               "price": 323390,
@@ -1591,7 +1591,7 @@
             },
             {
               "id": "north-carolina-valleywood-farms-20-ridgehaven-dr",
-              "address": null,
+              "address": "20 Ridgehaven Dr",
               "cityStateZip": "Waynesville, NC 28786",
               "planName": null,
               "price": 394690,
@@ -1608,7 +1608,7 @@
             },
             {
               "id": "north-carolina-valleywood-farms-33-ridgehaven-dr",
-              "address": null,
+              "address": "33 Ridgehaven Dr",
               "cityStateZip": "Waynesville, NC 28786",
               "planName": null,
               "price": 443758,
@@ -1625,7 +1625,7 @@
             },
             {
               "id": "north-carolina-valleywood-farms-73-ridgehaven-dr",
-              "address": null,
+              "address": "73 Ridgehaven Dr",
               "cityStateZip": "Waynesville, NC 28786",
               "planName": null,
               "price": 429640,
@@ -1642,7 +1642,7 @@
             },
             {
               "id": "north-carolina-valleywood-farms-85-ridgehaven-dr",
-              "address": null,
+              "address": "85 Ridgehaven Dr",
               "cityStateZip": "Waynesville, NC 28786",
               "planName": null,
               "price": 389790,
@@ -1809,7 +1809,7 @@
             },
             {
               "id": "north-carolina-valley-view-75-cora-view-trl",
-              "address": null,
+              "address": "75 Cora View Trl",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 330254,
@@ -1826,7 +1826,7 @@
             },
             {
               "id": "north-carolina-valley-view-85-cora-view-trl",
-              "address": null,
+              "address": "85 Cora View Trl",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 371240,
@@ -1843,7 +1843,7 @@
             },
             {
               "id": "north-carolina-valley-view-105-laurel-pointe-dr",
-              "address": null,
+              "address": "105 Laurel Pointe Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 348740,
@@ -1860,7 +1860,7 @@
             },
             {
               "id": "north-carolina-valley-view-42-cora-view-trl",
-              "address": null,
+              "address": "42 Cora View Trl",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 439990,
@@ -1877,7 +1877,7 @@
             },
             {
               "id": "north-carolina-valley-view-155-cora-view-trl",
-              "address": null,
+              "address": "155 Cora View Trl",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 384490,
@@ -1894,7 +1894,7 @@
             },
             {
               "id": "north-carolina-valley-view-67-laurel-pointe-dr",
-              "address": null,
+              "address": "67 Laurel Pointe Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 379590,
@@ -1911,7 +1911,7 @@
             },
             {
               "id": "north-carolina-valley-view-73-laurel-pointe-dr",
-              "address": null,
+              "address": "73 Laurel Pointe Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 389690,
@@ -1928,7 +1928,7 @@
             },
             {
               "id": "north-carolina-valley-view-82-laurel-pointe-dr",
-              "address": null,
+              "address": "82 Laurel Pointe Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 385990,
@@ -1945,7 +1945,7 @@
             },
             {
               "id": "north-carolina-valley-view-93-cora-view-trl",
-              "address": null,
+              "address": "93 Cora View Trl",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 334990,
@@ -2214,7 +2214,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-180-wildbrook-dr",
-              "address": null,
+              "address": "180 Wildbrook Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 369359,
@@ -2231,7 +2231,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-183-wildbrook-dr",
-              "address": null,
+              "address": "183 Wildbrook Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 365795,
@@ -2248,7 +2248,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-34-creekwalk-ln",
-              "address": null,
+              "address": "34 Creekwalk Ln",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 349460,
@@ -2265,7 +2265,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-193-wildbrook-dr",
-              "address": null,
+              "address": "193 Wildbrook Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 369890,
@@ -2282,7 +2282,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-200-wildbrook-dr",
-              "address": null,
+              "address": "200 Wildbrook Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 369090,
@@ -2299,7 +2299,7 @@
             },
             {
               "id": "north-carolina-wildbrook-village-216-wildbrook-dr",
-              "address": null,
+              "address": "216 Wildbrook Dr",
               "cityStateZip": "Waynesville, NC 28785",
               "planName": null,
               "price": 364590,
@@ -2505,7 +2505,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-3136-tasso-drive",
-              "address": null,
+              "address": "3136 Tasso Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 286990,
@@ -2522,7 +2522,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-1008-caulkins-drive",
-              "address": null,
+              "address": "1008 Caulkins Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 290960,
@@ -2539,7 +2539,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-3112-tasso-drive",
-              "address": null,
+              "address": "3112 Tasso Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 291990,
@@ -2556,7 +2556,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-3124-tasso-drive",
-              "address": null,
+              "address": "3124 Tasso Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 297990,
@@ -2573,7 +2573,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-3132-tasso-drive",
-              "address": null,
+              "address": "3132 Tasso Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 294990,
@@ -2590,7 +2590,7 @@
             },
             {
               "id": "north-carolina-southshore-bay-3140-tasso-drive",
-              "address": null,
+              "address": "3140 Tasso Drive",
               "cityStateZip": "Sunset Beach, NC 28468",
               "planName": null,
               "price": 292990,
@@ -2740,7 +2740,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2103-marietta-circle-nw",
-              "address": null,
+              "address": "2103 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 387990,
@@ -2757,7 +2757,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2130-marietta-circle",
-              "address": null,
+              "address": "2130 Marietta Circle",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 453880,
@@ -2774,7 +2774,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2139-marietta-circle",
-              "address": null,
+              "address": "2139 Marietta Circle",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 427990,
@@ -2791,7 +2791,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2157-marietta-circle-nw",
-              "address": null,
+              "address": "2157 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 435990,
@@ -2808,7 +2808,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1252-woodhouse-drive-nw",
-              "address": null,
+              "address": "1252 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 406065,
@@ -2825,7 +2825,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1272-woodhouse-drive-nw",
-              "address": null,
+              "address": "1272 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 387990,
@@ -2842,7 +2842,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1280-woodhouse-drive-nw",
-              "address": null,
+              "address": "1280 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 453290,
@@ -2859,7 +2859,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1292-woodhouse-drive-nw",
-              "address": null,
+              "address": "1292 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 451290,
@@ -2876,7 +2876,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1293-woodhouse-drive-nw",
-              "address": null,
+              "address": "1293 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 324990,
@@ -2893,7 +2893,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1296-woodhouse-drive-nw",
-              "address": null,
+              "address": "1296 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 386990,
@@ -2910,7 +2910,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1303-woodhouse-drive-nw",
-              "address": null,
+              "address": "1303 Woodhouse Drive NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 345990,
@@ -2927,7 +2927,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-1506-two-notch-circle-nw",
-              "address": null,
+              "address": "1506 Two Notch Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 383990,
@@ -2944,7 +2944,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2003-marietta-circle-nw",
-              "address": null,
+              "address": "2003 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 388990,
@@ -2961,7 +2961,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2115-marietta-circle-nw",
-              "address": null,
+              "address": "2115 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 387990,
@@ -2978,7 +2978,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2127-marietta-circle-nw",
-              "address": null,
+              "address": "2127 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 405990,
@@ -2995,7 +2995,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2142-marietta-circle-nw",
-              "address": null,
+              "address": "2142 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 428880,
@@ -3012,7 +3012,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2146-marietta-circle",
-              "address": null,
+              "address": "2146 Marietta Circle",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 434880,
@@ -3029,7 +3029,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2147-marietta-circle-nw",
-              "address": null,
+              "address": "2147 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 408990,
@@ -3046,7 +3046,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2153-marietta-circle-nw",
-              "address": null,
+              "address": "2153 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 436990,
@@ -3063,7 +3063,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-2169-marietta-circle-nw",
-              "address": null,
+              "address": "2169 Marietta Circle NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 407940,
@@ -3080,7 +3080,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-3503-whaley-way-nw",
-              "address": null,
+              "address": "3503 Whaley Way NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 244990,
@@ -3097,7 +3097,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-3507-whaley-way-nw",
-              "address": null,
+              "address": "3507 Whaley Way NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 244990,
@@ -3114,7 +3114,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-3519-whaley-way-nw",
-              "address": null,
+              "address": "3519 Whaley Way NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 244990,
@@ -3131,7 +3131,7 @@
             },
             {
               "id": "north-carolina-brunswick-plantation-3523-whaley-way-nw",
-              "address": null,
+              "address": "3523 Whaley Way NW",
               "cityStateZip": "Ash, NC 28420",
               "planName": null,
               "price": 244990,
@@ -3417,7 +3417,7 @@
             },
             {
               "id": "north-carolina-wildwood-village-2012-snipe-lane",
-              "address": null,
+              "address": "2012 Snipe Lane",
               "cityStateZip": "Shallotte, NC 28470",
               "planName": null,
               "price": 277490,
@@ -3584,7 +3584,7 @@
             },
             {
               "id": "north-carolina-foxrun-645-bushy-trail-loop-sw",
-              "address": null,
+              "address": "645 Bushy Trail Loop SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 360760,
@@ -3601,7 +3601,7 @@
             },
             {
               "id": "north-carolina-foxrun-649-bushy-trail-loop-sw",
-              "address": null,
+              "address": "649 Bushy Trail Loop SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 274880,
@@ -3618,7 +3618,7 @@
             },
             {
               "id": "north-carolina-foxrun-523-fox-grove-road-sw",
-              "address": null,
+              "address": "523 Fox Grove Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 203990,
@@ -3635,7 +3635,7 @@
             },
             {
               "id": "north-carolina-foxrun-527-fox-grove-road-sw",
-              "address": null,
+              "address": "527 Fox Grove Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 235490,
@@ -3652,7 +3652,7 @@
             },
             {
               "id": "north-carolina-foxrun-568-bear-paw-road-sw",
-              "address": null,
+              "address": "568 Bear Paw Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 227990,
@@ -3669,7 +3669,7 @@
             },
             {
               "id": "north-carolina-foxrun-581-bear-paw-road-sw",
-              "address": null,
+              "address": "581 Bear Paw Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 234490,
@@ -3686,7 +3686,7 @@
             },
             {
               "id": "north-carolina-foxrun-585-bear-paw-road-sw",
-              "address": null,
+              "address": "585 Bear Paw Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 225490,
@@ -3703,7 +3703,7 @@
             },
             {
               "id": "north-carolina-foxrun-644-bushy-trail-loop-sw",
-              "address": null,
+              "address": "644 Bushy Trail Loop SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 294390,
@@ -3720,7 +3720,7 @@
             },
             {
               "id": "north-carolina-foxrun-654-bushy-trail-loop-sw",
-              "address": null,
+              "address": "654 Bushy Trail Loop SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 289990,
@@ -3737,7 +3737,7 @@
             },
             {
               "id": "north-carolina-foxrun-660-bushy-trail-loop-sw",
-              "address": null,
+              "address": "660 Bushy Trail Loop SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 283290,
@@ -4037,7 +4037,7 @@
             },
             {
               "id": "north-carolina-stanbury-creek-1067-woods-crossing-road-sw",
-              "address": null,
+              "address": "1067 Woods Crossing Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 318740,
@@ -4054,7 +4054,7 @@
             },
             {
               "id": "north-carolina-stanbury-creek-1075-woods-crossing-road-sw",
-              "address": null,
+              "address": "1075 Woods Crossing Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 296490,
@@ -4071,7 +4071,7 @@
             },
             {
               "id": "north-carolina-stanbury-creek-1083-woods-crossing-road-sw",
-              "address": null,
+              "address": "1083 Woods Crossing Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 303990,
@@ -4088,7 +4088,7 @@
             },
             {
               "id": "north-carolina-stanbury-creek-963-stanbury-bluff-road-sw",
-              "address": null,
+              "address": "963 Stanbury Bluff Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 322840,
@@ -4105,7 +4105,7 @@
             },
             {
               "id": "north-carolina-stanbury-creek-989-stanbury-bluff-road-sw",
-              "address": null,
+              "address": "989 Stanbury Bluff Road SW",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 304490,
@@ -4340,7 +4340,7 @@
             },
             {
               "id": "north-carolina-cottonwood-place-190-ashworth-drive",
-              "address": null,
+              "address": "190 Ashworth Drive",
               "cityStateZip": "Tabor City, NC 28463",
               "planName": null,
               "price": 250990,
@@ -4357,7 +4357,7 @@
             },
             {
               "id": "north-carolina-cottonwood-place-87-ashworth-drive",
-              "address": null,
+              "address": "87 Ashworth Drive",
               "cityStateZip": "Tabor City, NC 28463",
               "planName": null,
               "price": 251950,
@@ -4596,7 +4596,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-831-hammers-lane",
-              "address": null,
+              "address": "831 Hammers Lane",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 375000,
@@ -4613,7 +4613,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-3624-spencer-street",
-              "address": null,
+              "address": "3624 Spencer Street",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 459000,
@@ -4630,7 +4630,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-3628-spencer-street",
-              "address": null,
+              "address": "3628 Spencer Street",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 439000,
@@ -4647,7 +4647,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-3632-spencer-street",
-              "address": null,
+              "address": "3632 Spencer Street",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 439000,
@@ -4664,7 +4664,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-3636-spencer-street",
-              "address": null,
+              "address": "3636 Spencer Street",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 439000,
@@ -4681,7 +4681,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-711-silvertree-way",
-              "address": null,
+              "address": "711 Silvertree Way",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 434000,
@@ -4698,7 +4698,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-715-silvertree-way",
-              "address": null,
+              "address": "715 Silvertree Way",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 429000,
@@ -4715,7 +4715,7 @@
             },
             {
               "id": "north-carolina-anderson-street-townhomes-719-silvertree-way",
-              "address": null,
+              "address": "719 Silvertree Way",
               "cityStateZip": "Charlotte, NC 28205",
               "planName": null,
               "price": 459000,
@@ -4882,7 +4882,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-5112-s-tryon-street",
-              "address": null,
+              "address": "5112 S Tryon Street",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 341760,
@@ -4899,7 +4899,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-5120-s-tryon-street",
-              "address": null,
+              "address": "5120 S Tryon Street",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 341760,
@@ -4916,7 +4916,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-5108-s-tryon-street",
-              "address": null,
+              "address": "5108 S Tryon Street",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 342760,
@@ -4933,7 +4933,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-5116-s-tryon-street",
-              "address": null,
+              "address": "5116 S Tryon Street",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 342760,
@@ -4950,7 +4950,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-521-annagh-drive",
-              "address": null,
+              "address": "521 Annagh Drive",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 347590,
@@ -4967,7 +4967,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-501-annagh-drive",
-              "address": null,
+              "address": "501 Annagh Drive",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 347840,
@@ -4984,7 +4984,7 @@
             },
             {
               "id": "north-carolina-kingman-townhomes-5122-s-tryon-street",
-              "address": null,
+              "address": "5122 S Tryon Street",
               "cityStateZip": "Charlotte, NC 28217",
               "planName": null,
               "price": 353760,
@@ -5117,7 +5117,7 @@
             },
             {
               "id": "north-carolina-oak-grove-hill-6418-cherrybark-oak-lane",
-              "address": null,
+              "address": "6418 Cherrybark Oak Lane",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 574000,
@@ -5134,7 +5134,7 @@
             },
             {
               "id": "north-carolina-oak-grove-hill-6406-cherrybark-oak-lane",
-              "address": null,
+              "address": "6406 Cherrybark Oak Lane",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 579000,
@@ -5151,7 +5151,7 @@
             },
             {
               "id": "north-carolina-oak-grove-hill-6410-cherrybark-oak-lane",
-              "address": null,
+              "address": "6410 Cherrybark Oak Lane",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 577059,
@@ -5168,7 +5168,7 @@
             },
             {
               "id": "north-carolina-oak-grove-hill-9205-carver-avenue",
-              "address": null,
+              "address": "9205 Carver Avenue",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 582265,
@@ -5185,7 +5185,7 @@
             },
             {
               "id": "north-carolina-oak-grove-hill-9123-carver-avenue",
-              "address": null,
+              "address": "9123 Carver Avenue",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 592535,
@@ -5536,7 +5536,7 @@
             },
             {
               "id": "north-carolina-reedy-creek-5132-parker-forest-road",
-              "address": null,
+              "address": "5132 Parker Forest Road",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 460000,
@@ -5737,7 +5737,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12137-barred-owl-court",
-              "address": null,
+              "address": "12137 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 375000,
@@ -5754,7 +5754,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12144-barred-owl-court",
-              "address": null,
+              "address": "12144 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 449000,
@@ -5771,7 +5771,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12204-barred-owl-court",
-              "address": null,
+              "address": "12204 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 449000,
@@ -5788,7 +5788,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12212-barred-owl-court",
-              "address": null,
+              "address": "12212 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 410000,
@@ -5805,7 +5805,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12216-barred-owl-court",
-              "address": null,
+              "address": "12216 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 449000,
@@ -5822,7 +5822,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12220-barred-owl-court",
-              "address": null,
+              "address": "12220 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 449000,
@@ -5839,7 +5839,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-12224-barred-owl-court",
-              "address": null,
+              "address": "12224 Barred Owl Court",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 375000,
@@ -5856,7 +5856,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-15023-murrelet-way",
-              "address": null,
+              "address": "15023 Murrelet Way",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 449000,
@@ -5873,7 +5873,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-11523-cardinal-creek-avenue",
-              "address": null,
+              "address": "11523 Cardinal Creek Avenue",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 495990,
@@ -5890,7 +5890,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-11527-cardinal-creek-avenue",
-              "address": null,
+              "address": "11527 Cardinal Creek Avenue",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 469000,
@@ -5907,7 +5907,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-11531-cardinal-creek-avenue",
-              "address": null,
+              "address": "11531 Cardinal Creek Avenue",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 488340,
@@ -5924,7 +5924,7 @@
             },
             {
               "id": "north-carolina-cardinal-creek-15028-murrelet-way",
-              "address": null,
+              "address": "15028 Murrelet Way",
               "cityStateZip": "Charlotte, NC 28215",
               "planName": null,
               "price": 500590,
@@ -6057,7 +6057,7 @@
             },
             {
               "id": "north-carolina-skybrook-corners-townhomes-1233-white-birch-ave",
-              "address": null,
+              "address": "1233 White Birch Ave",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 385000,
@@ -6074,7 +6074,7 @@
             },
             {
               "id": "north-carolina-skybrook-corners-townhomes-1235-white-birch-ave",
-              "address": null,
+              "address": "1235 White Birch Ave",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 389000,
@@ -6091,7 +6091,7 @@
             },
             {
               "id": "north-carolina-skybrook-corners-townhomes-1218-foster-holly-avenue",
-              "address": null,
+              "address": "1218 Foster Holly Avenue",
               "cityStateZip": "Huntersville, NC 28078",
               "planName": null,
               "price": 497189,
@@ -6258,7 +6258,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4273-round-table-drive",
-              "address": null,
+              "address": "4273 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 459000,
@@ -6275,7 +6275,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4279-round-table-drive",
-              "address": null,
+              "address": "4279 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 479000,
@@ -6292,7 +6292,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4301-round-table-drive",
-              "address": null,
+              "address": "4301 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 479000,
@@ -6309,7 +6309,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4151-round-table-drive",
-              "address": null,
+              "address": "4151 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 485000,
@@ -6326,7 +6326,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4267-round-table-drive",
-              "address": null,
+              "address": "4267 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 499000,
@@ -6343,7 +6343,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4255-round-table-drive",
-              "address": null,
+              "address": "4255 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 449455,
@@ -6360,7 +6360,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4207-round-table-drive",
-              "address": null,
+              "address": "4207 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 459245,
@@ -6377,7 +6377,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4219-round-table-drive",
-              "address": null,
+              "address": "4219 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 484720,
@@ -6394,7 +6394,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4261-round-table-drive",
-              "address": null,
+              "address": "4261 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 489185,
@@ -6411,7 +6411,7 @@
             },
             {
               "id": "north-carolina-avalon-of-gastonia-4237-round-table-drive",
-              "address": null,
+              "address": "4237 Round Table Drive",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 508675,
@@ -6595,7 +6595,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1047-tundra-swan-drive",
-              "address": null,
+              "address": "1047 Tundra Swan Drive",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 525000,
@@ -6612,7 +6612,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1094-whistling-place",
-              "address": null,
+              "address": "1094 Whistling Place",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 335000,
@@ -6629,7 +6629,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-3051-eclipse-court",
-              "address": null,
+              "address": "3051 Eclipse Court",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 619000,
@@ -6646,7 +6646,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1003-tundra-swan-drive",
-              "address": null,
+              "address": "1003 Tundra Swan Drive",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 569215,
@@ -6663,7 +6663,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1008-tundra-swan-drive",
-              "address": null,
+              "address": "1008 Tundra Swan Drive",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 523890,
@@ -6680,7 +6680,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1035-tundra-swan-drive",
-              "address": null,
+              "address": "1035 Tundra Swan Drive",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 544355,
@@ -6697,7 +6697,7 @@
             },
             {
               "id": "north-carolina-sanctuary-at-southgate-1036-tundra-swan-drive",
-              "address": null,
+              "address": "1036 Tundra Swan Drive",
               "cityStateZip": "Indian Trail, NC 28079",
               "planName": null,
               "price": 571800,
@@ -6932,7 +6932,7 @@
             },
             {
               "id": "north-carolina-brandon-creek-3623-honey-locust-lane",
-              "address": null,
+              "address": "3623 Honey Locust Lane",
               "cityStateZip": "Gastonia, NC 28056",
               "planName": null,
               "price": 401340,
@@ -7681,7 +7681,7 @@
             },
             {
               "id": "north-carolina-sylvan-creek-2887-atwater-pond-circle",
-              "address": null,
+              "address": "2887 Atwater Pond Circle",
               "cityStateZip": "Denver, NC 28037",
               "planName": null,
               "price": 559000,
@@ -7895,7 +7895,7 @@
             },
             {
               "id": "north-carolina-logan-farms-179-logan-farms-drive",
-              "address": null,
+              "address": "179 Logan Farms Drive",
               "cityStateZip": "Mooresville, NC 28115",
               "planName": null,
               "price": 445000,
@@ -7912,7 +7912,7 @@
             },
             {
               "id": "north-carolina-logan-farms-258-wellshire-street",
-              "address": null,
+              "address": "258 Wellshire Street",
               "cityStateZip": "Mooresville, NC 28115",
               "planName": null,
               "price": 449000,
@@ -7929,7 +7929,7 @@
             },
             {
               "id": "north-carolina-logan-farms-250-wellshire-street",
-              "address": null,
+              "address": "250 Wellshire Street",
               "cityStateZip": "Mooresville, NC 28115",
               "planName": null,
               "price": 460000,
@@ -8160,7 +8160,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-106-lakeside-ridge-way",
-              "address": null,
+              "address": "106 Lakeside Ridge Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 459000,
@@ -8177,7 +8177,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-109-lakeside-ridge-way",
-              "address": null,
+              "address": "109 Lakeside Ridge Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 430000,
@@ -8194,7 +8194,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-109-waterfall-valley-way",
-              "address": null,
+              "address": "109 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 395000,
@@ -8211,7 +8211,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-110-waterfall-valley-way",
-              "address": null,
+              "address": "110 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 405090,
@@ -8228,7 +8228,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-111-waterfall-valley-way",
-              "address": null,
+              "address": "111 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 425590,
@@ -8245,7 +8245,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-113-lakeside-ridge-way",
-              "address": null,
+              "address": "113 Lakeside Ridge Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 450000,
@@ -8262,7 +8262,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-113-waterfall-valley-way",
-              "address": null,
+              "address": "113 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 432090,
@@ -8279,7 +8279,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-116-lakeside-ridge-way",
-              "address": null,
+              "address": "116 Lakeside Ridge Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 436090,
@@ -8296,7 +8296,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-116-waterfall-valley-way",
-              "address": null,
+              "address": "116 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 404090,
@@ -8313,7 +8313,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-124-waterfall-valley-way",
-              "address": null,
+              "address": "124 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 395590,
@@ -8330,7 +8330,7 @@
             },
             {
               "id": "north-carolina-shepherds-farm-126-waterfall-valley-way",
-              "address": null,
+              "address": "126 Waterfall Valley Way",
               "cityStateZip": "Mooresville, NC 28117",
               "planName": null,
               "price": 407090,
@@ -8497,7 +8497,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7596-bainbridge-road",
-              "address": null,
+              "address": "7596 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 359000,
@@ -8514,7 +8514,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7605-bainbridge-road",
-              "address": null,
+              "address": "7605 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 459000,
@@ -8531,7 +8531,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7616-bainbridge-road",
-              "address": null,
+              "address": "7616 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 369000,
@@ -8548,7 +8548,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7818-old-brook-road",
-              "address": null,
+              "address": "7818 Old Brook Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 444000,
@@ -8565,7 +8565,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7855-old-brook-road",
-              "address": null,
+              "address": "7855 Old Brook Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 365000,
@@ -8582,7 +8582,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7525-bainbridge-road",
-              "address": null,
+              "address": "7525 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 420250,
@@ -8599,7 +8599,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7546-bainbridge-road",
-              "address": null,
+              "address": "7546 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 415090,
@@ -8616,7 +8616,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7550-bainbridge-road",
-              "address": null,
+              "address": "7550 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 388840,
@@ -8633,7 +8633,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7554-bainbridge-road",
-              "address": null,
+              "address": "7554 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 417590,
@@ -8650,7 +8650,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7573-bainbridge-road",
-              "address": null,
+              "address": "7573 Bainbridge Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 461120,
@@ -8667,7 +8667,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7851-old-brook-road",
-              "address": null,
+              "address": "7851 Old Brook Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 429740,
@@ -8684,7 +8684,7 @@
             },
             {
               "id": "north-carolina-chestnut-at-laurelbrook-7869-old-brook-road",
-              "address": null,
+              "address": "7869 Old Brook Road",
               "cityStateZip": "Sherrills Ford, NC 28673",
               "planName": null,
               "price": 389140,
@@ -8868,7 +8868,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-laurel-oaks",
-              "address": null,
+              "address": "Laurel Oaks",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 343590,
@@ -8885,7 +8885,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-243-colton-court",
-              "address": null,
+              "address": "243 Colton Court",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 363140,
@@ -8902,7 +8902,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-306-colton-court",
-              "address": null,
+              "address": "306 Colton Court",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 446490,
@@ -8919,7 +8919,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-523-brinkley-drive",
-              "address": null,
+              "address": "523 Brinkley Drive",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 353000,
@@ -8936,7 +8936,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-535-brinkley-drive",
-              "address": null,
+              "address": "535 Brinkley Drive",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 372240,
@@ -8953,7 +8953,7 @@
             },
             {
               "id": "north-carolina-brinkley-ridge-547-brinkley-drive",
-              "address": null,
+              "address": "547 Brinkley Drive",
               "cityStateZip": "Kings Mountain, NC 28086",
               "planName": null,
               "price": 363540,
@@ -9137,7 +9137,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-3249-ora-smith-road",
-              "address": null,
+              "address": "3249 Ora Smith Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 239000,
@@ -9154,7 +9154,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-3253-ora-smith-road",
-              "address": null,
+              "address": "3253 Ora Smith Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 249000,
@@ -9171,7 +9171,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-5311-harriets-memory-trail",
-              "address": null,
+              "address": "5311 Harriets Memory Trail",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 339000,
@@ -9188,7 +9188,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-2833-frances-view-lane",
-              "address": null,
+              "address": "2833 Frances View Lane",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 313990,
@@ -9205,7 +9205,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-2837-frances-view-lane",
-              "address": null,
+              "address": "2837 Frances View Lane",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 321990,
@@ -9222,7 +9222,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-3217-ora-smith-road",
-              "address": null,
+              "address": "3217 Ora Smith Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 240650,
@@ -9239,7 +9239,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-3221-ora-smith-road",
-              "address": null,
+              "address": "3221 Ora Smith Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 239650,
@@ -9256,7 +9256,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-3225-ora-smith-road",
-              "address": null,
+              "address": "3225 Ora Smith Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 247245,
@@ -9273,7 +9273,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-4567-harris-elliot-road",
-              "address": null,
+              "address": "4567 Harris Elliot Road",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 349140,
@@ -9290,7 +9290,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-5308-harriets-memory-trail",
-              "address": null,
+              "address": "5308 Harriets Memory Trail",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 352140,
@@ -9307,7 +9307,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-5316-harriets-memory-trail",
-              "address": null,
+              "address": "5316 Harriets Memory Trail",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 336990,
@@ -9324,7 +9324,7 @@
             },
             {
               "id": "north-carolina-clark-creek-landing-5320-harriets-memory-trail",
-              "address": null,
+              "address": "5320 Harriets Memory Trail",
               "cityStateZip": "Lincolnton, NC 28092",
               "planName": null,
               "price": 370240,
@@ -9790,7 +9790,7 @@
             },
             {
               "id": "north-carolina-the-villages-of-maiden-2575-goose-fair-road",
-              "address": null,
+              "address": "2575 Goose Fair Road",
               "cityStateZip": "Maiden, NC 28650",
               "planName": null,
               "price": 323990,
@@ -9807,7 +9807,7 @@
             },
             {
               "id": "north-carolina-the-villages-of-maiden-2583-goose-fair-road",
-              "address": null,
+              "address": "2583 Goose Fair Road",
               "cityStateZip": "Maiden, NC 28650",
               "planName": null,
               "price": 325990,
@@ -10025,7 +10025,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-troutman-108-parmiter-way-twne-a",
-              "address": null,
+              "address": "108 Parmiter Way Twne A",
               "cityStateZip": "Troutman, NC 28166",
               "planName": null,
               "price": 289000,
@@ -10042,7 +10042,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-troutman-108-parmiter-way-twne-b",
-              "address": null,
+              "address": "108 Parmiter Way Twne B",
               "cityStateZip": "Troutman, NC 28166",
               "planName": null,
               "price": 259000,
@@ -10192,7 +10192,7 @@
             },
             {
               "id": "north-carolina-wallace-springs-134-maple-valley-street",
-              "address": null,
+              "address": "134 Maple Valley Street",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 408090,
@@ -10209,7 +10209,7 @@
             },
             {
               "id": "north-carolina-wallace-springs-163-maple-valley-street",
-              "address": null,
+              "address": "163 Maple Valley Street",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 348650,
@@ -10226,7 +10226,7 @@
             },
             {
               "id": "north-carolina-wallace-springs-167-maple-valley-street",
-              "address": null,
+              "address": "167 Maple Valley Street",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 344840,
@@ -10243,7 +10243,7 @@
             },
             {
               "id": "north-carolina-wallace-springs-168-maple-valley-street",
-              "address": null,
+              "address": "168 Maple Valley Street",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 339000,
@@ -10260,7 +10260,7 @@
             },
             {
               "id": "north-carolina-wallace-springs-169-maple-valley-street",
-              "address": null,
+              "address": "169 Maple Valley Street",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 330790,
@@ -10461,7 +10461,7 @@
             },
             {
               "id": "north-carolina-silverstein-332-frozen-dream-drive",
-              "address": null,
+              "address": "332 Frozen Dream Drive",
               "cityStateZip": "Salisbury, NC 28147",
               "planName": null,
               "price": 332600,
@@ -10478,7 +10478,7 @@
             },
             {
               "id": "north-carolina-silverstein-252-early-bird-lane",
-              "address": null,
+              "address": "252 Early Bird Lane",
               "cityStateZip": "Salisbury, NC 28147",
               "planName": null,
               "price": 333090,
@@ -10495,7 +10495,7 @@
             },
             {
               "id": "north-carolina-silverstein-475-frozen-dream-drive",
-              "address": null,
+              "address": "475 Frozen Dream Drive",
               "cityStateZip": "Salisbury, NC 28147",
               "planName": null,
               "price": 346890,
@@ -10512,7 +10512,7 @@
             },
             {
               "id": "north-carolina-silverstein-466-frozen-dream-drive",
-              "address": null,
+              "address": "466 Frozen Dream Drive",
               "cityStateZip": "Salisbury, NC 28147",
               "planName": null,
               "price": 347340,
@@ -10777,7 +10777,7 @@
             },
             {
               "id": "north-carolina-the-falls-at-newton-580-dazzle-loop",
-              "address": null,
+              "address": "580 Dazzle Loop",
               "cityStateZip": "Newton, NC 28658",
               "planName": null,
               "price": 350000,
@@ -10794,7 +10794,7 @@
             },
             {
               "id": "north-carolina-the-falls-at-newton-602-dazzle-loop",
-              "address": null,
+              "address": "602 Dazzle Loop",
               "cityStateZip": "Newton, NC 28658",
               "planName": null,
               "price": 340000,
@@ -10811,7 +10811,7 @@
             },
             {
               "id": "north-carolina-the-falls-at-newton-759-dazzle-loop",
-              "address": null,
+              "address": "759 Dazzle Loop",
               "cityStateZip": "Newton, NC 28658",
               "planName": null,
               "price": 335240,
@@ -10995,7 +10995,7 @@
             },
             {
               "id": "north-carolina-bristol-terrace-221-mary-locke-way",
-              "address": null,
+              "address": "221 Mary Locke Way",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 324990,
@@ -11012,7 +11012,7 @@
             },
             {
               "id": "north-carolina-bristol-terrace-1126-candy-drive",
-              "address": null,
+              "address": "1126 Candy Drive",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 337490,
@@ -11029,7 +11029,7 @@
             },
             {
               "id": "north-carolina-bristol-terrace-201-mary-locke-way",
-              "address": null,
+              "address": "201 Mary Locke Way",
               "cityStateZip": "Statesville, NC 28677",
               "planName": null,
               "price": 342990,
@@ -11264,7 +11264,7 @@
             },
             {
               "id": "north-carolina-cline-village-3635-charles-street-nw",
-              "address": null,
+              "address": "3635 Charles Street NW",
               "cityStateZip": "Conover, NC 28613",
               "planName": null,
               "price": 309000,
@@ -11281,7 +11281,7 @@
             },
             {
               "id": "north-carolina-cline-village-3650-charles-street-nw",
-              "address": null,
+              "address": "3650 Charles Street NW",
               "cityStateZip": "Conover, NC 28613",
               "planName": null,
               "price": 335000,
@@ -11298,7 +11298,7 @@
             },
             {
               "id": "north-carolina-cline-village-3839-maxwell-henry-lane-nw",
-              "address": null,
+              "address": "3839 Maxwell Henry Lane NW",
               "cityStateZip": "Conover, NC 28613",
               "planName": null,
               "price": 349000,
@@ -11315,7 +11315,7 @@
             },
             {
               "id": "north-carolina-cline-village-3823-maxwell-henry-lane-nw",
-              "address": null,
+              "address": "3823 Maxwell Henry Lane NW",
               "cityStateZip": "Conover, NC 28613",
               "planName": null,
               "price": 384890,
@@ -11666,7 +11666,7 @@
             },
             {
               "id": "north-carolina-huffman-ridge-2141-10th-street-se",
-              "address": null,
+              "address": "2141 10th Street SE",
               "cityStateZip": "Hickory, NC 28602",
               "planName": null,
               "price": 289290,
@@ -11683,7 +11683,7 @@
             },
             {
               "id": "north-carolina-huffman-ridge-2145-10th-street-se",
-              "address": null,
+              "address": "2145 10th Street SE",
               "cityStateZip": "Hickory, NC 28602",
               "planName": null,
               "price": 312940,
@@ -11884,7 +11884,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1406-5th-street-drive-ne",
-              "address": null,
+              "address": "1406 5th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 345690,
@@ -11901,7 +11901,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1424-7th-street-drive-ne",
-              "address": null,
+              "address": "1424 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 354000,
@@ -11918,7 +11918,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1428-7th-street-drive-ne",
-              "address": null,
+              "address": "1428 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 349000,
@@ -11935,7 +11935,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1433-7th-street-drive-ne",
-              "address": null,
+              "address": "1433 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 365090,
@@ -11952,7 +11952,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1448-7th-street-drive-ne",
-              "address": null,
+              "address": "1448 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 344000,
@@ -11969,7 +11969,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1702-7th-street-drive-ne",
-              "address": null,
+              "address": "1702 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 391190,
@@ -11986,7 +11986,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-1710-7th-street-drive-ne",
-              "address": null,
+              "address": "1710 7th Street Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 414740,
@@ -12003,7 +12003,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-621-17th-avenue-drive-ne",
-              "address": null,
+              "address": "621 17th Avenue Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 369590,
@@ -12020,7 +12020,7 @@
             },
             {
               "id": "north-carolina-hamptons-at-hickory-633-17th-avenue-drive-ne",
-              "address": null,
+              "address": "633 17th Avenue Drive NE",
               "cityStateZip": "Hickory, NC 28601",
               "planName": null,
               "price": 364590,
@@ -12296,7 +12296,7 @@
             },
             {
               "id": "north-carolina-hobbs-farm-304-rudys-court",
-              "address": null,
+              "address": "304 Rudys Court",
               "cityStateZip": "Ayden, NC 28513",
               "planName": null,
               "price": 277990,
@@ -12313,7 +12313,7 @@
             },
             {
               "id": "north-carolina-hobbs-farm-3914-pasture-lane",
-              "address": null,
+              "address": "3914 Pasture Lane",
               "cityStateZip": "Ayden, NC 28513",
               "planName": null,
               "price": 272140,
@@ -12514,7 +12514,7 @@
             },
             {
               "id": "north-carolina-east-ridge-1082-aviator-lane",
-              "address": null,
+              "address": "1082 Aviator Lane",
               "cityStateZip": "Ayden, NC 28513",
               "planName": null,
               "price": 345490,
@@ -12749,7 +12749,7 @@
             },
             {
               "id": "north-carolina-villa-grande-2709-mindy-way",
-              "address": null,
+              "address": "2709 Mindy Way",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 353000,
@@ -12766,7 +12766,7 @@
             },
             {
               "id": "north-carolina-villa-grande-2675-delilah-drive",
-              "address": null,
+              "address": "2675 Delilah Drive",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 353990,
@@ -13066,7 +13066,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-ridgewood-farms-3400-sunstone-way-3",
-              "address": null,
+              "address": "3400 Sunstone Way 3",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 225990,
@@ -13083,7 +13083,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-ridgewood-farms-3400-sunstone-way-4",
-              "address": null,
+              "address": "3400 Sunstone Way 4",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 225990,
@@ -13100,7 +13100,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-ridgewood-farms-3304-sunstone-way-2",
-              "address": null,
+              "address": "3304 Sunstone Way 2",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 234990,
@@ -13117,7 +13117,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-ridgewood-farms-3304-sunstone-way-3",
-              "address": null,
+              "address": "3304 Sunstone Way 3",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 234990,
@@ -13134,7 +13134,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-ridgewood-farms-3304-sunstone-way-4",
-              "address": null,
+              "address": "3304 Sunstone Way 4",
               "cityStateZip": "Winterville, NC 28590",
               "planName": null,
               "price": 234990,
@@ -13382,7 +13382,7 @@
             },
             {
               "id": "north-carolina-carter-ridge-2016-montalvan-drive",
-              "address": null,
+              "address": "2016 Montalvan Drive",
               "cityStateZip": "Greenville, NC 27834",
               "planName": null,
               "price": 307990,
@@ -13532,7 +13532,7 @@
             },
             {
               "id": "north-carolina-bynum-farms-4816-martha-wynd-way",
-              "address": null,
+              "address": "4816 Martha Wynd Way",
               "cityStateZip": "Farmville, NC 27858",
               "planName": null,
               "price": 279000,
@@ -13549,7 +13549,7 @@
             },
             {
               "id": "north-carolina-bynum-farms-4822-martha-wynd-way",
-              "address": null,
+              "address": "4822 Martha Wynd Way",
               "cityStateZip": "Farmville, NC 27858",
               "planName": null,
               "price": 310000,
@@ -13566,7 +13566,7 @@
             },
             {
               "id": "north-carolina-bynum-farms-4832-martha-wynd-way",
-              "address": null,
+              "address": "4832 Martha Wynd Way",
               "cityStateZip": "Farmville, NC 27858",
               "planName": null,
               "price": 287000,
@@ -13583,7 +13583,7 @@
             },
             {
               "id": "north-carolina-bynum-farms-4859-martha-wynd-way",
-              "address": null,
+              "address": "4859 Martha Wynd Way",
               "cityStateZip": "Farmville, NC 27858",
               "planName": null,
               "price": 329000,
@@ -13600,7 +13600,7 @@
             },
             {
               "id": "north-carolina-bynum-farms-3311-schuyler-drive",
-              "address": null,
+              "address": "3311 Schuyler Drive",
               "cityStateZip": "Farmville, NC 27858",
               "planName": null,
               "price": 291990,
@@ -13784,7 +13784,7 @@
             },
             {
               "id": "north-carolina-blair-ridge-130-claude-street",
-              "address": null,
+              "address": "130 Claude Street",
               "cityStateZip": "La Grange, NC 28551",
               "planName": null,
               "price": 332990,
@@ -13801,7 +13801,7 @@
             },
             {
               "id": "north-carolina-blair-ridge-119-claude-street",
-              "address": null,
+              "address": "119 Claude Street",
               "cityStateZip": "La Grange, NC 28551",
               "planName": null,
               "price": 336990,
@@ -14452,7 +14452,7 @@
             },
             {
               "id": "north-carolina-west-new-bern-4007-montford-drive",
-              "address": null,
+              "address": "4007 Montford Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 384490,
@@ -14730,7 +14730,7 @@
             },
             {
               "id": "north-carolina-bedford-place-2702-westwood-avenue-west",
-              "address": null,
+              "address": "2702 Westwood Avenue West",
               "cityStateZip": "Wilson, NC 27893",
               "planName": null,
               "price": 318490,
@@ -14747,7 +14747,7 @@
             },
             {
               "id": "north-carolina-bedford-place-2706-westwood-avenue-west",
-              "address": null,
+              "address": "2706 Westwood Avenue West",
               "cityStateZip": "Wilson, NC 27893",
               "planName": null,
               "price": 320990,
@@ -14764,7 +14764,7 @@
             },
             {
               "id": "north-carolina-bedford-place-2702-salisbury-lane-west",
-              "address": null,
+              "address": "2702 Salisbury Lane West",
               "cityStateZip": "Wilson, NC 27893",
               "planName": null,
               "price": 328990,
@@ -14781,7 +14781,7 @@
             },
             {
               "id": "north-carolina-bedford-place-2700-westwood-avenue-west",
-              "address": null,
+              "address": "2700 Westwood Avenue West",
               "cityStateZip": "Wilson, NC 27893",
               "planName": null,
               "price": 331990,
@@ -14798,7 +14798,7 @@
             },
             {
               "id": "north-carolina-bedford-place-2704-westwood-avenue-west",
-              "address": null,
+              "address": "2704 Westwood Avenue West",
               "cityStateZip": "Wilson, NC 27893",
               "planName": null,
               "price": 334490,
@@ -14948,7 +14948,7 @@
             },
             {
               "id": "north-carolina-chambray-7009-bayberry-park-drive",
-              "address": null,
+              "address": "7009 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 430990,
@@ -14965,7 +14965,7 @@
             },
             {
               "id": "north-carolina-chambray-7011-bayberry-park-drive",
-              "address": null,
+              "address": "7011 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 396990,
@@ -14982,7 +14982,7 @@
             },
             {
               "id": "north-carolina-chambray-7013-bayberry-park-drive",
-              "address": null,
+              "address": "7013 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 397990,
@@ -14999,7 +14999,7 @@
             },
             {
               "id": "north-carolina-chambray-1015-bayberry-park-drive",
-              "address": null,
+              "address": "1015 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 419990,
@@ -15016,7 +15016,7 @@
             },
             {
               "id": "north-carolina-chambray-7017-bayberry-park-drive",
-              "address": null,
+              "address": "7017 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 395490,
@@ -15033,7 +15033,7 @@
             },
             {
               "id": "north-carolina-chambray-7019-bayberry-park-drive",
-              "address": null,
+              "address": "7019 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 399490,
@@ -15050,7 +15050,7 @@
             },
             {
               "id": "north-carolina-chambray-7021-bayberry-park-drive",
-              "address": null,
+              "address": "7021 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 420990,
@@ -15067,7 +15067,7 @@
             },
             {
               "id": "north-carolina-chambray-7022-bayberry-park-drive",
-              "address": null,
+              "address": "7022 Bayberry Park Drive",
               "cityStateZip": "New Bern, NC 28562",
               "planName": null,
               "price": 421490,
@@ -15217,7 +15217,7 @@
             },
             {
               "id": "north-carolina-jetstream-park-iii-3609-huntsmoor-lane-nw",
-              "address": null,
+              "address": "3609 Huntsmoor Lane NW",
               "cityStateZip": "Wilson, NC 27896",
               "planName": null,
               "price": 273990,
@@ -15602,7 +15602,7 @@
             },
             {
               "id": "north-carolina-hunter-hill-7233-silverleaf-road",
-              "address": null,
+              "address": "7233 Silverleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 294990,
@@ -15786,7 +15786,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7221-longleaf-road",
-              "address": null,
+              "address": "7221 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 211700,
@@ -15803,7 +15803,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7225-longleaf-road",
-              "address": null,
+              "address": "7225 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 211700,
@@ -15820,7 +15820,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7229-longleaf-road",
-              "address": null,
+              "address": "7229 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 216300,
@@ -15837,7 +15837,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7233-longleaf-road",
-              "address": null,
+              "address": "7233 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 216300,
@@ -15854,7 +15854,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7237-longleaf-road",
-              "address": null,
+              "address": "7237 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 211700,
@@ -15871,7 +15871,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-hunter-hill-7245-longleaf-road",
-              "address": null,
+              "address": "7245 Longleaf Road",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 216300,
@@ -16072,7 +16072,7 @@
             },
             {
               "id": "north-carolina-saddlebrook-1109-crossway-lane",
-              "address": null,
+              "address": "1109 Crossway Lane",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 283890,
@@ -16089,7 +16089,7 @@
             },
             {
               "id": "north-carolina-saddlebrook-125-brookberry-court",
-              "address": null,
+              "address": "125 Brookberry Court",
               "cityStateZip": "Rocky Mount, NC 27804",
               "planName": null,
               "price": 315490,
@@ -16360,7 +16360,7 @@
             },
             {
               "id": "north-carolina-pelican-pointe-553-watercrest-circle",
-              "address": null,
+              "address": "553 Watercrest Circle",
               "cityStateZip": "Elizabeth Cty, NC 27909",
               "planName": null,
               "price": 389990,
@@ -16377,7 +16377,7 @@
             },
             {
               "id": "north-carolina-pelican-pointe-555-watercrest-circle",
-              "address": null,
+              "address": "555 Watercrest Circle",
               "cityStateZip": "Elizabeth Cty, NC 27909",
               "planName": null,
               "price": 399990,
@@ -16394,7 +16394,7 @@
             },
             {
               "id": "north-carolina-pelican-pointe-568-watercrest-circle",
-              "address": null,
+              "address": "568 Watercrest Circle",
               "cityStateZip": "Elizabeth Cty, NC 27909",
               "planName": null,
               "price": 399990,
@@ -16546,7 +16546,7 @@
             },
             {
               "id": "north-carolina-cross-creek-27-windrose-lane",
-              "address": null,
+              "address": "27 Windrose Lane",
               "cityStateZip": "Spring Lake, NC 28390",
               "planName": null,
               "price": 356990,
@@ -16563,7 +16563,7 @@
             },
             {
               "id": "north-carolina-cross-creek-87-firehawk-drive",
-              "address": null,
+              "address": "87 Firehawk Drive",
               "cityStateZip": "Spring Lake, NC 28390",
               "planName": null,
               "price": 357990,
@@ -16580,7 +16580,7 @@
             },
             {
               "id": "north-carolina-cross-creek-149-firehawk-drive",
-              "address": null,
+              "address": "149 Firehawk Drive",
               "cityStateZip": "Spring Lake, NC 28390",
               "planName": null,
               "price": 348190,
@@ -16991,7 +16991,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-300-ranger-road",
-              "address": null,
+              "address": "300 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 389000,
@@ -17008,7 +17008,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-302-ranger-road",
-              "address": null,
+              "address": "302 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 359000,
@@ -17025,7 +17025,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-303-ranger-road",
-              "address": null,
+              "address": "303 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 359000,
@@ -17042,7 +17042,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-304-ranger-road",
-              "address": null,
+              "address": "304 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 374000,
@@ -17059,7 +17059,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-306-ranger-road",
-              "address": null,
+              "address": "306 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 359000,
@@ -17076,7 +17076,7 @@
             },
             {
               "id": "north-carolina-the-meadows-at-kinsley-307-ranger-road",
-              "address": null,
+              "address": "307 Ranger Road",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 369000,
@@ -17158,7 +17158,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-kinsley-102-harbor-hill-blvd",
-              "address": null,
+              "address": "102 Harbor Hill Blvd",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 463000,
@@ -17175,7 +17175,7 @@
             },
             {
               "id": "north-carolina-kinsley-104-harbor-hill-blvd",
-              "address": null,
+              "address": "104 Harbor Hill Blvd",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 444000,
@@ -17192,7 +17192,7 @@
             },
             {
               "id": "north-carolina-kinsley-106-harbor-hill-blvd",
-              "address": null,
+              "address": "106 Harbor Hill Blvd",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 449000,
@@ -17209,7 +17209,7 @@
             },
             {
               "id": "north-carolina-kinsley-108-harbor-hill-blvd",
-              "address": null,
+              "address": "108 Harbor Hill Blvd",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 464000,
@@ -17226,7 +17226,7 @@
             },
             {
               "id": "north-carolina-kinsley-207-hungerford-boulevard",
-              "address": null,
+              "address": "207 Hungerford Boulevard",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 439000,
@@ -17243,7 +17243,7 @@
             },
             {
               "id": "north-carolina-kinsley-208-hungerford-boulevard",
-              "address": null,
+              "address": "208 Hungerford Boulevard",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 434000,
@@ -17260,7 +17260,7 @@
             },
             {
               "id": "north-carolina-kinsley-107-lauder-trace",
-              "address": null,
+              "address": "107 Lauder Trace",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 426990,
@@ -17478,7 +17478,7 @@
             },
             {
               "id": "north-carolina-the-villas-at-kinsley-300-mary-montrose-boulevard",
-              "address": null,
+              "address": "300 Mary Montrose Boulevard",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 444000,
@@ -17495,7 +17495,7 @@
             },
             {
               "id": "north-carolina-the-villas-at-kinsley-311-sefton-drive",
-              "address": null,
+              "address": "311 Sefton Drive",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 449000,
@@ -17512,7 +17512,7 @@
             },
             {
               "id": "north-carolina-the-villas-at-kinsley-313-sefton-drive",
-              "address": null,
+              "address": "313 Sefton Drive",
               "cityStateZip": "Jamestown, NC 27282",
               "planName": null,
               "price": 437000,
@@ -17726,7 +17726,7 @@
             },
             {
               "id": "north-carolina-quail-haven-3767-quail-haven-drive",
-              "address": null,
+              "address": "3767 Quail Haven Drive",
               "cityStateZip": "Winston-Salem, NC 27107",
               "planName": null,
               "price": 319000,
@@ -17743,7 +17743,7 @@
             },
             {
               "id": "north-carolina-quail-haven-3768-quail-haven-drive",
-              "address": null,
+              "address": "3768 Quail Haven Drive",
               "cityStateZip": "Winston-Salem, NC 27107",
               "planName": null,
               "price": 319000,
@@ -17760,7 +17760,7 @@
             },
             {
               "id": "north-carolina-quail-haven-3773-quail-haven-drive",
-              "address": null,
+              "address": "3773 Quail Haven Drive",
               "cityStateZip": "Winston-Salem, NC 27107",
               "planName": null,
               "price": 339000,
@@ -17777,7 +17777,7 @@
             },
             {
               "id": "north-carolina-quail-haven-3774-quail-haven-drive",
-              "address": null,
+              "address": "3774 Quail Haven Drive",
               "cityStateZip": "Winston-Salem, NC 27107",
               "planName": null,
               "price": 311500,
@@ -17978,7 +17978,7 @@
             },
             {
               "id": "north-carolina-english-farm-1107-slingshot-drive",
-              "address": null,
+              "address": "1107 Slingshot Drive",
               "cityStateZip": "Archdale, NC 27263",
               "planName": null,
               "price": 364000,
@@ -17995,7 +17995,7 @@
             },
             {
               "id": "north-carolina-english-farm-1109-jimmy-court",
-              "address": null,
+              "address": "1109 Jimmy Court",
               "cityStateZip": "Archdale, NC 27263",
               "planName": null,
               "price": 362440,
@@ -18012,7 +18012,7 @@
             },
             {
               "id": "north-carolina-english-farm-1111-jimmy-court",
-              "address": null,
+              "address": "1111 Jimmy Court",
               "cityStateZip": "Archdale, NC 27263",
               "planName": null,
               "price": 368490,
@@ -18029,7 +18029,7 @@
             },
             {
               "id": "north-carolina-english-farm-1113-jimmy-court",
-              "address": null,
+              "address": "1113 Jimmy Court",
               "cityStateZip": "Archdale, NC 27263",
               "planName": null,
               "price": 364465,
@@ -18529,7 +18529,7 @@
             },
             {
               "id": "north-carolina-havencrest-2808-kilpatrick-white-road",
-              "address": null,
+              "address": "2808 Kilpatrick White Road",
               "cityStateZip": "Greensboro, NC 27406",
               "planName": null,
               "price": 348490,
@@ -18546,7 +18546,7 @@
             },
             {
               "id": "north-carolina-havencrest-10-jubilee-court",
-              "address": null,
+              "address": "10 Jubilee Court",
               "cityStateZip": "Greensboro, NC 27406",
               "planName": null,
               "price": 348940,
@@ -18563,7 +18563,7 @@
             },
             {
               "id": "north-carolina-havencrest-11-jubilee-court",
-              "address": null,
+              "address": "11 Jubilee Court",
               "cityStateZip": "Greensboro, NC 27406",
               "planName": null,
               "price": 356490,
@@ -19008,7 +19008,7 @@
             },
             {
               "id": "north-carolina-colly-farm-246-pepper-tree-road",
-              "address": null,
+              "address": "246 Pepper Tree Road",
               "cityStateZip": "Stokesdale, NC 27357",
               "planName": null,
               "price": 385000,
@@ -19025,7 +19025,7 @@
             },
             {
               "id": "north-carolina-colly-farm-159-black-willow-road",
-              "address": null,
+              "address": "159 Black Willow Road",
               "cityStateZip": "Stokesdale, NC 27357",
               "planName": null,
               "price": 390990,
@@ -19042,7 +19042,7 @@
             },
             {
               "id": "north-carolina-colly-farm-125-w-holly-oak-way",
-              "address": null,
+              "address": "125 W Holly Oak Way",
               "cityStateZip": "Stokesdale, NC 27357",
               "planName": null,
               "price": 419205,
@@ -19294,7 +19294,7 @@
             },
             {
               "id": "north-carolina-willow-mill-622-beechwood-circle",
-              "address": null,
+              "address": "622 Beechwood Circle",
               "cityStateZip": "Thomasville, NC 27360",
               "planName": null,
               "price": 299000,
@@ -19311,7 +19311,7 @@
             },
             {
               "id": "north-carolina-willow-mill-623-beechwood-circle",
-              "address": null,
+              "address": "623 Beechwood Circle",
               "cityStateZip": "Thomasville, NC 27360",
               "planName": null,
               "price": 281000,
@@ -19563,7 +19563,7 @@
             },
             {
               "id": "north-carolina-fishel-village-444-mirage-drive",
-              "address": null,
+              "address": "444 Mirage Drive",
               "cityStateZip": "Winston-Salem, NC 27127",
               "planName": null,
               "price": 338140,
@@ -19747,7 +19747,7 @@
             },
             {
               "id": "north-carolina-aspen-place-409-white-spruce-court",
-              "address": null,
+              "address": "409 White Spruce Court",
               "cityStateZip": "Thomasville, NC 27360",
               "planName": null,
               "price": 329000,
@@ -19897,7 +19897,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-neal-place-147-neal-place",
-              "address": null,
+              "address": "147 Neal Place",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 355440,
@@ -19914,7 +19914,7 @@
             },
             {
               "id": "north-carolina-neal-place-152-neal-place",
-              "address": null,
+              "address": "152 Neal Place",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 330990,
@@ -19931,7 +19931,7 @@
             },
             {
               "id": "north-carolina-neal-place-153-neal-place",
-              "address": null,
+              "address": "153 Neal Place",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 358990,
@@ -19948,7 +19948,7 @@
             },
             {
               "id": "north-carolina-neal-place-158-neal-place",
-              "address": null,
+              "address": "158 Neal Place",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 357440,
@@ -19965,7 +19965,7 @@
             },
             {
               "id": "north-carolina-neal-place-164-neal-place",
-              "address": null,
+              "address": "164 Neal Place",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 330990,
@@ -19982,7 +19982,7 @@
             },
             {
               "id": "north-carolina-neal-place-206-north-farm-loop",
-              "address": null,
+              "address": "206 North Farm Loop",
               "cityStateZip": "Stokesdale, NC 27537",
               "planName": null,
               "price": 366990,
@@ -20115,7 +20115,7 @@
             },
             {
               "id": "north-carolina-bryson-park-866-bryson-boulevard",
-              "address": null,
+              "address": "866 Bryson Boulevard",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 381000,
@@ -20132,7 +20132,7 @@
             },
             {
               "id": "north-carolina-bryson-park-301-strawberry-court",
-              "address": null,
+              "address": "301 Strawberry Court",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 389000,
@@ -20149,7 +20149,7 @@
             },
             {
               "id": "north-carolina-bryson-park-135-strawberry-court",
-              "address": null,
+              "address": "135 Strawberry Court",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 392990,
@@ -20401,7 +20401,7 @@
             },
             {
               "id": "north-carolina-brookhaven-2706-orange-blossom-street",
-              "address": null,
+              "address": "2706 Orange Blossom Street",
               "cityStateZip": "Greensboro, NC 27406",
               "planName": null,
               "price": 355000,
@@ -21102,7 +21102,7 @@
             },
             {
               "id": "north-carolina-chandler-pointe-6263-ashton-woods-lane",
-              "address": null,
+              "address": "6263 Ashton Woods Lane",
               "cityStateZip": "Rural Hall, NC 27045",
               "planName": null,
               "price": 264000,
@@ -21119,7 +21119,7 @@
             },
             {
               "id": "north-carolina-chandler-pointe-6270-ashton-woods-lane",
-              "address": null,
+              "address": "6270 Ashton Woods Lane",
               "cityStateZip": "Rural Hall, NC 27045",
               "planName": null,
               "price": 315000,
@@ -21136,7 +21136,7 @@
             },
             {
               "id": "north-carolina-chandler-pointe-6276-ashton-woods-lane",
-              "address": null,
+              "address": "6276 Ashton Woods Lane",
               "cityStateZip": "Rural Hall, NC 27045",
               "planName": null,
               "price": 269000,
@@ -21534,7 +21534,7 @@
             },
             {
               "id": "north-carolina-baymeade-303-baymeade-drive",
-              "address": null,
+              "address": "303 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 369000,
@@ -21551,7 +21551,7 @@
             },
             {
               "id": "north-carolina-baymeade-321-baymeade-drive",
-              "address": null,
+              "address": "321 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 335000,
@@ -21568,7 +21568,7 @@
             },
             {
               "id": "north-carolina-baymeade-501-baymeade-drive",
-              "address": null,
+              "address": "501 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 329000,
@@ -21585,7 +21585,7 @@
             },
             {
               "id": "north-carolina-baymeade-524-baymeade-drive",
-              "address": null,
+              "address": "524 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 329000,
@@ -21602,7 +21602,7 @@
             },
             {
               "id": "north-carolina-baymeade-545-baymeade-drive",
-              "address": null,
+              "address": "545 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 324990,
@@ -21619,7 +21619,7 @@
             },
             {
               "id": "north-carolina-baymeade-563-baymeade-drive",
-              "address": null,
+              "address": "563 Baymeade Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 355440,
@@ -21803,7 +21803,7 @@
             },
             {
               "id": "north-carolina-owens-ridge-101-noah-park-drive",
-              "address": null,
+              "address": "101 Noah Park Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 286000,
@@ -21820,7 +21820,7 @@
             },
             {
               "id": "north-carolina-owens-ridge-105-noah-park-drive",
-              "address": null,
+              "address": "105 Noah Park Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 319000,
@@ -21837,7 +21837,7 @@
             },
             {
               "id": "north-carolina-owens-ridge-113-noah-park-drive",
-              "address": null,
+              "address": "113 Noah Park Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 286000,
@@ -21854,7 +21854,7 @@
             },
             {
               "id": "north-carolina-owens-ridge-121-noah-park-drive",
-              "address": null,
+              "address": "121 Noah Park Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 304149,
@@ -21871,7 +21871,7 @@
             },
             {
               "id": "north-carolina-owens-ridge-122-noah-park-drive",
-              "address": null,
+              "address": "122 Noah Park Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 314000,
@@ -22072,7 +22072,7 @@
             },
             {
               "id": "north-carolina-edinborough-605-fionn-street",
-              "address": null,
+              "address": "605 Fionn Street",
               "cityStateZip": "Gibsonville, NC 27249",
               "planName": null,
               "price": 370940,
@@ -22436,7 +22436,7 @@
             },
             {
               "id": "north-carolina-the-estates-at-edinborough-408-the-brus-street",
-              "address": null,
+              "address": "408 The Brus Street",
               "cityStateZip": "Gibsonville, NC 27249",
               "planName": null,
               "price": 429205,
@@ -22852,7 +22852,7 @@
             },
             {
               "id": "north-carolina-middleton-lexington-420-middleton-drive",
-              "address": null,
+              "address": "420 Middleton Drive",
               "cityStateZip": "Lexington, NC 27295",
               "planName": null,
               "price": 284000,
@@ -23019,7 +23019,7 @@
             },
             {
               "id": "north-carolina-evergreen-landing-184--demonstration-lane",
-              "address": null,
+              "address": "184 Demonstration Lane",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 337240,
@@ -23036,7 +23036,7 @@
             },
             {
               "id": "north-carolina-evergreen-landing-201--demonstration-lane",
-              "address": null,
+              "address": "201 Demonstration Lane",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 335240,
@@ -23053,7 +23053,7 @@
             },
             {
               "id": "north-carolina-evergreen-landing-277-bassett-drive",
-              "address": null,
+              "address": "277 Bassett Drive",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 367000,
@@ -23285,7 +23285,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-madison-garden-167-buster-way",
-              "address": null,
+              "address": "167 Buster Way",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 329000,
@@ -23302,7 +23302,7 @@
             },
             {
               "id": "north-carolina-madison-garden-166-buster-way",
-              "address": null,
+              "address": "166 Buster Way",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 343140,
@@ -23319,7 +23319,7 @@
             },
             {
               "id": "north-carolina-madison-garden-186-buster-way",
-              "address": null,
+              "address": "186 Buster Way",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 361940,
@@ -23336,7 +23336,7 @@
             },
             {
               "id": "north-carolina-madison-garden-187-buster-way",
-              "address": null,
+              "address": "187 Buster Way",
               "cityStateZip": "Lexington, NC 27292",
               "planName": null,
               "price": 334490,
@@ -23525,7 +23525,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-911-purple-pear-trail",
-              "address": null,
+              "address": "911 Purple Pear Trail",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 306890,
@@ -23542,7 +23542,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-832-brown-bosc-drive",
-              "address": null,
+              "address": "832 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 299990,
@@ -23559,7 +23559,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-834-brown-bosc-drive",
-              "address": null,
+              "address": "834 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 298990,
@@ -23576,7 +23576,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-836-brown-bosc-drive",
-              "address": null,
+              "address": "836 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 313990,
@@ -23593,7 +23593,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-807-brown-bosc-drive",
-              "address": null,
+              "address": "807 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 321990,
@@ -23610,7 +23610,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-809-brown-bosc-drive",
-              "address": null,
+              "address": "809 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 325990,
@@ -23627,7 +23627,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-811-brown-bosc-drive",
-              "address": null,
+              "address": "811 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 324990,
@@ -23644,7 +23644,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-bexford-813-brown-bosc-drive",
-              "address": null,
+              "address": "813 Brown Bosc Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 353490,
@@ -23794,7 +23794,7 @@
             },
             {
               "id": "north-carolina-bexford-5208-seckel-street",
-              "address": null,
+              "address": "5208 Seckel Street",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 450040,
@@ -23811,7 +23811,7 @@
             },
             {
               "id": "north-carolina-bexford-709-sparkling-pear-drive",
-              "address": null,
+              "address": "709 Sparkling Pear Drive",
               "cityStateZip": "Willow Spring, NC 27592",
               "planName": null,
               "price": 455990,
@@ -23961,7 +23961,7 @@
             },
             {
               "id": "north-carolina-the-estates-at-horton-park-2337-horton-park-drive",
-              "address": null,
+              "address": "2337 Horton Park Drive",
               "cityStateZip": "Apex, NC 27539",
               "planName": null,
               "price": 762490,
@@ -24128,7 +24128,7 @@
             },
             {
               "id": "north-carolina-horton-park-5109-dezola-street",
-              "address": null,
+              "address": "5109 Dezola Street",
               "cityStateZip": "Apex, NC 27539",
               "planName": null,
               "price": 639840,
@@ -24346,7 +24346,7 @@
             },
             {
               "id": "north-carolina-madden-west-506-dorset-stream-drive",
-              "address": null,
+              "address": "506 Dorset Stream Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 461341,
@@ -24496,7 +24496,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-madden-west-826-washington-street",
-              "address": null,
+              "address": "826 Washington Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 363850,
@@ -24663,7 +24663,7 @@
             },
             {
               "id": "north-carolina-eagle-creek-312-delmoor-drive",
-              "address": null,
+              "address": "312 Delmoor Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 544490,
@@ -24680,7 +24680,7 @@
             },
             {
               "id": "north-carolina-eagle-creek-390-delmoor-drive",
-              "address": null,
+              "address": "390 Delmoor Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 542510,
@@ -24697,7 +24697,7 @@
             },
             {
               "id": "north-carolina-eagle-creek-87-greenwillow-drive",
-              "address": null,
+              "address": "87 Greenwillow Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 532610,
@@ -24980,7 +24980,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-honeycutt-oaks-24-bee-garden-court",
-              "address": null,
+              "address": "24 Bee Garden Court",
               "cityStateZip": "Angier, NC 27501",
               "planName": null,
               "price": 235490,
@@ -24997,7 +24997,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-honeycutt-oaks-28-bee-garden-court",
-              "address": null,
+              "address": "28 Bee Garden Court",
               "cityStateZip": "Angier, NC 27501",
               "planName": null,
               "price": 237490,
@@ -25014,7 +25014,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-honeycutt-oaks-32-bee-garden-court",
-              "address": null,
+              "address": "32 Bee Garden Court",
               "cityStateZip": "Angier, NC 27501",
               "planName": null,
               "price": 254490,
@@ -25164,7 +25164,7 @@
             },
             {
               "id": "north-carolina-battle-crossings-7017-dolmen-drive",
-              "address": null,
+              "address": "7017 Dolmen Drive",
               "cityStateZip": "Raleigh, NC 27610",
               "planName": null,
               "price": 295990,
@@ -25348,7 +25348,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-255-rusling-leaf-drive",
-              "address": null,
+              "address": "255 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 246995,
@@ -25365,7 +25365,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-279-rusling-leaf-drive",
-              "address": null,
+              "address": "279 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 227690,
@@ -25382,7 +25382,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-283-rusling-leaf-drive",
-              "address": null,
+              "address": "283 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 242540,
@@ -25399,7 +25399,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-37-rusling-leaf-drive",
-              "address": null,
+              "address": "37 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 242540,
@@ -25416,7 +25416,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-41-rusling-leaf-drive",
-              "address": null,
+              "address": "41 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 226868,
@@ -25433,7 +25433,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-53-rusling-leaf-drive",
-              "address": null,
+              "address": "53 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 242540,
@@ -25450,7 +25450,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-matthews-landing-263-rusling-leaf-drive",
-              "address": null,
+              "address": "263 Rusling Leaf Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 242540,
@@ -25634,7 +25634,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-24-tuscarora-drive",
-              "address": null,
+              "address": "24 Tuscarora Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 344990,
@@ -25651,7 +25651,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-308-chapel-street",
-              "address": null,
+              "address": "308 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 322990,
@@ -25668,7 +25668,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-311-chapel-street",
-              "address": null,
+              "address": "311 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 325990,
@@ -25685,7 +25685,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-321-chapel-street",
-              "address": null,
+              "address": "321 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 342990,
@@ -25702,7 +25702,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-316-chapel-street",
-              "address": null,
+              "address": "316 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 336990,
@@ -25719,7 +25719,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-322-chapel-street",
-              "address": null,
+              "address": "322 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 327990,
@@ -25736,7 +25736,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-330-chapel-street",
-              "address": null,
+              "address": "330 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 333990,
@@ -25753,7 +25753,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-34-tuscarora-drive",
-              "address": null,
+              "address": "34 Tuscarora Drive",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 383190,
@@ -25770,7 +25770,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-345-chapel-street",
-              "address": null,
+              "address": "345 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 355990,
@@ -25787,7 +25787,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-matthews-landing-346-chapel-street",
-              "address": null,
+              "address": "346 Chapel Street",
               "cityStateZip": "Fuquay-Varina, NC 27526",
               "planName": null,
               "price": 335990,
@@ -25988,7 +25988,7 @@
             },
             {
               "id": "north-carolina-the-grove-at-winston-pointe-208-joyful-stone-drive",
-              "address": null,
+              "address": "208 Joyful Stone Drive",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 514490,
@@ -26271,7 +26271,7 @@
             },
             {
               "id": "north-carolina-the-manors-at-winston-pointe-67-west-fire-opal-court",
-              "address": null,
+              "address": "67 West Fire Opal Court",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 544490,
@@ -26404,7 +26404,7 @@
             },
             {
               "id": "north-carolina-swift-creek-farm-565-swift-creek-farm-lane",
-              "address": null,
+              "address": "565 Swift Creek Farm Lane",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 344990,
@@ -26421,7 +26421,7 @@
             },
             {
               "id": "north-carolina-swift-creek-farm-220-grazing-buck-drive",
-              "address": null,
+              "address": "220 Grazing Buck Drive",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 395250,
@@ -26704,7 +26704,7 @@
             },
             {
               "id": "north-carolina-westerly-91-westerly-way",
-              "address": null,
+              "address": "91 Westerly Way",
               "cityStateZip": "Lillington, NC 27546",
               "planName": null,
               "price": 334860,
@@ -26721,7 +26721,7 @@
             },
             {
               "id": "north-carolina-westerly-132-lone-star-drive",
-              "address": null,
+              "address": "132 Lone Star Drive",
               "cityStateZip": "Lillington, NC 27546",
               "planName": null,
               "price": 308990,
@@ -27021,7 +27021,7 @@
             },
             {
               "id": "north-carolina-lawson-glen-52-lawson-glen-drive",
-              "address": null,
+              "address": "52 Lawson Glen Drive",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 377675,
@@ -27038,7 +27038,7 @@
             },
             {
               "id": "north-carolina-lawson-glen-63-cheyenne-drive",
-              "address": null,
+              "address": "63 Cheyenne Drive",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 371240,
@@ -27055,7 +27055,7 @@
             },
             {
               "id": "north-carolina-lawson-glen-71-cheyenne-drive",
-              "address": null,
+              "address": "71 Cheyenne Drive",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 395941,
@@ -27072,7 +27072,7 @@
             },
             {
               "id": "north-carolina-lawson-glen-201-palomino-way",
-              "address": null,
+              "address": "201 Palomino Way",
               "cityStateZip": "Clayton, NC 27520",
               "planName": null,
               "price": 362490,
@@ -28293,7 +28293,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1132-pavo-path",
-              "address": null,
+              "address": "1132 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 410840,
@@ -28310,7 +28310,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1136-pavo-path",
-              "address": null,
+              "address": "1136 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 404340,
@@ -28327,7 +28327,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-840-norma-drive",
-              "address": null,
+              "address": "840 Norma Drive",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 381090,
@@ -28344,7 +28344,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1124-pavo-path",
-              "address": null,
+              "address": "1124 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 378590,
@@ -28361,7 +28361,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1125-pavo-path",
-              "address": null,
+              "address": "1125 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 412840,
@@ -28378,7 +28378,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1128-pavo-path",
-              "address": null,
+              "address": "1128 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 400340,
@@ -28395,7 +28395,7 @@
             },
             {
               "id": "north-carolina-anderson-farm-1133-pavo-path",
-              "address": null,
+              "address": "1133 Pavo Path",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 406340,
@@ -28579,7 +28579,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-wilsons-ridge-209-holton-street",
-              "address": null,
+              "address": "209 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 282990,
@@ -28596,7 +28596,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-wilsons-ridge-213-holton-street",
-              "address": null,
+              "address": "213 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 271990,
@@ -28613,7 +28613,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-wilsons-ridge-217-holton-street",
-              "address": null,
+              "address": "217 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 271990,
@@ -28630,7 +28630,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-wilsons-ridge-221-holton-street",
-              "address": null,
+              "address": "221 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 271990,
@@ -28647,7 +28647,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-wilsons-ridge-225-holton-street",
-              "address": null,
+              "address": "225 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 282990,
@@ -28780,7 +28780,7 @@
             },
             {
               "id": "north-carolina-wilsons-ridge-119-vignette-drive",
-              "address": null,
+              "address": "119 Vignette Drive",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 307742,
@@ -28797,7 +28797,7 @@
             },
             {
               "id": "north-carolina-wilsons-ridge-165-carriedelle-lane",
-              "address": null,
+              "address": "165 Carriedelle Lane",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 306761,
@@ -28814,7 +28814,7 @@
             },
             {
               "id": "north-carolina-wilsons-ridge-169-daniel-road",
-              "address": null,
+              "address": "169 Daniel Road",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 331640,
@@ -28831,7 +28831,7 @@
             },
             {
               "id": "north-carolina-wilsons-ridge-269-holton-street",
-              "address": null,
+              "address": "269 Holton Street",
               "cityStateZip": "Wilson's Mills, NC 27577",
               "planName": null,
               "price": 310850,
@@ -29015,7 +29015,7 @@
             },
             {
               "id": "north-carolina-kalas-falls-1124-dartford-green-place",
-              "address": null,
+              "address": "1124 Dartford Green Place",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 627254,
@@ -29032,7 +29032,7 @@
             },
             {
               "id": "north-carolina-kalas-falls-4140-tansley-crest-loop",
-              "address": null,
+              "address": "4140 Tansley Crest Loop",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 691805,
@@ -29165,7 +29165,7 @@
             },
             {
               "id": "north-carolina-belle-grove-541-tradition-farm-place",
-              "address": null,
+              "address": "541 Tradition Farm Place",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 350990,
@@ -29182,7 +29182,7 @@
             },
             {
               "id": "north-carolina-belle-grove-545-tradition-farm-place",
-              "address": null,
+              "address": "545 Tradition Farm Place",
               "cityStateZip": "Wendell, NC 27591",
               "planName": null,
               "price": 349990,
@@ -29550,7 +29550,7 @@
             },
             {
               "id": "north-carolina-the-villas-at-galvins-ridge-361-alexis-loop",
-              "address": null,
+              "address": "361 Alexis Loop",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 428900,
@@ -29567,7 +29567,7 @@
             },
             {
               "id": "north-carolina-the-villas-at-galvins-ridge-0525-tbd-at-plat",
-              "address": null,
+              "address": "0525 Tbd At Plat",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 407870,
@@ -29734,7 +29734,7 @@
             },
             {
               "id": "north-carolina-galvins-ridge-234-pisgah-street",
-              "address": null,
+              "address": "234 Pisgah Street",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 352340,
@@ -29751,7 +29751,7 @@
             },
             {
               "id": "north-carolina-galvins-ridge-239-pisgah-street",
-              "address": null,
+              "address": "239 Pisgah Street",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 395990,
@@ -29768,7 +29768,7 @@
             },
             {
               "id": "north-carolina-galvins-ridge-530-ashley-run",
-              "address": null,
+              "address": "530 Ashley Run",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 351990,
@@ -29785,7 +29785,7 @@
             },
             {
               "id": "north-carolina-galvins-ridge-535-ashley-run",
-              "address": null,
+              "address": "535 Ashley Run",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 393590,
@@ -29802,7 +29802,7 @@
             },
             {
               "id": "north-carolina-galvins-ridge-538-ashley-run",
-              "address": null,
+              "address": "538 Ashley Run",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 396090,
@@ -29952,7 +29952,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-galvins-ridge-265-otter-lodge-street",
-              "address": null,
+              "address": "265 Otter Lodge Street",
               "cityStateZip": "Sanford, NC 27330",
               "planName": null,
               "price": 256490,
@@ -30119,7 +30119,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-1868-fighting-bull-drive",
-              "address": null,
+              "address": "1868 Fighting Bull Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 432620,
@@ -30136,7 +30136,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-621-ramo-grande-drive",
-              "address": null,
+              "address": "621 Ramo Grande Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 445490,
@@ -30153,7 +30153,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-625-ramo-grande-drive",
-              "address": null,
+              "address": "625 Ramo Grande Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 429997,
@@ -30170,7 +30170,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-628-ramo-grande-drive",
-              "address": null,
+              "address": "628 Ramo Grande Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 425690,
@@ -30187,7 +30187,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-633-ramo-grande-drive",
-              "address": null,
+              "address": "633 Ramo Grande Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 430492,
@@ -30204,7 +30204,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-504-shorthorn-drive",
-              "address": null,
+              "address": "504 Shorthorn Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 457340,
@@ -30221,7 +30221,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-508-shorthorn-drive",
-              "address": null,
+              "address": "508 Shorthorn Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 420840,
@@ -30238,7 +30238,7 @@
             },
             {
               "id": "north-carolina-the-reserve-at-prestleigh-512-shorthorn-drive",
-              "address": null,
+              "address": "512 Shorthorn Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 414340,
@@ -30388,7 +30388,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-prestleigh-367-freestall-drive",
-              "address": null,
+              "address": "367 Freestall Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 282990,
@@ -30405,7 +30405,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-prestleigh-369-freestall-drive",
-              "address": null,
+              "address": "369 Freestall Drive",
               "cityStateZip": "Wake Forest, NC 27587",
               "planName": null,
               "price": 290990,
@@ -30786,7 +30786,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-laurel-oaks-514-cherry-laurel-drive",
-              "address": null,
+              "address": "514 Cherry Laurel Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 240900,
@@ -30803,7 +30803,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-laurel-oaks-516-cherry-laurel-drive",
-              "address": null,
+              "address": "516 Cherry Laurel Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 239075,
@@ -30820,7 +30820,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-laurel-oaks-522-cherry-laurel-drive",
-              "address": null,
+              "address": "522 Cherry Laurel Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 250500,
@@ -30970,7 +30970,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-262-bay-laurel-drive",
-              "address": null,
+              "address": "262 Bay Laurel Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 348916,
@@ -30987,7 +30987,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-503-chestnut-oak-drive",
-              "address": null,
+              "address": "503 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 320750,
@@ -31004,7 +31004,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-507-chestnut-oak-drive",
-              "address": null,
+              "address": "507 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 345847,
@@ -31021,7 +31021,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-508-chestnut-oak-drive",
-              "address": null,
+              "address": "508 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 343025,
@@ -31038,7 +31038,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-511-chestnut-oak-drive",
-              "address": null,
+              "address": "511 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 317780,
@@ -31055,7 +31055,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-515-chestnut-oak-drive",
-              "address": null,
+              "address": "515 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 303920,
@@ -31072,7 +31072,7 @@
             },
             {
               "id": "north-carolina-laurel-oaks-516-chestnut-oak-drive",
-              "address": null,
+              "address": "516 Chestnut Oak Drive",
               "cityStateZip": "Sanford, NC 27332",
               "planName": null,
               "price": 344015,
@@ -31454,7 +31454,7 @@
             },
             {
               "id": "north-carolina-baker-farm-70-rolling-hills-drive",
-              "address": null,
+              "address": "70 Rolling Hills Drive",
               "cityStateZip": "Youngsville, NC 27596",
               "planName": null,
               "price": 377750,
@@ -31686,7 +31686,7 @@
             },
             {
               "id": "north-carolina-collins-ridge-745-james-j-freeland-mem-drive",
-              "address": null,
+              "address": "745 James J Freeland Mem Drive",
               "cityStateZip": "Hillsborough, NC 27278",
               "planName": null,
               "price": 500440,
@@ -32153,7 +32153,7 @@
             },
             {
               "id": "north-carolina-shahbain-reserve-318-meade-drive",
-              "address": null,
+              "address": "318 Meade Drive",
               "cityStateZip": "Raeford, NC 28376",
               "planName": null,
               "price": 362190,
@@ -33140,7 +33140,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-1189-sandy-heights-loop",
-              "address": null,
+              "address": "1189 Sandy Heights Loop",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 362999,
@@ -33157,7 +33157,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-525-tea-tree-cir",
-              "address": null,
+              "address": "525 Tea Tree Cir",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 364999,
@@ -33174,7 +33174,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-1157-sandy-heights-loop",
-              "address": null,
+              "address": "1157 Sandy Heights Loop",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 384999,
@@ -33191,7 +33191,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-1198-sandy-heights-loop",
-              "address": null,
+              "address": "1198 Sandy Heights Loop",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 399999,
@@ -33208,7 +33208,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-1865-travor-st",
-              "address": null,
+              "address": "1865 Travor St",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 406499,
@@ -33225,7 +33225,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-1197-sandy-heights-loop",
-              "address": null,
+              "address": "1197 Sandy Heights Loop",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 424040,
@@ -33392,7 +33392,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-in-navassa-1780-travor-st",
-              "address": null,
+              "address": "1780 Travor St",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 409999,
@@ -33409,7 +33409,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-in-navassa-1786-travor-st",
-              "address": null,
+              "address": "1786 Travor St",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 409999,
@@ -33426,7 +33426,7 @@
             },
             {
               "id": "north-carolina-cedar-hill-landing-in-navassa-1794-travor-st",
-              "address": null,
+              "address": "1794 Travor St",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 424999,
@@ -33508,7 +33508,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-the-townes-at-cedar-hill-landing-0026",
-              "address": null,
+              "address": "0026",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 248990,
@@ -33525,7 +33525,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-cedar-hill-landing-0027",
-              "address": null,
+              "address": "0027",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 247990,
@@ -33542,7 +33542,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-cedar-hill-landing-0028",
-              "address": null,
+              "address": "0028",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 248990,
@@ -33559,7 +33559,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-cedar-hill-landing-0029",
-              "address": null,
+              "address": "0029",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 287990,
@@ -33576,7 +33576,7 @@
             },
             {
               "id": "north-carolina-the-townes-at-cedar-hill-landing-0030",
-              "address": null,
+              "address": "0030",
               "cityStateZip": "Navassa, NC 28451",
               "planName": null,
               "price": 294990,
@@ -33709,7 +33709,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-1110-pampas-grass-drive",
-              "address": null,
+              "address": "1110 Pampas Grass Drive",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 399999,
@@ -33726,7 +33726,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-5407-areca-road",
-              "address": null,
+              "address": "5407 Areca Road",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 407999,
@@ -33743,7 +33743,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-1204-sabal-palm-street",
-              "address": null,
+              "address": "1204 Sabal Palm Street",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 418599,
@@ -33760,7 +33760,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-4325-rough-stalk-lane",
-              "address": null,
+              "address": "4325 Rough Stalk Lane",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 419999,
@@ -33777,7 +33777,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-1220-sabal-palm-street",
-              "address": null,
+              "address": "1220 Sabal Palm Street",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 431149,
@@ -33794,7 +33794,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-1106-pampas-grass-drive",
-              "address": null,
+              "address": "1106 Pampas Grass Drive",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 437340,
@@ -33811,7 +33811,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-1208-sabal-palm-street",
-              "address": null,
+              "address": "1208 Sabal Palm Street",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 467190,
@@ -33828,7 +33828,7 @@
             },
             {
               "id": "north-carolina-sidbury-station-5403-areca-road",
-              "address": null,
+              "address": "5403 Areca Road",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 469699,
@@ -34046,7 +34046,7 @@
             },
             {
               "id": "north-carolina-the-landing-at-sidbury-station-4345-majesty-drive",
-              "address": null,
+              "address": "4345 Majesty Drive",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 289999,
@@ -34063,7 +34063,7 @@
             },
             {
               "id": "north-carolina-the-landing-at-sidbury-station-4354-majesty-drive",
-              "address": null,
+              "address": "4354 Majesty Drive",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 269999,
@@ -34080,7 +34080,7 @@
             },
             {
               "id": "north-carolina-the-landing-at-sidbury-station-4356-majesty-drive",
-              "address": null,
+              "address": "4356 Majesty Drive",
               "cityStateZip": "Castle Hayne, NC 28429",
               "planName": null,
               "price": 269999,
@@ -34264,7 +34264,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1030-goose-crossing-rd",
-              "address": null,
+              "address": "1030 Goose Crossing Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 346899,
@@ -34281,7 +34281,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1034-goose-crossing-rd",
-              "address": null,
+              "address": "1034 Goose Crossing Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 378899,
@@ -34298,7 +34298,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1046-goose-crossing-rd",
-              "address": null,
+              "address": "1046 Goose Crossing Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 343499,
@@ -34315,7 +34315,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1050-goose-crossing-rd",
-              "address": null,
+              "address": "1050 Goose Crossing Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 369999,
@@ -34332,7 +34332,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1054-goose-crossing-rd",
-              "address": null,
+              "address": "1054 Goose Crossing Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 384399,
@@ -34349,7 +34349,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1220-cardinal-branch-rd",
-              "address": null,
+              "address": "1220 Cardinal Branch Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 404740,
@@ -34366,7 +34366,7 @@
             },
             {
               "id": "north-carolina-saunders-village-1224-cardinal-branch-rd",
-              "address": null,
+              "address": "1224 Cardinal Branch Rd",
               "cityStateZip": "Northwest, NC 28451",
               "planName": null,
               "price": 345999,
@@ -34499,7 +34499,7 @@
             },
             {
               "id": "north-carolina-townes-at-seabrooke-8193-foxglove-lane",
-              "address": null,
+              "address": "8193 Foxglove Lane",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 286990,
@@ -35034,7 +35034,7 @@
             },
             {
               "id": "north-carolina-the-retreat-at-indigo-preserve-townhomes-3013-bottlebrush-drive",
-              "address": null,
+              "address": "3013 Bottlebrush Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 335390,
@@ -35051,7 +35051,7 @@
             },
             {
               "id": "north-carolina-the-retreat-at-indigo-preserve-townhomes-3017-bottlebrush-drive",
-              "address": null,
+              "address": "3017 Bottlebrush Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 334890,
@@ -35068,7 +35068,7 @@
             },
             {
               "id": "north-carolina-the-retreat-at-indigo-preserve-townhomes-3056-bottlebrush-drive",
-              "address": null,
+              "address": "3056 Bottlebrush Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 329390,
@@ -35085,7 +35085,7 @@
             },
             {
               "id": "north-carolina-the-retreat-at-indigo-preserve-townhomes-3060-bottlebrush-drive",
-              "address": null,
+              "address": "3060 Bottlebrush Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 347890,
@@ -35102,7 +35102,7 @@
             },
             {
               "id": "north-carolina-the-retreat-at-indigo-preserve-townhomes-3064-bottlebrush-drive",
-              "address": null,
+              "address": "3064 Bottlebrush Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 299999,
@@ -35252,7 +35252,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-8656-blue-haw-way",
-              "address": null,
+              "address": "8656 Blue Haw Way",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 374799,
@@ -35269,7 +35269,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-1180-indigo-bunting-drive",
-              "address": null,
+              "address": "1180 Indigo Bunting Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 399999,
@@ -35286,7 +35286,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-3208-butterfly-ginger-street",
-              "address": null,
+              "address": "3208 Butterfly Ginger Street",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 419999,
@@ -35303,7 +35303,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-3217-butterfly-ginger-street",
-              "address": null,
+              "address": "3217 Butterfly Ginger Street",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 419999,
@@ -35320,7 +35320,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-3228-butterfly-ginger-street",
-              "address": null,
+              "address": "3228 Butterfly Ginger Street",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 449249,
@@ -35337,7 +35337,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-1176-indigo-bunting-drive",
-              "address": null,
+              "address": "1176 Indigo Bunting Drive",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 449999,
@@ -35354,7 +35354,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-3212-butterfly-ginger-street",
-              "address": null,
+              "address": "3212 Butterfly Ginger Street",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 465740,
@@ -35371,7 +35371,7 @@
             },
             {
               "id": "north-carolina-indigo-preserve-8635-blue-haw-way",
-              "address": null,
+              "address": "8635 Blue Haw Way",
               "cityStateZip": "Leland, NC 28451",
               "planName": null,
               "price": 549999,
@@ -35974,7 +35974,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-147-pasture-st",
-              "address": null,
+              "address": "147 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 487399,
@@ -35991,7 +35991,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-31-pasture-st",
-              "address": null,
+              "address": "31 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 514649,
@@ -36008,7 +36008,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-51-pasture-st",
-              "address": null,
+              "address": "51 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 481999,
@@ -36025,7 +36025,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-61-pasture-st",
-              "address": null,
+              "address": "61 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 518949,
@@ -36042,7 +36042,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-62-pasture-st",
-              "address": null,
+              "address": "62 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 493049,
@@ -36059,7 +36059,7 @@
             },
             {
               "id": "north-carolina-magnolia-ridge-at-blake-farm-71-pasture-st",
-              "address": null,
+              "address": "71 Pasture St",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 556549,
@@ -36209,7 +36209,7 @@
             },
             {
               "id": "north-carolina-the-willows-at-blake-farm-182-cashmere-ct",
-              "address": null,
+              "address": "182 Cashmere Ct",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 279999,
@@ -36226,7 +36226,7 @@
             },
             {
               "id": "north-carolina-the-willows-at-blake-farm-184-cashmere-ct",
-              "address": null,
+              "address": "184 Cashmere Ct",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 279999,
@@ -36243,7 +36243,7 @@
             },
             {
               "id": "north-carolina-the-willows-at-blake-farm-204-cashmere-ct",
-              "address": null,
+              "address": "204 Cashmere Ct",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 352640,
@@ -36342,7 +36342,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-the-willows-at-blake-farm-exp-16-perry-creek-way",
-              "address": null,
+              "address": "16 Perry Creek Way",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 353990,
@@ -36359,7 +36359,7 @@
             },
             {
               "id": "north-carolina-the-willows-at-blake-farm-exp-20-perry-creek-way",
-              "address": null,
+              "address": "20 Perry Creek Way",
               "cityStateZip": "Wilmington, NC 28411",
               "planName": null,
               "price": 295990,
@@ -36492,7 +36492,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1714-blacktip-dr-se",
-              "address": null,
+              "address": "1714 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 346650,
@@ -36509,7 +36509,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1066-billfish-trl-se",
-              "address": null,
+              "address": "1066 Billfish Trl SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 287299,
@@ -36526,7 +36526,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1009-billfish-trl-se",
-              "address": null,
+              "address": "1009 Billfish Trl SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 301399,
@@ -36543,7 +36543,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1726-blacktip-dr-se",
-              "address": null,
+              "address": "1726 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 304999,
@@ -36560,7 +36560,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1727-blacktip-dr-se",
-              "address": null,
+              "address": "1727 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 304999,
@@ -36577,7 +36577,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1030-billfish-trl-se",
-              "address": null,
+              "address": "1030 Billfish Trl SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 305999,
@@ -36594,7 +36594,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1715-blacktip-dr-se",
-              "address": null,
+              "address": "1715 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 319999,
@@ -36611,7 +36611,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1723-blacktip-dr-se",
-              "address": null,
+              "address": "1723 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 325999,
@@ -36628,7 +36628,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1731-blacktip-dr-se",
-              "address": null,
+              "address": "1731 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 326999,
@@ -36645,7 +36645,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1734-blacktip-dr-se",
-              "address": null,
+              "address": "1734 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 327990,
@@ -36662,7 +36662,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1752-blacktip-dr-se",
-              "address": null,
+              "address": "1752 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 348390,
@@ -36679,7 +36679,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1710-blacktip-dr-se",
-              "address": null,
+              "address": "1710 Blacktip Dr SE",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 349140,
@@ -36696,7 +36696,7 @@
             },
             {
               "id": "north-carolina-saltgrass-landing-1207-pogy-ln-se-28479",
-              "address": null,
+              "address": "1207 Pogy Ln SE 28479",
               "cityStateZip": "Winnabow, NC 28479",
               "planName": null,
               "price": 352999,
@@ -36880,7 +36880,7 @@
             },
             {
               "id": "north-carolina-eagle-creek-176-eagle-creek-dr-ne",
-              "address": null,
+              "address": "176 Eagle Creek Dr NE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 336499,
@@ -36897,7 +36897,7 @@
             },
             {
               "id": "north-carolina-eagle-creek-172-eagle-creek-dr-ne",
-              "address": null,
+              "address": "172 Eagle Creek Dr NE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 343999,
@@ -37064,7 +37064,7 @@
             },
             {
               "id": "north-carolina-halls-landing-3097-golden-field-dr-se",
-              "address": null,
+              "address": "3097 Golden Field Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 289900,
@@ -37081,7 +37081,7 @@
             },
             {
               "id": "north-carolina-halls-landing-565-brambleton-dr-se",
-              "address": null,
+              "address": "565 Brambleton Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 299558,
@@ -37098,7 +37098,7 @@
             },
             {
               "id": "north-carolina-halls-landing-3092-golden-field-dr-se",
-              "address": null,
+              "address": "3092 Golden Field Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 307908,
@@ -37115,7 +37115,7 @@
             },
             {
               "id": "north-carolina-halls-landing-3081-golden-field-dr-se",
-              "address": null,
+              "address": "3081 Golden Field Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 309899,
@@ -37132,7 +37132,7 @@
             },
             {
               "id": "north-carolina-halls-landing-3093-golden-field-dr-se",
-              "address": null,
+              "address": "3093 Golden Field Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 324899,
@@ -37149,7 +37149,7 @@
             },
             {
               "id": "north-carolina-halls-landing-3096-golden-field-dr-se",
-              "address": null,
+              "address": "3096 Golden Field Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 335899,
@@ -37166,7 +37166,7 @@
             },
             {
               "id": "north-carolina-halls-landing-569-brambleton-dr-se",
-              "address": null,
+              "address": "569 Brambleton Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 344740,
@@ -37183,7 +37183,7 @@
             },
             {
               "id": "north-carolina-halls-landing-573-brambleton-dr-se",
-              "address": null,
+              "address": "573 Brambleton Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 348899,
@@ -37200,7 +37200,7 @@
             },
             {
               "id": "north-carolina-halls-landing-561-brambleton-dr-se",
-              "address": null,
+              "address": "561 Brambleton Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 359940,
@@ -37367,7 +37367,7 @@
             },
             {
               "id": "north-carolina-mariners-reach-3024-maravella-ct-se",
-              "address": null,
+              "address": "3024 Maravella Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 275999,
@@ -37384,7 +37384,7 @@
             },
             {
               "id": "north-carolina-mariners-reach-3032-maravella-ct-se",
-              "address": null,
+              "address": "3032 Maravella Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 304874,
@@ -37401,7 +37401,7 @@
             },
             {
               "id": "north-carolina-mariners-reach-3036-maravella-ct-se",
-              "address": null,
+              "address": "3036 Maravella Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 338749,
@@ -37418,7 +37418,7 @@
             },
             {
               "id": "north-carolina-mariners-reach-3040-maravella-ct-se",
-              "address": null,
+              "address": "3040 Maravella Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 320999,
@@ -37435,7 +37435,7 @@
             },
             {
               "id": "north-carolina-mariners-reach-3044-maravella-ct-se",
-              "address": null,
+              "address": "3044 Maravella Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 326999,
@@ -37602,7 +37602,7 @@
             },
             {
               "id": "north-carolina-lockwood-landing-1254-skystone-loop-ne",
-              "address": null,
+              "address": "1254 Skystone Loop NE",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 271999,
@@ -37619,7 +37619,7 @@
             },
             {
               "id": "north-carolina-lockwood-landing-1265-skystone-loop-ne",
-              "address": null,
+              "address": "1265 Skystone Loop NE",
               "cityStateZip": "Supply, NC 28462",
               "planName": null,
               "price": 279290,
@@ -37786,7 +37786,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2096-cypress-hill-dr-se",
-              "address": null,
+              "address": "2096 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 330899,
@@ -37803,7 +37803,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2113-cypress-hill-dr-se",
-              "address": null,
+              "address": "2113 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 349390,
@@ -37820,7 +37820,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2072-cypress-hill-dr-se",
-              "address": null,
+              "address": "2072 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 352899,
@@ -37837,7 +37837,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2079-cypress-hill-dr-se",
-              "address": null,
+              "address": "2079 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 354999,
@@ -37854,7 +37854,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2104-cypress-hill-dr-se",
-              "address": null,
+              "address": "2104 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 366490,
@@ -37871,7 +37871,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-611-pinnate-dr-se",
-              "address": null,
+              "address": "611 Pinnate Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 393499,
@@ -37888,7 +37888,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2027-cypress-hill-dr-se",
-              "address": null,
+              "address": "2027 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 403890,
@@ -37905,7 +37905,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2121-cypress-hill-dr-se",
-              "address": null,
+              "address": "2121 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 407190,
@@ -37922,7 +37922,7 @@
             },
             {
               "id": "north-carolina-rolling-hills-2110-cypress-hill-dr-se",
-              "address": null,
+              "address": "2110 Cypress Hill Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 419999,
@@ -38055,7 +38055,7 @@
             },
             {
               "id": "north-carolina-bella-point-4108-morning-light-dr-se",
-              "address": null,
+              "address": "4108 Morning Light Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 324590,
@@ -38089,7 +38089,7 @@
             },
             {
               "id": "north-carolina-bella-point-4149-morning-light-dr-se",
-              "address": null,
+              "address": "4149 Morning Light Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 296648,
@@ -38106,7 +38106,7 @@
             },
             {
               "id": "north-carolina-bella-point-4173-morning-light-dr-se",
-              "address": null,
+              "address": "4173 Morning Light Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 325599,
@@ -38123,7 +38123,7 @@
             },
             {
               "id": "north-carolina-bella-point-4181-morning-light-dr-se",
-              "address": null,
+              "address": "4181 Morning Light Dr SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 314999,
@@ -38140,7 +38140,7 @@
             },
             {
               "id": "north-carolina-bella-point-4230-pitcher-plant-ct-se",
-              "address": null,
+              "address": "4230 Pitcher Plant Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 354590,
@@ -38157,7 +38157,7 @@
             },
             {
               "id": "north-carolina-bella-point-4239-pitcher-plant-ct-se",
-              "address": null,
+              "address": "4239 Pitcher Plant Ct SE",
               "cityStateZip": "Bolivia, NC 28422",
               "planName": null,
               "price": 330990,
@@ -38290,7 +38290,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-caspian-ridge-416-crocus-court",
-              "address": null,
+              "address": "416 Crocus Court",
               "cityStateZip": "Richlands, NC 28547",
               "planName": null,
               "price": 330499,
@@ -38307,7 +38307,7 @@
             },
             {
               "id": "north-carolina-caspian-ridge-417-crocus-court",
-              "address": null,
+              "address": "417 Crocus Court",
               "cityStateZip": "Richlands, NC 28547",
               "planName": null,
               "price": 328999,
@@ -38324,7 +38324,7 @@
             },
             {
               "id": "north-carolina-caspian-ridge-418-crocus-court",
-              "address": null,
+              "address": "418 Crocus Court",
               "cityStateZip": "Richlands, NC 28547",
               "planName": null,
               "price": 313499,
@@ -38457,7 +38457,7 @@
             },
             {
               "id": "north-carolina-vineyard-trail-521-barrelwood-drive",
-              "address": null,
+              "address": "521 Barrelwood Drive",
               "cityStateZip": "Jacksonville, NC 28546",
               "planName": null,
               "price": 387700,
@@ -38709,7 +38709,7 @@
           "availableHomes": [
             {
               "id": "north-carolina-brookside-279-marshwood-st",
-              "address": null,
+              "address": "279 Marshwood St",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 346249,
@@ -38726,7 +38726,7 @@
             },
             {
               "id": "north-carolina-brookside-0078",
-              "address": null,
+              "address": "0078",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 389999,
@@ -38743,7 +38743,7 @@
             },
             {
               "id": "north-carolina-brookside-281-marshwood-st",
-              "address": null,
+              "address": "281 Marshwood St",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 404590,
@@ -38760,7 +38760,7 @@
             },
             {
               "id": "north-carolina-brookside-0079",
-              "address": null,
+              "address": "0079",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 389999,
@@ -38777,7 +38777,7 @@
             },
             {
               "id": "north-carolina-brookside-283-marshwood-st",
-              "address": null,
+              "address": "283 Marshwood St",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 396249,
@@ -38794,7 +38794,7 @@
             },
             {
               "id": "north-carolina-brookside-0080",
-              "address": null,
+              "address": "0080",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 411750,
@@ -38811,7 +38811,7 @@
             },
             {
               "id": "north-carolina-brookside-285-marshwood-st",
-              "address": null,
+              "address": "285 Marshwood St",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 439990,
@@ -38828,7 +38828,7 @@
             },
             {
               "id": "north-carolina-brookside-0081",
-              "address": null,
+              "address": "0081",
               "cityStateZip": "Richlands, NC 28574",
               "planName": null,
               "price": 344249,
@@ -39025,7 +39025,7 @@
             },
             {
               "id": "north-carolina-merchant-point-650-forecastle-lane",
-              "address": null,
+              "address": "650 Forecastle Lane",
               "cityStateZip": "Jacksonville, NC 28546",
               "planName": null,
               "price": 392840,
@@ -39042,7 +39042,7 @@
             },
             {
               "id": "north-carolina-merchant-point-656-forecastle-lane",
-              "address": null,
+              "address": "656 Forecastle Lane",
               "cityStateZip": "Jacksonville, NC 28546",
               "planName": null,
               "price": 395040,

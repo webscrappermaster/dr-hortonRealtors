@@ -602,7 +602,7 @@
             },
             {
               "id": "maryland-ridgelys-reserve-818-spikeresh-way",
-              "address": null,
+              "address": "818 Spikeresh Way",
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
               "price": 558180,
@@ -1509,7 +1509,7 @@
             },
             {
               "id": "maryland-heritage-trace-1164-fairview-lane",
-              "address": null,
+              "address": "1164 Fairview Lane",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
               "price": 261990,
@@ -1846,7 +1846,7 @@
             },
             {
               "id": "maryland-birdsong-village-1131-albritton-lane",
-              "address": null,
+              "address": "1131 Albritton Lane",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
               "price": 350240,
@@ -1863,7 +1863,7 @@
             },
             {
               "id": "maryland-birdsong-village-1133-albritton-lane",
-              "address": null,
+              "address": "1133 Albritton Lane",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
               "price": 335240,
@@ -1969,7 +1969,7 @@
           "availableHomes": [
             {
               "id": "maryland-renn-quarter-707-compass-way",
-              "address": null,
+              "address": "707 Compass Way",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 455388,
@@ -1986,7 +1986,7 @@
             },
             {
               "id": "maryland-renn-quarter-341-ensemble-way",
-              "address": null,
+              "address": "341 Ensemble Way",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 489988,
@@ -2003,7 +2003,7 @@
             },
             {
               "id": "maryland-renn-quarter-446-hanson-street",
-              "address": null,
+              "address": "446 Hanson Street",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 659988,
@@ -2020,7 +2020,7 @@
             },
             {
               "id": "maryland-renn-quarter-456-hanson-street",
-              "address": null,
+              "address": "456 Hanson Street",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 668238,
@@ -2037,7 +2037,7 @@
             },
             {
               "id": "maryland-renn-quarter-466-ensemble-way",
-              "address": null,
+              "address": "466 Ensemble Way",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 719688,
@@ -2054,7 +2054,7 @@
             },
             {
               "id": "maryland-renn-quarter-713-compass-way",
-              "address": null,
+              "address": "713 Compass Way",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 449990,
@@ -2071,7 +2071,7 @@
             },
             {
               "id": "maryland-renn-quarter-235-monroe-avenue",
-              "address": null,
+              "address": "235 Monroe Avenue",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 465288,
@@ -2088,7 +2088,7 @@
             },
             {
               "id": "maryland-renn-quarter-349-ensemble-way",
-              "address": null,
+              "address": "349 Ensemble Way",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 509818,
@@ -2105,7 +2105,7 @@
             },
             {
               "id": "maryland-renn-quarter-815-foundry-street",
-              "address": null,
+              "address": "815 Foundry Street",
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
               "price": 700580,
@@ -2323,7 +2323,7 @@
             },
             {
               "id": "maryland-summervale-503-drystraw-lane",
-              "address": null,
+              "address": "503 Drystraw Lane",
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
               "price": 649988,
@@ -2340,7 +2340,7 @@
             },
             {
               "id": "maryland-summervale-1520-ripplecreek-drive",
-              "address": null,
+              "address": "1520 Ripplecreek Drive",
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
               "price": 659988,
@@ -2357,7 +2357,7 @@
             },
             {
               "id": "maryland-summervale-1570-bentstalk-drive",
-              "address": null,
+              "address": "1570 Bentstalk Drive",
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
               "price": 689988,
@@ -2374,7 +2374,7 @@
             },
             {
               "id": "maryland-summervale-1572-bentstalk-drive",
-              "address": null,
+              "address": "1572 Bentstalk Drive",
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
               "price": 679990,
@@ -2490,7 +2490,7 @@
             },
             {
               "id": "maryland-westphalia-overlook-9008-warendorf-way",
-              "address": null,
+              "address": "9008 Warendorf Way",
               "cityStateZip": "Upper Marlboro, MD 20774",
               "planName": null,
               "price": 459938,
@@ -3455,7 +3455,7 @@
           "availableHomes": [
             {
               "id": "maryland-pinegrove-single-family-107-wood-walk-ave",
-              "address": null,
+              "address": "107 Wood Walk Ave",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 439988,
@@ -3472,7 +3472,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-453-pinehurst-street",
-              "address": null,
+              "address": "453 Pinehurst Street",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 449938,
@@ -3489,7 +3489,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-249-long-branch-lane",
-              "address": null,
+              "address": "249 Long Branch Lane",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 455388,
@@ -3506,7 +3506,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-120-wood-walk-ave",
-              "address": null,
+              "address": "120 Wood Walk Ave",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 469968,
@@ -3523,7 +3523,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-521-twisted-twig-lane",
-              "address": null,
+              "address": "521 Twisted Twig Lane",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 529888,
@@ -3540,7 +3540,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-345-long-branch-lane",
-              "address": null,
+              "address": "345 Long Branch Lane",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 549988,
@@ -3557,7 +3557,7 @@
             },
             {
               "id": "maryland-pinegrove-single-family-86-pine-glade-court",
-              "address": null,
+              "address": "86 Pine Glade Court",
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
               "price": 584990,

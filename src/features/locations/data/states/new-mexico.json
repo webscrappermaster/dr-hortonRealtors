@@ -138,7 +138,7 @@
             },
             {
               "id": "new-mexico-aspire-10529-caresso-lp-sw",
-              "address": null,
+              "address": "10529 Caresso Lp SW",
               "cityStateZip": "Albuquerque, NM 87121",
               "planName": null,
               "price": 344990,
@@ -155,7 +155,7 @@
             },
             {
               "id": "new-mexico-aspire-10616-caresso-lp-sw",
-              "address": null,
+              "address": "10616 Caresso Lp SW",
               "cityStateZip": "Albuquerque, NM 87121",
               "planName": null,
               "price": 389090,
@@ -172,7 +172,7 @@
             },
             {
               "id": "new-mexico-aspire-10624-caresso-lp-sw",
-              "address": null,
+              "address": "10624 Caresso Lp SW",
               "cityStateZip": "Albuquerque, NM 87121",
               "planName": null,
               "price": 389090,
@@ -189,7 +189,7 @@
             },
             {
               "id": "new-mexico-aspire-2867-cantara-ln-sw",
-              "address": null,
+              "address": "2867 Cantara Ln SW",
               "cityStateZip": "Albuquerque, NM 87121",
               "planName": null,
               "price": 369990,
@@ -540,7 +540,7 @@
             },
             {
               "id": "new-mexico-los-diamantes-phase-iii-3243-dijamant-loop-se",
-              "address": null,
+              "address": "3243 Dijamant Loop SE",
               "cityStateZip": "Rio Rancho, NM 87124",
               "planName": null,
               "price": 410800,
@@ -557,7 +557,7 @@
             },
             {
               "id": "new-mexico-los-diamantes-phase-iii-3247-dijamant-loop-se",
-              "address": null,
+              "address": "3247 Dijamant Loop SE",
               "cityStateZip": "Rio Rancho, NM 87124",
               "planName": null,
               "price": 404180,
@@ -574,7 +574,7 @@
             },
             {
               "id": "new-mexico-los-diamantes-phase-iii-3251-dijamant-loop-se",
-              "address": null,
+              "address": "3251 Dijamant Loop SE",
               "cityStateZip": "Rio Rancho, NM 87124",
               "planName": null,
               "price": 421150,
@@ -591,7 +591,7 @@
             },
             {
               "id": "new-mexico-los-diamantes-phase-iii-3259-dijamant-loop-se",
-              "address": null,
+              "address": "3259 Dijamant Loop SE",
               "cityStateZip": "Rio Rancho, NM 87124",
               "planName": null,
               "price": 399990,
@@ -608,7 +608,7 @@
             },
             {
               "id": "new-mexico-los-diamantes-phase-iii-3352-dijamant-loop-se",
-              "address": null,
+              "address": "3352 Dijamant Loop SE",
               "cityStateZip": "Rio Rancho, NM 87124",
               "planName": null,
               "price": 474990,
@@ -690,7 +690,7 @@
           "availableHomes": [
             {
               "id": "new-mexico-stone-mountain-2443-marble-avenue-ne",
-              "address": null,
+              "address": "2443 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 439990,
@@ -707,7 +707,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2451-marble-avenue-ne",
-              "address": null,
+              "address": "2451 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 459990,
@@ -724,7 +724,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2459-marble-avenue-ne",
-              "address": null,
+              "address": "2459 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 479990,
@@ -741,7 +741,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2440-marble-avenue-ne",
-              "address": null,
+              "address": "2440 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 479990,
@@ -758,7 +758,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2448-marble-avenue-ne",
-              "address": null,
+              "address": "2448 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 464990,
@@ -775,7 +775,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2452-marble-avenue-ne",
-              "address": null,
+              "address": "2452 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 474990,
@@ -792,7 +792,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2464-marble-avenue-ne",
-              "address": null,
+              "address": "2464 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 513190,
@@ -809,7 +809,7 @@
             },
             {
               "id": "new-mexico-stone-mountain-2467-marble-avenue-ne",
-              "address": null,
+              "address": "2467 Marble Avenue NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 489990,
@@ -959,7 +959,7 @@
             },
             {
               "id": "new-mexico-stonegate-2417-eglisfield-loop-ne",
-              "address": null,
+              "address": "2417 Eglisfield Loop NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 419990,
@@ -976,7 +976,7 @@
             },
             {
               "id": "new-mexico-stonegate-2424-eglisfield-loop-ne",
-              "address": null,
+              "address": "2424 Eglisfield Loop NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 433690,
@@ -1276,7 +1276,7 @@
             },
             {
               "id": "new-mexico-lomas-encantadas-6700-reagan-road-ne",
-              "address": null,
+              "address": "6700 Reagan Road NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 557560,
@@ -1293,7 +1293,7 @@
             },
             {
               "id": "new-mexico-lomas-encantadas-6709-brianna-road-ne",
-              "address": null,
+              "address": "6709 Brianna Road NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 444990,
@@ -1310,7 +1310,7 @@
             },
             {
               "id": "new-mexico-lomas-encantadas-6718-brianna-road-ne",
-              "address": null,
+              "address": "6718 Brianna Road NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 476690,
@@ -1327,7 +1327,7 @@
             },
             {
               "id": "new-mexico-lomas-encantadas-6722-brianna-road-ne",
-              "address": null,
+              "address": "6722 Brianna Road NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 464990,
@@ -1344,7 +1344,7 @@
             },
             {
               "id": "new-mexico-lomas-encantadas-6745-brianna-road-ne",
-              "address": null,
+              "address": "6745 Brianna Road NE",
               "cityStateZip": "Rio Rancho, NM 87144",
               "planName": null,
               "price": 530590,
@@ -1528,7 +1528,7 @@
             },
             {
               "id": "new-mexico-fiesta-del-norte-1441-calle-oeste-nw",
-              "address": null,
+              "address": "1441 Calle Oeste NW",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 349990,
@@ -1545,7 +1545,7 @@
             },
             {
               "id": "new-mexico-fiesta-del-norte-1445-calle-oeste-nw",
-              "address": null,
+              "address": "1445 Calle Oeste NW",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 357750,
@@ -1562,7 +1562,7 @@
             },
             {
               "id": "new-mexico-fiesta-del-norte-1503-las-colinas-rd-nw",
-              "address": null,
+              "address": "1503 Las Colinas Rd NW",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 359990,
@@ -1678,7 +1678,7 @@
           "availableHomes": [
             {
               "id": "new-mexico-manzano-vista-11-avenida-parque",
-              "address": null,
+              "address": "11 Avenida Parque",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 319990,
@@ -1695,7 +1695,7 @@
             },
             {
               "id": "new-mexico-manzano-vista-4-el-nido-court",
-              "address": null,
+              "address": "4 El Nido Court",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 299990,
@@ -1712,7 +1712,7 @@
             },
             {
               "id": "new-mexico-manzano-vista-9-avenida-parque",
-              "address": null,
+              "address": "9 Avenida Parque",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 324990,
@@ -1729,7 +1729,7 @@
             },
             {
               "id": "new-mexico-manzano-vista-12-el-nido-court",
-              "address": null,
+              "address": "12 El Nido Court",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 309730,
@@ -1746,7 +1746,7 @@
             },
             {
               "id": "new-mexico-manzano-vista-7-avenida-parque",
-              "address": null,
+              "address": "7 Avenida Parque",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 314990,
@@ -1763,7 +1763,7 @@
             },
             {
               "id": "new-mexico-manzano-vista-91-tome-vista-drive",
-              "address": null,
+              "address": "91 Tome Vista Drive",
               "cityStateZip": "Los Lunas, NM 87031",
               "planName": null,
               "price": 359990,
@@ -2029,7 +2029,7 @@
             },
             {
               "id": "new-mexico-sagrado-4222-via-de-ventura",
-              "address": null,
+              "address": "4222 Via De Ventura",
               "cityStateZip": "Santa Fe, NM 87507",
               "planName": null,
               "price": 602150,
@@ -2046,7 +2046,7 @@
             },
             {
               "id": "new-mexico-sagrado-4227-via-de-ventura",
-              "address": null,
+              "address": "4227 Via De Ventura",
               "cityStateZip": "Santa Fe, NM 87507",
               "planName": null,
               "price": 606800,
@@ -2063,7 +2063,7 @@
             },
             {
               "id": "new-mexico-sagrado-4322-vista-manzano",
-              "address": null,
+              "address": "4322 Vista Manzano",
               "cityStateZip": "Santa Fe, NM 87507",
               "planName": null,
               "price": 605220,
@@ -2080,7 +2080,7 @@
             },
             {
               "id": "new-mexico-sagrado-4339-vista-manzano",
-              "address": null,
+              "address": "4339 Vista Manzano",
               "cityStateZip": "Santa Fe, NM 87507",
               "planName": null,
               "price": 595990,

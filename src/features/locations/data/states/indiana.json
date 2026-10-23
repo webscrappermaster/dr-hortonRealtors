@@ -552,7 +552,7 @@
             },
             {
               "id": "indiana-livingston-lakes-11288-corte-madera-run",
-              "address": null,
+              "address": "11288 Corte Madera Run",
               "cityStateZip": "Fort Wayne, IN 46818",
               "planName": null,
               "price": 374210,
@@ -569,7 +569,7 @@
             },
             {
               "id": "indiana-livingston-lakes-1599-stuckey-pointe-pass",
-              "address": null,
+              "address": "1599 Stuckey Pointe Pass",
               "cityStateZip": "Fort Wayne, IN 46818",
               "planName": null,
               "price": 365860,
@@ -3000,7 +3000,7 @@
             },
             {
               "id": "indiana-cardinal-grove-6719-elden-drive",
-              "address": null,
+              "address": "6719 Elden Drive",
               "cityStateZip": "Indianapolis, IN 46221",
               "planName": null,
               "price": 351531,
@@ -3017,7 +3017,7 @@
             },
             {
               "id": "indiana-cardinal-grove-6842-elden-drive",
-              "address": null,
+              "address": "6842 Elden Drive",
               "cityStateZip": "Indianapolis, IN 46221",
               "planName": null,
               "price": 379999,
@@ -3436,7 +3436,7 @@
             },
             {
               "id": "indiana-trailside-6144-provo-drive",
-              "address": null,
+              "address": "6144 Provo Drive",
               "cityStateZip": "Whitestown, IN 46075",
               "planName": null,
               "price": 382900,
@@ -3654,7 +3654,7 @@
             },
             {
               "id": "indiana-parks-at-decatur-8617-sand-dunes-avenue",
-              "address": null,
+              "address": "8617 Sand Dunes Avenue",
               "cityStateZip": "Camby, IN 46113",
               "planName": null,
               "price": 309980,
@@ -3671,7 +3671,7 @@
             },
             {
               "id": "indiana-parks-at-decatur-8859-sand-dunes-avenue",
-              "address": null,
+              "address": "8859 Sand Dunes Avenue",
               "cityStateZip": "Camby, IN 46113",
               "planName": null,
               "price": 374500,
@@ -4135,7 +4135,7 @@
             },
             {
               "id": "indiana-edgewood-farms-5515-flat-hill-drive",
-              "address": null,
+              "address": "5515 Flat Hill Drive",
               "cityStateZip": "Indianapolis, IN 46239",
               "planName": null,
               "price": 439900,
@@ -4336,7 +4336,7 @@
             },
             {
               "id": "indiana-parkview-village-238-aster-way",
-              "address": null,
+              "address": "238 Aster Way",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 429900,
@@ -4353,7 +4353,7 @@
             },
             {
               "id": "indiana-parkview-village-248-heritage-pass-west",
-              "address": null,
+              "address": "248 Heritage Pass West",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 421640,
@@ -4370,7 +4370,7 @@
             },
             {
               "id": "indiana-parkview-village-252-springfield-crossing",
-              "address": null,
+              "address": "252 Springfield Crossing",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 374900,
@@ -4387,7 +4387,7 @@
             },
             {
               "id": "indiana-parkview-village-255-holly-lane",
-              "address": null,
+              "address": "255 Holly Lane",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 331600,
@@ -4404,7 +4404,7 @@
             },
             {
               "id": "indiana-parkview-village-273-heritage-pass-west",
-              "address": null,
+              "address": "273 Heritage Pass West",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 388900,
@@ -4421,7 +4421,7 @@
             },
             {
               "id": "indiana-parkview-village-277-heritage-pass-west",
-              "address": null,
+              "address": "277 Heritage Pass West",
               "cityStateZip": "Greenfield, IN 46140",
               "planName": null,
               "price": 449900,
@@ -4823,7 +4823,7 @@
             },
             {
               "id": "indiana-meadows-at-belleview-5788-crotal-ave",
-              "address": null,
+              "address": "5788 Crotal Ave",
               "cityStateZip": "Greenwood, IN 46143",
               "planName": null,
               "price": 447099,
@@ -4840,7 +4840,7 @@
             },
             {
               "id": "indiana-meadows-at-belleview-5814-trichel-drive",
-              "address": null,
+              "address": "5814 Trichel Drive",
               "cityStateZip": "Greenwood, IN 46143",
               "planName": null,
               "price": 438617,
@@ -5106,7 +5106,7 @@
             },
             {
               "id": "indiana-miles-farm-142-varenne-road",
-              "address": null,
+              "address": "142 Varenne Road",
               "cityStateZip": "Danville, IN 46122",
               "planName": null,
               "price": 358625,
@@ -5123,7 +5123,7 @@
             },
             {
               "id": "indiana-miles-farm-1430-little-star-street",
-              "address": null,
+              "address": "1430 Little Star Street",
               "cityStateZip": "Danville, IN 46122",
               "planName": null,
               "price": 361400,
@@ -5140,7 +5140,7 @@
             },
             {
               "id": "indiana-miles-farm-1438-little-star-street",
-              "address": null,
+              "address": "1438 Little Star Street",
               "cityStateZip": "Danville, IN 46122",
               "planName": null,
               "price": 376075,
@@ -5157,7 +5157,7 @@
             },
             {
               "id": "indiana-miles-farm-162-varenne-road",
-              "address": null,
+              "address": "162 Varenne Road",
               "cityStateZip": "Danville, IN 46122",
               "planName": null,
               "price": 352900,
@@ -5174,7 +5174,7 @@
             },
             {
               "id": "indiana-miles-farm-1620-buttons-drive",
-              "address": null,
+              "address": "1620 Buttons Drive",
               "cityStateZip": "Danville, IN 46122",
               "planName": null,
               "price": 383195,
@@ -5542,7 +5542,7 @@
             },
             {
               "id": "indiana-saddlebrook-farms-north-80-benfield-drive",
-              "address": null,
+              "address": "80 Benfield Drive",
               "cityStateZip": "Whiteland, IN 46184",
               "planName": null,
               "price": 385238,
@@ -5559,7 +5559,7 @@
             },
             {
               "id": "indiana-saddlebrook-farms-north-970-saddlebrook-farms-blvd",
-              "address": null,
+              "address": "970 Saddlebrook Farms Blvd",
               "cityStateZip": "Whiteland, IN 46184",
               "planName": null,
               "price": 420085,
@@ -6073,7 +6073,7 @@
             },
             {
               "id": "indiana-centre-place-24438-godby-street",
-              "address": null,
+              "address": "24438 Godby Street",
               "cityStateZip": "Sheridan, IN 46069",
               "planName": null,
               "price": 329000,
@@ -6240,7 +6240,7 @@
             },
             {
               "id": "indiana-homestead-3226-w-vintage-street",
-              "address": null,
+              "address": "3226 W Vintage Street",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 309900,
@@ -6257,7 +6257,7 @@
             },
             {
               "id": "indiana-homestead-3229-w-vintage-street",
-              "address": null,
+              "address": "3229 W Vintage Street",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 329900,
@@ -6274,7 +6274,7 @@
             },
             {
               "id": "indiana-homestead-3239-w-vintage-street",
-              "address": null,
+              "address": "3239 W Vintage Street",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 309900,
@@ -6291,7 +6291,7 @@
             },
             {
               "id": "indiana-homestead-3165-w-haberdashery-drive",
-              "address": null,
+              "address": "3165 W Haberdashery Drive",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 319700,
@@ -6308,7 +6308,7 @@
             },
             {
               "id": "indiana-homestead-3172-w-haberdashery-drive",
-              "address": null,
+              "address": "3172 W Haberdashery Drive",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 335700,
@@ -6325,7 +6325,7 @@
             },
             {
               "id": "indiana-homestead-3241-w-haberdashery-way",
-              "address": null,
+              "address": "3241 W Haberdashery Way",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 324900,
@@ -6342,7 +6342,7 @@
             },
             {
               "id": "indiana-homestead-3259-w-vintage-street",
-              "address": null,
+              "address": "3259 W Vintage Street",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 330700,
@@ -6359,7 +6359,7 @@
             },
             {
               "id": "indiana-homestead-3269-w-vintage-street",
-              "address": null,
+              "address": "3269 W Vintage Street",
               "cityStateZip": "Monrovia, IN 46157",
               "planName": null,
               "price": 345700,
@@ -6877,7 +6877,7 @@
             },
             {
               "id": "indiana-bakers-pointe-7129-theo-baker-boulevard",
-              "address": null,
+              "address": "7129 Theo Baker Boulevard",
               "cityStateZip": "Pendleton, IN 46064",
               "planName": null,
               "price": 339900,
@@ -6894,7 +6894,7 @@
             },
             {
               "id": "indiana-bakers-pointe-7185-theo-baker-boulevard",
-              "address": null,
+              "address": "7185 Theo Baker Boulevard",
               "cityStateZip": "Pendleton, IN 46064",
               "planName": null,
               "price": 384900,
@@ -6911,7 +6911,7 @@
             },
             {
               "id": "indiana-bakers-pointe-7206-theo-baker-boulevard",
-              "address": null,
+              "address": "7206 Theo Baker Boulevard",
               "cityStateZip": "Pendleton, IN 46064",
               "planName": null,
               "price": 369900,
@@ -6928,7 +6928,7 @@
             },
             {
               "id": "indiana-bakers-pointe-7146-theo-baker-boulevard",
-              "address": null,
+              "address": "7146 Theo Baker Boulevard",
               "cityStateZip": "Pendleton, IN 46064",
               "planName": null,
               "price": 426500,
@@ -7218,7 +7218,7 @@
             },
             {
               "id": "indiana-cressmoor-estates-townhomes-483-cressmoor-boulevard",
-              "address": null,
+              "address": "483 Cressmoor Boulevard",
               "cityStateZip": "Hobart, IN 46342",
               "planName": null,
               "price": 259990,
@@ -7235,7 +7235,7 @@
             },
             {
               "id": "indiana-cressmoor-estates-townhomes-484-cressmoor-boulevard",
-              "address": null,
+              "address": "484 Cressmoor Boulevard",
               "cityStateZip": "Hobart, IN 46342",
               "planName": null,
               "price": 259990,
@@ -7705,7 +7705,7 @@
             },
             {
               "id": "indiana-bauer-farm-sf-4231-viceroy-street",
-              "address": null,
+              "address": "4231 Viceroy Street",
               "cityStateZip": "Portage, IN 46368",
               "planName": null,
               "price": 355240,
@@ -7722,7 +7722,7 @@
             },
             {
               "id": "indiana-bauer-farm-sf-4085-paddock-street",
-              "address": null,
+              "address": "4085 Paddock Street",
               "cityStateZip": "Portage, IN 46368",
               "planName": null,
               "price": 358990,
@@ -7739,7 +7739,7 @@
             },
             {
               "id": "indiana-bauer-farm-sf-4061-paddock-street",
-              "address": null,
+              "address": "4061 Paddock Street",
               "cityStateZip": "Portage, IN 46368",
               "planName": null,
               "price": 377990,
@@ -7756,7 +7756,7 @@
             },
             {
               "id": "indiana-bauer-farm-sf-4070-paddock-street",
-              "address": null,
+              "address": "4070 Paddock Street",
               "cityStateZip": "Portage, IN 46368",
               "planName": null,
               "price": 383990,
@@ -7923,7 +7923,7 @@
             },
             {
               "id": "indiana-wellspring-at-the-fountains-540--e--120th--pl",
-              "address": null,
+              "address": "540 E 120th Pl",
               "cityStateZip": "Crown Point, IN 46307",
               "planName": null,
               "price": 309990,
@@ -7940,7 +7940,7 @@
             },
             {
               "id": "indiana-wellspring-at-the-fountains-542--e--120th--pl",
-              "address": null,
+              "address": "542 E 120th Pl",
               "cityStateZip": "Crown Point, IN 46307",
               "planName": null,
               "price": 294990,
@@ -8189,7 +8189,7 @@
             },
             {
               "id": "indiana-the-gates-of-st-john-7711-w-107th-pl",
-              "address": null,
+              "address": "7711 W 107th Pl",
               "cityStateZip": "Crown Point, IN 46307",
               "planName": null,
               "price": 449990,
@@ -8206,7 +8206,7 @@
             },
             {
               "id": "indiana-the-gates-of-st-john-7747-w-107th-pl",
-              "address": null,
+              "address": "7747 W 107th Pl",
               "cityStateZip": "Crown Point, IN 46307",
               "planName": null,
               "price": 424990,
@@ -8223,7 +8223,7 @@
             },
             {
               "id": "indiana-the-gates-of-st-john-7765-w-107th-pl",
-              "address": null,
+              "address": "7765 W 107th Pl",
               "cityStateZip": "Crown Point, IN 46307",
               "planName": null,
               "price": 376990,
@@ -8458,7 +8458,7 @@
             },
             {
               "id": "indiana-maple-gate-9035-remington-way",
-              "address": null,
+              "address": "9035 Remington Way",
               "cityStateZip": "St. John, IN 46373",
               "planName": null,
               "price": 304990,
@@ -8475,7 +8475,7 @@
             },
             {
               "id": "indiana-maple-gate-9070-remington-way",
-              "address": null,
+              "address": "9070 Remington Way",
               "cityStateZip": "St. John, IN 46373",
               "planName": null,
               "price": 317990,
@@ -8642,7 +8642,7 @@
             },
             {
               "id": "indiana-park-ridge-579-mullins-st",
-              "address": null,
+              "address": "579 Mullins St",
               "cityStateZip": "Hebron, IN 46341",
               "planName": null,
               "price": 369990,
@@ -8659,7 +8659,7 @@
             },
             {
               "id": "indiana-park-ridge-580-mullins-st",
-              "address": null,
+              "address": "580 Mullins St",
               "cityStateZip": "Hebron, IN 46341",
               "planName": null,
               "price": 349990,

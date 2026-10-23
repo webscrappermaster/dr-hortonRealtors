@@ -538,7 +538,7 @@
             },
             {
               "id": "louisiana-sunshine-gardens-13328-archwood-court-washout",
-              "address": null,
+              "address": "13328 Archwood Court Washout",
               "cityStateZip": "Baton Rouge, LA 70811",
               "planName": null,
               "price": 267900,
@@ -555,7 +555,7 @@
             },
             {
               "id": "louisiana-sunshine-gardens-13402-docile-court",
-              "address": null,
+              "address": "13402 Docile Court",
               "cityStateZip": "Baton Rouge, LA 70811",
               "planName": null,
               "price": 272900,
@@ -572,7 +572,7 @@
             },
             {
               "id": "louisiana-sunshine-gardens-5302-gallantry-court",
-              "address": null,
+              "address": "5302 Gallantry Court",
               "cityStateZip": "Baton Rouge, LA 70811",
               "planName": null,
               "price": 272900,
@@ -589,7 +589,7 @@
             },
             {
               "id": "louisiana-sunshine-gardens-5332-gallantry-court",
-              "address": null,
+              "address": "5332 Gallantry Court",
               "cityStateZip": "Baton Rouge, LA 70811",
               "planName": null,
               "price": 274900,
@@ -977,7 +977,7 @@
             },
             {
               "id": "louisiana-the-park-at-the-island-58850-island-drive",
-              "address": null,
+              "address": "58850 Island Drive",
               "cityStateZip": "Plaquemine, LA 70764",
               "planName": null,
               "price": 309900,
@@ -994,7 +994,7 @@
             },
             {
               "id": "louisiana-the-park-at-the-island-58860-island-drive",
-              "address": null,
+              "address": "58860 Island Drive",
               "cityStateZip": "Plaquemine, LA 70764",
               "planName": null,
               "price": 309900,
@@ -1011,7 +1011,7 @@
             },
             {
               "id": "louisiana-the-park-at-the-island-58865-april-lane",
-              "address": null,
+              "address": "58865 April Lane",
               "cityStateZip": "Plaquemine, LA 70764",
               "planName": null,
               "price": 339900,
@@ -1028,7 +1028,7 @@
             },
             {
               "id": "louisiana-the-park-at-the-island-58865-park-court",
-              "address": null,
+              "address": "58865 Park Court",
               "cityStateZip": "Plaquemine, LA 70764",
               "planName": null,
               "price": 309900,
@@ -1045,7 +1045,7 @@
             },
             {
               "id": "louisiana-the-park-at-the-island-58870-island-drive",
-              "address": null,
+              "address": "58870 Island Drive",
               "cityStateZip": "Plaquemine, LA 70764",
               "planName": null,
               "price": 309900,
@@ -1212,7 +1212,7 @@
             },
             {
               "id": "louisiana-trivento-933-roberto-avenue",
-              "address": null,
+              "address": "933 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 335900,
@@ -1229,7 +1229,7 @@
             },
             {
               "id": "louisiana-trivento-934-roberto-avenue",
-              "address": null,
+              "address": "934 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 285900,
@@ -1246,7 +1246,7 @@
             },
             {
               "id": "louisiana-trivento-940-roberto-avenue",
-              "address": null,
+              "address": "940 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 265900,
@@ -1263,7 +1263,7 @@
             },
             {
               "id": "louisiana-trivento-945-roberto-avenue",
-              "address": null,
+              "address": "945 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 280900,
@@ -1280,7 +1280,7 @@
             },
             {
               "id": "louisiana-trivento-946-roberto-avenue",
-              "address": null,
+              "address": "946 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 296900,
@@ -1297,7 +1297,7 @@
             },
             {
               "id": "louisiana-trivento-952-roberto-avenue",
-              "address": null,
+              "address": "952 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 335900,
@@ -1314,7 +1314,7 @@
             },
             {
               "id": "louisiana-trivento-957-roberto-avenue",
-              "address": null,
+              "address": "957 Roberto Avenue",
               "cityStateZip": "Baker, LA 70714",
               "planName": null,
               "price": 285900,
@@ -1903,7 +1903,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2262-windridge-avenue",
-              "address": null,
+              "address": "2262 Windridge Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 337900,
@@ -1954,7 +1954,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2136-clark-avenue",
-              "address": null,
+              "address": "2136 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 271900,
@@ -1971,7 +1971,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2138-clark-avenue",
-              "address": null,
+              "address": "2138 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 299900,
@@ -1988,7 +1988,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2140-clark-avenue",
-              "address": null,
+              "address": "2140 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 308900,
@@ -2005,7 +2005,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2143-clark-avenue",
-              "address": null,
+              "address": "2143 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 298900,
@@ -2022,7 +2022,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2205-clark-avenue",
-              "address": null,
+              "address": "2205 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 354900,
@@ -2039,7 +2039,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2210-clark-avenue",
-              "address": null,
+              "address": "2210 Clark Avenue",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 303900,
@@ -2056,7 +2056,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2325-lewis-loop",
-              "address": null,
+              "address": "2325 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 284900,
@@ -2073,7 +2073,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2336-lewis-loop",
-              "address": null,
+              "address": "2336 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 289900,
@@ -2090,7 +2090,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2337-lewis-loop",
-              "address": null,
+              "address": "2337 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 279900,
@@ -2107,7 +2107,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2339-lewis-loop",
-              "address": null,
+              "address": "2339 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 289900,
@@ -2124,7 +2124,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2341-lewis-loop",
-              "address": null,
+              "address": "2341 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 276900,
@@ -2141,7 +2141,7 @@
             },
             {
               "id": "louisiana-zachary-trails-2345-lewis-loop",
-              "address": null,
+              "address": "2345 Lewis Loop",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 271900,
@@ -2427,7 +2427,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7137-midway-st",
-              "address": null,
+              "address": "7137 Midway St",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 288900,
@@ -2444,7 +2444,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7144-brook-hollow-dr",
-              "address": null,
+              "address": "7144 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 274900,
@@ -2461,7 +2461,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7145-brook-hollow-dr",
-              "address": null,
+              "address": "7145 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 278900,
@@ -2478,7 +2478,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7146-midway-st",
-              "address": null,
+              "address": "7146 Midway St",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 288900,
@@ -2495,7 +2495,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7147-midway-st",
-              "address": null,
+              "address": "7147 Midway St",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 303900,
@@ -2512,7 +2512,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7154-brook-hollow-dr",
-              "address": null,
+              "address": "7154 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 346900,
@@ -2529,7 +2529,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7155-brook-hollow-dr",
-              "address": null,
+              "address": "7155 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 288900,
@@ -2546,7 +2546,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7156-midway-st",
-              "address": null,
+              "address": "7156 Midway St",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 278900,
@@ -2563,7 +2563,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7157-midway-st",
-              "address": null,
+              "address": "7157 Midway St",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 283900,
@@ -2580,7 +2580,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7206-brook-hollow-dr",
-              "address": null,
+              "address": "7206 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 283900,
@@ -2597,7 +2597,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7216-brook-hollow-dr",
-              "address": null,
+              "address": "7216 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 278900,
@@ -2614,7 +2614,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7217-brook-hollow-dr",
-              "address": null,
+              "address": "7217 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 303900,
@@ -2631,7 +2631,7 @@
             },
             {
               "id": "louisiana-brook-hollow-7227-brook-hollow-dr",
-              "address": null,
+              "address": "7227 Brook Hollow Dr",
               "cityStateZip": "Zachary, LA 70791",
               "planName": null,
               "price": 346900,
@@ -2883,7 +2883,7 @@
             },
             {
               "id": "louisiana-belmont-14289-monmouth-avenue",
-              "address": null,
+              "address": "14289 Monmouth Avenue",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 236900,
@@ -2900,7 +2900,7 @@
             },
             {
               "id": "louisiana-belmont-11508-derby-drive",
-              "address": null,
+              "address": "11508 Derby Drive",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 294900,
@@ -2917,7 +2917,7 @@
             },
             {
               "id": "louisiana-belmont-11519-derby-drive",
-              "address": null,
+              "address": "11519 Derby Drive",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 276900,
@@ -2934,7 +2934,7 @@
             },
             {
               "id": "louisiana-belmont-11520-derby-drive",
-              "address": null,
+              "address": "11520 Derby Drive",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 272900,
@@ -2951,7 +2951,7 @@
             },
             {
               "id": "louisiana-belmont-14275-ruffian-avenue",
-              "address": null,
+              "address": "14275 Ruffian Avenue",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 271900,
@@ -2968,7 +2968,7 @@
             },
             {
               "id": "louisiana-belmont-12469-preakness-drive",
-              "address": null,
+              "address": "12469 Preakness Drive",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 271900,
@@ -2985,7 +2985,7 @@
             },
             {
               "id": "louisiana-belmont-14206-war-admiral-avenue",
-              "address": null,
+              "address": "14206 War Admiral Avenue",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 242900,
@@ -3002,7 +3002,7 @@
             },
             {
               "id": "louisiana-belmont-14212-war-admiral-avenue",
-              "address": null,
+              "address": "14212 War Admiral Avenue",
               "cityStateZip": "Denham Springs, LA 70726",
               "planName": null,
               "price": 232900,
@@ -3288,7 +3288,7 @@
             },
             {
               "id": "louisiana-foxglove-12610-foxglove-avenue",
-              "address": null,
+              "address": "12610 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 227900,
@@ -3305,7 +3305,7 @@
             },
             {
               "id": "louisiana-foxglove-12592-foxglove-avenue",
-              "address": null,
+              "address": "12592 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 274900,
@@ -3322,7 +3322,7 @@
             },
             {
               "id": "louisiana-foxglove-12563-foxglove-avenue",
-              "address": null,
+              "address": "12563 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 269900,
@@ -3339,7 +3339,7 @@
             },
             {
               "id": "louisiana-foxglove-12688-nightshade-avenue",
-              "address": null,
+              "address": "12688 Nightshade Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 269900,
@@ -3356,7 +3356,7 @@
             },
             {
               "id": "louisiana-foxglove-12569-foxglove-avenue",
-              "address": null,
+              "address": "12569 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 264900,
@@ -3373,7 +3373,7 @@
             },
             {
               "id": "louisiana-foxglove-12604-foxglove-avenue",
-              "address": null,
+              "address": "12604 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 254900,
@@ -3390,7 +3390,7 @@
             },
             {
               "id": "louisiana-foxglove-12575-foxglove-avenue",
-              "address": null,
+              "address": "12575 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 239900,
@@ -3407,7 +3407,7 @@
             },
             {
               "id": "louisiana-foxglove-12586-foxglove-avenue",
-              "address": null,
+              "address": "12586 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 234900,
@@ -3424,7 +3424,7 @@
             },
             {
               "id": "louisiana-foxglove-12581-foxglove-avenue",
-              "address": null,
+              "address": "12581 Foxglove Avenue",
               "cityStateZip": "Walker, LA 70785",
               "planName": null,
               "price": 229900,
@@ -3865,7 +3865,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10197-pearl-lane",
-              "address": null,
+              "address": "10197 Pearl Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 227900,
@@ -3882,7 +3882,7 @@
             },
             {
               "id": "louisiana-rivers-edge-48417-ruby-lane",
-              "address": null,
+              "address": "48417 Ruby Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 224900,
@@ -3899,7 +3899,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10131-jolie-lane",
-              "address": null,
+              "address": "10131 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 229900,
@@ -3916,7 +3916,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10148-jolie-lane",
-              "address": null,
+              "address": "10148 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 254900,
@@ -3933,7 +3933,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10155-jolie-lane",
-              "address": null,
+              "address": "10155 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 244900,
@@ -3950,7 +3950,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10163-jolie-lane",
-              "address": null,
+              "address": "10163 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 252900,
@@ -3967,7 +3967,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10173-jolie-lane",
-              "address": null,
+              "address": "10173 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 229900,
@@ -3984,7 +3984,7 @@
             },
             {
               "id": "louisiana-rivers-edge-10183-jolie-lane",
-              "address": null,
+              "address": "10183 Jolie Lane",
               "cityStateZip": "Tickfaw, LA 70466",
               "planName": null,
               "price": 257900,
@@ -4317,7 +4317,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24734-berry-ridge-lane",
-              "address": null,
+              "address": "24734 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 215900,
@@ -4334,7 +4334,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24998-berry-ridge-lane",
-              "address": null,
+              "address": "24998 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 224900,
@@ -4351,7 +4351,7 @@
             },
             {
               "id": "louisiana-berry-ridge-25016-berry-ridge-lane",
-              "address": null,
+              "address": "25016 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 223900,
@@ -4368,7 +4368,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24691-berry-ridge-lane",
-              "address": null,
+              "address": "24691 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 225900,
@@ -4385,7 +4385,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24715-berry-ridge-lane",
-              "address": null,
+              "address": "24715 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 225900,
@@ -4402,7 +4402,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24721-berry-ridge-lane",
-              "address": null,
+              "address": "24721 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 224900,
@@ -4419,7 +4419,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24728-berry-ridge-lane",
-              "address": null,
+              "address": "24728 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 234900,
@@ -4436,7 +4436,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24733-berry-ridge-lane",
-              "address": null,
+              "address": "24733 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 225900,
@@ -4453,7 +4453,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24739-berry-ridge-lane",
-              "address": null,
+              "address": "24739 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 210900,
@@ -4470,7 +4470,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24740-berry-ridge-lane",
-              "address": null,
+              "address": "24740 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 220900,
@@ -4487,7 +4487,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24746-berry-ridge-lane",
-              "address": null,
+              "address": "24746 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 225900,
@@ -4504,7 +4504,7 @@
             },
             {
               "id": "louisiana-berry-ridge-24757-berry-ridge-lane",
-              "address": null,
+              "address": "24757 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 240900,
@@ -4521,7 +4521,7 @@
             },
             {
               "id": "louisiana-berry-ridge-25064-berry-ridge-lane",
-              "address": null,
+              "address": "25064 Berry Ridge Lane",
               "cityStateZip": "Springfield, LA 70462",
               "planName": null,
               "price": 215900,
@@ -4688,7 +4688,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-24310-june-lynn-dr",
-              "address": null,
+              "address": "24310 June Lynn Dr",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 224900,
@@ -4705,7 +4705,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-24316-june-lynn-dr",
-              "address": null,
+              "address": "24316 June Lynn Dr",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 224900,
@@ -4722,7 +4722,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-24322-june-lynn-dr",
-              "address": null,
+              "address": "24322 June Lynn Dr",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 224900,
@@ -4739,7 +4739,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40101-ryan-street",
-              "address": null,
+              "address": "40101 Ryan Street",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 229900,
@@ -4756,7 +4756,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-41044-waxmyrtle-road",
-              "address": null,
+              "address": "41044 Waxmyrtle Road",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 230450,
@@ -4773,7 +4773,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40102-ryan-street",
-              "address": null,
+              "address": "40102 Ryan Street",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 239900,
@@ -4790,7 +4790,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-41038-waxmyrtle-road",
-              "address": null,
+              "address": "41038 Waxmyrtle Road",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 240450,
@@ -4807,7 +4807,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40144-hastings-court",
-              "address": null,
+              "address": "40144 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 265900,
@@ -4824,7 +4824,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40586-cypress-reserve-blvd",
-              "address": null,
+              "address": "40586 Cypress Reserve Blvd",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 265900,
@@ -4841,7 +4841,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40186-hastings-court",
-              "address": null,
+              "address": "40186 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 273900,
@@ -4858,7 +4858,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-41026-waxmyrtle-road",
-              "address": null,
+              "address": "41026 Waxmyrtle Road",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 275380,
@@ -4875,7 +4875,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40581-cypress-reserve-blvd",
-              "address": null,
+              "address": "40581 Cypress Reserve Blvd",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 275900,
@@ -4892,7 +4892,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40174-hastings-court",
-              "address": null,
+              "address": "40174 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 283900,
@@ -4909,7 +4909,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40154-hastings-court",
-              "address": null,
+              "address": "40154 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 299900,
@@ -4926,7 +4926,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40150-hastings-court",
-              "address": null,
+              "address": "40150 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 312900,
@@ -4943,7 +4943,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40140-hastings-court",
-              "address": null,
+              "address": "40140 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 334900,
@@ -4960,7 +4960,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40170-hastings-court",
-              "address": null,
+              "address": "40170 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 334900,
@@ -4977,7 +4977,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40180-hastings-court",
-              "address": null,
+              "address": "40180 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 336900,
@@ -4994,7 +4994,7 @@
             },
             {
               "id": "louisiana-cypress-reserve-40160-hastings-court",
-              "address": null,
+              "address": "40160 Hastings Court",
               "cityStateZip": "Ponchatoula, LA 70454",
               "planName": null,
               "price": 339900,
@@ -5356,7 +5356,7 @@
             },
             {
               "id": "louisiana-cane-place-113-countrywood-court",
-              "address": null,
+              "address": "113 Countrywood Court",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 245000,
@@ -5373,7 +5373,7 @@
             },
             {
               "id": "louisiana-cane-place-151-grazin-court",
-              "address": null,
+              "address": "151 Grazin Court",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 239500,
@@ -5390,7 +5390,7 @@
             },
             {
               "id": "louisiana-cane-place-155-grazin-court",
-              "address": null,
+              "address": "155 Grazin Court",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 211000,
@@ -5407,7 +5407,7 @@
             },
             {
               "id": "louisiana-cane-place-143-grazin-court",
-              "address": null,
+              "address": "143 Grazin Court",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 215500,
@@ -5424,7 +5424,7 @@
             },
             {
               "id": "louisiana-cane-place-147-grazin-court",
-              "address": null,
+              "address": "147 Grazin Court",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 202500,
@@ -5639,7 +5639,7 @@
             },
             {
               "id": "louisiana-station-heights-216-eagle-heights-drive",
-              "address": null,
+              "address": "216 Eagle Heights Drive",
               "cityStateZip": "Duson, LA 70529",
               "planName": null,
               "price": 234500,
@@ -5970,7 +5970,7 @@
             },
             {
               "id": "louisiana-belle-view-108-belle-lake-drive",
-              "address": null,
+              "address": "108 Belle Lake Drive",
               "cityStateZip": "Lafayette, LA 70506",
               "planName": null,
               "price": 361500,
@@ -5987,7 +5987,7 @@
             },
             {
               "id": "louisiana-belle-view-102-belle-lake-drive",
-              "address": null,
+              "address": "102 Belle Lake Drive",
               "cityStateZip": "Lafayette, LA 70506",
               "planName": null,
               "price": 314000,
@@ -6004,7 +6004,7 @@
             },
             {
               "id": "louisiana-belle-view-104-belle-lake-drive",
-              "address": null,
+              "address": "104 Belle Lake Drive",
               "cityStateZip": "Lafayette, LA 70506",
               "planName": null,
               "price": 326500,
@@ -6137,7 +6137,7 @@
             },
             {
               "id": "louisiana-picard-farms-119-esson-drive",
-              "address": null,
+              "address": "119 Esson Drive",
               "cityStateZip": "Maurice, LA 70555",
               "planName": null,
               "price": 214500,
@@ -6270,7 +6270,7 @@
             },
             {
               "id": "louisiana-hillwood-105-hill-creek-drive",
-              "address": null,
+              "address": "105 Hill Creek Drive",
               "cityStateZip": "Lafayette, LA 70507",
               "planName": null,
               "price": 289500,
@@ -6287,7 +6287,7 @@
             },
             {
               "id": "louisiana-hillwood-107-hill-creek-drive",
-              "address": null,
+              "address": "107 Hill Creek Drive",
               "cityStateZip": "Lafayette, LA 70507",
               "planName": null,
               "price": 310500,
@@ -6420,7 +6420,7 @@
             },
             {
               "id": "louisiana-hollis-heights-154-colett-drive",
-              "address": null,
+              "address": "154 Colett Drive",
               "cityStateZip": "Sunset, LA 70584",
               "planName": null,
               "price": 228000,
@@ -6437,7 +6437,7 @@
             },
             {
               "id": "louisiana-hollis-heights-160-colett-drive",
-              "address": null,
+              "address": "160 Colett Drive",
               "cityStateZip": "Sunset, LA 70584",
               "planName": null,
               "price": 233000,
@@ -6454,7 +6454,7 @@
             },
             {
               "id": "louisiana-hollis-heights-178-colett-drive",
-              "address": null,
+              "address": "178 Colett Drive",
               "cityStateZip": "Sunset, LA 70584",
               "planName": null,
               "price": 230500,
@@ -6587,7 +6587,7 @@
             },
             {
               "id": "louisiana-crowne-parc-137-zabette-drive",
-              "address": null,
+              "address": "137 Zabette Drive",
               "cityStateZip": "Opelousas, LA 70570",
               "planName": null,
               "price": 214500,
@@ -6604,7 +6604,7 @@
             },
             {
               "id": "louisiana-crowne-parc-145-zabette-drive",
-              "address": null,
+              "address": "145 Zabette Drive",
               "cityStateZip": "Opelousas, LA 70570",
               "planName": null,
               "price": 226500,
@@ -6887,7 +6887,7 @@
             },
             {
               "id": "louisiana-grand-oaks-119-lake-oak-drive",
-              "address": null,
+              "address": "119 Lake Oak Drive",
               "cityStateZip": "Lafayette, LA 70507",
               "planName": null,
               "price": 249500,
@@ -6904,7 +6904,7 @@
             },
             {
               "id": "louisiana-grand-oaks-120-lake-oak-drive",
-              "address": null,
+              "address": "120 Lake Oak Drive",
               "cityStateZip": "Lafayette, LA 70507",
               "planName": null,
               "price": 253500,
@@ -7183,7 +7183,7 @@
             },
             {
               "id": "louisiana-cedar-creek-343-white-pine-drive",
-              "address": null,
+              "address": "343 White Pine Drive",
               "cityStateZip": "Lafayette, LA 70501",
               "planName": null,
               "price": 259500,
@@ -7200,7 +7200,7 @@
             },
             {
               "id": "louisiana-cedar-creek-106-red-willow-drive",
-              "address": null,
+              "address": "106 Red Willow Drive",
               "cityStateZip": "Lafayette, LA 70501",
               "planName": null,
               "price": 202500,
@@ -7415,7 +7415,7 @@
             },
             {
               "id": "louisiana-oakmont-146-lake-ridge-drive",
-              "address": null,
+              "address": "146 Lake Ridge Drive",
               "cityStateZip": "Broussard, LA 70518",
               "planName": null,
               "price": 249000,
@@ -7432,7 +7432,7 @@
             },
             {
               "id": "louisiana-oakmont-148-lake-ridge-drive",
-              "address": null,
+              "address": "148 Lake Ridge Drive",
               "cityStateZip": "Broussard, LA 70518",
               "planName": null,
               "price": 240000,
@@ -7565,7 +7565,7 @@
             },
             {
               "id": "louisiana-cypress-falls-123-harvest-falls-drive",
-              "address": null,
+              "address": "123 Harvest Falls Drive",
               "cityStateZip": "Broussard, LA 70518",
               "planName": null,
               "price": 256500,
@@ -7780,7 +7780,7 @@
             },
             {
               "id": "louisiana-fairhaven-at-west-trace-1704-fairhaven-drive",
-              "address": null,
+              "address": "1704 Fairhaven Drive",
               "cityStateZip": "Westlake, LA 70699",
               "planName": null,
               "price": 304500,
@@ -7797,7 +7797,7 @@
             },
             {
               "id": "louisiana-fairhaven-at-west-trace-1710-fairhaven-drive",
-              "address": null,
+              "address": "1710 Fairhaven Drive",
               "cityStateZip": "Westlake, LA 70699",
               "planName": null,
               "price": 359500,
@@ -7814,7 +7814,7 @@
             },
             {
               "id": "louisiana-fairhaven-at-west-trace-1712-fairhaven-drive",
-              "address": null,
+              "address": "1712 Fairhaven Drive",
               "cityStateZip": "Westlake, LA 70699",
               "planName": null,
               "price": 342500,
@@ -8080,7 +8080,7 @@
             },
             {
               "id": "louisiana-coteau-ridge-1507-ashland-ridge",
-              "address": null,
+              "address": "1507 Ashland Ridge",
               "cityStateZip": "New Iberia, LA 70560",
               "planName": null,
               "price": 253000,
@@ -8544,7 +8544,7 @@
             },
             {
               "id": "louisiana-tamanend-30325-lancaster-court",
-              "address": null,
+              "address": "30325 Lancaster Court",
               "cityStateZip": "Lacombe, LA 70445",
               "planName": null,
               "price": 314900,
@@ -8561,7 +8561,7 @@
             },
             {
               "id": "louisiana-tamanend-30332-lancaster-court",
-              "address": null,
+              "address": "30332 Lancaster Court",
               "cityStateZip": "Lacombe, LA 70445",
               "planName": null,
               "price": 314900,
@@ -8578,7 +8578,7 @@
             },
             {
               "id": "louisiana-tamanend-30281-lancaster-court",
-              "address": null,
+              "address": "30281 Lancaster Court",
               "cityStateZip": "Lacombe, LA 70445",
               "planName": null,
               "price": 339900,
@@ -8595,7 +8595,7 @@
             },
             {
               "id": "louisiana-tamanend-30293-lancaster-court",
-              "address": null,
+              "address": "30293 Lancaster Court",
               "cityStateZip": "Lacombe, LA 70445",
               "planName": null,
               "price": 346725,
@@ -8779,7 +8779,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3256-tide-wind-dr",
-              "address": null,
+              "address": "3256 Tide Wind Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 264900,
@@ -8796,7 +8796,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5425-fornea-glen-way",
-              "address": null,
+              "address": "5425 Fornea Glen Way",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 264900,
@@ -8813,7 +8813,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-4515-marais-river-dr",
-              "address": null,
+              "address": "4515 Marais River Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 286900,
@@ -8830,7 +8830,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5500-wake-reserve-rd",
-              "address": null,
+              "address": "5500 Wake Reserve Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 368270,
@@ -8847,7 +8847,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5504-wake-reserve-rd",
-              "address": null,
+              "address": "5504 Wake Reserve Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 394900,
@@ -8864,7 +8864,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-6594-delta-ridge-ave",
-              "address": null,
+              "address": "6594 Delta Ridge Ave",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 394900,
@@ -8881,7 +8881,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5492-wake-reserve-rd",
-              "address": null,
+              "address": "5492 Wake Reserve Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 416145,
@@ -8898,7 +8898,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3489-ward-creek-rd",
-              "address": null,
+              "address": "3489 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 204900,
@@ -8915,7 +8915,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3477-ward-creek-rd",
-              "address": null,
+              "address": "3477 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 214900,
@@ -8932,7 +8932,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3485-ward-creek-rd",
-              "address": null,
+              "address": "3485 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 214900,
@@ -8949,7 +8949,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3493-ward-creek-rd",
-              "address": null,
+              "address": "3493 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 214900,
@@ -8966,7 +8966,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3425-ward-creek-rd",
-              "address": null,
+              "address": "3425 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 222900,
@@ -8983,7 +8983,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3429-ward-creek-rd",
-              "address": null,
+              "address": "3429 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 222900,
@@ -9000,7 +9000,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3433-ward-creek-rd",
-              "address": null,
+              "address": "3433 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 222900,
@@ -9017,7 +9017,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3469-ward-creek-rd",
-              "address": null,
+              "address": "3469 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 222900,
@@ -9034,7 +9034,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-7119-rose-gentian-dr",
-              "address": null,
+              "address": "7119 Rose Gentian Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 232900,
@@ -9051,7 +9051,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3905-blue-rush-ln",
-              "address": null,
+              "address": "3905 Blue Rush Ln",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9068,7 +9068,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3908-blue-rush-ln",
-              "address": null,
+              "address": "3908 Blue Rush Ln",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9085,7 +9085,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3925-blue-rush-ln",
-              "address": null,
+              "address": "3925 Blue Rush Ln",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9102,7 +9102,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3930-blue-rush-ln",
-              "address": null,
+              "address": "3930 Blue Rush Ln",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9119,7 +9119,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-483-lakeshore-village-e",
-              "address": null,
+              "address": "483 Lakeshore Village E",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9136,7 +9136,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5413-fulvetta-falls-rd",
-              "address": null,
+              "address": "5413 Fulvetta Falls Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9153,7 +9153,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-7105-rose-gentian-dr",
-              "address": null,
+              "address": "7105 Rose Gentian Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 234900,
@@ -9170,7 +9170,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3441-ward-creek-rd",
-              "address": null,
+              "address": "3441 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 236900,
@@ -9187,7 +9187,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3445-ward-creek-rd",
-              "address": null,
+              "address": "3445 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 236900,
@@ -9204,7 +9204,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3465-ward-creek-rd",
-              "address": null,
+              "address": "3465 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 236900,
@@ -9221,7 +9221,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3453-ward-creek-rd",
-              "address": null,
+              "address": "3453 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 239900,
@@ -9238,7 +9238,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-4616-marais-river-dr",
-              "address": null,
+              "address": "4616 Marais River Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 241900,
@@ -9255,7 +9255,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3461-ward-creek-rd",
-              "address": null,
+              "address": "3461 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 252900,
@@ -9272,7 +9272,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-4624-marais-river-dr",
-              "address": null,
+              "address": "4624 Marais River Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 254900,
@@ -9289,7 +9289,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-5417-fulvetta-falls-rd",
-              "address": null,
+              "address": "5417 Fulvetta Falls Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 260900,
@@ -9306,7 +9306,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3437-ward-creek-rd",
-              "address": null,
+              "address": "3437 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 279900,
@@ -9323,7 +9323,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3449-ward-creek-rd",
-              "address": null,
+              "address": "3449 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 279900,
@@ -9340,7 +9340,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3249-tide-wind-dr",
-              "address": null,
+              "address": "3249 Tide Wind Dr",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 298900,
@@ -9357,7 +9357,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-3457-ward-creek-rd",
-              "address": null,
+              "address": "3457 Ward Creek Rd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 299900,
@@ -9374,7 +9374,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2814-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2814 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 359900,
@@ -9391,7 +9391,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2822-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2822 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 361900,
@@ -9408,7 +9408,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2806-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2806 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 364900,
@@ -9425,7 +9425,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2810-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2810 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 389900,
@@ -9442,7 +9442,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2818-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2818 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 392900,
@@ -9459,7 +9459,7 @@
             },
             {
               "id": "louisiana-lakeshore-villages-2826-lakeshore-vista-blvd",
-              "address": null,
+              "address": "2826 Lakeshore Vista Blvd",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 394900,
@@ -10000,7 +10000,7 @@
             },
             {
               "id": "louisiana-bonterra-40686-cara-mae-street",
-              "address": null,
+              "address": "40686 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 314900,
@@ -10017,7 +10017,7 @@
             },
             {
               "id": "louisiana-bonterra-40706-cara-mae-street",
-              "address": null,
+              "address": "40706 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 294900,
@@ -10034,7 +10034,7 @@
             },
             {
               "id": "louisiana-bonterra-40710-cara-mae-street",
-              "address": null,
+              "address": "40710 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 314900,
@@ -10051,7 +10051,7 @@
             },
             {
               "id": "louisiana-bonterra-40713-cara-mae-street",
-              "address": null,
+              "address": "40713 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 336900,
@@ -10068,7 +10068,7 @@
             },
             {
               "id": "louisiana-bonterra-40718-cara-mae-street",
-              "address": null,
+              "address": "40718 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 314900,
@@ -10085,7 +10085,7 @@
             },
             {
               "id": "louisiana-bonterra-40721-cara-mae-street",
-              "address": null,
+              "address": "40721 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 286900,
@@ -10102,7 +10102,7 @@
             },
             {
               "id": "louisiana-bonterra-40722-cara-mae-street",
-              "address": null,
+              "address": "40722 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 309900,
@@ -10119,7 +10119,7 @@
             },
             {
               "id": "louisiana-bonterra-40725-cara-mae-street",
-              "address": null,
+              "address": "40725 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 298900,
@@ -10136,7 +10136,7 @@
             },
             {
               "id": "louisiana-bonterra-40730-cara-mae-street",
-              "address": null,
+              "address": "40730 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 314900,
@@ -10153,7 +10153,7 @@
             },
             {
               "id": "louisiana-bonterra-40737-cara-mae-street",
-              "address": null,
+              "address": "40737 Cara Mae Street",
               "cityStateZip": "Slidell, LA 70461",
               "planName": null,
               "price": 299215,

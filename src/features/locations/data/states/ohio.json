@@ -307,7 +307,7 @@
             },
             {
               "id": "ohio-lakefield-place-6215-willow-cove",
-              "address": null,
+              "address": "6215 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 430900,
@@ -324,7 +324,7 @@
             },
             {
               "id": "ohio-lakefield-place-6227-willow-cove",
-              "address": null,
+              "address": "6227 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 420900,
@@ -341,7 +341,7 @@
             },
             {
               "id": "ohio-lakefield-place-6229-willow-cove",
-              "address": null,
+              "address": "6229 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 400900,
@@ -358,7 +358,7 @@
             },
             {
               "id": "ohio-lakefield-place-6233-willow-cove",
-              "address": null,
+              "address": "6233 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 430900,
@@ -375,7 +375,7 @@
             },
             {
               "id": "ohio-lakefield-place-6235-willow-cove",
-              "address": null,
+              "address": "6235 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 450900,
@@ -392,7 +392,7 @@
             },
             {
               "id": "ohio-lakefield-place-6210-willow-cove",
-              "address": null,
+              "address": "6210 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 385900,
@@ -409,7 +409,7 @@
             },
             {
               "id": "ohio-lakefield-place-6212-willow-cove",
-              "address": null,
+              "address": "6212 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 433900,
@@ -426,7 +426,7 @@
             },
             {
               "id": "ohio-lakefield-place-6214-willow-cove",
-              "address": null,
+              "address": "6214 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 446000,
@@ -443,7 +443,7 @@
             },
             {
               "id": "ohio-lakefield-place-6231-willow-cove",
-              "address": null,
+              "address": "6231 Willow Cove",
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
               "price": 470900,
@@ -862,7 +862,7 @@
             },
             {
               "id": "ohio-willow-grove-4040-willow-grove-dr",
-              "address": null,
+              "address": "4040 Willow Grove Dr",
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
               "price": 301900,
@@ -879,7 +879,7 @@
             },
             {
               "id": "ohio-willow-grove-4044-willow-grove-dr",
-              "address": null,
+              "address": "4044 Willow Grove Dr",
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
               "price": 309900,
@@ -896,7 +896,7 @@
             },
             {
               "id": "ohio-willow-grove-4046-willow-grove-dr",
-              "address": null,
+              "address": "4046 Willow Grove Dr",
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
               "price": 299900,
@@ -913,7 +913,7 @@
             },
             {
               "id": "ohio-willow-grove-4048-willow-grove-dr",
-              "address": null,
+              "address": "4048 Willow Grove Dr",
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
               "price": 299900,
@@ -930,7 +930,7 @@
             },
             {
               "id": "ohio-willow-grove-4050-willow-grove-dr",
-              "address": null,
+              "address": "4050 Willow Grove Dr",
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
               "price": 309900,
@@ -1359,7 +1359,7 @@
             },
             {
               "id": "ohio-glover-meadows-314-glover-meadows-way",
-              "address": null,
+              "address": "314 Glover Meadows Way",
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
               "price": 313900,
@@ -1659,7 +1659,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-1457-doubleday-drive",
-              "address": null,
+              "address": "1457 Doubleday Drive",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 376990,
@@ -1676,7 +1676,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-6262-marinelli-drive-north",
-              "address": null,
+              "address": "6262 Marinelli Drive North",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 339471,
@@ -1693,7 +1693,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-6264-marinelli-drive-north",
-              "address": null,
+              "address": "6264 Marinelli Drive North",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 339471,
@@ -1710,7 +1710,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-6266-marinelli-drive-north",
-              "address": null,
+              "address": "6266 Marinelli Drive North",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 339471,
@@ -1727,7 +1727,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-6270-marinelli-drive-north",
-              "address": null,
+              "address": "6270 Marinelli Drive North",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 362043,
@@ -1744,7 +1744,7 @@
             },
             {
               "id": "ohio-villas-at-renner-park-6269-marinelli-drive-north",
-              "address": null,
+              "address": "6269 Marinelli Drive North",
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
               "price": 365270,
@@ -2095,7 +2095,7 @@
             },
             {
               "id": "ohio-villages-at-galloway-6430-silver-canoe-way",
-              "address": null,
+              "address": "6430 Silver Canoe Way",
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
               "price": 308840,
@@ -2112,7 +2112,7 @@
             },
             {
               "id": "ohio-villages-at-galloway-6434-silver-canoe-way",
-              "address": null,
+              "address": "6434 Silver Canoe Way",
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
               "price": 308840,
@@ -2262,7 +2262,7 @@
             },
             {
               "id": "ohio-lansdowne-farms-5922-scarlet-birch-drive",
-              "address": null,
+              "address": "5922 Scarlet Birch Drive",
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
               "price": 420930,
@@ -2279,7 +2279,7 @@
             },
             {
               "id": "ohio-lansdowne-farms-5945-scarlet-birch-drive",
-              "address": null,
+              "address": "5945 Scarlet Birch Drive",
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
               "price": 409380,
@@ -2296,7 +2296,7 @@
             },
             {
               "id": "ohio-lansdowne-farms-5951-scarlet-birch-drive",
-              "address": null,
+              "address": "5951 Scarlet Birch Drive",
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
               "price": 415033,
@@ -2834,7 +2834,7 @@
             },
             {
               "id": "ohio-madison-meadows-ii-458-samantha-drive",
-              "address": null,
+              "address": "458 Samantha Drive",
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
               "price": 479868,
@@ -2851,7 +2851,7 @@
             },
             {
               "id": "ohio-madison-meadows-ii-463-samantha-drive",
-              "address": null,
+              "address": "463 Samantha Drive",
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
               "price": 465555,
@@ -2868,7 +2868,7 @@
             },
             {
               "id": "ohio-madison-meadows-ii-671-carla-road",
-              "address": null,
+              "address": "671 Carla Road",
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
               "price": 521022,
@@ -2885,7 +2885,7 @@
             },
             {
               "id": "ohio-madison-meadows-ii-462-samantha-drive",
-              "address": null,
+              "address": "462 Samantha Drive",
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
               "price": 502207,
@@ -3052,7 +3052,7 @@
             },
             {
               "id": "ohio-towns-at-kintner-crossing-1133-parkhurst-drive",
-              "address": null,
+              "address": "1133 Parkhurst Drive",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 354321,
@@ -3069,7 +3069,7 @@
             },
             {
               "id": "ohio-towns-at-kintner-crossing-1134-parkhurst-drive",
-              "address": null,
+              "address": "1134 Parkhurst Drive",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 360444,
@@ -3086,7 +3086,7 @@
             },
             {
               "id": "ohio-towns-at-kintner-crossing-1135-parkhurst-drive",
-              "address": null,
+              "address": "1135 Parkhurst Drive",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 362241,
@@ -3103,7 +3103,7 @@
             },
             {
               "id": "ohio-towns-at-kintner-crossing-1137-parkhurst-drive",
-              "address": null,
+              "address": "1137 Parkhurst Drive",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 353331,
@@ -3120,7 +3120,7 @@
             },
             {
               "id": "ohio-towns-at-kintner-crossing-1139-parkhurst-drive",
-              "address": null,
+              "address": "1139 Parkhurst Drive",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 366201,
@@ -3253,7 +3253,7 @@
             },
             {
               "id": "ohio-kintner-crossing-830-south-kintner-parkway",
-              "address": null,
+              "address": "830 South Kintner Parkway",
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
               "price": 496426,
@@ -3450,7 +3450,7 @@
             },
             {
               "id": "ohio-retreat-at-hickory-lakes-7724-hickory-lakes-drive",
-              "address": null,
+              "address": "7724 Hickory Lakes Drive",
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
               "price": 534729,
@@ -3467,7 +3467,7 @@
             },
             {
               "id": "ohio-retreat-at-hickory-lakes-7740-hickory-lakes-drive",
-              "address": null,
+              "address": "7740 Hickory Lakes Drive",
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
               "price": 520062,
@@ -3484,7 +3484,7 @@
             },
             {
               "id": "ohio-retreat-at-hickory-lakes-7704-hickory-lakes-drive",
-              "address": null,
+              "address": "7704 Hickory Lakes Drive",
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
               "price": 596500,
@@ -3699,7 +3699,7 @@
             },
             {
               "id": "ohio-walnut-mill-16-gristmill-drive",
-              "address": null,
+              "address": "16 Gristmill Drive",
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
               "price": 409847,
@@ -3716,7 +3716,7 @@
             },
             {
               "id": "ohio-walnut-mill-22-gristmill-drive",
-              "address": null,
+              "address": "22 Gristmill Drive",
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
               "price": 404633,
@@ -3733,7 +3733,7 @@
             },
             {
               "id": "ohio-walnut-mill-3-water-mill-drive",
-              "address": null,
+              "address": "3 Water Mill Drive",
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
               "price": 386305,
@@ -3750,7 +3750,7 @@
             },
             {
               "id": "ohio-walnut-mill-9-water-mill-drive",
-              "address": null,
+              "address": "9 Water Mill Drive",
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
               "price": 381646,
@@ -3951,7 +3951,7 @@
             },
             {
               "id": "ohio-johnsons-creek-1272-eagleton-blvd",
-              "address": null,
+              "address": "1272 Eagleton Blvd",
               "cityStateZip": "London, OH 43140",
               "planName": null,
               "price": 408487,
@@ -3968,7 +3968,7 @@
             },
             {
               "id": "ohio-johnsons-creek-1274-eagleton-blvd",
-              "address": null,
+              "address": "1274 Eagleton Blvd",
               "cityStateZip": "London, OH 43140",
               "planName": null,
               "price": 413675,
@@ -4216,7 +4216,7 @@
             },
             {
               "id": "ohio-river-ridge-1791-pumpkin-ridge-road",
-              "address": null,
+              "address": "1791 Pumpkin Ridge Road",
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
               "price": 408072,
@@ -4233,7 +4233,7 @@
             },
             {
               "id": "ohio-river-ridge-233-vine-grove-drive",
-              "address": null,
+              "address": "233 Vine Grove Drive",
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
               "price": 344443,
@@ -4250,7 +4250,7 @@
             },
             {
               "id": "ohio-river-ridge-248-vine-grove-drive",
-              "address": null,
+              "address": "248 Vine Grove Drive",
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
               "price": 362429,
@@ -4267,7 +4267,7 @@
             },
             {
               "id": "ohio-river-ridge-254-vine-grove-drive",
-              "address": null,
+              "address": "254 Vine Grove Drive",
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
               "price": 366298,
@@ -4284,7 +4284,7 @@
             },
             {
               "id": "ohio-river-ridge-251-vine-grove-drive",
-              "address": null,
+              "address": "251 Vine Grove Drive",
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
               "price": 367391,
@@ -4533,7 +4533,7 @@
             },
             {
               "id": "ohio-the-oaks-at-liberty-crossing-104-fippenny-place",
-              "address": null,
+              "address": "104 Fippenny Place",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 359151,
@@ -4550,7 +4550,7 @@
             },
             {
               "id": "ohio-the-oaks-at-liberty-crossing-116-fippenny-place",
-              "address": null,
+              "address": "116 Fippenny Place",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 361900,
@@ -4567,7 +4567,7 @@
             },
             {
               "id": "ohio-the-oaks-at-liberty-crossing-121-fippenny-place",
-              "address": null,
+              "address": "121 Fippenny Place",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 357900,
@@ -4700,7 +4700,7 @@
             },
             {
               "id": "ohio-liberty-crossing-113-appleseed-way",
-              "address": null,
+              "address": "113 Appleseed Way",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 367900,
@@ -4717,7 +4717,7 @@
             },
             {
               "id": "ohio-liberty-crossing-125-appleseed-way",
-              "address": null,
+              "address": "125 Appleseed Way",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 378951,
@@ -4734,7 +4734,7 @@
             },
             {
               "id": "ohio-liberty-crossing-133-appleseed-way",
-              "address": null,
+              "address": "133 Appleseed Way",
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
               "price": 402355,
@@ -4884,7 +4884,7 @@
             },
             {
               "id": "ohio-sugar-creek-133-brookside-drive",
-              "address": null,
+              "address": "133 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 341493,
@@ -4901,7 +4901,7 @@
             },
             {
               "id": "ohio-sugar-creek-134-brookside-drive",
-              "address": null,
+              "address": "134 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 352221,
@@ -4918,7 +4918,7 @@
             },
             {
               "id": "ohio-sugar-creek-135-brookside-drive",
-              "address": null,
+              "address": "135 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 354329,
@@ -4935,7 +4935,7 @@
             },
             {
               "id": "ohio-sugar-creek-139-brookside-drive",
-              "address": null,
+              "address": "139 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 355380,
@@ -4952,7 +4952,7 @@
             },
             {
               "id": "ohio-sugar-creek-146-brookside-drive",
-              "address": null,
+              "address": "146 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 359787,
@@ -4969,7 +4969,7 @@
             },
             {
               "id": "ohio-sugar-creek-147-brookside-drive",
-              "address": null,
+              "address": "147 Brookside Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 338380,
@@ -4986,7 +4986,7 @@
             },
             {
               "id": "ohio-sugar-creek-41-havenwood-drive",
-              "address": null,
+              "address": "41 Havenwood Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 404395,
@@ -5003,7 +5003,7 @@
             },
             {
               "id": "ohio-sugar-creek-42-havenwood-drive",
-              "address": null,
+              "address": "42 Havenwood Drive",
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
               "price": 359297,
@@ -5153,7 +5153,7 @@
             },
             {
               "id": "ohio-bishop-estates-450-jaret-way",
-              "address": null,
+              "address": "450 Jaret Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 355900,
@@ -5170,7 +5170,7 @@
             },
             {
               "id": "ohio-bishop-estates-453-jaret-way",
-              "address": null,
+              "address": "453 Jaret Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 355900,
@@ -5187,7 +5187,7 @@
             },
             {
               "id": "ohio-bishop-estates-473-jaret-way",
-              "address": null,
+              "address": "473 Jaret Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 347900,
@@ -5204,7 +5204,7 @@
             },
             {
               "id": "ohio-bishop-estates-490-jaret-way",
-              "address": null,
+              "address": "490 Jaret Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 334401,
@@ -5221,7 +5221,7 @@
             },
             {
               "id": "ohio-bishop-estates-503-brilea-way",
-              "address": null,
+              "address": "503 Brilea Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 341045,
@@ -5238,7 +5238,7 @@
             },
             {
               "id": "ohio-bishop-estates-512-jaret-way",
-              "address": null,
+              "address": "512 Jaret Way",
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
               "price": 346053,
@@ -5436,7 +5436,7 @@
             },
             {
               "id": "ohio-canal-heights-2224-kiel-st",
-              "address": null,
+              "address": "2224 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 431900,
@@ -5453,7 +5453,7 @@
             },
             {
               "id": "ohio-canal-heights-7152-caledonian-ave",
-              "address": null,
+              "address": "7152 Caledonian Ave",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 494900,
@@ -5470,7 +5470,7 @@
             },
             {
               "id": "ohio-canal-heights-2185-kiel-st",
-              "address": null,
+              "address": "2185 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 419900,
@@ -5487,7 +5487,7 @@
             },
             {
               "id": "ohio-canal-heights-2191-kiel-st",
-              "address": null,
+              "address": "2191 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 386900,
@@ -5504,7 +5504,7 @@
             },
             {
               "id": "ohio-canal-heights-2197-kiel-st",
-              "address": null,
+              "address": "2197 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 391900,
@@ -5521,7 +5521,7 @@
             },
             {
               "id": "ohio-canal-heights-2170-kiel-st",
-              "address": null,
+              "address": "2170 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 411900,
@@ -5538,7 +5538,7 @@
             },
             {
               "id": "ohio-canal-heights-2188-kiel-st",
-              "address": null,
+              "address": "2188 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 391900,
@@ -5555,7 +5555,7 @@
             },
             {
               "id": "ohio-canal-heights-2278-kiel-st",
-              "address": null,
+              "address": "2278 Kiel St",
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
               "price": 381900,
@@ -6522,7 +6522,7 @@
           "availableHomes": [
             {
               "id": "ohio-reserve-at-cliff-oaks-2959-hoying-dr",
-              "address": null,
+              "address": "2959 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 397900,
@@ -6539,7 +6539,7 @@
             },
             {
               "id": "ohio-reserve-at-cliff-oaks-2889-hoying-dr",
-              "address": null,
+              "address": "2889 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 395900,
@@ -6556,7 +6556,7 @@
             },
             {
               "id": "ohio-reserve-at-cliff-oaks-2903-hoying-dr",
-              "address": null,
+              "address": "2903 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 402900,
@@ -6573,7 +6573,7 @@
             },
             {
               "id": "ohio-reserve-at-cliff-oaks-2911-hoying-dr",
-              "address": null,
+              "address": "2911 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 410900,
@@ -6590,7 +6590,7 @@
             },
             {
               "id": "ohio-reserve-at-cliff-oaks-2927-hoying-dr",
-              "address": null,
+              "address": "2927 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 392900,
@@ -6607,7 +6607,7 @@
             },
             {
               "id": "ohio-reserve-at-cliff-oaks-2943-hoying-dr",
-              "address": null,
+              "address": "2943 Hoying Dr",
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
               "price": 365900,
@@ -6774,7 +6774,7 @@
             },
             {
               "id": "ohio-georgetown-village-105-calvert-ct",
-              "address": null,
+              "address": "105 Calvert Ct",
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
               "price": 254900,
@@ -6791,7 +6791,7 @@
             },
             {
               "id": "ohio-georgetown-village-100-calvert-ct",
-              "address": null,
+              "address": "100 Calvert Ct",
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
               "price": 274900,
@@ -6890,7 +6890,7 @@
           "availableHomes": [
             {
               "id": "ohio-sycamore-ridge-2201-hackberry-st",
-              "address": null,
+              "address": "2201 Hackberry St",
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
               "price": 315900,
@@ -6907,7 +6907,7 @@
             },
             {
               "id": "ohio-sycamore-ridge-2204-hackberry-st",
-              "address": null,
+              "address": "2204 Hackberry St",
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
               "price": 363900,
@@ -6924,7 +6924,7 @@
             },
             {
               "id": "ohio-sycamore-ridge-2208-hackberry-st",
-              "address": null,
+              "address": "2208 Hackberry St",
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
               "price": 329900,
@@ -6941,7 +6941,7 @@
             },
             {
               "id": "ohio-sycamore-ridge-2119-hackberry-st",
-              "address": null,
+              "address": "2119 Hackberry St",
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
               "price": 365900,
@@ -7176,7 +7176,7 @@
             },
             {
               "id": "ohio-liberty-place-1926-willoughby-ave",
-              "address": null,
+              "address": "1926 Willoughby Ave",
               "cityStateZip": "Springfield, OH 45503",
               "planName": null,
               "price": 355900,
@@ -7343,7 +7343,7 @@
             },
             {
               "id": "ohio-creekview-180-chakeres-way",
-              "address": null,
+              "address": "180 Chakeres Way",
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
               "price": 291195,
@@ -7360,7 +7360,7 @@
             },
             {
               "id": "ohio-creekview-204-chakeres-way",
-              "address": null,
+              "address": "204 Chakeres Way",
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
               "price": 315900,
@@ -7578,7 +7578,7 @@
             },
             {
               "id": "ohio-owls-landing-1813-snowy-ln",
-              "address": null,
+              "address": "1813 Snowy Ln",
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
               "price": 369900,
@@ -7815,7 +7815,7 @@
             },
             {
               "id": "ohio-whispering-pines-85-cypress-hill-drive",
-              "address": null,
+              "address": "85 Cypress Hill Drive",
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
               "price": 214900,
@@ -7832,7 +7832,7 @@
             },
             {
               "id": "ohio-whispering-pines-1931-whispering-pines-drive",
-              "address": null,
+              "address": "1931 Whispering Pines Drive",
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
               "price": 214900,
@@ -7849,7 +7849,7 @@
             },
             {
               "id": "ohio-whispering-pines-117-cypress-hill-drive",
-              "address": null,
+              "address": "117 Cypress Hill Drive",
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
               "price": 248000,

@@ -84,7 +84,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-burlington-county-spot-lots-100-hinchman-rd-medford-twp",
-              "address": null,
+              "address": "100 Hinchman Rd Medford Twp",
               "cityStateZip": "Medford, NJ 08055",
               "planName": null,
               "price": 1019990,
@@ -101,7 +101,7 @@
             },
             {
               "id": "new-jersey-burlington-county-spot-lots-4-elderberry-dr",
-              "address": null,
+              "address": "4 Elderberry Dr",
               "cityStateZip": "Medford, NJ 08055",
               "planName": null,
               "price": 999900,
@@ -118,7 +118,7 @@
             },
             {
               "id": "new-jersey-burlington-county-spot-lots-31-third-street-evesham",
-              "address": null,
+              "address": "31 Third Street Evesham",
               "cityStateZip": "Medford, NJ 08055",
               "planName": null,
               "price": 585390,
@@ -135,7 +135,7 @@
             },
             {
               "id": "new-jersey-burlington-county-spot-lots-65-2nd-street",
-              "address": null,
+              "address": "65 2nd Street",
               "cityStateZip": "Medford, NJ 08055",
               "planName": null,
               "price": 609990,
@@ -294,7 +294,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-sandy-ridge-113-essex-drive",
-              "address": null,
+              "address": "113 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 349990,
@@ -311,7 +311,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-117-essex-drive",
-              "address": null,
+              "address": "117 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 349490,
@@ -328,7 +328,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-102-essex-drive",
-              "address": null,
+              "address": "102 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 362990,
@@ -345,7 +345,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-104-essex-drive",
-              "address": null,
+              "address": "104 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 363490,
@@ -362,7 +362,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-105-essex-drive",
-              "address": null,
+              "address": "105 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 359990,
@@ -379,7 +379,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-106-essex-drive",
-              "address": null,
+              "address": "106 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 362490,
@@ -396,7 +396,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-107-essex-drive",
-              "address": null,
+              "address": "107 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 357490,
@@ -413,7 +413,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-108-essex-drive",
-              "address": null,
+              "address": "108 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 362990,
@@ -430,7 +430,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-109-essex-drive",
-              "address": null,
+              "address": "109 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 373490,
@@ -447,7 +447,7 @@
             },
             {
               "id": "new-jersey-sandy-ridge-110-essex-drive",
-              "address": null,
+              "address": "110 Essex Drive",
               "cityStateZip": "Sicklerville, NJ 08081",
               "planName": null,
               "price": 381490,
@@ -784,7 +784,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-lakeside-village-8-spencer-way",
-              "address": null,
+              "address": "8 Spencer Way",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 409990,
@@ -801,7 +801,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-4-spencer-way",
-              "address": null,
+              "address": "4 Spencer Way",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 409990,
@@ -818,7 +818,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-2-spencer-way",
-              "address": null,
+              "address": "2 Spencer Way",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 450240,
@@ -835,7 +835,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-10-spencer-way",
-              "address": null,
+              "address": "10 Spencer Way",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 419990,
@@ -852,7 +852,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-31-clementon-rd-e",
-              "address": null,
+              "address": "31 Clementon Rd E",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 436990,
@@ -869,7 +869,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-33-clementon-rd-e",
-              "address": null,
+              "address": "33 Clementon Rd E",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 421990,
@@ -886,7 +886,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-339-john-ford-court",
-              "address": null,
+              "address": "339 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 594990,
@@ -903,7 +903,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-341-john-ford-court",
-              "address": null,
+              "address": "341 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 589990,
@@ -920,7 +920,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-343-john-ford-court",
-              "address": null,
+              "address": "343 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 599990,
@@ -937,7 +937,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-345-john-ford-court",
-              "address": null,
+              "address": "345 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 598990,
@@ -954,7 +954,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-347-john-ford-court",
-              "address": null,
+              "address": "347 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 614990,
@@ -971,7 +971,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-242-john-ford-court",
-              "address": null,
+              "address": "242 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 522990,
@@ -988,7 +988,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-244-john-ford-court",
-              "address": null,
+              "address": "244 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 501990,
@@ -1005,7 +1005,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-246-john-ford-court",
-              "address": null,
+              "address": "246 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 499990,
@@ -1022,7 +1022,7 @@
             },
             {
               "id": "new-jersey-lakeside-village-248-john-ford-court",
-              "address": null,
+              "address": "248 John Ford Court",
               "cityStateZip": "Gibbsboro, NJ 08026",
               "planName": null,
               "price": 517990,
@@ -1155,7 +1155,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-the-enclave-at-moorestown-20-norwich-lane",
-              "address": null,
+              "address": "20 Norwich Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 719990,
@@ -1172,7 +1172,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-26-norwich-lane",
-              "address": null,
+              "address": "26 Norwich Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 699990,
@@ -1189,7 +1189,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-16-norwich-lane",
-              "address": null,
+              "address": "16 Norwich Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 724290,
@@ -1206,7 +1206,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-16-skipton-lane",
-              "address": null,
+              "address": "16 Skipton Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 734290,
@@ -1223,7 +1223,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-18-norwich-lane",
-              "address": null,
+              "address": "18 Norwich Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 719990,
@@ -1240,7 +1240,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-18-skipton-lane",
-              "address": null,
+              "address": "18 Skipton Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 736290,
@@ -1257,7 +1257,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-20-skipton-lane",
-              "address": null,
+              "address": "20 Skipton Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 726290,
@@ -1274,7 +1274,7 @@
             },
             {
               "id": "new-jersey-the-enclave-at-moorestown-26-skipton-lane",
-              "address": null,
+              "address": "26 Skipton Lane",
               "cityStateZip": "Moorestown, NJ 08057",
               "planName": null,
               "price": 731290,
@@ -1356,7 +1356,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-ocean-acres-521-mermaid-drive",
-              "address": null,
+              "address": "521 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 721690,
@@ -1373,7 +1373,7 @@
             },
             {
               "id": "new-jersey-ocean-acres-522-mermaid-drive",
-              "address": null,
+              "address": "522 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 688690,
@@ -1390,7 +1390,7 @@
             },
             {
               "id": "new-jersey-ocean-acres-526-mermaid-drive",
-              "address": null,
+              "address": "526 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 616690,
@@ -1407,7 +1407,7 @@
             },
             {
               "id": "new-jersey-ocean-acres-527-mermaid-drive",
-              "address": null,
+              "address": "527 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 689190,
@@ -1424,7 +1424,7 @@
             },
             {
               "id": "new-jersey-ocean-acres-528-mermaid-drive",
-              "address": null,
+              "address": "528 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 731690,
@@ -1441,7 +1441,7 @@
             },
             {
               "id": "new-jersey-ocean-acres-530-mermaid-drive",
-              "address": null,
+              "address": "530 Mermaid Drive",
               "cityStateZip": "Barnegat, NJ 08005",
               "planName": null,
               "price": 626690,
@@ -1676,7 +1676,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-deptford-walk-2202-calumet-drive",
-              "address": null,
+              "address": "2202 Calumet Drive",
               "cityStateZip": "Deptford, NJ 08096",
               "planName": null,
               "price": 359990,
@@ -1693,7 +1693,7 @@
             },
             {
               "id": "new-jersey-deptford-walk-2208-calumet-drive",
-              "address": null,
+              "address": "2208 Calumet Drive",
               "cityStateZip": "Deptford, NJ 08096",
               "planName": null,
               "price": 359990,
@@ -1710,7 +1710,7 @@
             },
             {
               "id": "new-jersey-deptford-walk-2210-calumet-drive",
-              "address": null,
+              "address": "2210 Calumet Drive",
               "cityStateZip": "Deptford, NJ 08096",
               "planName": null,
               "price": 378990,
@@ -1822,7 +1822,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-winds-at-ocean-club-311-monterey-drive",
-              "address": null,
+              "address": "311 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 455990,
@@ -1839,7 +1839,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-319-monterey-drive",
-              "address": null,
+              "address": "319 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 427490,
@@ -1856,7 +1856,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-21-hatteras-circle",
-              "address": null,
+              "address": "21 Hatteras Circle",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 481990,
@@ -1873,7 +1873,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-325-monterey-drive",
-              "address": null,
+              "address": "325 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 533990,
@@ -1890,7 +1890,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-19-hatteras-circle",
-              "address": null,
+              "address": "19 Hatteras Circle",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 503640,
@@ -1907,7 +1907,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-329-monterey-drive",
-              "address": null,
+              "address": "329 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 491990,
@@ -1924,7 +1924,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-331-monterey-drive",
-              "address": null,
+              "address": "331 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 540990,
@@ -1941,7 +1941,7 @@
             },
             {
               "id": "new-jersey-winds-at-ocean-club-333-monterey-drive",
-              "address": null,
+              "address": "333 Monterey Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 491990,
@@ -2159,7 +2159,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-coves-at-ocean-club-308-vero-road",
-              "address": null,
+              "address": "308 Vero Road",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 379990,
@@ -2176,7 +2176,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-217-huntington-drive",
-              "address": null,
+              "address": "217 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 379990,
@@ -2193,7 +2193,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-216-huntington-drive",
-              "address": null,
+              "address": "216 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 432985,
@@ -2210,7 +2210,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-219-huntington-drive",
-              "address": null,
+              "address": "219 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 399640,
@@ -2227,7 +2227,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-215-huntington-drive",
-              "address": null,
+              "address": "215 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 444985,
@@ -2244,7 +2244,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-3-santa-monica-road",
-              "address": null,
+              "address": "3 Santa Monica Road",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 446985,
@@ -2261,7 +2261,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-211-huntington-drive",
-              "address": null,
+              "address": "211 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 450985,
@@ -2278,7 +2278,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-5-santa-monica-road",
-              "address": null,
+              "address": "5 Santa Monica Road",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 394990,
@@ -2295,7 +2295,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-209-huntington-drive",
-              "address": null,
+              "address": "209 Huntington Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 445985,
@@ -2312,7 +2312,7 @@
             },
             {
               "id": "new-jersey-coves-at-ocean-club-2-santa-monica-road",
-              "address": null,
+              "address": "2 Santa Monica Road",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 440985,
@@ -2530,7 +2530,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-205-teton-ct",
-              "address": null,
+              "address": "205 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 479990,
@@ -2547,7 +2547,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-208-teton-ct",
-              "address": null,
+              "address": "208 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 509990,
@@ -2564,7 +2564,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-209-teton-ct",
-              "address": null,
+              "address": "209 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 504990,
@@ -2581,7 +2581,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-212-teton-ct",
-              "address": null,
+              "address": "212 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 524985,
@@ -2598,7 +2598,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-213-teton-ct",
-              "address": null,
+              "address": "213 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 449990,
@@ -2615,7 +2615,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-216-teton-ct",
-              "address": null,
+              "address": "216 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 540985,
@@ -2632,7 +2632,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-ranch-homes-224-teton-ct",
-              "address": null,
+              "address": "224 Teton Ct",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 496985,
@@ -2714,7 +2714,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-carriages-at-orchard-glen-2-denali-dr",
-              "address": null,
+              "address": "2 Denali Dr",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 434990,
@@ -2731,7 +2731,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-42-bryce-dr",
-              "address": null,
+              "address": "42 Bryce Dr",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 439990,
@@ -2748,7 +2748,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-46-bryce-dr",
-              "address": null,
+              "address": "46 Bryce Dr",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 439990,
@@ -2765,7 +2765,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-49-bryce-dr",
-              "address": null,
+              "address": "49 Bryce Dr",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 439990,
@@ -2782,7 +2782,7 @@
             },
             {
               "id": "new-jersey-carriages-at-orchard-glen-53-bryce-dr",
-              "address": null,
+              "address": "53 Bryce Dr",
               "cityStateZip": "Elk Township, NJ 08028",
               "planName": null,
               "price": 439990,
@@ -2847,7 +2847,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-ocean-isle-41-forest-park-drive",
-              "address": null,
+              "address": "41 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 431490,
@@ -2864,7 +2864,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-43-forest-park-drive",
-              "address": null,
+              "address": "43 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 421490,
@@ -2881,7 +2881,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-51-forest-park-drive",
-              "address": null,
+              "address": "51 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 425990,
@@ -2898,7 +2898,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-53-forest-park-drive",
-              "address": null,
+              "address": "53 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 449990,
@@ -2915,7 +2915,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-55-forest-park-drive",
-              "address": null,
+              "address": "55 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 429990,
@@ -2932,7 +2932,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-57-forest-park-drive",
-              "address": null,
+              "address": "57 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 433990,
@@ -2949,7 +2949,7 @@
             },
             {
               "id": "new-jersey-ocean-isle-59-forest-park-drive",
-              "address": null,
+              "address": "59 Forest Park Drive",
               "cityStateZip": "Waretown, NJ 08758",
               "planName": null,
               "price": 429990,
@@ -3218,7 +3218,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-gloucester-county-spot-lots-453-clems-run-road-harrison",
-              "address": null,
+              "address": "453 Clems Run Road Harrison",
               "cityStateZip": "Harrison Township, NJ 08062",
               "planName": null,
               "price": 729990,
@@ -3300,7 +3300,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-atlantic-county-spot-lots-87-marshall-dr-egg-harbor",
-              "address": null,
+              "address": "87 Marshall Dr Egg Harbor",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 639990,
@@ -3365,7 +3365,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-patcong-farms-103-dewberry-drive",
-              "address": null,
+              "address": "103 Dewberry Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 650530,
@@ -3382,7 +3382,7 @@
             },
             {
               "id": "new-jersey-patcong-farms-104-dewberry-drive",
-              "address": null,
+              "address": "104 Dewberry Drive",
               "cityStateZip": "Egg Harbor Township, NJ 08234",
               "planName": null,
               "price": 699910,
@@ -3511,7 +3511,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-renaissance-estates-22-georgetown-dr",
-              "address": null,
+              "address": "22 Georgetown Dr",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1099990,
@@ -3528,7 +3528,7 @@
             },
             {
               "id": "new-jersey-renaissance-estates-41-georgetown-dr",
-              "address": null,
+              "address": "41 Georgetown Dr",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1179999,
@@ -3545,7 +3545,7 @@
             },
             {
               "id": "new-jersey-renaissance-estates-11-iron-bridge-rd",
-              "address": null,
+              "address": "11 Iron Bridge Rd",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1400990,
@@ -3562,7 +3562,7 @@
             },
             {
               "id": "new-jersey-renaissance-estates-21-iron-bridge-rd",
-              "address": null,
+              "address": "21 Iron Bridge Rd",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1179990,
@@ -3579,7 +3579,7 @@
             },
             {
               "id": "new-jersey-renaissance-estates-51-iron-bridge-rd",
-              "address": null,
+              "address": "51 Iron Bridge Rd",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1169990,
@@ -3596,7 +3596,7 @@
             },
             {
               "id": "new-jersey-renaissance-estates-102-georgetown-dr",
-              "address": null,
+              "address": "102 Georgetown Dr",
               "cityStateZip": "Freehold, NJ 07728",
               "planName": null,
               "price": 1414655,
@@ -3857,7 +3857,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-coastal-crossing-304-scotty-blvd",
-              "address": null,
+              "address": "304 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 439190,
@@ -3874,7 +3874,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-404-scotty-blvd",
-              "address": null,
+              "address": "404 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 439940,
@@ -3891,7 +3891,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-301-scotty-blvd",
-              "address": null,
+              "address": "301 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 459990,
@@ -3908,7 +3908,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-302-scotty-blvd",
-              "address": null,
+              "address": "302 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 439190,
@@ -3925,7 +3925,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-307-scotty-blvd",
-              "address": null,
+              "address": "307 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 449190,
@@ -3942,7 +3942,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-201-scotty-blvd",
-              "address": null,
+              "address": "201 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 456190,
@@ -3959,7 +3959,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-203-scotty-blvd",
-              "address": null,
+              "address": "203 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 441190,
@@ -3976,7 +3976,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-205-scotty-blvd",
-              "address": null,
+              "address": "205 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 441190,
@@ -3993,7 +3993,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-207-scotty-blvd",
-              "address": null,
+              "address": "207 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 441190,
@@ -4010,7 +4010,7 @@
             },
             {
               "id": "new-jersey-coastal-crossing-209-scotty-blvd",
-              "address": null,
+              "address": "209 Scotty Blvd",
               "cityStateZip": "Middle Township, NJ 08242",
               "planName": null,
               "price": 441190,
@@ -4160,7 +4160,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-raritan-ridge-7-denarski-drive",
-              "address": null,
+              "address": "7 Denarski Drive",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 599990,
@@ -4177,7 +4177,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-3-denarski-drive",
-              "address": null,
+              "address": "3 Denarski Drive",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 599990,
@@ -4194,7 +4194,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-140-coddington-oval",
-              "address": null,
+              "address": "140 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 679990,
@@ -4211,7 +4211,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-142-coddington-oval",
-              "address": null,
+              "address": "142 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 625990,
@@ -4228,7 +4228,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-144-coddington-oval",
-              "address": null,
+              "address": "144 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 627990,
@@ -4245,7 +4245,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-146-coddington-oval",
-              "address": null,
+              "address": "146 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 627990,
@@ -4262,7 +4262,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-148-coddington-oval",
-              "address": null,
+              "address": "148 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 615990,
@@ -4279,7 +4279,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-150-coddington-oval",
-              "address": null,
+              "address": "150 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 619990,
@@ -4296,7 +4296,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-152-coddington-oval",
-              "address": null,
+              "address": "152 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 619990,
@@ -4313,7 +4313,7 @@
             },
             {
               "id": "new-jersey-raritan-ridge-154-coddington-oval",
-              "address": null,
+              "address": "154 Coddington Oval",
               "cityStateZip": "Sayreville, NJ 08872",
               "planName": null,
               "price": 660990,
@@ -4565,7 +4565,7 @@
           "availableHomes": [
             {
               "id": "new-jersey-cape-may-county-spot-lots-126-w-montgomery-ave-wildwood",
-              "address": null,
+              "address": "126 W Montgomery Ave Wildwood",
               "cityStateZip": "Wildwood, NJ 08260",
               "planName": null,
               "price": 599980,
@@ -4582,7 +4582,7 @@
             },
             {
               "id": "new-jersey-cape-may-county-spot-lots-7-schoolhouse-ln-middle-twp",
-              "address": null,
+              "address": "7 Schoolhouse Ln Middle Twp",
               "cityStateZip": "Wildwood, NJ 08260",
               "planName": null,
               "price": 568990,
@@ -4599,7 +4599,7 @@
             },
             {
               "id": "new-jersey-cape-may-county-spot-lots-238-marshall-rd-lower-twp",
-              "address": null,
+              "address": "238 Marshall Rd Lower Twp",
               "cityStateZip": "Wildwood, NJ 08260",
               "planName": null,
               "price": 589990,
@@ -4616,7 +4616,7 @@
             },
             {
               "id": "new-jersey-cape-may-county-spot-lots-240-marshall-rd-lower-twp",
-              "address": null,
+              "address": "240 Marshall Rd Lower Twp",
               "cityStateZip": "Wildwood, NJ 08260",
               "planName": null,
               "price": 649990,
