@@ -1,3 +1,5 @@
+import { useState } from 'react'
+import { getHomeImage } from '../../data/locationLoader'
 import styles from './AvailableHomeCard.module.css'
 
 const STATUS_LABEL = {
@@ -15,13 +17,15 @@ function StatBadge({ value, label }) {
   )
 }
 
-function AvailableHomeCard({ home }) {
+function AvailableHomeCard({ home, community }) {
+  const [imgFailed, setImgFailed] = useState(false)
   const {
     address, cityStateZip, planName,
     price, wasPrice,
     beds, baths, garages, stories, sqft,
-    lot, status, isRte, imageUrl,
+    lot, status, isRte,
   } = home
+  const imageSrc = getHomeImage(home, community)
 
   const isUnderContract = status === 'under-contract'
   const cardClass = isUnderContract
@@ -50,8 +54,15 @@ function AvailableHomeCard({ home }) {
       )}
 
       <div className={styles.imageWrap}>
-        {imageUrl ? (
-          <img src={imageUrl} alt={displayAddress ?? ''} className={styles.image} loading="lazy" />
+        {imageSrc && !imgFailed ? (
+          <img
+            src={imageSrc}
+            alt={displayAddress ?? ''}
+            className={styles.image}
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={() => setImgFailed(true)}
+          />
         ) : (
           <div className={styles.imagePlaceholder} aria-hidden="true" />
         )}

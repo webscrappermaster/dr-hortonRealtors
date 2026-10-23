@@ -70,6 +70,11 @@ export function getCommunityImage(community) {
   return community.cardImageUrl ?? community.cardImageRemoteUrl ?? null
 }
 
+// Imagen de una casa: usa imageUrl propia si existe; si no, imagen de la comunidad.
+export function getHomeImage(home, community) {
+  return home?.imageUrl ?? getCommunityImage(community) ?? null
+}
+
 // getArea y getCommunity reciben stateData directamente (ya cargado por getState)
 export function getArea(stateData, areaSlug) {
   return stateData?.markets?.find(m => m.slug === areaSlug) ?? null
