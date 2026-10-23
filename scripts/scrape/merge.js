@@ -175,6 +175,9 @@ function commFromAreaEntry(cd, stateSlug, areaSlug) {
   const citySlug = parsed?.citySlug ?? null
   const { cityName, zip } = parseCityAddress(cd.commAddress)
 
+  const rawImgLink = cd.commImageLink ?? null
+  const cardImageRemoteUrl = rawImgLink ? `https://www.drhorton.com${rawImgLink}` : null
+
   return {
     slug: commSlug,
     name: cd.commName ?? null,
@@ -197,6 +200,7 @@ function commFromAreaEntry(cd, stateSlug, areaSlug) {
     stories: { min: cd.commMinStories ?? null, max: cd.commMaxStories ?? null },
     sqftFrom: cd.commMinSqft ?? null,
     cardImage: null,
+    cardImageRemoteUrl,
     gallery: null,
     about: null,
     amenities: null,
@@ -244,6 +248,7 @@ function commFromRawJson(raw, stateSlug, areaSlug) {
     stories: { min: storList.length  ? Math.min(...storList)  : null, max: storList.length  ? Math.max(...storList)  : null },
     sqftFrom: sqftList.length ? Math.min(...sqftList) : null,
     cardImage: null,
+    cardImageRemoteUrl: null,
     gallery: null,
     about: null,
     amenities: null,
