@@ -133,7 +133,7 @@ async function collectRawFiles(baseDir, filterStates) {
 
       const commFiles = await readdir(areaPath).catch(() => [])
       for (const file of commFiles) {
-        if (!file.endsWith('.json')) continue
+        if (!file.endsWith('.json') || file.startsWith('_')) continue
         files.push(path.join(areaPath, file))
       }
     }
