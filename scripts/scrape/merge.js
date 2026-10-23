@@ -5,9 +5,12 @@
 //   - Si el JSON de estado no existe → lo CREA desde cero usando statesIndex + datos raw.
 //   - Si existe → AGREGA áreas y comunidades que falten; actualiza availableHomes respetando
 //     comunidades curadas (communities/{state}/{comm}.json con availableHomes !== null).
-//   - Genera IDs globales únicos por casa: ${stateSlug}-${commSlug}-${streetSlug}.
+//   - Deduplicación: cada comunidad pertenece solo al área que indica su commPageLink/sourceUrl.
+//     Si aparece en el _area.json de otra área, se salta.
+//   - IDs de casas: ${stateSlug}-${commSlug}-<qmis-slug> desde href, o
+//     ${stateSlug}-${commSlug}-lot-${lot}-${index} como fallback para casas sin enlace.
+//   - Reporta IDs duplicados, comunidades deduplicadas y casas sin dirección de calle.
 //   - Excluye raw/recon.
-//   - Reporta IDs duplicados al finalizar.
 //
 // Uso:
 //   node scripts/scrape/merge.js                   # todos los estados
@@ -75,17 +78,6 @@ function parseCommPageLink(link) {
   return { stateSlug: parts[0], areaSlug: parts[1], citySlug: parts[2], commSlug: parts[3] }
 }
 
-function streetToSlug(street) {
-  if (!street) return null
-  return street.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
-}
-
-function buildHomeId(stateSlug, commSlug, street, lot) {
-  const streetPart = streetToSlug(street) ?? (lot != null ? `lot-${lot}` : null)
-  if (!streetPart) return null
-  return `${stateSlug}-${commSlug}-${streetPart}`
-}
-
 // Limpia artifacts de encoding en strings scrapeados
 function sanitize(str) {
   if (!str) return null
@@ -93,6 +85,21 @@ function sanitize(str) {
     .replace(/â€™/g, "'").replace(/â€œ/g, '"').replace(/â€/g, '"')
     .replace(/â„¢/g, '™').replace(/Â®/g, '®').replace(/Â/g, '')
     .trim() || null
+}
+
+// ── ID de casa ────────────────────────────────────────────────────────────────
+//
+// Orden de prioridad:
+//   1. href contiene /qmis/<slug> → ${stateSlug}-${commSlug}-<qmis-slug>
+//   2. Sin href → ${stateSlug}-${commSlug}-lot-${lot || 'x'}-${index}
+
+function buildHomeId(stateSlug, commSlug, href, lot, index) {
+  if (href) {
+    // href: /state/area/city/comm/qmis/506-woodcreek-circle-sw
+    const qmisSlug = href.split('/').at(-1)
+    if (qmisSlug) return `${stateSlug}-${commSlug}-${qmisSlug}`
+  }
+  return `${stateSlug}-${commSlug}-lot-${lot ?? 'x'}-${index}`
 }
 
 // ── Curación ──────────────────────────────────────────────────────────────────
@@ -110,16 +117,16 @@ async function hasCuratedHomes(stateSlug, communitySlug) {
 
 // ── Formato AvailableHomeCard ─────────────────────────────────────────────────
 
-function toCardFormat(rawHome, commAddress, stateSlug, commSlug) {
-  const { street, baths, garage, lotNumber, price, originalPrice, status } = rawHome
+function toCardFormat(rawHome, commAddress, stateSlug, commSlug, index) {
+  const { baths, garage, lotNumber, price, originalPrice, status } = rawHome
 
   const cardStatus = status === 'available'       ? 'available'
     : status === 'under-contract' ? 'under-contract'
     : null
 
   return {
-    id: buildHomeId(stateSlug, commSlug, street, lotNumber),
-    address: street ?? null,
+    id: buildHomeId(stateSlug, commSlug, rawHome.href, lotNumber, index),
+    address: rawHome.street ?? null,
     cityStateZip: commAddress ?? null,
     planName: rawHome.planName ?? null,
     price: price ?? null,
@@ -138,7 +145,6 @@ function toCardFormat(rawHome, commAddress, stateSlug, commSlug) {
 
 // ── Construcción de entradas de comunidad ─────────────────────────────────────
 
-// Desde _area.json CommunityData
 function commFromAreaEntry(cd, stateSlug, areaSlug) {
   const parsed = parseCommPageLink(cd.commPageLink)
   const commSlug = parsed?.commSlug ?? toSlug(cd.commName)
@@ -182,7 +188,6 @@ function commFromAreaEntry(cd, stateSlug, areaSlug) {
   }
 }
 
-// Desde JSON individual de comunidad (cuando no hay _area.json)
 function commFromRawJson(raw, stateSlug, areaSlug) {
   const { cityName, citySlug, zip } = parseCityAddress(raw.commAddress)
   const homes = raw.homes ?? []
@@ -231,24 +236,28 @@ function commFromRawJson(raw, stateSlug, areaSlug) {
 }
 
 // ── Carga datos crudos de un área ─────────────────────────────────────────────
+// Retorna { center, heroTitle, cities, communities, deduped }
+// Solo incluye comunidades cuyo commPageLink / areaSlug apunta al área actual.
 
 async function loadAreaRaw(stateSlug, areaSlug) {
   const areaPath = path.join(RAW_DIR, stateSlug, areaSlug)
   if (!existsSync(areaPath)) return null
 
-  // Archivos individuales de comunidad (excluye _area.json)
   const files = await readdir(areaPath).catch(() => [])
   const commFiles = files.filter(f => f.endsWith('.json') && !f.startsWith('_'))
+
+  // Mapa commSlug → rawComm (solo los del área correcta)
   const rawCommMap = {}
   for (const file of commFiles) {
     try {
       const raw = JSON.parse(await readFile(path.join(areaPath, file), 'utf8'))
+      // Deduplicación por areaSlug en el JSON individual
+      if (raw.areaSlug && raw.areaSlug !== areaSlug) continue
       const key = raw.communitySlug ?? file.replace('.json', '')
       rawCommMap[key] = raw
     } catch { /* ignora archivos corruptos */ }
   }
 
-  // _area.json opcional
   let areaJson = null
   const areaJsonPath = path.join(areaPath, '_area.json')
   if (existsSync(areaJsonPath)) {
@@ -256,17 +265,34 @@ async function loadAreaRaw(stateSlug, areaSlug) {
   }
 
   const communities = []
+  const commSlugSeen = new Set()
+  let dedupedCount = 0
 
   if (areaJson?.CommunityData?.length) {
     for (const cd of areaJson.CommunityData) {
       if (!cd.commPageLink) continue
+      const parsed = parseCommPageLink(cd.commPageLink)
+      if (!parsed) continue
+
+      // Deduplicación: salta si commPageLink apunta a otro área
+      if (parsed.areaSlug !== areaSlug) {
+        dedupedCount++
+        continue
+      }
+
       const comm = commFromAreaEntry(cd, stateSlug, areaSlug)
 
+      // Deduplicación intra-área: misma comunidad listada en varias ciudades
+      if (commSlugSeen.has(comm.slug)) continue
+      commSlugSeen.add(comm.slug)
+
       const rawComm = rawCommMap[comm.slug]
+
       if (rawComm && !await hasCuratedHomes(stateSlug, comm.slug)) {
-        const homes = (rawComm.homes ?? []).map(h =>
-          toCardFormat(h, rawComm.commAddress, stateSlug, comm.slug),
-        )
+        const seenIds = new Set()
+        const homes = (rawComm.homes ?? [])
+          .map((h, i) => toCardFormat(h, rawComm.commAddress, stateSlug, comm.slug, i))
+          .filter(h => { if (seenIds.has(h.id)) return false; seenIds.add(h.id); return true })
         if (homes.length > 0) {
           comm.availableHomes = homes
           comm.availableHomesCount = homes.filter(h => h.status === 'available').length
@@ -276,15 +302,16 @@ async function loadAreaRaw(stateSlug, areaSlug) {
       communities.push(comm)
     }
   } else {
-    // Sin _area.json: infiere metadata desde archivos individuales
+    // Sin _area.json: usa archivos individuales (ya filtrados por areaSlug arriba)
     for (const raw of Object.values(rawCommMap)) {
       if (!raw.communitySlug) continue
       const comm = commFromRawJson(raw, stateSlug, areaSlug)
 
       if (!await hasCuratedHomes(stateSlug, comm.slug)) {
-        const homes = (raw.homes ?? []).map(h =>
-          toCardFormat(h, raw.commAddress, stateSlug, comm.slug),
-        )
+        const seenIds = new Set()
+        const homes = (raw.homes ?? [])
+          .map((h, i) => toCardFormat(h, raw.commAddress, stateSlug, comm.slug, i))
+          .filter(h => { if (seenIds.has(h.id)) return false; seenIds.add(h.id); return true })
         if (homes.length > 0) {
           comm.availableHomes = homes
           comm.availableHomesCount = homes.filter(h => h.status === 'available').length
@@ -301,7 +328,7 @@ async function loadAreaRaw(stateSlug, areaSlug) {
     : null
   const cities = [...new Set(communities.map(c => c.citySlug).filter(Boolean))]
 
-  return { center, heroTitle: areaInfo?.Title ?? null, cities, communities }
+  return { center, heroTitle: areaInfo?.Title ?? null, cities, communities, dedupedCount }
 }
 
 // ── Verificación de IDs duplicados ────────────────────────────────────────────
@@ -324,15 +351,33 @@ function findDuplicateIds(stateData) {
   return dupes
 }
 
+// Cuenta casas sin dirección de calle en un estado
+function countNullStreets(stateData) {
+  let total = 0
+  let nullStreet = 0
+  for (const mkt of stateData.markets ?? []) {
+    for (const comm of mkt.communities ?? []) {
+      for (const home of comm.availableHomes ?? []) {
+        total++
+        if (home.address == null) nullStreet++
+      }
+    }
+  }
+  return { total, nullStreet }
+}
+
 // ── Construye estado nuevo desde cero ─────────────────────────────────────────
 
 async function buildNewState(stateSlug) {
   const indexEntry = statesIndex.find(s => s.slug === stateSlug)
   if (!indexEntry) return null
 
+  let totalDeduped = 0
   const markets = []
+
   for (const mkt of indexEntry.markets ?? []) {
     const rawArea = await loadAreaRaw(stateSlug, mkt.slug)
+    totalDeduped += rawArea?.dedupedCount ?? 0
     markets.push({
       slug: mkt.slug,
       name: mkt.name,
@@ -356,20 +401,22 @@ async function buildNewState(stateSlug) {
     resultsRadiusMiles: null,
     totalResults: null,
     markets,
+    _dedupedCount: totalDeduped,
   }
 }
 
 // ── Merge en estado existente ─────────────────────────────────────────────────
 
 async function mergeIntoExisting(stateSlug, existingData) {
-  let updated = 0
-  let added   = 0
-  let curated = 0
+  let updated  = 0
+  let added    = 0
+  let curated  = 0
+  let deduped  = 0
 
   const rawStateDir = path.join(RAW_DIR, stateSlug)
   if (!existsSync(rawStateDir)) {
     console.log(`  ⚠ Sin datos crudos para ${stateSlug}`)
-    return { updated, added, curated }
+    return { updated, added, curated, deduped }
   }
 
   const indexEntry  = statesIndex.find(s => s.slug === stateSlug)
@@ -385,11 +432,11 @@ async function mergeIntoExisting(stateSlug, existingData) {
 
     const rawArea = await loadAreaRaw(stateSlug, areaSlug)
     if (!rawArea) continue
+    deduped += rawArea.dedupedCount
 
     const existingMkt = existingData.markets?.find(m => m.slug === areaSlug)
 
     if (!existingMkt) {
-      // Área no existe → agregarla entera
       const mktIdx = indexMkts.find(m => m.slug === areaSlug)
       existingData.markets = existingData.markets ?? []
       existingData.markets.push({
@@ -410,7 +457,6 @@ async function mergeIntoExisting(stateSlug, existingData) {
       continue
     }
 
-    // Área existe → agregar comunidades faltantes o actualizar homes
     for (const newComm of rawArea.communities) {
       const existing = existingMkt.communities?.find(c => c.slug === newComm.slug)
 
@@ -422,7 +468,6 @@ async function mergeIntoExisting(stateSlug, existingData) {
         continue
       }
 
-      // Comunidad existe → actualizar availableHomes si no es curada
       if (newComm.availableHomes) {
         if (await hasCuratedHomes(stateSlug, existing.slug)) {
           curated++
@@ -436,7 +481,7 @@ async function mergeIntoExisting(stateSlug, existingData) {
     }
   }
 
-  return { updated, added, curated }
+  return { updated, added, curated, deduped }
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
@@ -461,6 +506,7 @@ async function main() {
   let totalAdded   = 0
   let totalUpdated = 0
   let totalCurated = 0
+  let totalDeduped = 0
   const allDupes   = []
 
   for (const stateSlug of stateSlugs) {
@@ -469,7 +515,7 @@ async function main() {
 
     if (existsSync(stateFile)) {
       const existingData = JSON.parse(await readFile(stateFile, 'utf8'))
-      const { updated, added, curated } = await mergeIntoExisting(stateSlug, existingData)
+      const { updated, added, curated, deduped } = await mergeIntoExisting(stateSlug, existingData)
 
       if (updated > 0 || added > 0) {
         const dupes = findDuplicateIds(existingData)
@@ -478,21 +524,28 @@ async function main() {
           console.log(`  ⚠ ${dupes.length} IDs duplicados`)
           dupes.forEach(d => console.log(`    - ${d.id}`))
         }
+        // Eliminar clave temporal _dedupedCount si existía
+        delete existingData._dedupedCount
         await writeFile(stateFile, JSON.stringify(existingData, null, 2), 'utf8')
-        console.log(`  ✓ actualizado — ${updated} homes, ${added} nuevas comunidades, ${curated} curados omitidos`)
+        console.log(`  ✓ actualizado — ${updated} homes, ${added} nuevas comunidades, ${curated} curados, ${deduped} deduplicadas`)
       } else {
-        console.log(`  — sin cambios (${curated} curados)`)
+        console.log(`  — sin cambios (${curated} curados, ${deduped} deduplicadas)`)
       }
 
       totalUpdated += updated
       totalAdded   += added
       totalCurated += curated
+      totalDeduped += deduped
     } else {
       const newState = await buildNewState(stateSlug)
       if (!newState) {
         console.log(`  ⚠ No está en statesIndex — skip`)
         continue
       }
+
+      const deduped = newState._dedupedCount ?? 0
+      delete newState._dedupedCount
+      totalDeduped += deduped
 
       const dupes = findDuplicateIds(newState)
       if (dupes.length > 0) {
@@ -503,9 +556,25 @@ async function main() {
 
       const commCount = newState.markets.reduce((s, m) => s + m.communities.length, 0)
       await writeFile(stateFile, JSON.stringify(newState, null, 2), 'utf8')
-      console.log(`  ✓ CREADO — ${newState.markets.length} áreas, ${commCount} comunidades`)
+      console.log(`  ✓ CREADO — ${newState.markets.length} áreas, ${commCount} comunidades, ${deduped} deduplicadas`)
       totalCreated++
     }
+  }
+
+  // ── Reporte global ──────────────────────────────────────────────────────────
+
+  // Reconstruye datos agregados para conteo de null streets
+  let totalHomes   = 0
+  let totalNullStr = 0
+  const stateFiles = await readdir(STATES_DIR).catch(() => [])
+  for (const f of stateFiles) {
+    if (!f.endsWith('.json')) continue
+    try {
+      const data = JSON.parse(await readFile(path.join(STATES_DIR, f), 'utf8'))
+      const { total, nullStreet } = countNullStreets(data)
+      totalHomes   += total
+      totalNullStr += nullStreet
+    } catch { /* ignora */ }
   }
 
   console.log(`\n✓ Merge completo:`)
@@ -513,6 +582,9 @@ async function main() {
   console.log(`  ${totalAdded} comunidades nuevas agregadas`)
   console.log(`  ${totalUpdated} comunidades actualizadas (homes)`)
   console.log(`  ${totalCurated} comunidades curadas omitidas`)
+  console.log(`  ${totalDeduped} comunidades deduplicadas (commPageLink apuntaba a otra área)`)
+  console.log(`  Casas totales en states/: ${totalHomes}`)
+  console.log(`  Casas sin dirección de calle: ${totalNullStr} (${totalHomes > 0 ? ((totalNullStr / totalHomes) * 100).toFixed(1) : 0}%)`)
   if (allDupes.length > 0) {
     console.log(`  ⚠ ${allDupes.length} IDs duplicados en total — ver detalle arriba`)
   } else {
