@@ -67,7 +67,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-ellston-park-lot-0194",
+              "id": "colorado-ellston-park-3645-glenna-pl",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80907",
               "planName": null,
@@ -84,7 +84,7 @@
               "image": null
             },
             {
-              "id": "colorado-ellston-park-lot-0191",
+              "id": "colorado-ellston-park-3675-glenna-pl",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80907",
               "planName": null,
@@ -101,7 +101,7 @@
               "image": null
             },
             {
-              "id": "colorado-ellston-park-lot-0264",
+              "id": "colorado-ellston-park-lot-0264-2",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80907",
               "planName": null,
@@ -118,7 +118,7 @@
               "image": null
             },
             {
-              "id": "colorado-ellston-park-lot-0193",
+              "id": "colorado-ellston-park-lot-0193-3",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80907",
               "planName": null,
@@ -135,7 +135,7 @@
               "image": null
             },
             {
-              "id": "colorado-ellston-park-lot-0190",
+              "id": "colorado-ellston-park-lot-0190-4",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80907",
               "planName": null,
@@ -200,7 +200,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-jackson-creek-lot-5010",
+              "id": "colorado-jackson-creek-16753-mystic-canyon-drive",
               "address": null,
               "cityStateZip": "Monument, CO 80132",
               "planName": null,
@@ -217,7 +217,7 @@
               "image": null
             },
             {
-              "id": "colorado-jackson-creek-lot-5011",
+              "id": "colorado-jackson-creek-16763-mystic-canyon-drive",
               "address": null,
               "cityStateZip": "Monument, CO 80132",
               "planName": null,
@@ -234,7 +234,7 @@
               "image": null
             },
             {
-              "id": "colorado-jackson-creek-lot-5005",
+              "id": "colorado-jackson-creek-891-naismith-lane",
               "address": null,
               "cityStateZip": "Monument, CO 80132",
               "planName": null,
@@ -299,7 +299,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-lorson-ranch-lot-0074",
+              "id": "colorado-lorson-ranch-6636-dragontail-terrace",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -316,7 +316,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0084",
+              "id": "colorado-lorson-ranch-6681-raven-ridge-terrace",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -333,7 +333,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0083",
+              "id": "colorado-lorson-ranch-6673-raven-ridge-terrace",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -350,7 +350,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0105",
+              "id": "colorado-lorson-ranch-6675-dragontail-terrace",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -367,7 +367,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0106",
+              "id": "colorado-lorson-ranch-lot-0106-4",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -384,7 +384,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0085",
+              "id": "colorado-lorson-ranch-lot-0085-5",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -401,7 +401,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0086",
+              "id": "colorado-lorson-ranch-lot-0086-6",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -418,7 +418,7 @@
               "image": null
             },
             {
-              "id": "colorado-lorson-ranch-lot-0104",
+              "id": "colorado-lorson-ranch-lot-0104-7",
               "address": null,
               "cityStateZip": "Colorado Springs, CO 80925",
               "planName": null,
@@ -460,12 +460,8 @@
         "aurora",
         "commerce-city",
         "watkins",
-        "brighton",
-        "lochbuie",
-        "fort-lupton",
         "parker",
-        "elizabeth",
-        "mead"
+        "elizabeth"
       ],
       "communities": [
         {
@@ -579,7 +575,7 @@
               "image": null
             },
             {
-              "id": "colorado-arcadia-lot-0281",
+              "id": "colorado-arcadia-lot-0281-4",
               "address": null,
               "cityStateZip": "Denver, CO 80247",
               "planName": null,
@@ -596,7 +592,7 @@
               "image": null
             },
             {
-              "id": "colorado-arcadia-lot-0235",
+              "id": "colorado-arcadia-lot-0235-5",
               "address": null,
               "cityStateZip": "Denver, CO 80247",
               "planName": null,
@@ -613,7 +609,7 @@
               "image": null
             },
             {
-              "id": "colorado-arcadia-lot-0237",
+              "id": "colorado-arcadia-lot-0237-6",
               "address": null,
               "cityStateZip": "Denver, CO 80247",
               "planName": null,
@@ -678,7 +674,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-horizon-uptown-lot-0065",
+              "id": "colorado-horizon-uptown-22586-e-7th-pl",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -695,7 +691,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0066",
+              "id": "colorado-horizon-uptown-22596-e-7th-pl",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -712,7 +708,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0078",
+              "id": "colorado-horizon-uptown-696-n-tempe-st",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -729,7 +725,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0064",
+              "id": "colorado-horizon-uptown-22566-e-7th-pl",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -746,7 +742,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0079",
+              "id": "colorado-horizon-uptown-706-n-tempe-st",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -763,7 +759,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0067",
+              "id": "colorado-horizon-uptown-717-n-ukraine-st",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -780,7 +776,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0082",
+              "id": "colorado-horizon-uptown-718-n-tempe-st",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -797,7 +793,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0012",
+              "id": "colorado-horizon-uptown-lot-0012-7",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -814,7 +810,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0013",
+              "id": "colorado-horizon-uptown-lot-0013-8",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -831,7 +827,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0014",
+              "id": "colorado-horizon-uptown-lot-0014-9",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -848,7 +844,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0115",
+              "id": "colorado-horizon-uptown-lot-0115-10",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -865,7 +861,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0071",
+              "id": "colorado-horizon-uptown-lot-0071-11",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -882,7 +878,7 @@
               "image": null
             },
             {
-              "id": "colorado-horizon-uptown-lot-0069",
+              "id": "colorado-horizon-uptown-lot-0069-12",
               "address": null,
               "cityStateZip": "Aurora, CO 80018",
               "planName": null,
@@ -947,7 +943,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-settlers-crossing-lot-0466",
+              "id": "colorado-settlers-crossing-18735-e-98th-ave",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -964,7 +960,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0465",
+              "id": "colorado-settlers-crossing-18745-e-98th-ave",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -981,7 +977,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0453",
+              "id": "colorado-settlers-crossing-9865-bahama-st",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -998,7 +994,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0047",
+              "id": "colorado-settlers-crossing-9888-danube-court",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1015,7 +1011,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0046",
+              "id": "colorado-settlers-crossing-9894-danube-court",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1032,7 +1028,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0449",
+              "id": "colorado-settlers-crossing-9841-bahama-st",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1049,7 +1045,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0451",
+              "id": "colorado-settlers-crossing-9853-bahama-st",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1066,7 +1062,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0002",
+              "id": "colorado-settlers-crossing-lot-0002-7",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1083,7 +1079,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0004",
+              "id": "colorado-settlers-crossing-lot-0004-8",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1100,7 +1096,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0131",
+              "id": "colorado-settlers-crossing-lot-0131-9",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1117,7 +1113,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0136",
+              "id": "colorado-settlers-crossing-lot-0136-10",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1134,7 +1130,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0043",
+              "id": "colorado-settlers-crossing-lot-0043-11",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1151,7 +1147,7 @@
               "image": null
             },
             {
-              "id": "colorado-settlers-crossing-lot-0040",
+              "id": "colorado-settlers-crossing-lot-0040-12",
               "address": null,
               "cityStateZip": "Commerce City, CO 80022",
               "planName": null,
@@ -1216,7 +1212,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-sky-ranch-lot-0062",
+              "id": "colorado-sky-ranch-28201-e-4th-place",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1233,7 +1229,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0060",
+              "id": "colorado-sky-ranch-28227-e-4th-place",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1250,7 +1246,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0008",
+              "id": "colorado-sky-ranch-334-n-amory-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1267,7 +1263,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0014",
+              "id": "colorado-sky-ranch-341-n-bersshine-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1284,7 +1280,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0006",
+              "id": "colorado-sky-ranch-344-n-amory-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1301,7 +1297,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0038",
+              "id": "colorado-sky-ranch-328-n-amory-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1318,7 +1314,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0082",
+              "id": "colorado-sky-ranch-394-n-allium-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1335,7 +1331,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0067",
+              "id": "colorado-sky-ranch-395-n-allium-street",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1352,7 +1348,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0012",
+              "id": "colorado-sky-ranch-lot-0012-8",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1369,7 +1365,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0013",
+              "id": "colorado-sky-ranch-lot-0013-9",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1386,7 +1382,7 @@
               "image": null
             },
             {
-              "id": "colorado-sky-ranch-lot-0005",
+              "id": "colorado-sky-ranch-lot-0005-10",
               "address": null,
               "cityStateZip": "Watkins, CO 80137",
               "planName": null,
@@ -1406,147 +1402,6 @@
           "location": {
             "lat": 39.72417,
             "lng": -104.657
-          }
-        },
-        {
-          "slug": "brighton-crossing",
-          "name": "Brighton Crossing",
-          "stateSlug": "colorado",
-          "areaSlug": "denver",
-          "citySlug": "brighton",
-          "cityName": "Brighton",
-          "zip": "80601",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": null,
-          "tag": null,
-          "priceFrom": 481990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.98389,
-            "lng": -104.7701
-          }
-        },
-        {
-          "slug": "silver-peaks",
-          "name": "Silver Peaks",
-          "stateSlug": "colorado",
-          "areaSlug": "denver",
-          "citySlug": "lochbuie",
-          "cityName": "Lochbuie",
-          "zip": "80603",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 433990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1291,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 40.00125,
-            "lng": -104.7432
-          }
-        },
-        {
-          "slug": "vista-meadows",
-          "name": "Vista Meadows",
-          "stateSlug": "colorado",
-          "areaSlug": "denver",
-          "citySlug": "fort-lupton",
-          "cityName": "Fort Lupton",
-          "zip": "80621",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 469990,
-          "availableHomesCount": 7,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1771,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 40.0688,
-            "lng": -104.7863
           }
         },
         {
@@ -1592,7 +1447,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-trails-at-crowfoot-lot-5060",
+              "id": "colorado-trails-at-crowfoot-13990-beebalm-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1609,7 +1464,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5061",
+              "id": "colorado-trails-at-crowfoot-18101-coppermallow-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1626,7 +1481,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5063",
+              "id": "colorado-trails-at-crowfoot-18125-coppermallow-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1643,7 +1498,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5055",
+              "id": "colorado-trails-at-crowfoot-13978-beebalm-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1660,7 +1515,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5057",
+              "id": "colorado-trails-at-crowfoot-13984-beebalm-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1677,7 +1532,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5058",
+              "id": "colorado-trails-at-crowfoot-13986-beebalm-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1694,7 +1549,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5064",
+              "id": "colorado-trails-at-crowfoot-18137-coppermallow-trl",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1711,7 +1566,7 @@
               "image": null
             },
             {
-              "id": "colorado-trails-at-crowfoot-lot-5056",
+              "id": "colorado-trails-at-crowfoot-lot-5056-7",
               "address": null,
               "cityStateZip": "Parker, CO 80134",
               "planName": null,
@@ -1844,7 +1699,7 @@
               "image": null
             },
             {
-              "id": "colorado-spring-valley-ranch-lot-0157",
+              "id": "colorado-spring-valley-ranch-43112-castle-stuart-st",
               "address": null,
               "cityStateZip": "Elizabeth, CO 80107",
               "planName": null,
@@ -1861,7 +1716,7 @@
               "image": null
             },
             {
-              "id": "colorado-spring-valley-ranch-lot-0174",
+              "id": "colorado-spring-valley-ranch-43113-castle-stuart-st",
               "address": null,
               "cityStateZip": "Elizabeth, CO 80107",
               "planName": null,
@@ -1878,7 +1733,7 @@
               "image": null
             },
             {
-              "id": "colorado-spring-valley-ranch-lot-0161",
+              "id": "colorado-spring-valley-ranch-43212-castle-stuart-st",
               "address": null,
               "cityStateZip": "Elizabeth, CO 80107",
               "planName": null,
@@ -1898,53 +1753,6 @@
           "location": {
             "lat": 39.49412,
             "lng": -104.6048
-          }
-        },
-        {
-          "slug": "lakeside-canyon",
-          "name": "Lakeside Canyon",
-          "stateSlug": "colorado",
-          "areaSlug": "denver",
-          "citySlug": "mead",
-          "cityName": "Mead",
-          "zip": "80504",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 525000,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1771,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 40.18575,
-            "lng": -104.9713
           }
         }
       ]
@@ -2085,7 +1893,7 @@
               "image": null
             },
             {
-              "id": "colorado-granary-lot-0073",
+              "id": "colorado-granary-lot-0073-4",
               "address": null,
               "cityStateZip": "Johnstown, CO 80534",
               "planName": null,
@@ -2102,7 +1910,7 @@
               "image": null
             },
             {
-              "id": "colorado-granary-lot-0070",
+              "id": "colorado-granary-lot-0070-5",
               "address": null,
               "cityStateZip": "Johnstown, CO 80534",
               "planName": null,
@@ -2235,7 +2043,7 @@
               "image": null
             },
             {
-              "id": "colorado-revere-at-johnstown-lot-0043",
+              "id": "colorado-revere-at-johnstown-945-red-star-ln",
               "address": null,
               "cityStateZip": "Johnstown, CO 80534",
               "planName": null,
@@ -2252,7 +2060,7 @@
               "image": null
             },
             {
-              "id": "colorado-revere-at-johnstown-lot-0044",
+              "id": "colorado-revere-at-johnstown-lot-0044-5",
               "address": null,
               "cityStateZip": "Johnstown, CO 80534",
               "planName": null,
@@ -2317,7 +2125,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-westgate-lot-0247",
+              "id": "colorado-westgate-7326-27th-st",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2334,7 +2142,7 @@
               "image": null
             },
             {
-              "id": "colorado-westgate-lot-0243",
+              "id": "colorado-westgate-7342-27th-st",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2351,7 +2159,7 @@
               "image": null
             },
             {
-              "id": "colorado-westgate-lot-0248",
+              "id": "colorado-westgate-7322-27th-st",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2368,7 +2176,7 @@
               "image": null
             },
             {
-              "id": "colorado-westgate-lot-0199",
+              "id": "colorado-westgate-7433-26th-st",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2385,7 +2193,7 @@
               "image": null
             },
             {
-              "id": "colorado-westgate-lot-0244",
+              "id": "colorado-westgate-lot-0244-4",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2402,7 +2210,7 @@
               "image": null
             },
             {
-              "id": "colorado-westgate-lot-0207",
+              "id": "colorado-westgate-lot-0207-5",
               "address": null,
               "cityStateZip": "Greeley, CO 80634",
               "planName": null,
@@ -2467,7 +2275,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-villas-at-vantage-lot-0240",
+              "id": "colorado-villas-at-vantage-1575-higgins-creek-drive",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2484,7 +2292,7 @@
               "image": null
             },
             {
-              "id": "colorado-villas-at-vantage-lot-0243",
+              "id": "colorado-villas-at-vantage-1587-higgins-creek-drive",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2501,7 +2309,7 @@
               "image": null
             },
             {
-              "id": "colorado-villas-at-vantage-lot-0244",
+              "id": "colorado-villas-at-vantage-1591-higgins-creek-drive",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2518,7 +2326,7 @@
               "image": null
             },
             {
-              "id": "colorado-villas-at-vantage-lot-0241",
+              "id": "colorado-villas-at-vantage-lot-0241-3",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2535,7 +2343,7 @@
               "image": null
             },
             {
-              "id": "colorado-villas-at-vantage-lot-0231",
+              "id": "colorado-villas-at-vantage-lot-0231-4",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2552,7 +2360,7 @@
               "image": null
             },
             {
-              "id": "colorado-villas-at-vantage-lot-0242",
+              "id": "colorado-villas-at-vantage-lot-0242-5",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2617,7 +2425,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-vantage-lot-0129",
+              "id": "colorado-vantage-1368-sunrise-hill-dr",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2634,7 +2442,7 @@
               "image": null
             },
             {
-              "id": "colorado-vantage-lot-0125",
+              "id": "colorado-vantage-1404-sunrise-hill-dr",
               "address": null,
               "cityStateZip": "Berthoud, CO 80513",
               "planName": null,
@@ -2699,7 +2507,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-lakeside-canyon-lot-0154",
+              "id": "colorado-lakeside-canyon-13928-garnet-dr",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2716,7 +2524,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0213",
+              "id": "colorado-lakeside-canyon-13915-garnet-dr",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2733,7 +2541,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0157",
+              "id": "colorado-lakeside-canyon-13922-garnet-dr",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2750,7 +2558,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0156",
+              "id": "colorado-lakeside-canyon-13924-garnet-dr",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2767,7 +2575,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0155",
+              "id": "colorado-lakeside-canyon-13926-garnet-dr",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2784,7 +2592,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0174",
+              "id": "colorado-lakeside-canyon-lot-0174-5",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2801,7 +2609,7 @@
               "image": null
             },
             {
-              "id": "colorado-lakeside-canyon-lot-0173",
+              "id": "colorado-lakeside-canyon-lot-0173-6",
               "address": null,
               "cityStateZip": "Mead, CO 80504",
               "planName": null,
@@ -2900,7 +2708,7 @@
               "image": null
             },
             {
-              "id": "colorado-trevenna-lot-0556",
+              "id": "colorado-trevenna-lot-0556-2",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -2917,7 +2725,7 @@
               "image": null
             },
             {
-              "id": "colorado-trevenna-lot-0555",
+              "id": "colorado-trevenna-lot-0555-3",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -2934,7 +2742,7 @@
               "image": null
             },
             {
-              "id": "colorado-trevenna-lot-0554",
+              "id": "colorado-trevenna-lot-0554-4",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -2999,7 +2807,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-fossil-creek-ranch-lot-0070",
+              "id": "colorado-fossil-creek-ranch-5611-gelbray-pl",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3016,7 +2824,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0071",
+              "id": "colorado-fossil-creek-ranch-5625-gelbray-pl",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3033,7 +2841,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0038",
+              "id": "colorado-fossil-creek-ranch-6099-holstein-dr",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3050,7 +2858,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0176",
+              "id": "colorado-fossil-creek-ranch-5539-horro-st",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3067,7 +2875,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0039",
+              "id": "colorado-fossil-creek-ranch-6105-holstein-dr",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3084,7 +2892,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0010",
+              "id": "colorado-fossil-creek-ranch-lot-0010-5",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3101,7 +2909,7 @@
               "image": null
             },
             {
-              "id": "colorado-fossil-creek-ranch-lot-0011",
+              "id": "colorado-fossil-creek-ranch-lot-0011-6",
               "address": null,
               "cityStateZip": "Windsor, CO 80528",
               "planName": null,
@@ -3234,7 +3042,7 @@
               "image": null
             },
             {
-              "id": "colorado-prairie-song-lot-0027",
+              "id": "colorado-prairie-song-854-trumpet-ln",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -3251,7 +3059,7 @@
               "image": null
             },
             {
-              "id": "colorado-prairie-song-lot-0013",
+              "id": "colorado-prairie-song-789-bellow-rd",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -3268,7 +3076,7 @@
               "image": null
             },
             {
-              "id": "colorado-prairie-song-lot-0025",
+              "id": "colorado-prairie-song-lot-0025-6",
               "address": null,
               "cityStateZip": "Windsor, CO 80550",
               "planName": null,
@@ -3333,7 +3141,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-tailholt-lot-0143",
+              "id": "colorado-tailholt-1002-annelles-pool-lane",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3350,7 +3158,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0140",
+              "id": "colorado-tailholt-1008-annelles-pool-lane",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3367,7 +3175,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0139",
+              "id": "colorado-tailholt-1010-annelles-pool-lane",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3384,7 +3192,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0039",
+              "id": "colorado-tailholt-333-fiord-way",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3401,7 +3209,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0040",
+              "id": "colorado-tailholt-335-fiord-way",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3418,7 +3226,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0128",
+              "id": "colorado-tailholt-925-london-way",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3435,7 +3243,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0141",
+              "id": "colorado-tailholt-lot-0141-6",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3452,7 +3260,7 @@
               "image": null
             },
             {
-              "id": "colorado-tailholt-lot-0043",
+              "id": "colorado-tailholt-lot-0043-7",
               "address": null,
               "cityStateZip": "Severance, CO 80550",
               "planName": null,
@@ -3517,7 +3325,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-vista-meadows-lot-0048",
+              "id": "colorado-vista-meadows-2306-crosswind-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3534,7 +3342,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0101",
+              "id": "colorado-vista-meadows-2326-base-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3551,7 +3359,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0052",
+              "id": "colorado-vista-meadows-2330-crosswind-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3568,7 +3376,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0024",
+              "id": "colorado-vista-meadows-2331-crosswind-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3585,7 +3393,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0026",
+              "id": "colorado-vista-meadows-2343-crosswind-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3602,7 +3410,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0069",
+              "id": "colorado-vista-meadows-2345-base-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3619,7 +3427,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0055",
+              "id": "colorado-vista-meadows-2348-crosswind-st",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3636,7 +3444,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0049",
+              "id": "colorado-vista-meadows-lot-0049-7",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3653,7 +3461,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0021",
+              "id": "colorado-vista-meadows-lot-0021-8",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3670,7 +3478,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0053",
+              "id": "colorado-vista-meadows-lot-0053-9",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3687,7 +3495,7 @@
               "image": null
             },
             {
-              "id": "colorado-vista-meadows-lot-0025",
+              "id": "colorado-vista-meadows-lot-0025-10",
               "address": null,
               "cityStateZip": "Fort Lupton, CO 80621",
               "planName": null,
@@ -3752,7 +3560,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-silver-peaks-lot-0197",
+              "id": "colorado-silver-peaks-1028-alpine-st",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3769,7 +3577,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0198",
+              "id": "colorado-silver-peaks-1038-alpine-st",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3786,7 +3594,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0173",
+              "id": "colorado-silver-peaks-1140-peaks-cir",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3803,7 +3611,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0019",
+              "id": "colorado-silver-peaks-1251-pinnacle-ave",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3820,7 +3628,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0007",
+              "id": "colorado-silver-peaks-1368-uphill-st",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3837,7 +3645,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0167",
+              "id": "colorado-silver-peaks-lot-0167-5",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3854,7 +3662,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0168",
+              "id": "colorado-silver-peaks-lot-0168-6",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3871,7 +3679,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0170",
+              "id": "colorado-silver-peaks-lot-0170-7",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3888,7 +3696,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0158",
+              "id": "colorado-silver-peaks-lot-0158-8",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3905,7 +3713,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0022",
+              "id": "colorado-silver-peaks-lot-0022-9",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3922,7 +3730,7 @@
               "image": null
             },
             {
-              "id": "colorado-silver-peaks-lot-0005",
+              "id": "colorado-silver-peaks-lot-0005-10",
               "address": null,
               "cityStateZip": "Lochbuie, CO 80603",
               "planName": null,
@@ -3987,7 +3795,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "colorado-brighton-crossing-lot-0412",
+              "id": "colorado-brighton-crossing-211-carter-lake-road",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,
@@ -4004,7 +3812,7 @@
               "image": null
             },
             {
-              "id": "colorado-brighton-crossing-lot-0413",
+              "id": "colorado-brighton-crossing-4077-emerald-lake-road",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,
@@ -4021,7 +3829,7 @@
               "image": null
             },
             {
-              "id": "colorado-brighton-crossing-lot-0272",
+              "id": "colorado-brighton-crossing-4097-mt-shavano-street",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,
@@ -4038,7 +3846,7 @@
               "image": null
             },
             {
-              "id": "colorado-brighton-crossing-lot-0411",
+              "id": "colorado-brighton-crossing-219-carter-lake-road",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,
@@ -4055,7 +3863,7 @@
               "image": null
             },
             {
-              "id": "colorado-brighton-crossing-lot-0414",
+              "id": "colorado-brighton-crossing-4083-emerald-lake-road",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,
@@ -4072,7 +3880,7 @@
               "image": null
             },
             {
-              "id": "colorado-brighton-crossing-lot-0267",
+              "id": "colorado-brighton-crossing-4096-emerald-lake-road",
               "address": null,
               "cityStateZip": "Brighton, CO 80601",
               "planName": null,

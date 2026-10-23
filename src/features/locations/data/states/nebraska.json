@@ -71,7 +71,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-deer-crest-8002-n-113th-ave",
+              "id": "nebraska-deer-crest-8002-n-113-av",
               "address": "8002 N 113th Ave",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -88,7 +88,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-8015-n-113th-ave",
+              "id": "nebraska-deer-crest-8015-n-113-av",
               "address": "8015 N 113th Ave",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -122,7 +122,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-8011-n-113th-ave",
+              "id": "nebraska-deer-crest-8011-n-113-av",
               "address": "8011 N 113th Ave",
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -139,7 +139,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-lot-8",
+              "id": "nebraska-deer-crest-lot-8-4",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -156,7 +156,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-lot-6",
+              "id": "nebraska-deer-crest-lot-6-5",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -173,7 +173,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-lot-19",
+              "id": "nebraska-deer-crest-lot-19-6",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -190,7 +190,7 @@
               "image": null
             },
             {
-              "id": "nebraska-deer-crest-lot-7",
+              "id": "nebraska-deer-crest-lot-7-7",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -323,7 +323,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-84",
+              "id": "nebraska-westbrook-hills-13638-read-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -340,7 +340,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-79",
+              "id": "nebraska-westbrook-hills-7202-n-137th-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -357,7 +357,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-86",
+              "id": "nebraska-westbrook-hills-13630-read-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -374,7 +374,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-68",
+              "id": "nebraska-westbrook-hills-13629-read-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -391,7 +391,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-69",
+              "id": "nebraska-westbrook-hills-13633-read-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -408,7 +408,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-70",
+              "id": "nebraska-westbrook-hills-13637-read-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -425,7 +425,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-45",
+              "id": "nebraska-westbrook-hills-lot-45-10",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -442,7 +442,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-80",
+              "id": "nebraska-westbrook-hills-lot-80-11",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -459,7 +459,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-72",
+              "id": "nebraska-westbrook-hills-lot-72-12",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -476,7 +476,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-85",
+              "id": "nebraska-westbrook-hills-lot-85-13",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -493,7 +493,7 @@
               "image": null
             },
             {
-              "id": "nebraska-westbrook-hills-lot-144",
+              "id": "nebraska-westbrook-hills-lot-144-14",
               "address": null,
               "cityStateZip": "Omaha, NE 68142",
               "planName": null,
@@ -626,7 +626,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-46",
+              "id": "nebraska-lakewood-west-11615-s-56th-st",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -643,7 +643,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-41",
+              "id": "nebraska-lakewood-west-5610-fenwick-st",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -660,7 +660,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-34",
+              "id": "nebraska-lakewood-west-lot-34-6",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -677,7 +677,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-37",
+              "id": "nebraska-lakewood-west-lot-37-7",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -694,7 +694,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-33",
+              "id": "nebraska-lakewood-west-lot-33-8",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -711,7 +711,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-50",
+              "id": "nebraska-lakewood-west-lot-50-9",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -728,7 +728,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-48",
+              "id": "nebraska-lakewood-west-lot-48-10",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -745,7 +745,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-45",
+              "id": "nebraska-lakewood-west-lot-45-11",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -762,7 +762,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-44",
+              "id": "nebraska-lakewood-west-lot-44-12",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -779,7 +779,7 @@
               "image": null
             },
             {
-              "id": "nebraska-lakewood-west-lot-42",
+              "id": "nebraska-lakewood-west-lot-42-13",
               "address": null,
               "cityStateZip": "Bellevue, NE 68133",
               "planName": null,
@@ -912,7 +912,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-23",
+              "id": "nebraska-oak-leaf-12932-s-67th-st",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -929,7 +929,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-53",
+              "id": "nebraska-oak-leaf-12935-s-67th-st",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -946,7 +946,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-22",
+              "id": "nebraska-oak-leaf-12936-s-67th-st",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -963,7 +963,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-49",
+              "id": "nebraska-oak-leaf-lot-49-7",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -980,7 +980,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-50",
+              "id": "nebraska-oak-leaf-lot-50-8",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -997,7 +997,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-27",
+              "id": "nebraska-oak-leaf-lot-27-9",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -1014,7 +1014,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-139",
+              "id": "nebraska-oak-leaf-lot-139-10",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -1031,7 +1031,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-31",
+              "id": "nebraska-oak-leaf-lot-31-11",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -1048,7 +1048,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-lot-35",
+              "id": "nebraska-oak-leaf-lot-35-12",
               "address": null,
               "cityStateZip": "Papillion, NE 68113",
               "planName": null,
@@ -1181,7 +1181,7 @@
               "image": null
             },
             {
-              "id": "nebraska-schram-108-lot-212",
+              "id": "nebraska-schram-108-10618-bearcreek-dr",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1198,7 +1198,7 @@
               "image": null
             },
             {
-              "id": "nebraska-schram-108-lot-215",
+              "id": "nebraska-schram-108-10606-bearcreek-dr",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1215,7 +1215,7 @@
               "image": null
             },
             {
-              "id": "nebraska-schram-108-lot-214",
+              "id": "nebraska-schram-108-10610-bearcreek-dr",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1232,7 +1232,7 @@
               "image": null
             },
             {
-              "id": "nebraska-schram-108-lot-114",
+              "id": "nebraska-schram-108-lot-114-7",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1365,7 +1365,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-villas-lot-321",
+              "id": "nebraska-oak-leaf-villas-lot-321-4",
               "address": null,
               "cityStateZip": "Papillion, NE 68133",
               "planName": null,
@@ -1382,7 +1382,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-villas-lot-280",
+              "id": "nebraska-oak-leaf-villas-lot-280-5",
               "address": null,
               "cityStateZip": "Papillion, NE 68133",
               "planName": null,
@@ -1399,7 +1399,7 @@
               "image": null
             },
             {
-              "id": "nebraska-oak-leaf-villas-lot-320",
+              "id": "nebraska-oak-leaf-villas-lot-320-6",
               "address": null,
               "cityStateZip": "Papillion, NE 68133",
               "planName": null,
@@ -1532,7 +1532,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-211",
+              "id": "nebraska-belterra-11985-s-114th-ave",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1549,7 +1549,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-212",
+              "id": "nebraska-belterra-11989-s-114th-ave",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1566,7 +1566,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-147",
+              "id": "nebraska-belterra-11461-white-pine-dr",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1583,7 +1583,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-148",
+              "id": "nebraska-belterra-11465-white-pine-dr",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1600,7 +1600,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-207",
+              "id": "nebraska-belterra-lot-207-8",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1617,7 +1617,7 @@
               "image": null
             },
             {
-              "id": "nebraska-belterra-lot-208",
+              "id": "nebraska-belterra-lot-208-9",
               "address": null,
               "cityStateZip": "Papillion, NE 68046",
               "planName": null,
@@ -1682,7 +1682,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-majestic-pointe-twinhomes-7720-n-169th-st",
+              "id": "nebraska-majestic-pointe-twinhomes-7720-n-169-st",
               "address": "7720 N 169th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1699,7 +1699,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-7715-n-169th-st",
+              "id": "nebraska-majestic-pointe-twinhomes-7715-n-169-st",
               "address": "7715 N 169th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1716,7 +1716,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-7717-n-169th-st",
+              "id": "nebraska-majestic-pointe-twinhomes-7717-n-169-st",
               "address": "7717 N 169th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1733,7 +1733,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-7611-n-169th-st",
+              "id": "nebraska-majestic-pointe-twinhomes-7611-n-169-st",
               "address": "7611 N 169th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1750,7 +1750,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-12",
+              "id": "nebraska-majestic-pointe-twinhomes-7711-n-169-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1767,7 +1767,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-13",
+              "id": "nebraska-majestic-pointe-twinhomes-7713-n-169-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1784,7 +1784,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-20",
+              "id": "nebraska-majestic-pointe-twinhomes-lot-20-6",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1801,7 +1801,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-16",
+              "id": "nebraska-majestic-pointe-twinhomes-lot-16-7",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1818,7 +1818,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-57",
+              "id": "nebraska-majestic-pointe-twinhomes-lot-57-8",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1835,7 +1835,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-56",
+              "id": "nebraska-majestic-pointe-twinhomes-lot-56-9",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1852,7 +1852,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-twinhomes-lot-54",
+              "id": "nebraska-majestic-pointe-twinhomes-lot-54-10",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -1985,7 +1985,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-190",
+              "id": "nebraska-the-hill-16505-clay-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2002,7 +2002,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-70",
+              "id": "nebraska-the-hill-16313-davidson-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2019,7 +2019,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-184",
+              "id": "nebraska-the-hill-16518-clay-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2036,7 +2036,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-93",
+              "id": "nebraska-the-hill-16422-davidson-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2053,7 +2053,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-83",
+              "id": "nebraska-the-hill-16425-davidson-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2070,7 +2070,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-92",
+              "id": "nebraska-the-hill-16426-davidson-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2087,7 +2087,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-141",
+              "id": "nebraska-the-hill-lot-141-10",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2104,7 +2104,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-112",
+              "id": "nebraska-the-hill-lot-112-11",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2121,7 +2121,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-188",
+              "id": "nebraska-the-hill-lot-188-12",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2138,7 +2138,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-194",
+              "id": "nebraska-the-hill-lot-194-13",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2155,7 +2155,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-103",
+              "id": "nebraska-the-hill-lot-103-14",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2172,7 +2172,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-69",
+              "id": "nebraska-the-hill-lot-69-15",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2189,7 +2189,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-110",
+              "id": "nebraska-the-hill-lot-110-16",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2206,7 +2206,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-104",
+              "id": "nebraska-the-hill-lot-104-17",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2223,7 +2223,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-lot-102",
+              "id": "nebraska-the-hill-lot-102-18",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2356,7 +2356,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-townhomes-lot-345",
+              "id": "nebraska-the-hill-townhomes-8918-n-166th-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2373,7 +2373,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-townhomes-lot-344",
+              "id": "nebraska-the-hill-townhomes-8920-n-166th-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2390,7 +2390,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-townhomes-lot-343",
+              "id": "nebraska-the-hill-townhomes-8922-n-166th-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2407,7 +2407,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-townhomes-lot-342",
+              "id": "nebraska-the-hill-townhomes-8924-n-166th-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2424,7 +2424,7 @@
               "image": null
             },
             {
-              "id": "nebraska-the-hill-townhomes-lot-386",
+              "id": "nebraska-the-hill-townhomes-lot-386-8",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2489,7 +2489,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-majestic-pointe-7812-n-170th-st",
+              "id": "nebraska-majestic-pointe-7812-n-170-st",
               "address": "7812 N 170th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2506,7 +2506,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-7820-n-170th-st",
+              "id": "nebraska-majestic-pointe-7820-n-170-st",
               "address": "7820 N 170th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2523,7 +2523,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-7816-n-170th-st",
+              "id": "nebraska-majestic-pointe-7816-n-170-st",
               "address": "7816 N 170th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2557,7 +2557,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-lot-96",
+              "id": "nebraska-majestic-pointe-7808-n-170-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2574,7 +2574,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-lot-100",
+              "id": "nebraska-majestic-pointe-lot-100-5",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2591,7 +2591,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-lot-132",
+              "id": "nebraska-majestic-pointe-lot-132-6",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2608,7 +2608,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-lot-128",
+              "id": "nebraska-majestic-pointe-lot-128-7",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2625,7 +2625,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-pointe-lot-136",
+              "id": "nebraska-majestic-pointe-lot-136-8",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -2690,7 +2690,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-woodbrook-valley-6520-n-187th-st",
+              "id": "nebraska-woodbrook-valley-6520-n-187-st",
               "address": "6520 N 187th St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2707,7 +2707,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-6516-n-187th-st",
+              "id": "nebraska-woodbrook-valley-6516-n-187-st",
               "address": "6516 N 187th St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2724,7 +2724,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-18605-martin-ave",
+              "id": "nebraska-woodbrook-valley-18605-martin-av",
               "address": "18605 Martin Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2741,7 +2741,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-18609-martin-ave",
+              "id": "nebraska-woodbrook-valley-18609-martin-av",
               "address": "18609 Martin Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2758,7 +2758,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-lot-39",
+              "id": "nebraska-woodbrook-valley-6515-n-187-st",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2775,7 +2775,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-lot-40",
+              "id": "nebraska-woodbrook-valley-6519-n-187-st",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2792,7 +2792,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-lot-24R1",
+              "id": "nebraska-woodbrook-valley-6528-n-187-st",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2809,7 +2809,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-valley-lot-23R1",
+              "id": "nebraska-woodbrook-valley-6532-n-187-st",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2874,7 +2874,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-woodbrook-west-5531-n-180th-ave",
+              "id": "nebraska-woodbrook-west-5531-n-180-av",
               "address": "5531 N 180th Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2891,7 +2891,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-west-6062-n-185th-st",
+              "id": "nebraska-woodbrook-west-6062-n-185-st",
               "address": "6062 N 185th St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2908,7 +2908,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-west-6066-n-185th-st",
+              "id": "nebraska-woodbrook-west-6066-n-185-st",
               "address": "6066 N 185th St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2925,7 +2925,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-west-lot-121",
+              "id": "nebraska-woodbrook-west-lot-121-3",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -2942,7 +2942,7 @@
               "image": null
             },
             {
-              "id": "nebraska-woodbrook-west-lot-251",
+              "id": "nebraska-woodbrook-west-lot-251-4",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3007,7 +3007,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-stratford-west-9618-n-173rd-ave",
+              "id": "nebraska-stratford-west-9618-n-173-av",
               "address": "9618 N 173rd Ave",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3024,7 +3024,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-9610-n-173rd-ave",
+              "id": "nebraska-stratford-west-9610-n-173-av",
               "address": "9610 N 173rd Ave",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3041,7 +3041,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-9611-n-173rd-ave",
+              "id": "nebraska-stratford-west-9611-n-173-av",
               "address": "9611 N 173rd Ave",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3058,7 +3058,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-9614-n-173rd-ave",
+              "id": "nebraska-stratford-west-9614-n-173-av",
               "address": "9614 N 173rd Ave",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3075,7 +3075,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-lot-123",
+              "id": "nebraska-stratford-west-9615-n-173-av",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3092,7 +3092,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-lot-124",
+              "id": "nebraska-stratford-west-9619-n-173-av",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3109,7 +3109,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-lot-14",
+              "id": "nebraska-stratford-west-9622-n-173-av",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3126,7 +3126,7 @@
               "image": null
             },
             {
-              "id": "nebraska-stratford-west-lot-125",
+              "id": "nebraska-stratford-west-9623-n-173-av",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3191,7 +3191,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-majestic-178-8215-n-175th-st",
+              "id": "nebraska-majestic-178-8215-n-175-st",
               "address": "8215 N 175th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3208,7 +3208,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-178-8210-n-175th-st",
+              "id": "nebraska-majestic-178-8210-n-175-st",
               "address": "8210 N 175th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3225,7 +3225,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-178-8211-n-175th-st",
+              "id": "nebraska-majestic-178-8211-n-175-st",
               "address": "8211 N 175th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3242,7 +3242,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-178-8207-n-175th-st",
+              "id": "nebraska-majestic-178-8207-n-175-st",
               "address": "8207 N 175th St",
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3259,7 +3259,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-178-lot-52",
+              "id": "nebraska-majestic-178-8214-n-175-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3276,7 +3276,7 @@
               "image": null
             },
             {
-              "id": "nebraska-majestic-178-lot-54",
+              "id": "nebraska-majestic-178-8206-n-175-st",
               "address": null,
               "cityStateZip": "Bennington, NE 68007",
               "planName": null,
@@ -3341,7 +3341,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "nebraska-enclave-flats-5510-n-189th-st",
+              "id": "nebraska-enclave-flats-5510-n-189-st",
               "address": "5510 N 189th St",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3358,7 +3358,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-5538-n-186th-ave",
+              "id": "nebraska-enclave-flats-5538-n-186-ave",
               "address": "5538 N 186th Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3375,7 +3375,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-5561-n-186th-ave",
+              "id": "nebraska-enclave-flats-5561-n-186-ave",
               "address": "5561 N 186th Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3392,7 +3392,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-5533-n-186th-ave",
+              "id": "nebraska-enclave-flats-5533-n-186-ave",
               "address": "5533 N 186th Ave",
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3409,7 +3409,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-72",
+              "id": "nebraska-enclave-flats-5534-n-186-ave",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3426,7 +3426,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-71",
+              "id": "nebraska-enclave-flats-5530-n-186-ave",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3443,7 +3443,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-43",
+              "id": "nebraska-enclave-flats-5529-n-186-ave",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3460,7 +3460,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-45",
+              "id": "nebraska-enclave-flats-5521-n-186-ave",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3477,7 +3477,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-44",
+              "id": "nebraska-enclave-flats-5525-n-186-ave",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3494,7 +3494,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-6",
+              "id": "nebraska-enclave-flats-lot-6-9",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3511,7 +3511,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-74",
+              "id": "nebraska-enclave-flats-lot-74-10",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3528,7 +3528,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-38",
+              "id": "nebraska-enclave-flats-lot-38-11",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3545,7 +3545,7 @@
               "image": null
             },
             {
-              "id": "nebraska-enclave-flats-lot-41",
+              "id": "nebraska-enclave-flats-lot-41-12",
               "address": null,
               "cityStateZip": "Elkhorn, NE 68022",
               "planName": null,
@@ -3678,7 +3678,7 @@
               "image": null
             },
             {
-              "id": "nebraska-mirabel-lot-15",
+              "id": "nebraska-mirabel-17614-virginia-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3695,7 +3695,7 @@
               "image": null
             },
             {
-              "id": "nebraska-mirabel-lot-10",
+              "id": "nebraska-mirabel-17530-virginia-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3712,7 +3712,7 @@
               "image": null
             },
             {
-              "id": "nebraska-mirabel-lot-12",
+              "id": "nebraska-mirabel-17602-virginia-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3845,7 +3845,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-180",
+              "id": "nebraska-windsor-west-8816-s-184th-ter",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3862,7 +3862,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-118",
+              "id": "nebraska-windsor-west-18471-greenfield-st",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3879,7 +3879,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-116",
+              "id": "nebraska-windsor-west-lot-116-6",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3896,7 +3896,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-160",
+              "id": "nebraska-windsor-west-lot-160-7",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3913,7 +3913,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-162",
+              "id": "nebraska-windsor-west-lot-162-8",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3930,7 +3930,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-63",
+              "id": "nebraska-windsor-west-lot-63-9",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3947,7 +3947,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-163",
+              "id": "nebraska-windsor-west-lot-163-10",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3964,7 +3964,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-71",
+              "id": "nebraska-windsor-west-lot-71-11",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3981,7 +3981,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-67",
+              "id": "nebraska-windsor-west-lot-67-12",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -3998,7 +3998,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-181",
+              "id": "nebraska-windsor-west-lot-181-13",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -4015,7 +4015,7 @@
               "image": null
             },
             {
-              "id": "nebraska-windsor-west-lot-185",
+              "id": "nebraska-windsor-west-lot-185-14",
               "address": null,
               "cityStateZip": "Omaha, NE 68136",
               "planName": null,
@@ -4148,7 +4148,7 @@
               "image": null
             },
             {
-              "id": "nebraska-remington-west-lot-33",
+              "id": "nebraska-remington-west-8115-s-200th-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4165,7 +4165,7 @@
               "image": null
             },
             {
-              "id": "nebraska-remington-west-lot-34",
+              "id": "nebraska-remington-west-8119-s-200th-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4298,7 +4298,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-1",
+              "id": "nebraska-sunset-meadows-townhomes-20603-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4315,7 +4315,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-2",
+              "id": "nebraska-sunset-meadows-townhomes-20605-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4332,7 +4332,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-3",
+              "id": "nebraska-sunset-meadows-townhomes-20607-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4349,7 +4349,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-4",
+              "id": "nebraska-sunset-meadows-townhomes-20609-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4366,7 +4366,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-5",
+              "id": "nebraska-sunset-meadows-townhomes-20611-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4383,7 +4383,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-6",
+              "id": "nebraska-sunset-meadows-townhomes-20613-lillian-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4400,7 +4400,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-1",
+              "id": "nebraska-sunset-meadows-townhomes-lot-1-10",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4417,7 +4417,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-2",
+              "id": "nebraska-sunset-meadows-townhomes-lot-2-11",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4434,7 +4434,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-townhomes-lot-3",
+              "id": "nebraska-sunset-meadows-townhomes-lot-3-12",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4567,7 +4567,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-lot-94",
+              "id": "nebraska-sunset-meadows-7204-s-204th-ave",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4584,7 +4584,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-lot-16",
+              "id": "nebraska-sunset-meadows-lot-16-5",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4601,7 +4601,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-lot-91",
+              "id": "nebraska-sunset-meadows-lot-91-6",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4618,7 +4618,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-lot-11",
+              "id": "nebraska-sunset-meadows-lot-11-7",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4635,7 +4635,7 @@
               "image": null
             },
             {
-              "id": "nebraska-sunset-meadows-lot-10",
+              "id": "nebraska-sunset-meadows-lot-10-8",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4768,7 +4768,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-187",
+              "id": "nebraska-parkview-traditions-12274-s-206th-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4785,7 +4785,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-229",
+              "id": "nebraska-parkview-traditions-12412-s-205th-ave",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4802,7 +4802,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-197",
+              "id": "nebraska-parkview-traditions-20554-westridge-dr",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4819,7 +4819,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-196",
+              "id": "nebraska-parkview-traditions-20558-westridge-dr",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4836,7 +4836,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-174",
+              "id": "nebraska-parkview-traditions-20602-crestline-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4853,7 +4853,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-171",
+              "id": "nebraska-parkview-traditions-20614-crestline-st",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4870,7 +4870,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-186",
+              "id": "nebraska-parkview-traditions-lot-186-10",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4887,7 +4887,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-226",
+              "id": "nebraska-parkview-traditions-lot-226-11",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -4904,7 +4904,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-traditions-lot-190",
+              "id": "nebraska-parkview-traditions-lot-190-12",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5003,7 +5003,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-12655-s-206th-st",
+              "id": "nebraska-parkview-0038-tbd",
               "address": "12655 S 206Th St",
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5020,7 +5020,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-75",
+              "id": "nebraska-parkview-lot-75-3",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5037,7 +5037,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-59",
+              "id": "nebraska-parkview-lot-59-4",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5054,7 +5054,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-56",
+              "id": "nebraska-parkview-lot-56-5",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5071,7 +5071,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-55",
+              "id": "nebraska-parkview-lot-55-6",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5088,7 +5088,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-61",
+              "id": "nebraska-parkview-lot-61-7",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,
@@ -5105,7 +5105,7 @@
               "image": null
             },
             {
-              "id": "nebraska-parkview-lot-9",
+              "id": "nebraska-parkview-lot-9-8",
               "address": null,
               "cityStateZip": "Gretna, NE 68028",
               "planName": null,

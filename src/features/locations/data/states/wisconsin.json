@@ -134,7 +134,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0021",
+              "id": "wisconsin-kettle-park-west-500-oak-opening-dr",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -151,7 +151,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0007",
+              "id": "wisconsin-kettle-park-west-533-boulder-ln",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -168,7 +168,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0008",
+              "id": "wisconsin-kettle-park-west-601-boulder-ln",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -185,7 +185,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0019",
+              "id": "wisconsin-kettle-park-west-lot-0019-7",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -202,7 +202,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0010",
+              "id": "wisconsin-kettle-park-west-lot-0010-8",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -219,7 +219,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-kettle-park-west-lot-0064",
+              "id": "wisconsin-kettle-park-west-lot-0064-9",
               "address": null,
               "cityStateZip": "Stoughton, WI 53589",
               "planName": null,
@@ -305,7 +305,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "wisconsin-schaefer-farms-twinhomes-814-heartland-drive-unit-a",
+              "id": "wisconsin-schaefer-farms-twinhomes-814a-heartland-drive",
               "address": "814 Heartland Drive Unit A",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -322,7 +322,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-twinhomes-787-concord-circle-unit-a",
+              "id": "wisconsin-schaefer-farms-twinhomes-787a-concord-circle",
               "address": "787 Concord Circle Unit A",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -339,7 +339,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-twinhomes-787-concord-circle-unit-b",
+              "id": "wisconsin-schaefer-farms-twinhomes-787b-concord-circle",
               "address": "787 Concord Circle Unit B",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -356,7 +356,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-twinhomes-795-concord-circle-unit-a",
+              "id": "wisconsin-schaefer-farms-twinhomes-795a-concord-circle",
               "address": "795 Concord Circle Unit A",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -373,7 +373,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-twinhomes-lot-2051",
+              "id": "wisconsin-schaefer-farms-twinhomes-795b-concord-circle",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -438,7 +438,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-786-concord-circle-unit-a",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-786a-concord-circle",
               "address": "786 Concord Circle Unit A",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -455,7 +455,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-786-concord-circle-unit-b",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-786b-concord-circle",
               "address": "786 Concord Circle Unit B",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -472,7 +472,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-778-concord-circle-unit-a",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-778a-concord-circle",
               "address": "778 Concord Circle Unit A",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -489,7 +489,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-778-concord-circle-unit-b",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-778b-concord-circle",
               "address": "778 Concord Circle Unit B",
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -506,7 +506,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-lot-1011",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-770a-concord-circle",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -523,7 +523,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-lot-1012",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-770b-concord-circle",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -540,7 +540,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-lot-1009",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-762a-concord-circle",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -557,7 +557,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-lot-1010",
+              "id": "wisconsin-schaefer-farms-freedom-ranch-duplexes-762b-concord-circle",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -690,7 +690,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-lot-0034",
+              "id": "wisconsin-schaefer-farms-lot-0034-4",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -707,7 +707,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-lot-0062",
+              "id": "wisconsin-schaefer-farms-lot-0062-5",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -724,7 +724,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-lot-0061",
+              "id": "wisconsin-schaefer-farms-lot-0061-6",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -741,7 +741,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-lot-0035",
+              "id": "wisconsin-schaefer-farms-lot-0035-7",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -758,7 +758,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-schaefer-farms-lot-0027",
+              "id": "wisconsin-schaefer-farms-lot-0027-8",
               "address": null,
               "cityStateZip": "Burlington, WI 53105",
               "planName": null,
@@ -857,7 +857,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-christina-east-lot-0008",
+              "id": "wisconsin-christina-east-lot-0008-2",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53406",
               "planName": null,
@@ -1037,7 +1037,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-twinhomes-lot-0184",
+              "id": "wisconsin-pike-river-crossing-twinhomes-5038-yates-drive",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1054,7 +1054,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-twinhomes-lot-0186",
+              "id": "wisconsin-pike-river-crossing-twinhomes-lot-0186-5",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1187,7 +1187,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0056",
+              "id": "wisconsin-pike-river-crossing-7143-oakmont-road",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1204,7 +1204,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0055",
+              "id": "wisconsin-pike-river-crossing-7151-oakmont-road",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1221,7 +1221,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0058",
+              "id": "wisconsin-pike-river-crossing-lot-0058-6",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1238,7 +1238,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0059",
+              "id": "wisconsin-pike-river-crossing-lot-0059-7",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1255,7 +1255,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0042",
+              "id": "wisconsin-pike-river-crossing-lot-0042-8",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1272,7 +1272,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0044",
+              "id": "wisconsin-pike-river-crossing-lot-0044-9",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1289,7 +1289,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0046",
+              "id": "wisconsin-pike-river-crossing-lot-0046-10",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,
@@ -1306,7 +1306,7 @@
               "image": null
             },
             {
-              "id": "wisconsin-pike-river-crossing-lot-0057",
+              "id": "wisconsin-pike-river-crossing-lot-0057-11",
               "address": null,
               "cityStateZip": "Mt. Pleasant, WI 53403",
               "planName": null,

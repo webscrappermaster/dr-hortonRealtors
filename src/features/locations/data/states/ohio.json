@@ -22,15 +22,10 @@
       "cities": [
         "colerain-township",
         "goshen-township",
-        "hebron",
         "amelia",
         "franklin",
         "new-richmond",
-        "oxford",
-        "washington-township",
-        "mount-orab",
-        "wilmington",
-        "xenia"
+        "mount-orab"
       ],
       "communities": [
         {
@@ -127,7 +122,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-taylor-glen-lot-0090",
+              "id": "ohio-villas-at-taylor-glen-lot-0090-3",
               "address": null,
               "cityStateZip": "Colerain Township, OH 45251",
               "planName": null,
@@ -144,7 +139,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-taylor-glen-lot-0089",
+              "id": "ohio-villas-at-taylor-glen-lot-0089-4",
               "address": null,
               "cityStateZip": "Colerain Township, OH 45251",
               "planName": null,
@@ -161,7 +156,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-taylor-glen-lot-0073",
+              "id": "ohio-villas-at-taylor-glen-lot-0073-5",
               "address": null,
               "cityStateZip": "Colerain Township, OH 45251",
               "planName": null,
@@ -178,7 +173,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-taylor-glen-lot-0072",
+              "id": "ohio-villas-at-taylor-glen-lot-0072-6",
               "address": null,
               "cityStateZip": "Colerain Township, OH 45251",
               "planName": null,
@@ -311,7 +306,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0164",
+              "id": "ohio-lakefield-place-6215-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -328,7 +323,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0158",
+              "id": "ohio-lakefield-place-6227-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -345,7 +340,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0157",
+              "id": "ohio-lakefield-place-6229-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -362,7 +357,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0155",
+              "id": "ohio-lakefield-place-6233-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -379,7 +374,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0154",
+              "id": "ohio-lakefield-place-6235-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -396,7 +391,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0135",
+              "id": "ohio-lakefield-place-6210-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -413,7 +408,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0136",
+              "id": "ohio-lakefield-place-6212-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -430,7 +425,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0137",
+              "id": "ohio-lakefield-place-6214-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -447,7 +442,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0156",
+              "id": "ohio-lakefield-place-6231-willow-cove",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -464,7 +459,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0160",
+              "id": "ohio-lakefield-place-lot-0160-13",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -481,7 +476,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0187",
+              "id": "ohio-lakefield-place-lot-0187-14",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -498,7 +493,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0189",
+              "id": "ohio-lakefield-place-lot-0189-15",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -515,7 +510,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0190",
+              "id": "ohio-lakefield-place-lot-0190-16",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -532,7 +527,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0161",
+              "id": "ohio-lakefield-place-lot-0161-17",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -549,7 +544,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0159",
+              "id": "ohio-lakefield-place-lot-0159-18",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -566,7 +561,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-lot-0140",
+              "id": "ohio-lakefield-place-lot-0140-19",
               "address": null,
               "cityStateZip": "Goshen Township, OH 45122",
               "planName": null,
@@ -699,7 +694,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-townhomes-lot-0224",
+              "id": "ohio-lakefield-place-townhomes-lot-0224-4",
               "address": null,
               "cityStateZip": "Goshen, OH 45122",
               "planName": null,
@@ -716,7 +711,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-townhomes-lot-0236",
+              "id": "ohio-lakefield-place-townhomes-lot-0236-5",
               "address": null,
               "cityStateZip": "Goshen, OH 45122",
               "planName": null,
@@ -733,7 +728,7 @@
               "image": null
             },
             {
-              "id": "ohio-lakefield-place-townhomes-lot-0233",
+              "id": "ohio-lakefield-place-townhomes-lot-0233-6",
               "address": null,
               "cityStateZip": "Goshen, OH 45122",
               "planName": null,
@@ -753,53 +748,6 @@
           "location": {
             "lat": 39.1844,
             "lng": -84.17499
-          }
-        },
-        {
-          "slug": "ridgefield",
-          "name": "Ridgefield",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "hebron",
-          "cityName": "Hebron",
-          "zip": "41048",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 344900,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2053,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.0692,
-            "lng": -84.69882
           }
         },
         {
@@ -913,7 +861,7 @@
               "image": null
             },
             {
-              "id": "ohio-willow-grove-lot-0048",
+              "id": "ohio-willow-grove-4040-willow-grove-dr",
               "address": null,
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
@@ -930,7 +878,7 @@
               "image": null
             },
             {
-              "id": "ohio-willow-grove-lot-0046",
+              "id": "ohio-willow-grove-4044-willow-grove-dr",
               "address": null,
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
@@ -947,7 +895,7 @@
               "image": null
             },
             {
-              "id": "ohio-willow-grove-lot-0045",
+              "id": "ohio-willow-grove-4046-willow-grove-dr",
               "address": null,
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
@@ -964,7 +912,7 @@
               "image": null
             },
             {
-              "id": "ohio-willow-grove-lot-0044",
+              "id": "ohio-willow-grove-4048-willow-grove-dr",
               "address": null,
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
@@ -981,7 +929,7 @@
               "image": null
             },
             {
-              "id": "ohio-willow-grove-lot-0043",
+              "id": "ohio-willow-grove-4050-willow-grove-dr",
               "address": null,
               "cityStateZip": "Amelia, OH 45102",
               "planName": null,
@@ -1209,7 +1157,7 @@
               "image": null
             },
             {
-              "id": "ohio-ashburn-woods-lot-0044",
+              "id": "ohio-ashburn-woods-lot-0044-3",
               "address": null,
               "cityStateZip": "New Richmond, OH 45157",
               "planName": null,
@@ -1226,7 +1174,7 @@
               "image": null
             },
             {
-              "id": "ohio-ashburn-woods-lot-0047",
+              "id": "ohio-ashburn-woods-lot-0047-4",
               "address": null,
               "cityStateZip": "New Richmond, OH 45157",
               "planName": null,
@@ -1243,7 +1191,7 @@
               "image": null
             },
             {
-              "id": "ohio-ashburn-woods-lot-0043",
+              "id": "ohio-ashburn-woods-lot-0043-5",
               "address": null,
               "cityStateZip": "New Richmond, OH 45157",
               "planName": null,
@@ -1260,7 +1208,7 @@
               "image": null
             },
             {
-              "id": "ohio-ashburn-woods-lot-0045",
+              "id": "ohio-ashburn-woods-lot-0045-6",
               "address": null,
               "cityStateZip": "New Richmond, OH 45157",
               "planName": null,
@@ -1277,7 +1225,7 @@
               "image": null
             },
             {
-              "id": "ohio-ashburn-woods-lot-0063",
+              "id": "ohio-ashburn-woods-lot-0063-7",
               "address": null,
               "cityStateZip": "New Richmond, OH 45157",
               "planName": null,
@@ -1297,100 +1245,6 @@
           "location": {
             "lat": 38.95487,
             "lng": -84.25854
-          }
-        },
-        {
-          "slug": "owls-landing",
-          "name": "Owls' Landing",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "oxford",
-          "cityName": "Oxford",
-          "zip": "45056",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 322900,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.49981,
-            "lng": -84.77448
-          }
-        },
-        {
-          "slug": "washington-trace",
-          "name": "Washington Trace",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "washington-township",
-          "cityName": "Washington Township",
-          "zip": "45458",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 529900,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 3,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1961,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.58706,
-            "lng": -84.17545
           }
         },
         {
@@ -1504,7 +1358,7 @@
               "image": null
             },
             {
-              "id": "ohio-glover-meadows-lot-0071",
+              "id": "ohio-glover-meadows-314-glover-meadows-way",
               "address": null,
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
@@ -1521,7 +1375,7 @@
               "image": null
             },
             {
-              "id": "ohio-glover-meadows-lot-0109",
+              "id": "ohio-glover-meadows-lot-0109-5",
               "address": null,
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
@@ -1538,7 +1392,7 @@
               "image": null
             },
             {
-              "id": "ohio-glover-meadows-lot-0097",
+              "id": "ohio-glover-meadows-lot-0097-6",
               "address": null,
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
@@ -1555,7 +1409,7 @@
               "image": null
             },
             {
-              "id": "ohio-glover-meadows-lot-0098",
+              "id": "ohio-glover-meadows-lot-0098-7",
               "address": null,
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
@@ -1572,7 +1426,7 @@
               "image": null
             },
             {
-              "id": "ohio-glover-meadows-lot-0073",
+              "id": "ohio-glover-meadows-lot-0073-8",
               "address": null,
               "cityStateZip": "Mount Orab, OH 45154",
               "planName": null,
@@ -1592,147 +1446,6 @@
           "location": {
             "lat": 39.02422,
             "lng": -83.90533
-          }
-        },
-        {
-          "slug": "creekview",
-          "name": "Creekview",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "wilmington",
-          "cityName": "Wilmington",
-          "zip": "45177",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 246900,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1183,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.45967,
-            "lng": -83.82384
-          }
-        },
-        {
-          "slug": "edenbridge",
-          "name": "Edenbridge",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "xenia",
-          "cityName": "Xenia",
-          "zip": "45385",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 325900,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.65519,
-            "lng": -83.98233
-          }
-        },
-        {
-          "slug": "grandstone-trace",
-          "name": "Grandstone Trace",
-          "stateSlug": "ohio",
-          "areaSlug": "cincinnati",
-          "citySlug": "xenia",
-          "cityName": "Xenia",
-          "zip": "45385",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 336900,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.70528,
-            "lng": -83.94737
           }
         }
       ]
@@ -1945,7 +1658,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-3",
+              "id": "ohio-villas-at-renner-park-1457-doubleday-drive",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -1962,7 +1675,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-95",
+              "id": "ohio-villas-at-renner-park-6262-marinelli-drive-north",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -1979,7 +1692,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-94",
+              "id": "ohio-villas-at-renner-park-6264-marinelli-drive-north",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -1996,7 +1709,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-93",
+              "id": "ohio-villas-at-renner-park-6266-marinelli-drive-north",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2013,7 +1726,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-91",
+              "id": "ohio-villas-at-renner-park-6270-marinelli-drive-north",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2030,7 +1743,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-125",
+              "id": "ohio-villas-at-renner-park-6269-marinelli-drive-north",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2047,7 +1760,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-109",
+              "id": "ohio-villas-at-renner-park-lot-109-10",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2064,7 +1777,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-101",
+              "id": "ohio-villas-at-renner-park-lot-101-11",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2081,7 +1794,7 @@
               "image": null
             },
             {
-              "id": "ohio-villas-at-renner-park-lot-86",
+              "id": "ohio-villas-at-renner-park-lot-86-12",
               "address": null,
               "cityStateZip": "Columbus, OH 43228",
               "planName": null,
@@ -2197,7 +1910,7 @@
               "image": null
             },
             {
-              "id": "ohio-galloway-east-lot-277",
+              "id": "ohio-galloway-east-lot-277-3",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2214,7 +1927,7 @@
               "image": null
             },
             {
-              "id": "ohio-galloway-east-lot-275",
+              "id": "ohio-galloway-east-lot-275-4",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2231,7 +1944,7 @@
               "image": null
             },
             {
-              "id": "ohio-galloway-east-lot-15",
+              "id": "ohio-galloway-east-lot-15-5",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2248,7 +1961,7 @@
               "image": null
             },
             {
-              "id": "ohio-galloway-east-lot-268",
+              "id": "ohio-galloway-east-lot-268-6",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2381,7 +2094,7 @@
               "image": null
             },
             {
-              "id": "ohio-villages-at-galloway-lot-117",
+              "id": "ohio-villages-at-galloway-6430-silver-canoe-way",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2398,7 +2111,7 @@
               "image": null
             },
             {
-              "id": "ohio-villages-at-galloway-lot-115",
+              "id": "ohio-villages-at-galloway-6434-silver-canoe-way",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2415,7 +2128,7 @@
               "image": null
             },
             {
-              "id": "ohio-villages-at-galloway-lot-114",
+              "id": "ohio-villages-at-galloway-lot-114-6",
               "address": null,
               "cityStateZip": "Galloway, OH 43119",
               "planName": null,
@@ -2548,7 +2261,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-140",
+              "id": "ohio-lansdowne-farms-5922-scarlet-birch-drive",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2565,7 +2278,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-145",
+              "id": "ohio-lansdowne-farms-5945-scarlet-birch-drive",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2582,7 +2295,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-144",
+              "id": "ohio-lansdowne-farms-5951-scarlet-birch-drive",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2599,7 +2312,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-164",
+              "id": "ohio-lansdowne-farms-lot-164-7",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2616,7 +2329,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-167",
+              "id": "ohio-lansdowne-farms-lot-167-8",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2633,7 +2346,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-162",
+              "id": "ohio-lansdowne-farms-lot-162-9",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2650,7 +2363,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-169",
+              "id": "ohio-lansdowne-farms-lot-169-10",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2667,7 +2380,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-161",
+              "id": "ohio-lansdowne-farms-lot-161-11",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2684,7 +2397,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-159",
+              "id": "ohio-lansdowne-farms-lot-159-12",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2701,7 +2414,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-158",
+              "id": "ohio-lansdowne-farms-lot-158-13",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2718,7 +2431,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-182",
+              "id": "ohio-lansdowne-farms-lot-182-14",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2735,7 +2448,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-156",
+              "id": "ohio-lansdowne-farms-lot-156-15",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2752,7 +2465,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-152",
+              "id": "ohio-lansdowne-farms-lot-152-16",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2769,7 +2482,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-149",
+              "id": "ohio-lansdowne-farms-lot-149-17",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2786,7 +2499,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-148",
+              "id": "ohio-lansdowne-farms-lot-148-18",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2803,7 +2516,7 @@
               "image": null
             },
             {
-              "id": "ohio-lansdowne-farms-lot-146",
+              "id": "ohio-lansdowne-farms-lot-146-19",
               "address": null,
               "cityStateZip": "Canal Winchester, OH 43110",
               "planName": null,
@@ -2823,394 +2536,6 @@
           "location": {
             "lat": 39.90103,
             "lng": -82.83831
-          }
-        },
-        {
-          "slug": "lansdowne-farms",
-          "name": "Lansdowne Farms",
-          "stateSlug": "ohio",
-          "areaSlug": "columbus",
-          "citySlug": "columbus",
-          "cityName": "Canal Winchester",
-          "zip": "43110",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 395990,
-          "availableHomesCount": 7,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": [
-            {
-              "id": "ohio-lansdowne-farms-4219-water-aven-drive",
-              "address": "4219 Water Aven Drive",
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 404242,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "163",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-4207-water-aven-drive",
-              "address": "4207 Water Aven Drive",
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 423585,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "165",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-4303-black-ash-drive",
-              "address": "4303 Black Ash Drive",
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 412339,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "181",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-5887-scarlet-birch-drive",
-              "address": "5887 Scarlet Birch Drive",
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 396817,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "154",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-140",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 420930,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "140",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-145",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 409380,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "145",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-144",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": 415033,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "144",
-              "status": "available",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-164",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "164",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-167",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "167",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-162",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "162",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-169",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "169",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-161",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "161",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-159",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "159",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-158",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "158",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-182",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "182",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-156",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 3,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1657,
-              "lot": "156",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-152",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "152",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-149",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 5,
-              "baths": 3,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 2415,
-              "lot": "149",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-148",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1732,
-              "lot": "148",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            },
-            {
-              "id": "ohio-lansdowne-farms-lot-146",
-              "address": null,
-              "cityStateZip": "Canal Winchester, OH 43110",
-              "planName": null,
-              "price": null,
-              "wasPrice": null,
-              "beds": 4,
-              "baths": 2.5,
-              "garages": 2,
-              "stories": 2,
-              "sqft": 1953,
-              "lot": "146",
-              "status": "under-contract",
-              "isRte": false,
-              "image": null
-            }
-          ],
-          "location": {
-            "lat": 39.89249,
-            "lng": -82.83537
           }
         },
         {
@@ -3273,7 +2598,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-352",
+              "id": "ohio-madison-meadows-patios-lot-352-1",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3290,7 +2615,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-355",
+              "id": "ohio-madison-meadows-patios-lot-355-2",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3307,7 +2632,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-357",
+              "id": "ohio-madison-meadows-patios-lot-357-3",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3324,7 +2649,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-372",
+              "id": "ohio-madison-meadows-patios-lot-372-4",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3341,7 +2666,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-373",
+              "id": "ohio-madison-meadows-patios-lot-373-5",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3358,7 +2683,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-359",
+              "id": "ohio-madison-meadows-patios-lot-359-6",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3375,7 +2700,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-patios-lot-376",
+              "id": "ohio-madison-meadows-patios-lot-376-7",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3508,7 +2833,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-221",
+              "id": "ohio-madison-meadows-ii-458-samantha-drive",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3525,7 +2850,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-219",
+              "id": "ohio-madison-meadows-ii-463-samantha-drive",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3542,7 +2867,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-235",
+              "id": "ohio-madison-meadows-ii-671-carla-road",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3559,7 +2884,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-220",
+              "id": "ohio-madison-meadows-ii-462-samantha-drive",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3576,7 +2901,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-222",
+              "id": "ohio-madison-meadows-ii-lot-222-8",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3593,7 +2918,7 @@
               "image": null
             },
             {
-              "id": "ohio-madison-meadows-ii-lot-177",
+              "id": "ohio-madison-meadows-ii-lot-177-9",
               "address": null,
               "cityStateZip": "Plain City, OH 43064",
               "planName": null,
@@ -3726,7 +3051,7 @@
               "image": null
             },
             {
-              "id": "ohio-towns-at-kintner-crossing-lot-2842",
+              "id": "ohio-towns-at-kintner-crossing-1133-parkhurst-drive",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3743,7 +3068,7 @@
               "image": null
             },
             {
-              "id": "ohio-towns-at-kintner-crossing-lot-2804",
+              "id": "ohio-towns-at-kintner-crossing-1134-parkhurst-drive",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3760,7 +3085,7 @@
               "image": null
             },
             {
-              "id": "ohio-towns-at-kintner-crossing-lot-2843",
+              "id": "ohio-towns-at-kintner-crossing-1135-parkhurst-drive",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3777,7 +3102,7 @@
               "image": null
             },
             {
-              "id": "ohio-towns-at-kintner-crossing-lot-2844",
+              "id": "ohio-towns-at-kintner-crossing-1137-parkhurst-drive",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3794,7 +3119,7 @@
               "image": null
             },
             {
-              "id": "ohio-towns-at-kintner-crossing-lot-2845",
+              "id": "ohio-towns-at-kintner-crossing-1139-parkhurst-drive",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3927,7 +3252,7 @@
               "image": null
             },
             {
-              "id": "ohio-kintner-crossing-lot-2718",
+              "id": "ohio-kintner-crossing-830-south-kintner-parkway",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -3944,7 +3269,7 @@
               "image": null
             },
             {
-              "id": "ohio-kintner-crossing-lot-2746",
+              "id": "ohio-kintner-crossing-lot-2746-5",
               "address": null,
               "cityStateZip": "Sunbury, OH 43074",
               "planName": null,
@@ -4124,7 +3449,7 @@
               "image": null
             },
             {
-              "id": "ohio-retreat-at-hickory-lakes-lot-145",
+              "id": "ohio-retreat-at-hickory-lakes-7724-hickory-lakes-drive",
               "address": null,
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
@@ -4141,7 +3466,7 @@
               "image": null
             },
             {
-              "id": "ohio-retreat-at-hickory-lakes-lot-137",
+              "id": "ohio-retreat-at-hickory-lakes-7740-hickory-lakes-drive",
               "address": null,
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
@@ -4158,7 +3483,7 @@
               "image": null
             },
             {
-              "id": "ohio-retreat-at-hickory-lakes-lot-155",
+              "id": "ohio-retreat-at-hickory-lakes-7704-hickory-lakes-drive",
               "address": null,
               "cityStateZip": "Pickerington, OH 43147",
               "planName": null,
@@ -4240,7 +3565,7 @@
               "image": null
             },
             {
-              "id": "ohio-parkview-lot-13418",
+              "id": "ohio-parkview-lot-13418-1",
               "address": null,
               "cityStateZip": "Delaware, OH 43015",
               "planName": null,
@@ -4373,7 +3698,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-108",
+              "id": "ohio-walnut-mill-16-gristmill-drive",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4390,7 +3715,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-105",
+              "id": "ohio-walnut-mill-22-gristmill-drive",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4407,7 +3732,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-91",
+              "id": "ohio-walnut-mill-3-water-mill-drive",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4424,7 +3749,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-94",
+              "id": "ohio-walnut-mill-9-water-mill-drive",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4441,7 +3766,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-109",
+              "id": "ohio-walnut-mill-lot-109-8",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4458,7 +3783,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-97",
+              "id": "ohio-walnut-mill-lot-97-9",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4475,7 +3800,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-92",
+              "id": "ohio-walnut-mill-lot-92-10",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4492,7 +3817,7 @@
               "image": null
             },
             {
-              "id": "ohio-walnut-mill-lot-93",
+              "id": "ohio-walnut-mill-lot-93-11",
               "address": null,
               "cityStateZip": "Ashville, OH 43103",
               "planName": null,
@@ -4625,7 +3950,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-56",
+              "id": "ohio-johnsons-creek-1272-eagleton-blvd",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4642,7 +3967,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-55",
+              "id": "ohio-johnsons-creek-1274-eagleton-blvd",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4659,7 +3984,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-43",
+              "id": "ohio-johnsons-creek-lot-43-6",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4676,7 +4001,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-40",
+              "id": "ohio-johnsons-creek-lot-40-7",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4693,7 +4018,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-44",
+              "id": "ohio-johnsons-creek-lot-44-8",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4710,7 +4035,7 @@
               "image": null
             },
             {
-              "id": "ohio-johnsons-creek-lot-37",
+              "id": "ohio-johnsons-creek-lot-37-9",
               "address": null,
               "cityStateZip": "London, OH 43140",
               "planName": null,
@@ -4890,7 +4215,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-16",
+              "id": "ohio-river-ridge-1791-pumpkin-ridge-road",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4907,7 +4232,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-79",
+              "id": "ohio-river-ridge-233-vine-grove-drive",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4924,7 +4249,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-72",
+              "id": "ohio-river-ridge-248-vine-grove-drive",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4941,7 +4266,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-73",
+              "id": "ohio-river-ridge-254-vine-grove-drive",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4958,7 +4283,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-76",
+              "id": "ohio-river-ridge-251-vine-grove-drive",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4975,7 +4300,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-81",
+              "id": "ohio-river-ridge-lot-81-9",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -4992,7 +4317,7 @@
               "image": null
             },
             {
-              "id": "ohio-river-ridge-lot-68",
+              "id": "ohio-river-ridge-lot-68-10",
               "address": null,
               "cityStateZip": "Circleville, OH 43113",
               "planName": null,
@@ -5074,7 +4399,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-overlook-lot-13795",
+              "id": "ohio-the-overlook-lot-13795-1",
               "address": null,
               "cityStateZip": "Newark, OH 43055",
               "planName": null,
@@ -5207,7 +4532,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-at-liberty-crossing-lot-2",
+              "id": "ohio-the-oaks-at-liberty-crossing-104-fippenny-place",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5224,7 +4549,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-at-liberty-crossing-lot-5",
+              "id": "ohio-the-oaks-at-liberty-crossing-116-fippenny-place",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5241,7 +4566,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-at-liberty-crossing-lot-37",
+              "id": "ohio-the-oaks-at-liberty-crossing-121-fippenny-place",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5374,7 +4699,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-crossing-lot-45",
+              "id": "ohio-liberty-crossing-113-appleseed-way",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5391,7 +4716,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-crossing-lot-48",
+              "id": "ohio-liberty-crossing-125-appleseed-way",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5408,7 +4733,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-crossing-lot-50",
+              "id": "ohio-liberty-crossing-133-appleseed-way",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5425,7 +4750,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-crossing-lot-99",
+              "id": "ohio-liberty-crossing-lot-99-7",
               "address": null,
               "cityStateZip": "Mount Vernon, OH 43050",
               "planName": null,
@@ -5558,7 +4883,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-17",
+              "id": "ohio-sugar-creek-133-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5575,7 +4900,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-51",
+              "id": "ohio-sugar-creek-134-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5592,7 +4917,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-18",
+              "id": "ohio-sugar-creek-135-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5609,7 +4934,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-20",
+              "id": "ohio-sugar-creek-139-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5626,7 +4951,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-54",
+              "id": "ohio-sugar-creek-146-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5643,7 +4968,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-24",
+              "id": "ohio-sugar-creek-147-brookside-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5660,7 +4985,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-56",
+              "id": "ohio-sugar-creek-41-havenwood-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5677,7 +5002,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-31",
+              "id": "ohio-sugar-creek-42-havenwood-drive",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5694,7 +5019,7 @@
               "image": null
             },
             {
-              "id": "ohio-sugar-creek-lot-47",
+              "id": "ohio-sugar-creek-lot-47-12",
               "address": null,
               "cityStateZip": "Jeffersonville, OH 43128",
               "planName": null,
@@ -5827,7 +5152,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-42",
+              "id": "ohio-bishop-estates-450-jaret-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5844,7 +5169,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-9",
+              "id": "ohio-bishop-estates-453-jaret-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5861,7 +5186,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-11",
+              "id": "ohio-bishop-estates-473-jaret-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5878,7 +5203,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-38",
+              "id": "ohio-bishop-estates-490-jaret-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5895,7 +5220,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-141",
+              "id": "ohio-bishop-estates-503-brilea-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5912,7 +5237,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-31",
+              "id": "ohio-bishop-estates-512-jaret-way",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5929,7 +5254,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-32",
+              "id": "ohio-bishop-estates-lot-32-10",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5946,7 +5271,7 @@
               "image": null
             },
             {
-              "id": "ohio-bishop-estates-lot-41",
+              "id": "ohio-bishop-estates-lot-41-11",
               "address": null,
               "cityStateZip": "Washington Court House, OH 43160",
               "planName": null,
@@ -5993,13 +5318,10 @@
         "xenia",
         "new-carlisle",
         "troy",
-        "franklin",
         "eaton",
         "springfield",
         "wilmington",
-        "jeffersonville",
-        "oxford",
-        "colerain-township"
+        "oxford"
       ],
       "communities": [
         {
@@ -6113,7 +5435,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0032",
+              "id": "ohio-canal-heights-2224-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6130,7 +5452,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0067",
+              "id": "ohio-canal-heights-7152-caledonian-ave",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6147,7 +5469,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0041",
+              "id": "ohio-canal-heights-2185-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6164,7 +5486,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0042",
+              "id": "ohio-canal-heights-2191-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6181,7 +5503,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0043",
+              "id": "ohio-canal-heights-2197-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6198,7 +5520,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0039",
+              "id": "ohio-canal-heights-2170-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6215,7 +5537,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0038",
+              "id": "ohio-canal-heights-2188-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6232,7 +5554,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0025",
+              "id": "ohio-canal-heights-2278-kiel-st",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6249,7 +5571,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0037",
+              "id": "ohio-canal-heights-lot-0037-12",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6266,7 +5588,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0036",
+              "id": "ohio-canal-heights-lot-0036-13",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6283,7 +5605,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0065",
+              "id": "ohio-canal-heights-lot-0065-14",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6300,7 +5622,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0031",
+              "id": "ohio-canal-heights-lot-0031-15",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6317,7 +5639,7 @@
               "image": null
             },
             {
-              "id": "ohio-canal-heights-lot-0058",
+              "id": "ohio-canal-heights-lot-0058-16",
               "address": null,
               "cityStateZip": "Huber Heights, OH 45424",
               "planName": null,
@@ -6433,7 +5755,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0032",
+              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0032-3",
               "address": null,
               "cityStateZip": "Butler Township, OH 45414",
               "planName": null,
@@ -6450,7 +5772,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0011",
+              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0011-4",
               "address": null,
               "cityStateZip": "Butler Township, OH 45414",
               "planName": null,
@@ -6467,7 +5789,7 @@
               "image": null
             },
             {
-              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0015",
+              "id": "ohio-the-oaks-of-yorkshire-reserve-lot-0015-5",
               "address": null,
               "cityStateZip": "Butler Township, OH 45414",
               "planName": null,
@@ -6835,7 +6157,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0036",
+              "id": "ohio-grandstone-trace-lot-0036-4",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6852,7 +6174,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0038",
+              "id": "ohio-grandstone-trace-lot-0038-5",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6869,7 +6191,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0066",
+              "id": "ohio-grandstone-trace-lot-0066-6",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6886,7 +6208,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0037",
+              "id": "ohio-grandstone-trace-lot-0037-7",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6903,7 +6225,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0040",
+              "id": "ohio-grandstone-trace-lot-0040-8",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6920,7 +6242,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0047",
+              "id": "ohio-grandstone-trace-lot-0047-9",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6937,7 +6259,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0073",
+              "id": "ohio-grandstone-trace-lot-0073-10",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -6954,7 +6276,7 @@
               "image": null
             },
             {
-              "id": "ohio-grandstone-trace-lot-0072",
+              "id": "ohio-grandstone-trace-lot-0072-11",
               "address": null,
               "cityStateZip": "Xenia, OH 45385",
               "planName": null,
@@ -7083,7 +6405,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-honey-creek-lot-0042",
+              "id": "ohio-reserve-at-honey-creek-lot-0042-1",
               "address": null,
               "cityStateZip": "New Carlisle, OH 45344",
               "planName": null,
@@ -7100,7 +6422,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-honey-creek-lot-0047",
+              "id": "ohio-reserve-at-honey-creek-lot-0047-2",
               "address": null,
               "cityStateZip": "New Carlisle, OH 45344",
               "planName": null,
@@ -7117,7 +6439,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-honey-creek-lot-0046",
+              "id": "ohio-reserve-at-honey-creek-lot-0046-3",
               "address": null,
               "cityStateZip": "New Carlisle, OH 45344",
               "planName": null,
@@ -7134,7 +6456,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-honey-creek-lot-0063",
+              "id": "ohio-reserve-at-honey-creek-lot-0063-4",
               "address": null,
               "cityStateZip": "New Carlisle, OH 45344",
               "planName": null,
@@ -7199,7 +6521,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1650",
+              "id": "ohio-reserve-at-cliff-oaks-2959-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7216,7 +6538,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1643",
+              "id": "ohio-reserve-at-cliff-oaks-2889-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7233,7 +6555,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1644",
+              "id": "ohio-reserve-at-cliff-oaks-2903-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7250,7 +6572,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1645",
+              "id": "ohio-reserve-at-cliff-oaks-2911-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7267,7 +6589,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1647",
+              "id": "ohio-reserve-at-cliff-oaks-2927-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7284,7 +6606,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1648",
+              "id": "ohio-reserve-at-cliff-oaks-2943-hoying-dr",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7301,7 +6623,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1655",
+              "id": "ohio-reserve-at-cliff-oaks-lot-1655-6",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7318,7 +6640,7 @@
               "image": null
             },
             {
-              "id": "ohio-reserve-at-cliff-oaks-lot-1649",
+              "id": "ohio-reserve-at-cliff-oaks-lot-1649-7",
               "address": null,
               "cityStateZip": "Troy, OH 45373",
               "planName": null,
@@ -7338,53 +6660,6 @@
           "location": {
             "lat": 40.0231,
             "lng": -84.2606
-          }
-        },
-        {
-          "slug": "shaker-farms",
-          "name": "Shaker Farms",
-          "stateSlug": "ohio",
-          "areaSlug": "dayton-area",
-          "citySlug": "franklin",
-          "cityName": "Franklin",
-          "zip": "45005",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 339900,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.52822,
-            "lng": -84.30132
           }
         },
         {
@@ -7498,7 +6773,7 @@
               "image": null
             },
             {
-              "id": "ohio-georgetown-village-lot-3438",
+              "id": "ohio-georgetown-village-105-calvert-ct",
               "address": null,
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
@@ -7515,7 +6790,7 @@
               "image": null
             },
             {
-              "id": "ohio-georgetown-village-lot-3436",
+              "id": "ohio-georgetown-village-100-calvert-ct",
               "address": null,
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
@@ -7532,7 +6807,7 @@
               "image": null
             },
             {
-              "id": "ohio-georgetown-village-lot-3432",
+              "id": "ohio-georgetown-village-lot-3432-6",
               "address": null,
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
@@ -7549,7 +6824,7 @@
               "image": null
             },
             {
-              "id": "ohio-georgetown-village-lot-3440",
+              "id": "ohio-georgetown-village-lot-3440-7",
               "address": null,
               "cityStateZip": "Eaton, OH 45320",
               "planName": null,
@@ -7614,7 +6889,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "ohio-sycamore-ridge-lot-9731",
+              "id": "ohio-sycamore-ridge-2201-hackberry-st",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7631,7 +6906,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9792",
+              "id": "ohio-sycamore-ridge-2204-hackberry-st",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7648,7 +6923,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9794",
+              "id": "ohio-sycamore-ridge-2208-hackberry-st",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7665,7 +6940,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9732",
+              "id": "ohio-sycamore-ridge-2119-hackberry-st",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7682,7 +6957,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9788",
+              "id": "ohio-sycamore-ridge-lot-9788-4",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7699,7 +6974,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9789",
+              "id": "ohio-sycamore-ridge-lot-9789-5",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7716,7 +6991,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9790",
+              "id": "ohio-sycamore-ridge-lot-9790-6",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7733,7 +7008,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9791",
+              "id": "ohio-sycamore-ridge-lot-9791-7",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7750,7 +7025,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9767",
+              "id": "ohio-sycamore-ridge-lot-9767-8",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7767,7 +7042,7 @@
               "image": null
             },
             {
-              "id": "ohio-sycamore-ridge-lot-9733",
+              "id": "ohio-sycamore-ridge-lot-9733-9",
               "address": null,
               "cityStateZip": "Springfield, OH 45505",
               "planName": null,
@@ -7900,7 +7175,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-place-lot-2305",
+              "id": "ohio-liberty-place-1926-willoughby-ave",
               "address": null,
               "cityStateZip": "Springfield, OH 45503",
               "planName": null,
@@ -7917,7 +7192,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-place-lot-2310",
+              "id": "ohio-liberty-place-lot-2310-5",
               "address": null,
               "cityStateZip": "Springfield, OH 45503",
               "planName": null,
@@ -7934,7 +7209,7 @@
               "image": null
             },
             {
-              "id": "ohio-liberty-place-lot-2312",
+              "id": "ohio-liberty-place-lot-2312-6",
               "address": null,
               "cityStateZip": "Springfield, OH 45503",
               "planName": null,
@@ -8067,7 +7342,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0110",
+              "id": "ohio-creekview-180-chakeres-way",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8084,7 +7359,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0113",
+              "id": "ohio-creekview-204-chakeres-way",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8101,7 +7376,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0078",
+              "id": "ohio-creekview-lot-0078-6",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8118,7 +7393,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0070",
+              "id": "ohio-creekview-lot-0070-7",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8135,7 +7410,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0114",
+              "id": "ohio-creekview-lot-0114-8",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8152,7 +7427,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0081",
+              "id": "ohio-creekview-lot-0081-9",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8169,7 +7444,7 @@
               "image": null
             },
             {
-              "id": "ohio-creekview-lot-0079",
+              "id": "ohio-creekview-lot-0079-10",
               "address": null,
               "cityStateZip": "Wilmington, OH 45177",
               "planName": null,
@@ -8189,53 +7464,6 @@
           "location": {
             "lat": 39.45967,
             "lng": -83.82384
-          }
-        },
-        {
-          "slug": "sugar-creek",
-          "name": "Sugar Creek",
-          "stateSlug": "ohio",
-          "areaSlug": "dayton-area",
-          "citySlug": "jeffersonville",
-          "cityName": "Jeffersonville",
-          "zip": "43128",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": null,
-          "tag": null,
-          "priceFrom": 338380,
-          "availableHomesCount": 12,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.65837,
-            "lng": -83.5694
           }
         },
         {
@@ -8349,7 +7577,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4080",
+              "id": "ohio-owls-landing-1813-snowy-ln",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8366,7 +7594,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4142",
+              "id": "ohio-owls-landing-lot-4142-5",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8383,7 +7611,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4139",
+              "id": "ohio-owls-landing-lot-4139-6",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8400,7 +7628,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4164",
+              "id": "ohio-owls-landing-lot-4164-7",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8417,7 +7645,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4138",
+              "id": "ohio-owls-landing-lot-4138-8",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8434,7 +7662,7 @@
               "image": null
             },
             {
-              "id": "ohio-owls-landing-lot-4143",
+              "id": "ohio-owls-landing-lot-4143-9",
               "address": null,
               "cityStateZip": "Oxford, OH 45056",
               "planName": null,
@@ -8454,53 +7682,6 @@
           "location": {
             "lat": 39.49981,
             "lng": -84.77448
-          }
-        },
-        {
-          "slug": "villas-at-taylor-glen",
-          "name": "Villas at Taylor Glen",
-          "stateSlug": "ohio",
-          "areaSlug": "dayton-area",
-          "citySlug": "colerain-township",
-          "cityName": "Colerain Township",
-          "zip": "45251",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 259900,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1418,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.2627,
-            "lng": -84.5873
           }
         }
       ]
@@ -8633,7 +7814,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0032",
+              "id": "ohio-whispering-pines-85-cypress-hill-drive",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
@@ -8650,7 +7831,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0035",
+              "id": "ohio-whispering-pines-1931-whispering-pines-drive",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
@@ -8667,7 +7848,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0013",
+              "id": "ohio-whispering-pines-117-cypress-hill-drive",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
@@ -8684,7 +7865,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0030",
+              "id": "ohio-whispering-pines-lot-0030-7",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
@@ -8701,7 +7882,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0036",
+              "id": "ohio-whispering-pines-lot-0036-8",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,
@@ -8718,7 +7899,7 @@
               "image": null
             },
             {
-              "id": "ohio-whispering-pines-lot-0034",
+              "id": "ohio-whispering-pines-lot-0034-9",
               "address": null,
               "cityStateZip": "Defiance, OH 43512",
               "planName": null,

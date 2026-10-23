@@ -23,33 +23,7 @@
         "penn-laird",
         "staunton",
         "waynesboro",
-        "strasburg",
-        "front-royal",
-        "keswick",
-        "stephens-city",
-        "winchester",
-        "fredericksburg",
-        "manassas",
-        "charles-town",
-        "shenandoah-junction",
-        "ruther-glen",
-        "martinsburg",
-        "king-george",
-        "glen-allen",
-        "frederick",
-        "hagerstown",
-        "bridgeport",
-        "fairmont",
-        "midlothian",
-        "mechanicsville",
-        "cheat-lake",
-        "morgantown",
-        "chesterfield",
-        "henrico",
-        "new-kent",
-        "hopewell",
-        "prince-george",
-        "gettysburg"
+        "keswick"
       ],
       "communities": [
         {
@@ -142,7 +116,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-south-view-201-chamberlain-drive",
+              "id": "virginia-south-view-201-chamberlain-dr",
               "address": "201 Chamberlain Drive",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -159,7 +133,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-200-chamberlain-drive",
+              "id": "virginia-south-view-200-chamberlain-dr",
               "address": "200 Chamberlain Drive",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -176,7 +150,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0093",
+              "id": "virginia-south-view-lot-0093-2",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -193,7 +167,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0138",
+              "id": "virginia-south-view-lot-0138-3",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -210,7 +184,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0139",
+              "id": "virginia-south-view-lot-0139-4",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -227,7 +201,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0140",
+              "id": "virginia-south-view-lot-0140-5",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -244,7 +218,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0141",
+              "id": "virginia-south-view-lot-0141-6",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -261,7 +235,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0142",
+              "id": "virginia-south-view-lot-0142-7",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -278,7 +252,7 @@
               "image": null
             },
             {
-              "id": "virginia-south-view-lot-0143",
+              "id": "virginia-south-view-lot-0143-8",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -343,7 +317,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-bell-creek-103-fieldcrest-lane",
+              "id": "virginia-bell-creek-103-fieldcrest-ln",
               "address": "103 Fieldcrest Lane",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -394,7 +368,7 @@
               "image": null
             },
             {
-              "id": "virginia-bell-creek-lot-3031",
+              "id": "virginia-bell-creek-lot-3031-3",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -411,7 +385,7 @@
               "image": null
             },
             {
-              "id": "virginia-bell-creek-lot-3041",
+              "id": "virginia-bell-creek-lot-3041-4",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -428,7 +402,7 @@
               "image": null
             },
             {
-              "id": "virginia-bell-creek-lot-3040",
+              "id": "virginia-bell-creek-lot-3040-5",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -445,7 +419,7 @@
               "image": null
             },
             {
-              "id": "virginia-bell-creek-lot-3036",
+              "id": "virginia-bell-creek-lot-3036-6",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -561,7 +535,7 @@
               "image": null
             },
             {
-              "id": "virginia-summit-townes-lot-1163",
+              "id": "virginia-summit-townes-lot-1163-3",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -578,7 +552,7 @@
               "image": null
             },
             {
-              "id": "virginia-summit-townes-lot-1162",
+              "id": "virginia-summit-townes-lot-1162-4",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -595,7 +569,7 @@
               "image": null
             },
             {
-              "id": "virginia-summit-townes-lot-1160",
+              "id": "virginia-summit-townes-lot-1160-5",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -612,7 +586,7 @@
               "image": null
             },
             {
-              "id": "virginia-summit-townes-lot-1009",
+              "id": "virginia-summit-townes-lot-1009-6",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -629,7 +603,7 @@
               "image": null
             },
             {
-              "id": "virginia-summit-townes-lot-1012",
+              "id": "virginia-summit-townes-lot-1012-7",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -694,7 +668,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-red-oaks-21-river-oak-drive",
+              "id": "virginia-red-oaks-21-river-oak-dr",
               "address": "21 River Oak Drive",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -711,7 +685,7 @@
               "image": null
             },
             {
-              "id": "virginia-red-oaks-12-river-oak-drive",
+              "id": "virginia-red-oaks-12-river-oak-dr",
               "address": "12 River Oak Drive",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -728,7 +702,7 @@
               "image": null
             },
             {
-              "id": "virginia-red-oaks-24-river-oak-drive",
+              "id": "virginia-red-oaks-24-river-oak-dr",
               "address": "24 River Oak Drive",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -745,7 +719,7 @@
               "image": null
             },
             {
-              "id": "virginia-red-oaks-lot-0019",
+              "id": "virginia-red-oaks-lot-0019-3",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -762,7 +736,7 @@
               "image": null
             },
             {
-              "id": "virginia-red-oaks-lot-0020",
+              "id": "virginia-red-oaks-lot-0020-4",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -895,7 +869,7 @@
               "image": null
             },
             {
-              "id": "virginia-kira-heights-lot-0058",
+              "id": "virginia-kira-heights-lot-0058-4",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -912,7 +886,7 @@
               "image": null
             },
             {
-              "id": "virginia-kira-heights-lot-0027",
+              "id": "virginia-kira-heights-lot-0027-5",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -929,7 +903,7 @@
               "image": null
             },
             {
-              "id": "virginia-kira-heights-lot-0028",
+              "id": "virginia-kira-heights-lot-0028-6",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -946,7 +920,7 @@
               "image": null
             },
             {
-              "id": "virginia-kira-heights-lot-0056",
+              "id": "virginia-kira-heights-lot-0056-7",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -963,7 +937,7 @@
               "image": null
             },
             {
-              "id": "virginia-kira-heights-lot-0052",
+              "id": "virginia-kira-heights-lot-0052-8",
               "address": null,
               "cityStateZip": "Waynesboro, VA 22980",
               "planName": null,
@@ -1028,7 +1002,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-spring-lakes-279-heather-lane",
+              "id": "virginia-spring-lakes-0035",
               "address": "279 Heather Lane",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1062,7 +1036,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-259-heather-lane",
+              "id": "virginia-spring-lakes-0029",
               "address": "259 Heather Lane",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1079,7 +1053,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-261-heather-lane",
+              "id": "virginia-spring-lakes-0031",
               "address": "261 Heather Lane",
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1096,7 +1070,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0032",
+              "id": "virginia-spring-lakes-0032",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1113,7 +1087,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0034",
+              "id": "virginia-spring-lakes-0034",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1130,7 +1104,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0033",
+              "id": "virginia-spring-lakes-0033",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1147,7 +1121,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0038",
+              "id": "virginia-spring-lakes-0038",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1164,7 +1138,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0037",
+              "id": "virginia-spring-lakes-0037",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1181,7 +1155,7 @@
               "image": null
             },
             {
-              "id": "virginia-spring-lakes-lot-0039",
+              "id": "virginia-spring-lakes-0039",
               "address": null,
               "cityStateZip": "Staunton, VA 24401",
               "planName": null,
@@ -1201,100 +1175,6 @@
           "location": {
             "lat": 38.11609,
             "lng": -79.08348
-          }
-        },
-        {
-          "slug": "meadowbrook",
-          "name": "Meadowbrook",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "strasburg",
-          "cityName": "Strasburg",
-          "zip": "22657",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 319990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1651,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.99819,
-            "lng": -78.35505
-          }
-        },
-        {
-          "slug": "the-townes-at-riverview",
-          "name": "The Townes at Riverview",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "front-royal",
-          "cityName": "Front Royal",
-          "zip": "22630",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359590,
-          "availableHomesCount": 7,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2137,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.94767,
-            "lng": -78.20123
           }
         },
         {
@@ -1340,7 +1220,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-green-spring-estates-138-liberty-lane",
+              "id": "virginia-green-spring-estates-0026",
               "address": "138 Liberty Lane",
               "cityStateZip": "Keswick, VA 22947",
               "planName": null,
@@ -1357,7 +1237,7 @@
               "image": null
             },
             {
-              "id": "virginia-green-spring-estates-lot-0023",
+              "id": "virginia-green-spring-estates-lot-0023-1",
               "address": null,
               "cityStateZip": "Keswick, VA 22947",
               "planName": null,
@@ -1374,7 +1254,7 @@
               "image": null
             },
             {
-              "id": "virginia-green-spring-estates-lot-0038",
+              "id": "virginia-green-spring-estates-lot-0038-2",
               "address": null,
               "cityStateZip": "Keswick, VA 22947",
               "planName": null,
@@ -1391,7 +1271,7 @@
               "image": null
             },
             {
-              "id": "virginia-green-spring-estates-lot-0043",
+              "id": "virginia-green-spring-estates-lot-0043-3",
               "address": null,
               "cityStateZip": "Keswick, VA 22947",
               "planName": null,
@@ -1411,1604 +1291,6 @@
           "location": {
             "lat": 38.01262,
             "lng": -78.29136
-          }
-        },
-        {
-          "slug": "valley-view-townhomes",
-          "name": "Valley View Townhomes",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "stephens-city",
-          "cityName": "Stephens City",
-          "zip": "22655",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 362990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1889,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10106,
-            "lng": -78.20963
-          }
-        },
-        {
-          "slug": "valley-view",
-          "name": "Valley View Single Family",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "stephens-city",
-          "cityName": "Stephens City",
-          "zip": "22655",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10106,
-            "lng": -78.20963
-          }
-        },
-        {
-          "slug": "willow-run",
-          "name": "Willow Run",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 419990,
-          "availableHomesCount": 7,
-          "beds": {
-            "min": 2,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1748,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.16673,
-            "lng": -78.19437
-          }
-        },
-        {
-          "slug": "abrams-crossing-at-meadow-branch",
-          "name": "Abrams Crossing at Meadow Branch",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22601",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1655,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17073,
-            "lng": -78.18427
-          }
-        },
-        {
-          "slug": "retreat-at-winding-creek",
-          "name": "Retreat at Winding Creek Single Family",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 429990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1657,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17383,
-            "lng": -78.08712
-          }
-        },
-        {
-          "slug": "retreat-at-winding-creek-townhomes",
-          "name": "Retreat at Winding Creek Townhomes",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1889,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17142,
-            "lng": -78.08315
-          }
-        },
-        {
-          "slug": "linwood-landing",
-          "name": "Linwood Landing",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "fredericksburg",
-          "cityName": "Fredericksburg",
-          "zip": "22407",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 549990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1906,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.28494,
-            "lng": -77.59955
-          }
-        },
-        {
-          "slug": "innovation-town-center",
-          "name": "Innovation Town Center",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "manassas",
-          "cityName": "Manassas",
-          "zip": "20109",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 599990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 2270,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.76324,
-            "lng": -77.5285
-          }
-        },
-        {
-          "slug": "riverpointe",
-          "name": "Riverpointe",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "charles-town",
-          "cityName": "Charles Town",
-          "zip": "25414",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 309978,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.29652,
-            "lng": -77.83584
-          }
-        },
-        {
-          "slug": "stonecrest",
-          "name": "Stonecrest",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "shenandoah-junction",
-          "cityName": "Shenandoah Junction",
-          "zip": "25442",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 419990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.33526,
-            "lng": -77.83129
-          }
-        },
-        {
-          "slug": "ladysmith-village",
-          "name": "Ladysmith Village",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "ruther-glen",
-          "cityName": "Ruther Glen",
-          "zip": "22546",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 367740,
-          "availableHomesCount": 11,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1509,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.02063,
-            "lng": -77.5339
-          }
-        },
-        {
-          "slug": "red-hill",
-          "name": "Red Hill",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "martinsburg",
-          "cityName": "Martinsburg",
-          "zip": "25403",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.52769,
-            "lng": -77.98705
-          }
-        },
-        {
-          "slug": "sierra-ridge",
-          "name": "Sierra Ridge",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "king-george",
-          "cityName": "King George",
-          "zip": "22485",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 549990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1888,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.30988,
-            "lng": -77.28333
-          }
-        },
-        {
-          "slug": "sheppard-mill",
-          "name": "Sheppard Mill",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "glen-allen",
-          "cityName": "Glen Allen",
-          "zip": "23059",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Emerald Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 999990,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 5,
-            "max": 6
-          },
-          "baths": {
-            "min": 5,
-            "max": 5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 4241,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.6849,
-            "lng": -77.5094
-          }
-        },
-        {
-          "slug": "summervale",
-          "name": "Summervale",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21703",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439988,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 4.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1763,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41772,
-            "lng": -77.46851
-          }
-        },
-        {
-          "slug": "virginia-commons",
-          "name": "Virginia Commons",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "hagerstown",
-          "cityName": "Hagerstown",
-          "zip": "21740",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 386088,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.62454,
-            "lng": -77.7419
-          }
-        },
-        {
-          "slug": "renn-quarter",
-          "name": "Renn Quarter",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21701",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 4,
-            "max": 6
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1962,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41936,
-            "lng": -77.38927
-          }
-        },
-        {
-          "slug": "worthington-village",
-          "name": "Worthington Village",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "bridgeport",
-          "cityName": "Bridgeport",
-          "zip": "26330",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": null,
-          "tag": null,
-          "priceFrom": 469990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.30164,
-            "lng": -80.24246
-          }
-        },
-        {
-          "slug": "eastview-manor",
-          "name": "Eastview Manor",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "fairmont",
-          "cityName": "Fairmont",
-          "zip": "26554",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 349990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.46723,
-            "lng": -80.10945
-          }
-        },
-        {
-          "slug": "copper-grove-at-harpers-mill",
-          "name": "Copper Grove",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "midlothian",
-          "cityName": "Chesterfield",
-          "zip": "23838",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 611990,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 3,
-            "max": 6
-          },
-          "baths": {
-            "min": 3,
-            "max": 4
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 2511,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.37526,
-            "lng": -77.71997
-          }
-        },
-        {
-          "slug": "oak-crest-townhomes",
-          "name": "Oak Crest Townhomes",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "mechanicsville",
-          "cityName": "Mechanicsville",
-          "zip": "23111",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Freedom Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1988,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.61954,
-            "lng": -77.36941
-          }
-        },
-        {
-          "slug": "neely-village",
-          "name": "Neely Village",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "cheat-lake",
-          "cityName": "Cheat Lake",
-          "zip": "26508",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.67997,
-            "lng": -79.84076
-          }
-        },
-        {
-          "slug": "stafford-village",
-          "name": "Stafford Village Townhomes",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "fairmont",
-          "cityName": "Fairmont",
-          "zip": "26554",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 199990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1431,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.42849,
-            "lng": -80.18249
-          }
-        },
-        {
-          "slug": "woodside-ridge",
-          "name": "Woodside Ridge",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "morgantown",
-          "cityName": "Morgantown Area",
-          "zip": "26501",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 271990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1906,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.61519,
-            "lng": -79.9811
-          }
-        },
-        {
-          "slug": "watermark",
-          "name": "Watermark",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "chesterfield",
-          "cityName": "Chesterfield",
-          "zip": "23234",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359490,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1518,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.41879,
-            "lng": -77.50404
-          }
-        },
-        {
-          "slug": "york-manor",
-          "name": "York Manor",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "henrico",
-          "cityName": "Henrico",
-          "zip": "23075",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1333,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.53413,
-            "lng": -77.33379
-          }
-        },
-        {
-          "slug": "meadow-ponds",
-          "name": "Meadow Ponds",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "morgantown",
-          "cityName": "Morgantown",
-          "zip": "26541",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 339990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.66797,
-            "lng": -80.07599
-          }
-        },
-        {
-          "slug": "magnolia-crossing-at-centralia",
-          "name": "Magnolia Crossing at Centralia",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "chesterfield",
-          "cityName": "Chester",
-          "zip": "23237",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 415990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1333,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.38972,
-            "lng": -77.45795
-          }
-        },
-        {
-          "slug": "arbors-at-farms-of-new-kent",
-          "name": "Arbors at Farms of New Kent",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "new-kent",
-          "cityName": "New Kent",
-          "zip": "23124",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.51394,
-            "lng": -77.09016
-          }
-        },
-        {
-          "slug": "anchor-point",
-          "name": "Anchor Point",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "hopewell",
-          "cityName": "Hopewell",
-          "zip": "23860",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 304990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1333,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.30312,
-            "lng": -77.3266
-          }
-        },
-        {
-          "slug": "lakewood-village",
-          "name": "Lakewood Village",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "prince-george",
-          "cityName": "Prince George",
-          "zip": "23875",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 319990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.26429,
-            "lng": -77.28543
-          }
-        },
-        {
-          "slug": "chappell-creek",
-          "name": "Chappell Creek",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "prince-george",
-          "cityName": "North Prince George",
-          "zip": "23860",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 434990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1657,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.29037,
-            "lng": -77.20897
-          }
-        },
-        {
-          "slug": "the-townes-at-cambridge",
-          "name": "The Townes at Cambridge",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "gettysburg",
-          "cityName": "Gettysburg",
-          "zip": "17325",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 279990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.85761,
-            "lng": -77.23578
-          }
-        },
-        {
-          "slug": "amblebrook",
-          "name": "Amblebrook",
-          "stateSlug": "virginia",
-          "areaSlug": "charlottesville",
-          "citySlug": "gettysburg",
-          "cityName": "Gettysburg",
-          "zip": "17325",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 370990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1402,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.88365,
-            "lng": -77.17902
           }
         }
       ]
@@ -3033,12 +1315,7 @@
         "stephens-city",
         "winchester",
         "fredericksburg",
-        "charles-town",
-        "shenandoah-junction",
-        "king-george",
-        "penn-laird",
-        "frederick",
-        "waynesboro"
+        "king-george"
       ],
       "communities": [
         {
@@ -3152,7 +1429,7 @@
               "image": null
             },
             {
-              "id": "virginia-the-townes-at-riverview-lot-5004",
+              "id": "virginia-the-townes-at-riverview-18-w-strasburg-road",
               "address": null,
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
@@ -3169,7 +1446,7 @@
               "image": null
             },
             {
-              "id": "virginia-the-townes-at-riverview-lot-5007",
+              "id": "virginia-the-townes-at-riverview-24-w-strasburg-road",
               "address": null,
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
@@ -3186,7 +1463,7 @@
               "image": null
             },
             {
-              "id": "virginia-the-townes-at-riverview-lot-5008",
+              "id": "virginia-the-townes-at-riverview-26-w-strasburg-road",
               "address": null,
               "cityStateZip": "Front Royal, VA 22630",
               "planName": null,
@@ -3251,7 +1528,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-innovation-town-center-lot-0110",
+              "id": "virginia-innovation-town-center-8903-curie-street",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3268,7 +1545,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0095",
+              "id": "virginia-innovation-town-center-11334-hypatia-loop",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3285,7 +1562,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0094",
+              "id": "virginia-innovation-town-center-11336-hypatia-loop",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3302,7 +1579,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0098",
+              "id": "virginia-innovation-town-center-lot-0098-3",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3319,7 +1596,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0093",
+              "id": "virginia-innovation-town-center-lot-0093-4",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3336,7 +1613,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0100",
+              "id": "virginia-innovation-town-center-lot-0100-5",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3353,7 +1630,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0097",
+              "id": "virginia-innovation-town-center-lot-0097-6",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3370,7 +1647,7 @@
               "image": null
             },
             {
-              "id": "virginia-innovation-town-center-lot-0096",
+              "id": "virginia-innovation-town-center-lot-0096-7",
               "address": null,
               "cityStateZip": "Manassas, VA 20109",
               "planName": null,
@@ -3435,7 +1712,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-meadowbrook-lot-0021",
+              "id": "virginia-meadowbrook-420-sophie-street",
               "address": null,
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
@@ -3452,7 +1729,7 @@
               "image": null
             },
             {
-              "id": "virginia-meadowbrook-lot-0022",
+              "id": "virginia-meadowbrook-430-sophie-street",
               "address": null,
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
@@ -3469,7 +1746,7 @@
               "image": null
             },
             {
-              "id": "virginia-meadowbrook-lot-0024",
+              "id": "virginia-meadowbrook-lot-0024-2",
               "address": null,
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
@@ -3486,7 +1763,7 @@
               "image": null
             },
             {
-              "id": "virginia-meadowbrook-lot-0025",
+              "id": "virginia-meadowbrook-lot-0025-3",
               "address": null,
               "cityStateZip": "Strasburg, VA 22657",
               "planName": null,
@@ -3666,7 +1943,7 @@
               "image": null
             },
             {
-              "id": "virginia-valley-view-lot-5186",
+              "id": "virginia-valley-view-106-bookers-crest-drive",
               "address": null,
               "cityStateZip": "Stephens City, VA 22655",
               "planName": null,
@@ -3683,7 +1960,7 @@
               "image": null
             },
             {
-              "id": "virginia-valley-view-lot-5194",
+              "id": "virginia-valley-view-lot-5194-5",
               "address": null,
               "cityStateZip": "Stephens City, VA 22655",
               "planName": null,
@@ -3700,7 +1977,7 @@
               "image": null
             },
             {
-              "id": "virginia-valley-view-lot-5191",
+              "id": "virginia-valley-view-lot-5191-6",
               "address": null,
               "cityStateZip": "Stephens City, VA 22655",
               "planName": null,
@@ -3765,7 +2042,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-retreat-at-winding-creek-townhomes-lot-2074",
+              "id": "virginia-retreat-at-winding-creek-townhomes-171-sioux-loop",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3782,7 +2059,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-townhomes-lot-2075",
+              "id": "virginia-retreat-at-winding-creek-townhomes-173-sioux-loop",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3799,7 +2076,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-townhomes-lot-2094",
+              "id": "virginia-retreat-at-winding-creek-townhomes-141-sioux-loop",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3816,7 +2093,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-townhomes-lot-2073",
+              "id": "virginia-retreat-at-winding-creek-townhomes-lot-2073-3",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3949,7 +2226,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-lot-4046",
+              "id": "virginia-retreat-at-winding-creek-143-wappinger-terrace",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3966,7 +2243,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-lot-4021",
+              "id": "virginia-retreat-at-winding-creek-112-wappinger-terrace",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -3983,7 +2260,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-lot-4164",
+              "id": "virginia-retreat-at-winding-creek-lot-4164-6",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4000,7 +2277,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-lot-4020",
+              "id": "virginia-retreat-at-winding-creek-lot-4020-7",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4017,7 +2294,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-winding-creek-lot-4051",
+              "id": "virginia-retreat-at-winding-creek-lot-4051-8",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4082,7 +2359,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-willow-run-lot-0065",
+              "id": "virginia-willow-run-243-hydrangea-way",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4099,7 +2376,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0063",
+              "id": "virginia-willow-run-239-hydrangea-way",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4116,7 +2393,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0088",
+              "id": "virginia-willow-run-232-hydrangea-way",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4133,7 +2410,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0281",
+              "id": "virginia-willow-run-137-trellis-view-lane",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4150,7 +2427,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0064",
+              "id": "virginia-willow-run-241-hydrangea-way",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4167,7 +2444,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0057",
+              "id": "virginia-willow-run-hydrangea-way-lot-57",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4184,7 +2461,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0090",
+              "id": "virginia-willow-run-lot-90---hydrangea-way",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4201,7 +2478,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0254",
+              "id": "virginia-willow-run-lot-0254-7",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4218,7 +2495,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0240",
+              "id": "virginia-willow-run-lot-0240-8",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4235,7 +2512,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0062",
+              "id": "virginia-willow-run-lot-0062-9",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4252,7 +2529,7 @@
               "image": null
             },
             {
-              "id": "virginia-willow-run-lot-0087",
+              "id": "virginia-willow-run-lot-0087-10",
               "address": null,
               "cityStateZip": "Winchester, VA 22602",
               "planName": null,
@@ -4368,7 +2645,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5023",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5023-3",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4385,7 +2662,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5027",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5027-4",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4402,7 +2679,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5022",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5022-5",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4419,7 +2696,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5026",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5026-6",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4436,7 +2713,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5025",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5025-7",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4453,7 +2730,7 @@
               "image": null
             },
             {
-              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5031",
+              "id": "virginia-abrams-crossing-at-meadow-branch-lot-5031-8",
               "address": null,
               "cityStateZip": "Winchester, VA 22601",
               "planName": null,
@@ -4552,7 +2829,7 @@
               "image": null
             },
             {
-              "id": "virginia-linwood-landing-lot-5054",
+              "id": "virginia-linwood-landing-lot-5054-2",
               "address": null,
               "cityStateZip": "Fredericksburg, VA 22407",
               "planName": null,
@@ -4569,7 +2846,7 @@
               "image": null
             },
             {
-              "id": "virginia-linwood-landing-lot-5055",
+              "id": "virginia-linwood-landing-lot-5055-3",
               "address": null,
               "cityStateZip": "Fredericksburg, VA 22407",
               "planName": null,
@@ -4586,7 +2863,7 @@
               "image": null
             },
             {
-              "id": "virginia-linwood-landing-lot-5049",
+              "id": "virginia-linwood-landing-lot-5049-4",
               "address": null,
               "cityStateZip": "Fredericksburg, VA 22407",
               "planName": null,
@@ -4603,7 +2880,7 @@
               "image": null
             },
             {
-              "id": "virginia-linwood-landing-lot-5017",
+              "id": "virginia-linwood-landing-lot-5017-5",
               "address": null,
               "cityStateZip": "Fredericksburg, VA 22407",
               "planName": null,
@@ -4620,7 +2897,7 @@
               "image": null
             },
             {
-              "id": "virginia-linwood-landing-lot-5047",
+              "id": "virginia-linwood-landing-lot-5047-6",
               "address": null,
               "cityStateZip": "Fredericksburg, VA 22407",
               "planName": null,
@@ -4640,100 +2917,6 @@
           "location": {
             "lat": 38.28494,
             "lng": -77.59955
-          }
-        },
-        {
-          "slug": "riverpointe",
-          "name": "Riverpointe",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "charles-town",
-          "cityName": "Charles Town",
-          "zip": "25414",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 309978,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.29652,
-            "lng": -77.83584
-          }
-        },
-        {
-          "slug": "stonecrest",
-          "name": "Stonecrest",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "shenandoah-junction",
-          "cityName": "Shenandoah Junction",
-          "zip": "25442",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 419990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.33526,
-            "lng": -77.83129
           }
         },
         {
@@ -4847,7 +3030,7 @@
               "image": null
             },
             {
-              "id": "virginia-sierra-ridge-lot-0029",
+              "id": "virginia-sierra-ridge-3739-sierra-crossing",
               "address": null,
               "cityStateZip": "King George, VA 22485",
               "planName": null,
@@ -4867,194 +3050,6 @@
           "location": {
             "lat": 38.30988,
             "lng": -77.28333
-          }
-        },
-        {
-          "slug": "madison-village",
-          "name": "Madison Village",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "penn-laird",
-          "cityName": "Penn Laird",
-          "zip": "22846",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 476990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2258,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.3983,
-            "lng": -78.81612
-          }
-        },
-        {
-          "slug": "summervale",
-          "name": "Summervale",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21703",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439988,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 4.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1763,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41772,
-            "lng": -77.46851
-          }
-        },
-        {
-          "slug": "renn-quarter",
-          "name": "Renn Quarter",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21701",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 4,
-            "max": 6
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1962,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41936,
-            "lng": -77.38927
-          }
-        },
-        {
-          "slug": "summit-townes",
-          "name": "Summit Townes",
-          "stateSlug": "virginia",
-          "areaSlug": "northern-virginia",
-          "citySlug": "waynesboro",
-          "cityName": "Waynesboro",
-          "zip": "22980",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 274990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.08615,
-            "lng": -78.88694
           }
         }
       ]
@@ -5081,8 +3076,7 @@
         "new-kent",
         "midlothian",
         "prince-george",
-        "ruther-glen",
-        "williamsburg"
+        "ruther-glen"
       ],
       "communities": [
         {
@@ -5243,7 +3237,7 @@
               "image": null
             },
             {
-              "id": "virginia-oak-crest-townhomes-lot-0030",
+              "id": "virginia-oak-crest-townhomes-8710-coastal-terrace",
               "address": null,
               "cityStateZip": "Mechanicsville, VA 23111",
               "planName": null,
@@ -5260,7 +3254,7 @@
               "image": null
             },
             {
-              "id": "virginia-oak-crest-townhomes-lot-0029",
+              "id": "virginia-oak-crest-townhomes-lot-0029-5",
               "address": null,
               "cityStateZip": "Mechanicsville, VA 23111",
               "planName": null,
@@ -5277,7 +3271,7 @@
               "image": null
             },
             {
-              "id": "virginia-oak-crest-townhomes-lot-0032",
+              "id": "virginia-oak-crest-townhomes-lot-0032-6",
               "address": null,
               "cityStateZip": "Mechanicsville, VA 23111",
               "planName": null,
@@ -5410,7 +3404,7 @@
               "image": null
             },
             {
-              "id": "virginia-watermark-lot-0039",
+              "id": "virginia-watermark-lot-0039-4",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23234",
               "planName": null,
@@ -5427,7 +3421,7 @@
               "image": null
             },
             {
-              "id": "virginia-watermark-lot-0037",
+              "id": "virginia-watermark-lot-0037-5",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23234",
               "planName": null,
@@ -5444,7 +3438,7 @@
               "image": null
             },
             {
-              "id": "virginia-watermark-lot-0035",
+              "id": "virginia-watermark-lot-0035-6",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23234",
               "planName": null,
@@ -5461,7 +3455,7 @@
               "image": null
             },
             {
-              "id": "virginia-watermark-lot-4014",
+              "id": "virginia-watermark-lot-4014-7",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23234",
               "planName": null,
@@ -5706,7 +3700,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0012",
+              "id": "virginia-anchor-point-3925-schooner-ln",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5723,7 +3717,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0007",
+              "id": "virginia-anchor-point-3937-schooner-ln",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5740,7 +3734,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0011",
+              "id": "virginia-anchor-point-lot-0011-6",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5757,7 +3751,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0010",
+              "id": "virginia-anchor-point-lot-0010-7",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5774,7 +3768,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0009",
+              "id": "virginia-anchor-point-lot-0009-8",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5791,7 +3785,7 @@
               "image": null
             },
             {
-              "id": "virginia-anchor-point-lot-0008",
+              "id": "virginia-anchor-point-lot-0008-9",
               "address": null,
               "cityStateZip": "Hopewell, VA 23860",
               "planName": null,
@@ -5971,7 +3965,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2103",
+              "id": "virginia-copper-grove-at-harpers-mill-16907-barmer-rd",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -5988,7 +3982,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2093",
+              "id": "virginia-copper-grove-at-harpers-mill-16914-barmer-rd",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6005,7 +3999,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2100",
+              "id": "virginia-copper-grove-at-harpers-mill-16925-barmer-rd",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6022,7 +4016,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2099",
+              "id": "virginia-copper-grove-at-harpers-mill-16931-barmer-rd",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6039,7 +4033,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2014",
+              "id": "virginia-copper-grove-at-harpers-mill-8807-midmay-ter",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6056,7 +4050,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2108",
+              "id": "virginia-copper-grove-at-harpers-mill-16824-copperland-ct",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6073,7 +4067,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2010",
+              "id": "virginia-copper-grove-at-harpers-mill-lot-2010-10",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6090,7 +4084,7 @@
               "image": null
             },
             {
-              "id": "virginia-copper-grove-at-harpers-mill-lot-2097",
+              "id": "virginia-copper-grove-at-harpers-mill-lot-2097-11",
               "address": null,
               "cityStateZip": "Chesterfield, VA 23838",
               "planName": null,
@@ -6223,7 +4217,7 @@
               "image": null
             },
             {
-              "id": "virginia-lakewood-village-lot-0012",
+              "id": "virginia-lakewood-village-lot-0012-4",
               "address": null,
               "cityStateZip": "Prince George, VA 23875",
               "planName": null,
@@ -6240,7 +4234,7 @@
               "image": null
             },
             {
-              "id": "virginia-lakewood-village-lot-0006",
+              "id": "virginia-lakewood-village-lot-0006-5",
               "address": null,
               "cityStateZip": "Prince George, VA 23875",
               "planName": null,
@@ -6356,7 +4350,7 @@
               "image": null
             },
             {
-              "id": "virginia-chappell-creek-lot-1018",
+              "id": "virginia-chappell-creek-lot-1018-3",
               "address": null,
               "cityStateZip": "North Prince George, VA 23860",
               "planName": null,
@@ -6373,7 +4367,7 @@
               "image": null
             },
             {
-              "id": "virginia-chappell-creek-lot-1016",
+              "id": "virginia-chappell-creek-lot-1016-4",
               "address": null,
               "cityStateZip": "North Prince George, VA 23860",
               "planName": null,
@@ -6390,7 +4384,7 @@
               "image": null
             },
             {
-              "id": "virginia-chappell-creek-lot-1085",
+              "id": "virginia-chappell-creek-lot-1085-5",
               "address": null,
               "cityStateZip": "North Prince George, VA 23860",
               "planName": null,
@@ -6407,7 +4401,7 @@
               "image": null
             },
             {
-              "id": "virginia-chappell-creek-lot-1084",
+              "id": "virginia-chappell-creek-lot-1084-6",
               "address": null,
               "cityStateZip": "North Prince George, VA 23860",
               "planName": null,
@@ -6472,7 +4466,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-ladysmith-village-17490-clark-york-boulevard",
+              "id": "virginia-ladysmith-village-0129",
               "address": "17490 Clark & York Boulevard",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6489,7 +4483,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-17470-clark-york-boulevard",
+              "id": "virginia-ladysmith-village-0133",
               "address": "17470 Clark & York Boulevard",
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6540,7 +4534,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0105",
+              "id": "virginia-ladysmith-village-17399-riverside-dr",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6557,7 +4551,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0104",
+              "id": "virginia-ladysmith-village-17401-riverside-dr",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6574,7 +4568,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0103",
+              "id": "virginia-ladysmith-village-17403-riverside-dr",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6591,7 +4585,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0131",
+              "id": "virginia-ladysmith-village-17480-clark--york-boulevard",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6608,7 +4602,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0096",
+              "id": "virginia-ladysmith-village-6235-sterling-way",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6625,7 +4619,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0098",
+              "id": "virginia-ladysmith-village-6245-sterling-way",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6642,7 +4636,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0009",
+              "id": "virginia-ladysmith-village-6292-sterling-way",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6659,7 +4653,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0003",
+              "id": "virginia-ladysmith-village-lot-0003-11",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6676,7 +4670,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0008",
+              "id": "virginia-ladysmith-village-lot-0008-12",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6693,7 +4687,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0010",
+              "id": "virginia-ladysmith-village-lot-0010-13",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6710,7 +4704,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0012",
+              "id": "virginia-ladysmith-village-lot-0012-14",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6727,7 +4721,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0112",
+              "id": "virginia-ladysmith-village-lot-0112-15",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6744,7 +4738,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0113",
+              "id": "virginia-ladysmith-village-lot-0113-16",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6761,7 +4755,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0114",
+              "id": "virginia-ladysmith-village-lot-0114-17",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6778,7 +4772,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0115",
+              "id": "virginia-ladysmith-village-lot-0115-18",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6795,7 +4789,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0116",
+              "id": "virginia-ladysmith-village-lot-0116-19",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6812,7 +4806,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0117",
+              "id": "virginia-ladysmith-village-lot-0117-20",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6829,7 +4823,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0118",
+              "id": "virginia-ladysmith-village-lot-0118-21",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6846,7 +4840,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0125",
+              "id": "virginia-ladysmith-village-lot-0125-22",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6863,7 +4857,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0102",
+              "id": "virginia-ladysmith-village-lot-0102-23",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6880,7 +4874,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0015",
+              "id": "virginia-ladysmith-village-lot-0015-24",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6897,7 +4891,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0014",
+              "id": "virginia-ladysmith-village-lot-0014-25",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6914,7 +4908,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0140",
+              "id": "virginia-ladysmith-village-lot-0140-26",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6931,7 +4925,7 @@
               "image": null
             },
             {
-              "id": "virginia-ladysmith-village-lot-0005",
+              "id": "virginia-ladysmith-village-lot-0005-27",
               "address": null,
               "cityStateZip": "Ruther Glen, VA 22546",
               "planName": null,
@@ -6951,147 +4945,6 @@
           "location": {
             "lat": 38.02063,
             "lng": -77.5339
-          }
-        },
-        {
-          "slug": "marsh-hawk-at-fords-colony",
-          "name": "Marsh Hawk at Ford's Colony",
-          "stateSlug": "virginia",
-          "areaSlug": "richmond",
-          "citySlug": "williamsburg",
-          "cityName": "Williamsburg",
-          "zip": "23188",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.30555,
-            "lng": -76.78119
-          }
-        },
-        {
-          "slug": "country-club-villas",
-          "name": "Country Club Villas",
-          "stateSlug": "virginia",
-          "areaSlug": "richmond",
-          "citySlug": "williamsburg",
-          "cityName": "Williamsburg",
-          "zip": "23188",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Freedom Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 646990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2474,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.30296,
-            "lng": -76.78268
-          }
-        },
-        {
-          "slug": "fenton-hollow",
-          "name": "Fenton Hollow",
-          "stateSlug": "virginia",
-          "areaSlug": "richmond",
-          "citySlug": "williamsburg",
-          "cityName": "Williamsburg",
-          "zip": "23188",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": null,
-          "tag": null,
-          "priceFrom": 569990,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1862,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.35354,
-            "lng": -76.72491
           }
         }
       ]
@@ -7228,7 +5081,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0057",
+              "id": "virginia-smith-farm-5106-duxbury-rd",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7245,7 +5098,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0029",
+              "id": "virginia-smith-farm-5119-duxbury-rd",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7262,7 +5115,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0031",
+              "id": "virginia-smith-farm-5125-duxbury-rd",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7279,7 +5132,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0064",
+              "id": "virginia-smith-farm-lot-0064-7",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7296,7 +5149,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0044",
+              "id": "virginia-smith-farm-lot-0044-8",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7313,7 +5166,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0045",
+              "id": "virginia-smith-farm-lot-0045-9",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7330,7 +5183,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0047",
+              "id": "virginia-smith-farm-lot-0047-10",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7347,7 +5200,7 @@
               "image": null
             },
             {
-              "id": "virginia-smith-farm-lot-0056",
+              "id": "virginia-smith-farm-lot-0056-11",
               "address": null,
               "cityStateZip": "Suffolk, VA 23435",
               "planName": null,
@@ -7480,7 +5333,7 @@
               "image": null
             },
             {
-              "id": "virginia-rose-hill-lot-0044",
+              "id": "virginia-rose-hill-lot-0044-4",
               "address": null,
               "cityStateZip": "Yorktown, VA 23690",
               "planName": null,
@@ -7497,7 +5350,7 @@
               "image": null
             },
             {
-              "id": "virginia-rose-hill-lot-0043",
+              "id": "virginia-rose-hill-lot-0043-5",
               "address": null,
               "cityStateZip": "Yorktown, VA 23690",
               "planName": null,
@@ -7514,7 +5367,7 @@
               "image": null
             },
             {
-              "id": "virginia-rose-hill-lot-0042",
+              "id": "virginia-rose-hill-lot-0042-6",
               "address": null,
               "cityStateZip": "Yorktown, VA 23690",
               "planName": null,
@@ -7531,7 +5384,7 @@
               "image": null
             },
             {
-              "id": "virginia-rose-hill-lot-0011",
+              "id": "virginia-rose-hill-lot-0011-7",
               "address": null,
               "cityStateZip": "Yorktown, VA 23690",
               "planName": null,
@@ -7548,7 +5401,7 @@
               "image": null
             },
             {
-              "id": "virginia-rose-hill-lot-0018",
+              "id": "virginia-rose-hill-lot-0018-8",
               "address": null,
               "cityStateZip": "Yorktown, VA 23690",
               "planName": null,
@@ -7613,7 +5466,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "virginia-brewers-meadows-south-5001-melanie-ct",
+              "id": "virginia-brewers-meadows-south-0058",
               "address": "5001 Melanie Ct",
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7630,7 +5483,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0016",
+              "id": "virginia-brewers-meadows-south-lot-0016-1",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7647,7 +5500,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0017",
+              "id": "virginia-brewers-meadows-south-lot-0017-2",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7664,7 +5517,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0018",
+              "id": "virginia-brewers-meadows-south-lot-0018-3",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7681,7 +5534,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0012",
+              "id": "virginia-brewers-meadows-south-lot-0012-4",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7698,7 +5551,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0013",
+              "id": "virginia-brewers-meadows-south-lot-0013-5",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7715,7 +5568,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0014",
+              "id": "virginia-brewers-meadows-south-lot-0014-6",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7732,7 +5585,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0015",
+              "id": "virginia-brewers-meadows-south-lot-0015-7",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7749,7 +5602,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0065",
+              "id": "virginia-brewers-meadows-south-lot-0065-8",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7766,7 +5619,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0060",
+              "id": "virginia-brewers-meadows-south-lot-0060-9",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7783,7 +5636,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0061",
+              "id": "virginia-brewers-meadows-south-lot-0061-10",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7800,7 +5653,7 @@
               "image": null
             },
             {
-              "id": "virginia-brewers-meadows-south-lot-0063",
+              "id": "virginia-brewers-meadows-south-lot-0063-11",
               "address": null,
               "cityStateZip": "Suffolk, VA 23434",
               "planName": null,
@@ -7933,7 +5786,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0024",
+              "id": "virginia-riverclub-on-the-york-2338-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -7950,7 +5803,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0023",
+              "id": "virginia-riverclub-on-the-york-2340-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -7967,7 +5820,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0022",
+              "id": "virginia-riverclub-on-the-york-2342-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -7984,7 +5837,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0020",
+              "id": "virginia-riverclub-on-the-york-2348-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8001,7 +5854,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0019",
+              "id": "virginia-riverclub-on-the-york-2350-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8018,7 +5871,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0018",
+              "id": "virginia-riverclub-on-the-york-2352-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8035,7 +5888,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0016",
+              "id": "virginia-riverclub-on-the-york-2356-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8052,7 +5905,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0015",
+              "id": "virginia-riverclub-on-the-york-2358-somerset-way",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8069,7 +5922,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0021",
+              "id": "virginia-riverclub-on-the-york-lot-0021-12",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8086,7 +5939,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverclub-on-the-york-lot-0017",
+              "id": "virginia-riverclub-on-the-york-lot-0017-13",
               "address": null,
               "cityStateZip": "Hayes, VA 23072",
               "planName": null,
@@ -8219,7 +6072,7 @@
               "image": null
             },
             {
-              "id": "virginia-country-club-villas-lot-0032",
+              "id": "virginia-country-club-villas-1324-treviso-bay",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8236,7 +6089,7 @@
               "image": null
             },
             {
-              "id": "virginia-country-club-villas-lot-0033",
+              "id": "virginia-country-club-villas-1328-treviso-bay",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8253,7 +6106,7 @@
               "image": null
             },
             {
-              "id": "virginia-country-club-villas-lot-0014",
+              "id": "virginia-country-club-villas-lot-0014-6",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8270,7 +6123,7 @@
               "image": null
             },
             {
-              "id": "virginia-country-club-villas-lot-0018",
+              "id": "virginia-country-club-villas-lot-0018-7",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8287,7 +6140,7 @@
               "image": null
             },
             {
-              "id": "virginia-country-club-villas-lot-0034",
+              "id": "virginia-country-club-villas-lot-0034-8",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8467,7 +6320,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0004",
+              "id": "virginia-fenton-hollow-111-michigan-avenue",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8484,7 +6337,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0051",
+              "id": "virginia-fenton-hollow-205-wisconsin-avenue",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8501,7 +6354,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0054",
+              "id": "virginia-fenton-hollow-211-wisconsin-avenue",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8518,7 +6371,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0058",
+              "id": "virginia-fenton-hollow-219-wisconsin-avenue",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8535,7 +6388,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0052",
+              "id": "virginia-fenton-hollow-lot-0052-8",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8552,7 +6405,7 @@
               "image": null
             },
             {
-              "id": "virginia-fenton-hollow-lot-0055",
+              "id": "virginia-fenton-hollow-lot-0055-9",
               "address": null,
               "cityStateZip": "Williamsburg, VA 23188",
               "planName": null,
@@ -8685,7 +6538,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0024",
+              "id": "virginia-riverview-landing-984-intracoastal-way",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8702,7 +6555,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0012",
+              "id": "virginia-riverview-landing-lot-0012-5",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8719,7 +6572,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0027",
+              "id": "virginia-riverview-landing-lot-0027-6",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8736,7 +6589,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0029",
+              "id": "virginia-riverview-landing-lot-0029-7",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8753,7 +6606,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0072",
+              "id": "virginia-riverview-landing-lot-0072-8",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8770,7 +6623,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0007",
+              "id": "virginia-riverview-landing-lot-0007-9",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8787,7 +6640,7 @@
               "image": null
             },
             {
-              "id": "virginia-riverview-landing-lot-0014",
+              "id": "virginia-riverview-landing-lot-0014-10",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8920,7 +6773,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0081",
+              "id": "virginia-retreat-at-edinburgh-farms-2180-edwin-dr",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8937,7 +6790,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0082",
+              "id": "virginia-retreat-at-edinburgh-farms-2182-edwin-dr",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8954,7 +6807,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0083",
+              "id": "virginia-retreat-at-edinburgh-farms-2184-edwin-dr",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8971,7 +6824,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0094",
+              "id": "virginia-retreat-at-edinburgh-farms-2202-edwin-dr",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -8988,7 +6841,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0092",
+              "id": "virginia-retreat-at-edinburgh-farms-2213-edwin-dr",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -9005,7 +6858,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0047",
+              "id": "virginia-retreat-at-edinburgh-farms-lot-0047-9",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -9022,7 +6875,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0093",
+              "id": "virginia-retreat-at-edinburgh-farms-lot-0093-10",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -9039,7 +6892,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0095",
+              "id": "virginia-retreat-at-edinburgh-farms-lot-0095-11",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,
@@ -9056,7 +6909,7 @@
               "image": null
             },
             {
-              "id": "virginia-retreat-at-edinburgh-farms-lot-0096",
+              "id": "virginia-retreat-at-edinburgh-farms-lot-0096-12",
               "address": null,
               "cityStateZip": "Chesapeake, VA 23322",
               "planName": null,

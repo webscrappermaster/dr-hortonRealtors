@@ -26,13 +26,8 @@
         "milton",
         "magnolia",
         "seaford",
-        "greensboro",
         "millville",
-        "selbyville",
-        "middle-township",
-        "wildwood",
-        "easton",
-        "salisbury"
+        "selbyville"
       ],
       "communities": [
         {
@@ -125,7 +120,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-ingram-village-lot-0193",
+              "id": "delaware-ingram-village-501-sherman-street",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -142,7 +137,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-547-colette-st",
+              "id": "delaware-ingram-village-547-colette-street",
               "address": "547 Colette St",
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -159,7 +154,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-573-colette-st",
+              "id": "delaware-ingram-village-573-colette-street",
               "address": "573 Colette St",
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -176,7 +171,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0156",
+              "id": "delaware-ingram-village-676-south-lee-avenue",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -193,7 +188,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0123",
+              "id": "delaware-ingram-village-lot-0123-4",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -210,7 +205,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0154",
+              "id": "delaware-ingram-village-lot-0154-5",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -227,7 +222,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0122",
+              "id": "delaware-ingram-village-lot-0122-6",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -244,7 +239,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0121",
+              "id": "delaware-ingram-village-lot-0121-7",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -261,7 +256,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0152",
+              "id": "delaware-ingram-village-lot-0152-8",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -278,7 +273,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0151",
+              "id": "delaware-ingram-village-lot-0151-9",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -295,7 +290,7 @@
               "image": null
             },
             {
-              "id": "delaware-ingram-village-lot-0149",
+              "id": "delaware-ingram-village-lot-0149-10",
               "address": null,
               "cityStateZip": "Ellendale, DE 19941",
               "planName": null,
@@ -360,7 +355,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-southfield-274-sarah-side-dr",
+              "id": "delaware-southfield-274-sarah-side-drive",
               "address": "274 Sarah Side Dr",
               "cityStateZip": "Harrington, DE 19952",
               "planName": null,
@@ -377,7 +372,7 @@
               "image": null
             },
             {
-              "id": "delaware-southfield-lot-0038",
+              "id": "delaware-southfield-lot-0038-1",
               "address": null,
               "cityStateZip": "Harrington, DE 19952",
               "planName": null,
@@ -442,7 +437,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-the-granary-106-calypso-ln",
+              "id": "delaware-the-granary-106-calypso-lane",
               "address": "106 Calypso Ln",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -459,7 +454,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-111-topaz-st",
+              "id": "delaware-the-granary-111-topaz-street",
               "address": "111 Topaz St",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -476,7 +471,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-117-topaz-st",
+              "id": "delaware-the-granary-117-topaz-street",
               "address": "117 Topaz St",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -493,7 +488,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-119-topaz-st",
+              "id": "delaware-the-granary-119-topaz-street",
               "address": "119 Topaz St",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -510,7 +505,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-lot-0078",
+              "id": "delaware-the-granary-121-topaz-street",
               "address": null,
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -527,7 +522,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-lot-0164",
+              "id": "delaware-the-granary-lot-0164-5",
               "address": null,
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -544,7 +539,7 @@
               "image": null
             },
             {
-              "id": "delaware-the-granary-lot-0063",
+              "id": "delaware-the-granary-lot-0063-6",
               "address": null,
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -609,7 +604,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-woodfield-preserve-24019-west-cypress-way",
+              "id": "delaware-woodfield-preserve-15248-crape-myrtle-road",
               "address": "24019 West Cypress Way",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -643,7 +638,7 @@
               "image": null
             },
             {
-              "id": "delaware-woodfield-preserve-25042-sugar-maple-dr",
+              "id": "delaware-woodfield-preserve-25042-sugar-maple-drive",
               "address": "25042 Sugar Maple Dr",
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -660,7 +655,7 @@
               "image": null
             },
             {
-              "id": "delaware-woodfield-preserve-lot-0254",
+              "id": "delaware-woodfield-preserve-lot-0254-3",
               "address": null,
               "cityStateZip": "Milton, DE 19968",
               "planName": null,
@@ -725,7 +720,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-magnolia-estates-129-remington-dr",
+              "id": "delaware-magnolia-estates-129-remington-drive",
               "address": "129 Remington Dr",
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -742,7 +737,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-212-remington-dr",
+              "id": "delaware-magnolia-estates-212-remington-drive",
               "address": "212 Remington Dr",
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -759,7 +754,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-45-paulie-cir",
+              "id": "delaware-magnolia-estates-45-paulie-circle",
               "address": "45 Paulie Cir",
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -776,7 +771,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-78-remington-dr",
+              "id": "delaware-magnolia-estates-78-remington-drive",
               "address": "78 Remington Dr",
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -793,7 +788,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0170",
+              "id": "delaware-magnolia-estates-lot-0170-4",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -810,7 +805,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0060",
+              "id": "delaware-magnolia-estates-lot-0060-5",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -827,7 +822,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0171",
+              "id": "delaware-magnolia-estates-lot-0171-6",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -844,7 +839,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0061",
+              "id": "delaware-magnolia-estates-lot-0061-7",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -861,7 +856,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0053",
+              "id": "delaware-magnolia-estates-lot-0053-8",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -878,7 +873,7 @@
               "image": null
             },
             {
-              "id": "delaware-magnolia-estates-lot-0077",
+              "id": "delaware-magnolia-estates-lot-0077-9",
               "address": null,
               "cityStateZip": "Magnolia, DE 19962",
               "planName": null,
@@ -943,7 +938,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-governors-grant-24-chesapeake-dr",
+              "id": "delaware-governors-grant-24-chesapeake-drive",
               "address": "24 Chesapeake Dr",
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -960,7 +955,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-26-chesapeake-dr",
+              "id": "delaware-governors-grant-26-chesapeake-drive",
               "address": "26 Chesapeake Dr",
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -977,7 +972,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-28-chesapeake-dr",
+              "id": "delaware-governors-grant-28-chesapeake-drive",
               "address": "28 Chesapeake Dr",
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -994,7 +989,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-29-chesapeake-dr",
+              "id": "delaware-governors-grant-29-chesapeake-drive",
               "address": "29 Chesapeake Dr",
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -1011,7 +1006,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-lot-0005",
+              "id": "delaware-governors-grant-lot-0005-4",
               "address": null,
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -1028,7 +1023,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-lot-0027",
+              "id": "delaware-governors-grant-lot-0027-5",
               "address": null,
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -1045,7 +1040,7 @@
               "image": null
             },
             {
-              "id": "delaware-governors-grant-lot-0028",
+              "id": "delaware-governors-grant-lot-0028-6",
               "address": null,
               "cityStateZip": "Seaford, DE 19973",
               "planName": null,
@@ -1065,53 +1060,6 @@
           "location": {
             "lat": 38.65383,
             "lng": -75.62967
-          }
-        },
-        {
-          "slug": "kinnamon-meadows",
-          "name": "Kinnamon Meadows",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "greensboro",
-          "cityName": "Greensboro",
-          "zip": "21639",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 294990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 0,
-            "max": 1
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1182,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.97836,
-            "lng": -75.81045
           }
         },
         {
@@ -1157,7 +1105,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-21331-cottage-ct",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21331-cottage-court",
               "address": "21331 Cottage Ct",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1174,7 +1122,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-21354-cottage-ct",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21354-cottage-court",
               "address": "21354 Cottage Ct",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1191,7 +1139,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-21420-farmington-rd",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21420-farmington-road",
               "address": "21420 Farmington Rd",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1208,7 +1156,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-21424-farmington-rd",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21424-farmington-road",
               "address": "21424 Farmington Rd",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1225,7 +1173,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2156",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-32507-emory-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1242,7 +1190,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2155",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-32509-emory-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1259,7 +1207,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2029",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21323-cottage-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1276,7 +1224,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2051",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-21352-cottage-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1293,7 +1241,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2153",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-32513-emory-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1310,7 +1258,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2152",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-32515-emory-court",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1327,7 +1275,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2028",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2028-10",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1344,7 +1292,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2027",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2027-11",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1361,7 +1309,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2049",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2049-12",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1378,7 +1326,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2053",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2053-13",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1395,7 +1343,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2023",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2023-14",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1412,7 +1360,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2013",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2013-15",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1429,7 +1377,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2094",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2094-16",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1446,7 +1394,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2095",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2095-17",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1463,7 +1411,7 @@
               "image": null
             },
             {
-              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2154",
+              "id": "delaware-west-bay-village-at-millville-by-the-sea-lot-2154-18",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1528,7 +1476,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "delaware-millville-by-the-sea-14404-red-oak-ct",
+              "id": "delaware-millville-by-the-sea-14404-red-oak-court",
               "address": "14404 Red Oak Ct",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1545,7 +1493,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-34238-forest-acres-dr",
+              "id": "delaware-millville-by-the-sea-34238-forest-acres-drive",
               "address": "34238 Forest Acres Dr",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1562,7 +1510,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-34360-east-lake-ln",
+              "id": "delaware-millville-by-the-sea-34360-east-lake-lane",
               "address": "34360 East Lake Ln",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1579,7 +1527,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-34504-east-bend-st",
+              "id": "delaware-millville-by-the-sea-34504-east-bend-street",
               "address": "34504 East Bend St",
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1596,7 +1544,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4111",
+              "id": "delaware-millville-by-the-sea-34511-east-bend-street",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1613,7 +1561,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4115",
+              "id": "delaware-millville-by-the-sea-34521-east-bend-street",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1630,7 +1578,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4022",
+              "id": "delaware-millville-by-the-sea-34242-forest-acres-drive",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1647,7 +1595,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4060",
+              "id": "delaware-millville-by-the-sea-34352-east-lake-lane",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1664,7 +1612,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4112",
+              "id": "delaware-millville-by-the-sea-34513-east-bend-street",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1681,7 +1629,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4127",
+              "id": "delaware-millville-by-the-sea-lot-4127-9",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1698,7 +1646,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4020",
+              "id": "delaware-millville-by-the-sea-lot-4020-10",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1715,7 +1663,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4062",
+              "id": "delaware-millville-by-the-sea-lot-4062-11",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1732,7 +1680,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4051",
+              "id": "delaware-millville-by-the-sea-lot-4051-12",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1749,7 +1697,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4108",
+              "id": "delaware-millville-by-the-sea-lot-4108-13",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1766,7 +1714,7 @@
               "image": null
             },
             {
-              "id": "delaware-millville-by-the-sea-lot-4114",
+              "id": "delaware-millville-by-the-sea-lot-4114-14",
               "address": null,
               "cityStateZip": "Millville, DE 19967",
               "planName": null,
@@ -1848,7 +1796,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-8703-crystal-lake-dr",
+              "id": "delaware-coastal-villages-8703-crystal-lake-drive",
               "address": "8703 Crystal Lake Dr",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1865,7 +1813,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-8706-crystal-lake-dr",
+              "id": "delaware-coastal-villages-8706-crystal-lake-drive",
               "address": "8706 Crystal Lake Dr",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1882,7 +1830,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-9348-streamside-dr",
+              "id": "delaware-coastal-villages-9348-streamside-drive",
               "address": "9348 Streamside Dr",
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1899,7 +1847,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0091",
+              "id": "delaware-coastal-villages-9355-greenway-trail",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1916,7 +1864,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0092",
+              "id": "delaware-coastal-villages-9357-greenway-trail",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1933,7 +1881,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0093",
+              "id": "delaware-coastal-villages-9359-greenway-trail",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1950,7 +1898,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0106",
+              "id": "delaware-coastal-villages-9368-greenway-trail",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1967,7 +1915,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0125",
+              "id": "delaware-coastal-villages-9371-streamside-drive",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -1984,7 +1932,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0145",
+              "id": "delaware-coastal-villages-tbd-streamside-drive",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -2001,7 +1949,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0089",
+              "id": "delaware-coastal-villages-lot-0089-10",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -2018,7 +1966,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0112",
+              "id": "delaware-coastal-villages-lot-0112-11",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -2035,7 +1983,7 @@
               "image": null
             },
             {
-              "id": "delaware-coastal-villages-lot-0124",
+              "id": "delaware-coastal-villages-lot-0124-12",
               "address": null,
               "cityStateZip": "Selbyville, DE 19975",
               "planName": null,
@@ -2055,288 +2003,6 @@
           "location": {
             "lat": 38.46233,
             "lng": -75.19489
-          }
-        },
-        {
-          "slug": "coastal-crossing",
-          "name": "Coastal Crossing",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "middle-township",
-          "cityName": "Middle Township",
-          "zip": "08242",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439190,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2313,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.01952,
-            "lng": -74.86792
-          }
-        },
-        {
-          "slug": "cape-may-county-spot-lots",
-          "name": "Cape May County Select",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "wildwood",
-          "cityName": "Wildwood",
-          "zip": "08260",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.98742,
-            "lng": -74.82346
-          }
-        },
-        {
-          "slug": "gannon-range",
-          "name": "Gannon Range",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "easton",
-          "cityName": "Easton",
-          "zip": "21601",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 429990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 2,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1748,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.78884,
-            "lng": -76.03915
-          }
-        },
-        {
-          "slug": "forest-glenn",
-          "name": "Forest Glenn",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "salisbury",
-          "cityName": "Salisbury",
-          "zip": "21801",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 259990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 2,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 0,
-            "max": 1
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1059,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.38892,
-            "lng": -75.61457
-          }
-        },
-        {
-          "slug": "heritage-trace",
-          "name": "Heritage Trace",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "salisbury",
-          "cityName": "Salisbury",
-          "zip": "21801",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 239990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 0,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1333,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.36509,
-            "lng": -75.62219
-          }
-        },
-        {
-          "slug": "birdsong-village",
-          "name": "Birdsong Village",
-          "stateSlug": "delaware",
-          "areaSlug": "delaware",
-          "citySlug": "salisbury",
-          "cityName": "Salisbury",
-          "zip": "21801",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 314990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1219,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.36024,
-            "lng": -75.62882
           }
         }
       ]

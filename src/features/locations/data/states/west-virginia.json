@@ -22,12 +22,7 @@
       "cities": [
         "martinsburg",
         "shenandoah-junction",
-        "charles-town",
-        "winchester",
-        "hagerstown",
-        "stephens-city",
-        "frederick",
-        "strasburg"
+        "charles-town"
       ],
       "communities": [
         {
@@ -124,7 +119,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-red-hill-lot-0236",
+              "id": "west-virginia-red-hill-lot-0236-3",
               "address": null,
               "cityStateZip": "Martinsburg, WV 25403",
               "planName": null,
@@ -141,7 +136,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-red-hill-lot-0237",
+              "id": "west-virginia-red-hill-lot-0237-4",
               "address": null,
               "cityStateZip": "Martinsburg, WV 25403",
               "planName": null,
@@ -158,7 +153,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-red-hill-lot-0258",
+              "id": "west-virginia-red-hill-lot-0258-5",
               "address": null,
               "cityStateZip": "Martinsburg, WV 25403",
               "planName": null,
@@ -175,7 +170,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-red-hill-lot-0326",
+              "id": "west-virginia-red-hill-lot-0326-6",
               "address": null,
               "cityStateZip": "Martinsburg, WV 25403",
               "planName": null,
@@ -192,7 +187,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-red-hill-lot-0316",
+              "id": "west-virginia-red-hill-lot-0316-7",
               "address": null,
               "cityStateZip": "Martinsburg, WV 25403",
               "planName": null,
@@ -291,7 +286,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stonecrest-lot-4302",
+              "id": "west-virginia-stonecrest-lot-4302-2",
               "address": null,
               "cityStateZip": "Shenandoah Junction, WV 25442",
               "planName": null,
@@ -424,7 +419,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0361",
+              "id": "west-virginia-riverpointe-203-eclipse-street",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -441,7 +436,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0365",
+              "id": "west-virginia-riverpointe-lot-0365-5",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -458,7 +453,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0366",
+              "id": "west-virginia-riverpointe-lot-0366-6",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -475,7 +470,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0377",
+              "id": "west-virginia-riverpointe-lot-0377-7",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -492,7 +487,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0379",
+              "id": "west-virginia-riverpointe-lot-0379-8",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -509,7 +504,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0378",
+              "id": "west-virginia-riverpointe-lot-0378-9",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -526,7 +521,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0368",
+              "id": "west-virginia-riverpointe-lot-0368-10",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -543,7 +538,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0369",
+              "id": "west-virginia-riverpointe-lot-0369-11",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -560,7 +555,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0364",
+              "id": "west-virginia-riverpointe-lot-0364-12",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -577,7 +572,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0380",
+              "id": "west-virginia-riverpointe-lot-0380-13",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -594,7 +589,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0376",
+              "id": "west-virginia-riverpointe-lot-0376-14",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -611,7 +606,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0426",
+              "id": "west-virginia-riverpointe-lot-0426-15",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -628,7 +623,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0418",
+              "id": "west-virginia-riverpointe-lot-0418-16",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -645,7 +640,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0358",
+              "id": "west-virginia-riverpointe-lot-0358-17",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -662,7 +657,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0425",
+              "id": "west-virginia-riverpointe-lot-0425-18",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -679,7 +674,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0360",
+              "id": "west-virginia-riverpointe-lot-0360-19",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -696,7 +691,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-riverpointe-lot-0359",
+              "id": "west-virginia-riverpointe-lot-0359-20",
               "address": null,
               "cityStateZip": "Charles Town, WV 25414",
               "planName": null,
@@ -716,476 +711,6 @@
           "location": {
             "lat": 39.29652,
             "lng": -77.83584
-          }
-        },
-        {
-          "slug": "retreat-at-winding-creek",
-          "name": "Retreat at Winding Creek Single Family",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 429990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1657,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17383,
-            "lng": -78.08712
-          }
-        },
-        {
-          "slug": "retreat-at-winding-creek-townhomes",
-          "name": "Retreat at Winding Creek Townhomes",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1889,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17142,
-            "lng": -78.08315
-          }
-        },
-        {
-          "slug": "virginia-commons",
-          "name": "Virginia Commons",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "hagerstown",
-          "cityName": "Hagerstown",
-          "zip": "21740",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 386088,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.62454,
-            "lng": -77.7419
-          }
-        },
-        {
-          "slug": "abrams-crossing-at-meadow-branch",
-          "name": "Abrams Crossing at Meadow Branch",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22601",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1655,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17073,
-            "lng": -78.18427
-          }
-        },
-        {
-          "slug": "willow-run",
-          "name": "Willow Run",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 419990,
-          "availableHomesCount": 7,
-          "beds": {
-            "min": 2,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1748,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.16673,
-            "lng": -78.19437
-          }
-        },
-        {
-          "slug": "valley-view-townhomes",
-          "name": "Valley View Townhomes",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "stephens-city",
-          "cityName": "Stephens City",
-          "zip": "22655",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 362990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1889,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10106,
-            "lng": -78.20963
-          }
-        },
-        {
-          "slug": "valley-view",
-          "name": "Valley View Single Family",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "stephens-city",
-          "cityName": "Stephens City",
-          "zip": "22655",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10106,
-            "lng": -78.20963
-          }
-        },
-        {
-          "slug": "summervale",
-          "name": "Summervale",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21703",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439988,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 4.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1763,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41772,
-            "lng": -77.46851
-          }
-        },
-        {
-          "slug": "renn-quarter",
-          "name": "Renn Quarter",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "frederick",
-          "cityName": "Frederick",
-          "zip": "21701",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 4,
-            "max": 6
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1962,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.41936,
-            "lng": -77.38927
-          }
-        },
-        {
-          "slug": "meadowbrook",
-          "name": "Meadowbrook",
-          "stateSlug": "west-virginia",
-          "areaSlug": "eastern-panhandle",
-          "citySlug": "strasburg",
-          "cityName": "Strasburg",
-          "zip": "22657",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 319990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1651,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.99819,
-            "lng": -78.35505
           }
         }
       ]
@@ -1253,7 +778,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "west-virginia-woodside-ridge-lot-0016",
+              "id": "west-virginia-woodside-ridge-342-dye-lane",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1270,7 +795,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0032",
+              "id": "west-virginia-woodside-ridge-327-dye-lane",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1287,7 +812,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0189",
+              "id": "west-virginia-woodside-ridge-742-hardman-drive",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1304,7 +829,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0015",
+              "id": "west-virginia-woodside-ridge-340-dye-lane",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1321,7 +846,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0156",
+              "id": "west-virginia-woodside-ridge-761-hardman-drive",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1338,7 +863,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0185",
+              "id": "west-virginia-woodside-ridge-750-hardman-drive",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1355,7 +880,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0012",
+              "id": "west-virginia-woodside-ridge-lot-0012-6",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1372,7 +897,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0153",
+              "id": "west-virginia-woodside-ridge-lot-0153-7",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1389,7 +914,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0155",
+              "id": "west-virginia-woodside-ridge-lot-0155-8",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1406,7 +931,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0158",
+              "id": "west-virginia-woodside-ridge-lot-0158-9",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1423,7 +948,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0101",
+              "id": "west-virginia-woodside-ridge-lot-0101-10",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1440,7 +965,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0104",
+              "id": "west-virginia-woodside-ridge-lot-0104-11",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1457,7 +982,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0187",
+              "id": "west-virginia-woodside-ridge-lot-0187-12",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1474,7 +999,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-woodside-ridge-lot-0186",
+              "id": "west-virginia-woodside-ridge-lot-0186-13",
               "address": null,
               "cityStateZip": "Morgantown Area, WV 26501",
               "planName": null,
@@ -1586,7 +1111,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "west-virginia-meadow-ponds-904-bogey-lane",
+              "id": "west-virginia-meadow-ponds-904-bunker-court",
               "address": "904 Bogey Lane",
               "cityStateZip": "Morgantown, WV 26541",
               "planName": null,
@@ -1620,7 +1145,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-meadow-ponds-lot-0096",
+              "id": "west-virginia-meadow-ponds-lot-0096-2",
               "address": null,
               "cityStateZip": "Morgantown, WV 26541",
               "planName": null,
@@ -1637,7 +1162,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-meadow-ponds-lot-0097",
+              "id": "west-virginia-meadow-ponds-lot-0097-3",
               "address": null,
               "cityStateZip": "Morgantown, WV 26541",
               "planName": null,
@@ -1702,7 +1227,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "west-virginia-eastview-manor-lot-0073",
+              "id": "west-virginia-eastview-manor-15-vision-drive",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1719,7 +1244,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-eastview-manor-lot-0074",
+              "id": "west-virginia-eastview-manor-19-vision-drive",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1736,7 +1261,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-eastview-manor-lot-0072",
+              "id": "west-virginia-eastview-manor-lot-0072-2",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1869,7 +1394,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0012",
+              "id": "west-virginia-stafford-village-12-erow-street",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1886,7 +1411,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0002",
+              "id": "west-virginia-stafford-village-2-erow-street",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1903,7 +1428,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0016",
+              "id": "west-virginia-stafford-village-lot-0016-6",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1920,7 +1445,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0018",
+              "id": "west-virginia-stafford-village-lot-0018-7",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1937,7 +1462,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0022",
+              "id": "west-virginia-stafford-village-lot-0022-8",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1954,7 +1479,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0020",
+              "id": "west-virginia-stafford-village-lot-0020-9",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -1971,7 +1496,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-stafford-village-lot-0014",
+              "id": "west-virginia-stafford-village-lot-0014-10",
               "address": null,
               "cityStateZip": "Fairmont, WV 26554",
               "planName": null,
@@ -2070,7 +1595,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-worthington-village-lot-0147",
+              "id": "west-virginia-worthington-village-lot-0147-2",
               "address": null,
               "cityStateZip": "Bridgeport, WV 26330",
               "planName": null,
@@ -2087,7 +1612,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-worthington-village-lot-0149",
+              "id": "west-virginia-worthington-village-lot-0149-3",
               "address": null,
               "cityStateZip": "Bridgeport, WV 26330",
               "planName": null,
@@ -2104,7 +1629,7 @@
               "image": null
             },
             {
-              "id": "west-virginia-worthington-village-lot-0131",
+              "id": "west-virginia-worthington-village-lot-0131-4",
               "address": null,
               "cityStateZip": "Bridgeport, WV 26330",
               "planName": null,

@@ -66,7 +66,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-ponderosa-lot-0023",
+              "id": "oregon-ponderosa-62615-ne-lawler-place",
               "address": null,
               "cityStateZip": "Bend, OR 97701",
               "planName": null,
@@ -131,7 +131,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-stevens-ranch-townhomes-lot-0290",
+              "id": "oregon-stevens-ranch-townhomes-61739-se-santorini-street",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -148,7 +148,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-townhomes-lot-0291",
+              "id": "oregon-stevens-ranch-townhomes-61743-se-santorini-street",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -165,7 +165,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-townhomes-lot-0293",
+              "id": "oregon-stevens-ranch-townhomes-61751-se-santorini-street",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -230,7 +230,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-stevens-ranch-lot-0092",
+              "id": "oregon-stevens-ranch-21545-se-etna-place",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -247,7 +247,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0070",
+              "id": "oregon-stevens-ranch-21548-se-etna-place",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -264,7 +264,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0093",
+              "id": "oregon-stevens-ranch-21549-se-etna-place",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -281,7 +281,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0037",
+              "id": "oregon-stevens-ranch-21709-se-stromboli-lane",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -298,7 +298,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0163",
+              "id": "oregon-stevens-ranch-21357-se-kilimanjaro-loop",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -315,7 +315,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0068",
+              "id": "oregon-stevens-ranch-21556-se-etna-place",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -332,7 +332,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0035",
+              "id": "oregon-stevens-ranch-21717-se-stromboli-lane",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -349,7 +349,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0026",
+              "id": "oregon-stevens-ranch-21756-se-stromboli-lane",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -366,7 +366,7 @@
               "image": null
             },
             {
-              "id": "oregon-stevens-ranch-lot-0135",
+              "id": "oregon-stevens-ranch-21812-se-stromboli-court",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -431,7 +431,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-thunder-ridge-lot-0016",
+              "id": "oregon-thunder-ridge-61016-se-buxton-loop",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -448,7 +448,7 @@
               "image": null
             },
             {
-              "id": "oregon-thunder-ridge-lot-0015",
+              "id": "oregon-thunder-ridge-61018-se-buxton-loop",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -465,7 +465,7 @@
               "image": null
             },
             {
-              "id": "oregon-thunder-ridge-lot-0031",
+              "id": "oregon-thunder-ridge-61209-parrell-rd",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -482,7 +482,7 @@
               "image": null
             },
             {
-              "id": "oregon-thunder-ridge-lot-0032",
+              "id": "oregon-thunder-ridge-61211-parrell-rd",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -499,7 +499,7 @@
               "image": null
             },
             {
-              "id": "oregon-thunder-ridge-lot-0035",
+              "id": "oregon-thunder-ridge-61219-parrell-rd",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -516,7 +516,7 @@
               "image": null
             },
             {
-              "id": "oregon-thunder-ridge-lot-0038",
+              "id": "oregon-thunder-ridge-61225-parrell-rd",
               "address": null,
               "cityStateZip": "Bend, OR 97702",
               "planName": null,
@@ -554,579 +554,11 @@
         "lng": -122.7854
       },
       "cities": [
-        "ridgefield",
-        "vancouver",
-        "battle-ground",
-        "woodland",
         "forest-grove",
         "gresham",
         "happy-valley"
       ],
       "communities": [
-        {
-          "slug": "four-creeks---tradition",
-          "name": "Four Creeks - Tradition",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "ridgefield",
-          "cityName": "Ridgefield",
-          "zip": "98642",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2174,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.75379,
-            "lng": -122.6415
-          }
-        },
-        {
-          "slug": "kunze-farms-townhomes",
-          "name": "Kunze Farms Townhomes",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98661",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": null,
-          "tag": null,
-          "priceFrom": 379995,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1394,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.65879,
-            "lng": -122.6117
-          }
-        },
-        {
-          "slug": "kunze-farms",
-          "name": "Kunze Farms",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98661",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449995,
-          "availableHomesCount": 16,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.65909,
-            "lng": -122.6089
-          }
-        },
-        {
-          "slug": "fircrest-landing",
-          "name": "Fircrest Landing",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98684",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 589995,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2230,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.63361,
-            "lng": -122.5469
-          }
-        },
-        {
-          "slug": "fircrest-meadows",
-          "name": "Fircrest Meadows",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98684",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 589995,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2449,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.63361,
-            "lng": -122.5469
-          }
-        },
-        {
-          "slug": "119th-street-station",
-          "name": "119th Street Station",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98682",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.70627,
-            "lng": -122.5262
-          }
-        },
-        {
-          "slug": "oakpointe-crossing",
-          "name": "Oakpointe Crossing",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98664",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439995,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.60692,
-            "lng": -122.5585
-          }
-        },
-        {
-          "slug": "stonewood-haven-ii",
-          "name": "Stonewood Haven II",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "battle-ground",
-          "cityName": "Battle Ground",
-          "zip": "98604",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.79637,
-            "lng": -122.5367
-          }
-        },
-        {
-          "slug": "sterling-ranch",
-          "name": "Sterling Ranch",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "battle-ground",
-          "cityName": "Battle Ground",
-          "zip": "98604",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 539995,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.75
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1802,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.80203,
-            "lng": -122.5399
-          }
-        },
-        {
-          "slug": "northfork-landing",
-          "name": "Northfork Landing",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "woodland",
-          "cityName": "Woodland",
-          "zip": "98674",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 389995,
-          "availableHomesCount": 13,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.9186,
-            "lng": -122.7319
-          }
-        },
-        {
-          "slug": "cascade-terrace",
-          "name": "Cascade Terrace",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Camas",
-          "zip": "98607",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439995,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.61305,
-            "lng": -122.4756
-          }
-        },
-        {
-          "slug": "fishers-creek-terrace",
-          "name": "Fisher's Creek Terrace",
-          "stateSlug": "oregon",
-          "areaSlug": "greater-portland",
-          "citySlug": "vancouver",
-          "cityName": "Vancouver",
-          "zip": "98683",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1484,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 45.5888,
-            "lng": -122.4899
-          }
-        },
         {
           "slug": "bailey-meadows",
           "name": "Bailey Meadows",
@@ -1238,7 +670,7 @@
               "image": null
             },
             {
-              "id": "oregon-bailey-meadows-lot-0030",
+              "id": "oregon-bailey-meadows-3755-ash-street",
               "address": null,
               "cityStateZip": "Forest Grove, OR 97116",
               "planName": null,
@@ -1255,7 +687,7 @@
               "image": null
             },
             {
-              "id": "oregon-bailey-meadows-lot-0042",
+              "id": "oregon-bailey-meadows-3774-ash-street",
               "address": null,
               "cityStateZip": "Forest Grove, OR 97116",
               "planName": null,
@@ -1272,7 +704,7 @@
               "image": null
             },
             {
-              "id": "oregon-bailey-meadows-lot-0041",
+              "id": "oregon-bailey-meadows-lot-0041-6",
               "address": null,
               "cityStateZip": "Forest Grove, OR 97116",
               "planName": null,
@@ -1405,7 +837,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0069",
+              "id": "oregon-terrace-at-pleasant-valley-3490-sw-royal-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1422,7 +854,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0068",
+              "id": "oregon-terrace-at-pleasant-valley-3512-sw-royal-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1439,7 +871,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0054",
+              "id": "oregon-terrace-at-pleasant-valley-3517-sw-hartley-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1456,7 +888,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0067",
+              "id": "oregon-terrace-at-pleasant-valley-3520-sw-royal-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1473,7 +905,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0055",
+              "id": "oregon-terrace-at-pleasant-valley-3531-sw-hartley-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1490,7 +922,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0066",
+              "id": "oregon-terrace-at-pleasant-valley-3534-sw-royal-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1507,7 +939,7 @@
               "image": null
             },
             {
-              "id": "oregon-terrace-at-pleasant-valley-lot-0057",
+              "id": "oregon-terrace-at-pleasant-valley-3559-sw-hartley-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1640,7 +1072,7 @@
               "image": null
             },
             {
-              "id": "oregon-avery-terrace-lot-0059",
+              "id": "oregon-avery-terrace-16671-se-wintergreen-street",
               "address": null,
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
@@ -1657,7 +1089,7 @@
               "image": null
             },
             {
-              "id": "oregon-avery-terrace-lot-0129",
+              "id": "oregon-avery-terrace-9310-se-162nd-avenue",
               "address": null,
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
@@ -1674,7 +1106,7 @@
               "image": null
             },
             {
-              "id": "oregon-avery-terrace-lot-0130",
+              "id": "oregon-avery-terrace-9328-se-162nd-avenue",
               "address": null,
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
@@ -1691,7 +1123,7 @@
               "image": null
             },
             {
-              "id": "oregon-avery-terrace-lot-0121",
+              "id": "oregon-avery-terrace-lot-0121-7",
               "address": null,
               "cityStateZip": "Happy Valley, OR 97086",
               "planName": null,
@@ -1824,7 +1256,7 @@
               "image": null
             },
             {
-              "id": "oregon-butler-creek-crossing-lot-1074",
+              "id": "oregon-butler-creek-crossing-2414-sw-37th-street",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1841,7 +1273,7 @@
               "image": null
             },
             {
-              "id": "oregon-butler-creek-crossing-lot-1084",
+              "id": "oregon-butler-creek-crossing-2419-sw-39th-street",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1858,7 +1290,7 @@
               "image": null
             },
             {
-              "id": "oregon-butler-creek-crossing-lot-1083",
+              "id": "oregon-butler-creek-crossing-2431-sw-39th-street",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -1875,7 +1307,7 @@
               "image": null
             },
             {
-              "id": "oregon-butler-creek-crossing-lot-1081",
+              "id": "oregon-butler-creek-crossing-3860-sw-eleven-mile-avenue",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -2008,7 +1440,7 @@
               "image": null
             },
             {
-              "id": "oregon-the-vineyards-at-blue-pearl-lot-0113",
+              "id": "oregon-the-vineyards-at-blue-pearl-6224-se-lusted-road",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -2025,7 +1457,7 @@
               "image": null
             },
             {
-              "id": "oregon-the-vineyards-at-blue-pearl-lot-0114",
+              "id": "oregon-the-vineyards-at-blue-pearl-6236-se-lusted-road",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -2042,7 +1474,7 @@
               "image": null
             },
             {
-              "id": "oregon-the-vineyards-at-blue-pearl-lot-0179",
+              "id": "oregon-the-vineyards-at-blue-pearl-6203-se-15th-street",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -2059,7 +1491,7 @@
               "image": null
             },
             {
-              "id": "oregon-the-vineyards-at-blue-pearl-lot-0098",
+              "id": "oregon-the-vineyards-at-blue-pearl-lot-0098-7",
               "address": null,
               "cityStateZip": "Gresham, OR 97080",
               "planName": null,
@@ -2190,7 +1622,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-addysen-park-lot-2008",
+              "id": "oregon-addysen-park-2595-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2207,7 +1639,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2002",
+              "id": "oregon-addysen-park-2643-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2224,7 +1656,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2001",
+              "id": "oregon-addysen-park-2651-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2241,7 +1673,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2013",
+              "id": "oregon-addysen-park-2578-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2258,7 +1690,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2014",
+              "id": "oregon-addysen-park-2586-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2275,7 +1707,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2015",
+              "id": "oregon-addysen-park-2594-addysen-park-way",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2292,7 +1724,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-3005",
+              "id": "oregon-addysen-park-2639-dakota-ave",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2309,7 +1741,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-0023",
+              "id": "oregon-addysen-park-504-dawn-court",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2326,7 +1758,7 @@
               "image": null
             },
             {
-              "id": "oregon-addysen-park-lot-2012",
+              "id": "oregon-addysen-park-lot-2012-8",
               "address": null,
               "cityStateZip": "Medford, OR 97501",
               "planName": null,
@@ -2410,7 +1842,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-east-park-village-lot-0564",
+              "id": "oregon-east-park-village-440-reno-street-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2427,7 +1859,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0607",
+              "id": "oregon-east-park-village-455-pietro-street-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2444,7 +1876,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0597",
+              "id": "oregon-east-park-village-4941-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2461,7 +1893,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0562",
+              "id": "oregon-east-park-village-432-reno-street-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2478,7 +1910,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0565",
+              "id": "oregon-east-park-village-444-reno-street-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2495,7 +1927,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0610",
+              "id": "oregon-east-park-village-467-pietro-street-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2512,7 +1944,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0555",
+              "id": "oregon-east-park-village-4958-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2529,7 +1961,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0556",
+              "id": "oregon-east-park-village-4964-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2546,7 +1978,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0593",
+              "id": "oregon-east-park-village-4965-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2563,7 +1995,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0592",
+              "id": "oregon-east-park-village-4971-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2580,7 +2012,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0557",
+              "id": "oregon-east-park-village-4972-elvis-avenue-ne",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2597,7 +2029,7 @@
               "image": null
             },
             {
-              "id": "oregon-east-park-village-lot-0554",
+              "id": "oregon-east-park-village-lot-0554-11",
               "address": null,
               "cityStateZip": "Salem, OR 97301",
               "planName": null,
@@ -2662,7 +2094,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-landau-heights-lot-0028",
+              "id": "oregon-landau-heights-2705-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2679,7 +2111,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0029",
+              "id": "oregon-landau-heights-2713-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2696,7 +2128,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0003",
+              "id": "oregon-landau-heights-5788-granger-street-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2713,7 +2145,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0004",
+              "id": "oregon-landau-heights-5794-granger-street-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2730,7 +2162,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0034",
+              "id": "oregon-landau-heights-2632-landau-street-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2747,7 +2179,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0032",
+              "id": "oregon-landau-heights-2648-landau-street-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2764,7 +2196,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0021",
+              "id": "oregon-landau-heights-2649-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2781,7 +2213,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0023",
+              "id": "oregon-landau-heights-2663-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2798,7 +2230,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0026",
+              "id": "oregon-landau-heights-2689-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2815,7 +2247,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0027",
+              "id": "oregon-landau-heights-2697-soapstone-avenue-se",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2832,7 +2264,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0033",
+              "id": "oregon-landau-heights-lot-0033-10",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2849,7 +2281,7 @@
               "image": null
             },
             {
-              "id": "oregon-landau-heights-lot-0031",
+              "id": "oregon-landau-heights-lot-0031-11",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2914,7 +2346,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "oregon-sorrento-estates-lot-0013",
+              "id": "oregon-sorrento-estates-2176-veneta-avenue-south",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2931,7 +2363,7 @@
               "image": null
             },
             {
-              "id": "oregon-sorrento-estates-lot-0014",
+              "id": "oregon-sorrento-estates-2188-veneta-avenue-south",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2948,7 +2380,7 @@
               "image": null
             },
             {
-              "id": "oregon-sorrento-estates-lot-0010",
+              "id": "oregon-sorrento-estates-2197-veneta-avenue-south",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2965,7 +2397,7 @@
               "image": null
             },
             {
-              "id": "oregon-sorrento-estates-lot-0002",
+              "id": "oregon-sorrento-estates-2293-veneta-avenue-south",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,
@@ -2982,7 +2414,7 @@
               "image": null
             },
             {
-              "id": "oregon-sorrento-estates-lot-0003",
+              "id": "oregon-sorrento-estates-2281-veneta-avenue-south",
               "address": null,
               "cityStateZip": "Salem, OR 97306",
               "planName": null,

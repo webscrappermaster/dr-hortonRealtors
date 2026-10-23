@@ -24,12 +24,7 @@
         "middle-river",
         "baltimore",
         "joppa",
-        "havre-de-grace",
-        "shrewsbury",
-        "hanover",
-        "york",
-        "oxford",
-        "gettysburg"
+        "havre-de-grace"
       ],
       "communities": [
         {
@@ -126,7 +121,7 @@
               "image": null
             },
             {
-              "id": "maryland-villages-of-white-marsh-lot-5037",
+              "id": "maryland-villages-of-white-marsh-lot-5037-3",
               "address": null,
               "cityStateZip": "Rosedale, MD 21237",
               "planName": null,
@@ -143,7 +138,7 @@
               "image": null
             },
             {
-              "id": "maryland-villages-of-white-marsh-lot-5192",
+              "id": "maryland-villages-of-white-marsh-lot-5192-4",
               "address": null,
               "cityStateZip": "Rosedale, MD 21237",
               "planName": null,
@@ -160,7 +155,7 @@
               "image": null
             },
             {
-              "id": "maryland-villages-of-white-marsh-lot-5036",
+              "id": "maryland-villages-of-white-marsh-lot-5036-5",
               "address": null,
               "cityStateZip": "Rosedale, MD 21237",
               "planName": null,
@@ -177,7 +172,7 @@
               "image": null
             },
             {
-              "id": "maryland-villages-of-white-marsh-lot-5194",
+              "id": "maryland-villages-of-white-marsh-lot-5194-6",
               "address": null,
               "cityStateZip": "Rosedale, MD 21237",
               "planName": null,
@@ -194,7 +189,7 @@
               "image": null
             },
             {
-              "id": "maryland-villages-of-white-marsh-lot-5224",
+              "id": "maryland-villages-of-white-marsh-lot-5224-7",
               "address": null,
               "cityStateZip": "Rosedale, MD 21237",
               "planName": null,
@@ -327,7 +322,7 @@
               "image": null
             },
             {
-              "id": "maryland-creekside-estates-lot-0046",
+              "id": "maryland-creekside-estates-lot-0046-4",
               "address": null,
               "cityStateZip": "Middle River, MD 21220",
               "planName": null,
@@ -344,7 +339,7 @@
               "image": null
             },
             {
-              "id": "maryland-creekside-estates-lot-0050",
+              "id": "maryland-creekside-estates-lot-0050-5",
               "address": null,
               "cityStateZip": "Middle River, MD 21220",
               "planName": null,
@@ -473,7 +468,7 @@
               "image": null
             },
             {
-              "id": "maryland-magnolia-landing-lot-0168",
+              "id": "maryland-magnolia-landing-lot-0168-1",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -606,7 +601,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0035",
+              "id": "maryland-ridgelys-reserve-818-spikeresh-way",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -623,7 +618,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0295",
+              "id": "maryland-ridgelys-reserve-lot-0295-5",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -640,7 +635,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0363",
+              "id": "maryland-ridgelys-reserve-lot-0363-6",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -657,7 +652,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0362",
+              "id": "maryland-ridgelys-reserve-lot-0362-7",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -674,7 +669,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0359",
+              "id": "maryland-ridgelys-reserve-lot-0359-8",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -691,7 +686,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0058",
+              "id": "maryland-ridgelys-reserve-lot-0058-9",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -708,7 +703,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0057",
+              "id": "maryland-ridgelys-reserve-lot-0057-10",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -725,7 +720,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0055",
+              "id": "maryland-ridgelys-reserve-lot-0055-11",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -742,7 +737,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0034",
+              "id": "maryland-ridgelys-reserve-lot-0034-12",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -759,7 +754,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0038",
+              "id": "maryland-ridgelys-reserve-lot-0038-13",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -776,7 +771,7 @@
               "image": null
             },
             {
-              "id": "maryland-ridgelys-reserve-lot-0039",
+              "id": "maryland-ridgelys-reserve-lot-0039-14",
               "address": null,
               "cityStateZip": "Joppa, MD 21085",
               "planName": null,
@@ -875,7 +870,7 @@
               "image": null
             },
             {
-              "id": "maryland-greenway-farm-lot-0372",
+              "id": "maryland-greenway-farm-lot-0372-2",
               "address": null,
               "cityStateZip": "Havre De Grace, MD 21078",
               "planName": null,
@@ -896,241 +891,6 @@
             "lat": 39.5393,
             "lng": -76.12427
           }
-        },
-        {
-          "slug": "laricina",
-          "name": "Laricina 55+",
-          "stateSlug": "maryland",
-          "areaSlug": "baltimore",
-          "citySlug": "shrewsbury",
-          "cityName": "Shrewsbury",
-          "zip": "17361",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.7603,
-            "lng": -76.67203
-          }
-        },
-        {
-          "slug": "high-pointe-south",
-          "name": "High Pointe South",
-          "stateSlug": "maryland",
-          "areaSlug": "baltimore",
-          "citySlug": "hanover",
-          "cityName": "Hanover",
-          "zip": "17331",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 439990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2154,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.76319,
-            "lng": -76.98397
-          }
-        },
-        {
-          "slug": "strawberry-field-estates",
-          "name": "Strawberry Field Estates",
-          "stateSlug": "maryland",
-          "areaSlug": "baltimore",
-          "citySlug": "york",
-          "cityName": "York",
-          "zip": "17408",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 389990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.88835,
-            "lng": -76.8023
-          }
-        },
-        {
-          "slug": "sycamore-crossing",
-          "name": "Sycamore Crossing",
-          "stateSlug": "maryland",
-          "areaSlug": "baltimore",
-          "citySlug": "oxford",
-          "cityName": "Oxford",
-          "zip": "19363",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": null,
-          "tag": null,
-          "priceFrom": 449990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.78599,
-            "lng": -75.9916
-          }
-        },
-        {
-          "slug": "amblebrook",
-          "name": "Amblebrook",
-          "stateSlug": "maryland",
-          "areaSlug": "baltimore",
-          "citySlug": "gettysburg",
-          "cityName": "Gettysburg",
-          "zip": "17325",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 370990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1402,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.88365,
-            "lng": -77.17902
-          }
         }
       ]
     },
@@ -1150,21 +910,7 @@
       "cities": [
         "easton",
         "greensboro",
-        "seaford",
-        "harrington",
-        "ellendale",
-        "edgewater",
-        "milford",
-        "magnolia",
-        "salisbury",
-        "milton",
-        "upper-marlboro",
-        "middle-river",
-        "joppa",
-        "selbyville",
-        "baltimore",
-        "rosedale",
-        "millville"
+        "salisbury"
       ],
       "communities": [
         {
@@ -1210,7 +956,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-gannon-range-29885-londyn-ln",
+              "id": "maryland-gannon-range-29885-londyn-lane",
               "address": "29885 Londyn Ln",
               "cityStateZip": "Easton, MD 21601",
               "planName": null,
@@ -1227,7 +973,7 @@
               "image": null
             },
             {
-              "id": "maryland-gannon-range-29902-colton-ct",
+              "id": "maryland-gannon-range-29902-colton-court",
               "address": "29902 Colton Ct",
               "cityStateZip": "Easton, MD 21601",
               "planName": null,
@@ -1278,7 +1024,7 @@
               "image": null
             },
             {
-              "id": "maryland-gannon-range-lot-0122",
+              "id": "maryland-gannon-range-lot-0122-4",
               "address": null,
               "cityStateZip": "Easton, MD 21601",
               "planName": null,
@@ -1295,7 +1041,7 @@
               "image": null
             },
             {
-              "id": "maryland-gannon-range-lot-0085",
+              "id": "maryland-gannon-range-lot-0085-5",
               "address": null,
               "cityStateZip": "Easton, MD 21601",
               "planName": null,
@@ -1360,7 +1106,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-kinnamon-meadows-103-parkland-rd",
+              "id": "maryland-kinnamon-meadows-103-parkland-road",
               "address": "103 Parkland Rd",
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1377,7 +1123,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-105-parkland-rd",
+              "id": "maryland-kinnamon-meadows-105-parkland-road",
               "address": "105 Parkland Rd",
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1394,7 +1140,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-lot-0005",
+              "id": "maryland-kinnamon-meadows-lot-0005-2",
               "address": null,
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1411,7 +1157,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-lot-0006",
+              "id": "maryland-kinnamon-meadows-lot-0006-3",
               "address": null,
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1428,7 +1174,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-lot-0008",
+              "id": "maryland-kinnamon-meadows-lot-0008-4",
               "address": null,
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1445,7 +1191,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-lot-0011",
+              "id": "maryland-kinnamon-meadows-lot-0011-5",
               "address": null,
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1462,7 +1208,7 @@
               "image": null
             },
             {
-              "id": "maryland-kinnamon-meadows-lot-0012",
+              "id": "maryland-kinnamon-meadows-lot-0012-6",
               "address": null,
               "cityStateZip": "Greensboro, MD 21639",
               "planName": null,
@@ -1482,288 +1228,6 @@
           "location": {
             "lat": 38.97836,
             "lng": -75.81045
-          }
-        },
-        {
-          "slug": "governors-grant",
-          "name": "Governors Grant",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "seaford",
-          "cityName": "Seaford",
-          "zip": "19973",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 317990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1219,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.65383,
-            "lng": -75.62967
-          }
-        },
-        {
-          "slug": "southfield",
-          "name": "Southfield",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "harrington",
-          "cityName": "Harrington",
-          "zip": "19952",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 445990,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1906,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.92518,
-            "lng": -75.50022
-          }
-        },
-        {
-          "slug": "ingram-village",
-          "name": "Ingram Village",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "ellendale",
-          "cityName": "Ellendale",
-          "zip": "19941",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 283990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 0,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1333,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.81575,
-            "lng": -75.42764
-          }
-        },
-        {
-          "slug": "meadows-at-austin-crest",
-          "name": "Meadows at Austin Crest",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "edgewater",
-          "cityName": "Edgewater",
-          "zip": "21037",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 779990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2511,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.90552,
-            "lng": -76.52397
-          }
-        },
-        {
-          "slug": "simpsons-crossing",
-          "name": "Simpsons Crossing",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "milford",
-          "cityName": "Milford",
-          "zip": "19963",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1437,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.89834,
-            "lng": -75.43195
-          }
-        },
-        {
-          "slug": "magnolia-estates",
-          "name": "Magnolia Estates",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "magnolia",
-          "cityName": "Magnolia",
-          "zip": "19962",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 389990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1558,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.08729,
-            "lng": -75.49226
           }
         },
         {
@@ -1877,7 +1341,7 @@
               "image": null
             },
             {
-              "id": "maryland-forest-glenn-lot-0044",
+              "id": "maryland-forest-glenn-lot-0044-4",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -1894,7 +1358,7 @@
               "image": null
             },
             {
-              "id": "maryland-forest-glenn-lot-0045",
+              "id": "maryland-forest-glenn-lot-0045-5",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -1911,7 +1375,7 @@
               "image": null
             },
             {
-              "id": "maryland-forest-glenn-lot-0048",
+              "id": "maryland-forest-glenn-lot-0048-6",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -1976,7 +1440,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-heritage-trace-1156-fairview-ln",
+              "id": "maryland-heritage-trace-1156-fairview-lane",
               "address": "1156 Fairview Ln",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2044,7 +1508,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0172",
+              "id": "maryland-heritage-trace-1164-fairview-lane",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2061,7 +1525,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0179",
+              "id": "maryland-heritage-trace-lot-0179-5",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2078,7 +1542,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0181",
+              "id": "maryland-heritage-trace-lot-0181-6",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2095,7 +1559,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0177",
+              "id": "maryland-heritage-trace-lot-0177-7",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2112,7 +1576,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0176",
+              "id": "maryland-heritage-trace-lot-0176-8",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2129,7 +1593,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0027",
+              "id": "maryland-heritage-trace-lot-0027-9",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2146,7 +1610,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0028",
+              "id": "maryland-heritage-trace-lot-0028-10",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2163,7 +1627,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0073",
+              "id": "maryland-heritage-trace-lot-0073-11",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2180,7 +1644,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0029",
+              "id": "maryland-heritage-trace-lot-0029-12",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2197,7 +1661,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0072",
+              "id": "maryland-heritage-trace-lot-0072-13",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2214,7 +1678,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0070",
+              "id": "maryland-heritage-trace-lot-0070-14",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2231,7 +1695,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0186",
+              "id": "maryland-heritage-trace-lot-0186-15",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2248,7 +1712,7 @@
               "image": null
             },
             {
-              "id": "maryland-heritage-trace-lot-0185",
+              "id": "maryland-heritage-trace-lot-0185-16",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2313,7 +1777,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-birdsong-village-1134-albritton-ln",
+              "id": "maryland-birdsong-village-1134-albritton-lane",
               "address": "1134 Albritton Ln",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2330,7 +1794,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-1136-albritton-ln",
+              "id": "maryland-birdsong-village-1136-albritton-lane",
               "address": "1136 Albritton Ln",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2347,7 +1811,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-1128-albritton-ln",
+              "id": "maryland-birdsong-village-1128-albritton-lane",
               "address": "1128 Albritton Ln",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2364,7 +1828,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-1130-albritton-ln",
+              "id": "maryland-birdsong-village-1130-albritton-lane",
               "address": "1130 Albritton Ln",
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2381,7 +1845,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-lot-0071",
+              "id": "maryland-birdsong-village-1131-albritton-lane",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2398,7 +1862,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-lot-0072",
+              "id": "maryland-birdsong-village-1133-albritton-lane",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2415,7 +1879,7 @@
               "image": null
             },
             {
-              "id": "maryland-birdsong-village-lot-0024",
+              "id": "maryland-birdsong-village-lot-0024-6",
               "address": null,
               "cityStateZip": "Salisbury, MD 21801",
               "planName": null,
@@ -2436,570 +1900,6 @@
             "lat": 38.36024,
             "lng": -75.62882
           }
-        },
-        {
-          "slug": "the-granary",
-          "name": "The Granary",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "milton",
-          "cityName": "Milton",
-          "zip": "19968",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 399990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 2,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1437,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.76681,
-            "lng": -75.3328
-          }
-        },
-        {
-          "slug": "woodfield-preserve",
-          "name": "Woodfield Preserve",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "milton",
-          "cityName": "Milton",
-          "zip": "19968",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 468990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 2,
-            "max": 3
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 1
-          },
-          "sqftFrom": 1748,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.80782,
-            "lng": -75.26075
-          }
-        },
-        {
-          "slug": "marshalls-landing",
-          "name": "Marshall's Landing",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "upper-marlboro",
-          "cityName": "Upper Marlboro",
-          "zip": "20774",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 5,
-            "max": 7
-          },
-          "baths": {
-            "min": 3,
-            "max": 7.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 4
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 3307,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.87585,
-            "lng": -76.71697
-          }
-        },
-        {
-          "slug": "watermark",
-          "name": "Watermark at Westphalia Town Center",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "upper-marlboro",
-          "cityName": "Upper Marlboro",
-          "zip": "20772",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 459988,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1962,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.82389,
-            "lng": -76.83336
-          }
-        },
-        {
-          "slug": "creekside-estates",
-          "name": "Creekside Estates",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "middle-river",
-          "cityName": "Middle River",
-          "zip": "21220",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 639988,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 4
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 2595,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.35246,
-            "lng": -76.43156
-          }
-        },
-        {
-          "slug": "magnolia-landing",
-          "name": "Magnolia Landing",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "joppa",
-          "cityName": "Joppa",
-          "zip": "21085",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 349990,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1962,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.40884,
-            "lng": -76.33344
-          }
-        },
-        {
-          "slug": "coastal-villages",
-          "name": "Coastal Villages",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "selbyville",
-          "cityName": "Selbyville",
-          "zip": "19975",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 369990,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 2,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1676,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.46233,
-            "lng": -75.19489
-          }
-        },
-        {
-          "slug": "ridgelys-reserve",
-          "name": "Ridgely's Reserve",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "joppa",
-          "cityName": "Joppa",
-          "zip": "21085",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 399988,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1934,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.42707,
-            "lng": -76.33192
-          }
-        },
-        {
-          "slug": "eager-landing",
-          "name": "Eager Landing",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "baltimore",
-          "cityName": "Baltimore City",
-          "zip": "21213",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 379990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 3,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1793,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.3035,
-            "lng": -76.59196
-          }
-        },
-        {
-          "slug": "villages-of-white-marsh",
-          "name": "Villages of White Marsh",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "rosedale",
-          "cityName": "Rosedale",
-          "zip": "21237",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 429648,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 4
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 3
-          },
-          "sqftFrom": 1969,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.37597,
-            "lng": -76.47643
-          }
-        },
-        {
-          "slug": "west-bay-village-at-millville-by-the-sea",
-          "name": "West Bay Village at Millville by the Sea",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "millville",
-          "cityName": "Millville",
-          "zip": "19967",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 337990,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1418,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.53642,
-            "lng": -75.13173
-          }
-        },
-        {
-          "slug": "millville-by-the-sea",
-          "name": "Millville by the Sea",
-          "stateSlug": "maryland",
-          "areaSlug": "maryland-eastern-shore",
-          "citySlug": "millville",
-          "cityName": "Millville",
-          "zip": "19967",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 379990,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 2,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.53625,
-            "lng": -75.1317
-          }
         }
       ]
     },
@@ -3018,16 +1918,10 @@
       },
       "cities": [
         "frederick",
-        "manassas",
-        "charles-town",
-        "shenandoah-junction",
         "upper-marlboro",
         "brandywine",
-        "winchester",
         "hagerstown",
-        "baltimore",
         "la-plata",
-        "martinsburg",
         "edgewater"
       ],
       "communities": [
@@ -3074,7 +1968,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-renn-quarter-lot-0563",
+              "id": "maryland-renn-quarter-707-compass-way",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3091,7 +1985,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0521",
+              "id": "maryland-renn-quarter-341-ensemble-way",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3108,7 +2002,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0462",
+              "id": "maryland-renn-quarter-446-hanson-street",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3125,7 +2019,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0467",
+              "id": "maryland-renn-quarter-456-hanson-street",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3142,7 +2036,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0540",
+              "id": "maryland-renn-quarter-466-ensemble-way",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3159,7 +2053,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0560",
+              "id": "maryland-renn-quarter-713-compass-way",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3176,7 +2070,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0570",
+              "id": "maryland-renn-quarter-235-monroe-avenue",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3193,7 +2087,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0517",
+              "id": "maryland-renn-quarter-349-ensemble-way",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3210,7 +2104,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0188",
+              "id": "maryland-renn-quarter-815-foundry-street",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3227,7 +2121,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0567",
+              "id": "maryland-renn-quarter-lot-0567-9",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3244,7 +2138,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0504",
+              "id": "maryland-renn-quarter-lot-0504-10",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3261,7 +2155,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0433",
+              "id": "maryland-renn-quarter-lot-0433-11",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3278,7 +2172,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0539",
+              "id": "maryland-renn-quarter-lot-0539-12",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3295,7 +2189,7 @@
               "image": null
             },
             {
-              "id": "maryland-renn-quarter-lot-0432",
+              "id": "maryland-renn-quarter-lot-0432-13",
               "address": null,
               "cityStateZip": "Frederick, MD 21701",
               "planName": null,
@@ -3428,7 +2322,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0021",
+              "id": "maryland-summervale-503-drystraw-lane",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3445,7 +2339,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0016",
+              "id": "maryland-summervale-1520-ripplecreek-drive",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3462,7 +2356,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0043",
+              "id": "maryland-summervale-1570-bentstalk-drive",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3479,7 +2373,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0042",
+              "id": "maryland-summervale-1572-bentstalk-drive",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3496,7 +2390,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0020",
+              "id": "maryland-summervale-lot-0020-8",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3513,7 +2407,7 @@
               "image": null
             },
             {
-              "id": "maryland-summervale-lot-0044",
+              "id": "maryland-summervale-lot-0044-9",
               "address": null,
               "cityStateZip": "Frederick, MD 21703",
               "planName": null,
@@ -3533,147 +2427,6 @@
           "location": {
             "lat": 39.41772,
             "lng": -77.46851
-          }
-        },
-        {
-          "slug": "innovation-town-center",
-          "name": "Innovation Town Center",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "manassas",
-          "cityName": "Manassas",
-          "zip": "20109",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 599990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 2270,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.76324,
-            "lng": -77.5285
-          }
-        },
-        {
-          "slug": "riverpointe",
-          "name": "Riverpointe",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "charles-town",
-          "cityName": "Charles Town",
-          "zip": "25414",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 309978,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 3
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.29652,
-            "lng": -77.83584
-          }
-        },
-        {
-          "slug": "stonecrest",
-          "name": "Stonecrest",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "shenandoah-junction",
-          "cityName": "Shenandoah Junction",
-          "zip": "25442",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 419990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.33526,
-            "lng": -77.83129
           }
         },
         {
@@ -3736,7 +2489,7 @@
               "image": null
             },
             {
-              "id": "maryland-westphalia-overlook-lot-0024",
+              "id": "maryland-westphalia-overlook-9008-warendorf-way",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20774",
               "planName": null,
@@ -3770,7 +2523,7 @@
               "image": null
             },
             {
-              "id": "maryland-westphalia-overlook-lot-0022",
+              "id": "maryland-westphalia-overlook-lot-0022-3",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20774",
               "planName": null,
@@ -3886,7 +2639,7 @@
               "image": null
             },
             {
-              "id": "maryland-watermark-lot-0039",
+              "id": "maryland-watermark-lot-0039-3",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20772",
               "planName": null,
@@ -3903,7 +2656,7 @@
               "image": null
             },
             {
-              "id": "maryland-watermark-lot-0038",
+              "id": "maryland-watermark-lot-0038-4",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20772",
               "planName": null,
@@ -3920,7 +2673,7 @@
               "image": null
             },
             {
-              "id": "maryland-watermark-lot-0035",
+              "id": "maryland-watermark-lot-0035-5",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20772",
               "planName": null,
@@ -3937,7 +2690,7 @@
               "image": null
             },
             {
-              "id": "maryland-watermark-lot-0034",
+              "id": "maryland-watermark-lot-0034-6",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20772",
               "planName": null,
@@ -3954,7 +2707,7 @@
               "image": null
             },
             {
-              "id": "maryland-watermark-lot-0033",
+              "id": "maryland-watermark-lot-0033-7",
               "address": null,
               "cityStateZip": "Upper Marlboro, MD 20772",
               "planName": null,
@@ -4203,7 +2956,7 @@
               "image": null
             },
             {
-              "id": "maryland-calm-retreat-lot-0201",
+              "id": "maryland-calm-retreat-lot-0201-4",
               "address": null,
               "cityStateZip": "Brandywine, MD 20613",
               "planName": null,
@@ -4220,7 +2973,7 @@
               "image": null
             },
             {
-              "id": "maryland-calm-retreat-lot-0307",
+              "id": "maryland-calm-retreat-lot-0307-5",
               "address": null,
               "cityStateZip": "Brandywine, MD 20613",
               "planName": null,
@@ -4237,7 +2990,7 @@
               "image": null
             },
             {
-              "id": "maryland-calm-retreat-lot-0226",
+              "id": "maryland-calm-retreat-lot-0226-6",
               "address": null,
               "cityStateZip": "Brandywine, MD 20613",
               "planName": null,
@@ -4342,100 +3095,6 @@
           }
         },
         {
-          "slug": "retreat-at-winding-creek-townhomes",
-          "name": "Retreat at Winding Creek Townhomes",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 3.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1889,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17142,
-            "lng": -78.08315
-          }
-        },
-        {
-          "slug": "retreat-at-winding-creek",
-          "name": "Retreat at Winding Creek Single Family",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "winchester",
-          "cityName": "Winchester",
-          "zip": "22602",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 429990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1657,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.17383,
-            "lng": -78.08712
-          }
-        },
-        {
           "slug": "virginia-commons",
           "name": "Virginia Commons",
           "stateSlug": "maryland",
@@ -4529,7 +3188,7 @@
               "image": null
             },
             {
-              "id": "maryland-virginia-commons-lot-5025",
+              "id": "maryland-virginia-commons-lot-5025-3",
               "address": null,
               "cityStateZip": "Hagerstown, MD 21740",
               "planName": null,
@@ -4549,53 +3208,6 @@
           "location": {
             "lat": 39.62454,
             "lng": -77.7419
-          }
-        },
-        {
-          "slug": "eager-landing",
-          "name": "Eager Landing",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "baltimore",
-          "cityName": "Baltimore City",
-          "zip": "21213",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 379990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 3,
-            "max": 3
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 3,
-            "max": 3
-          },
-          "sqftFrom": 1793,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.3035,
-            "lng": -76.59196
           }
         },
         {
@@ -4692,7 +3304,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0025",
+              "id": "maryland-pinegrove-townhomes-lot-0025-3",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4709,7 +3321,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0026",
+              "id": "maryland-pinegrove-townhomes-lot-0026-4",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4726,7 +3338,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0028",
+              "id": "maryland-pinegrove-townhomes-lot-0028-5",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4743,7 +3355,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0021",
+              "id": "maryland-pinegrove-townhomes-lot-0021-6",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4760,7 +3372,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0017",
+              "id": "maryland-pinegrove-townhomes-lot-0017-7",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4777,7 +3389,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-townhomes-lot-0020",
+              "id": "maryland-pinegrove-townhomes-lot-0020-8",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4842,7 +3454,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "maryland-pinegrove-single-family-lot-1219",
+              "id": "maryland-pinegrove-single-family-107-wood-walk-ave",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4859,7 +3471,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1059",
+              "id": "maryland-pinegrove-single-family-453-pinehurst-street",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4876,7 +3488,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1142",
+              "id": "maryland-pinegrove-single-family-249-long-branch-lane",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4893,7 +3505,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1125",
+              "id": "maryland-pinegrove-single-family-120-wood-walk-ave",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4910,7 +3522,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1030",
+              "id": "maryland-pinegrove-single-family-521-twisted-twig-lane",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4927,7 +3539,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1005",
+              "id": "maryland-pinegrove-single-family-345-long-branch-lane",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4944,7 +3556,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1036",
+              "id": "maryland-pinegrove-single-family-86-pine-glade-court",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4961,7 +3573,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1195",
+              "id": "maryland-pinegrove-single-family-lot-1195-7",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4978,7 +3590,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1151",
+              "id": "maryland-pinegrove-single-family-lot-1151-8",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -4995,7 +3607,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1032",
+              "id": "maryland-pinegrove-single-family-lot-1032-9",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -5012,7 +3624,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1148",
+              "id": "maryland-pinegrove-single-family-lot-1148-10",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -5029,7 +3641,7 @@
               "image": null
             },
             {
-              "id": "maryland-pinegrove-single-family-lot-1033",
+              "id": "maryland-pinegrove-single-family-lot-1033-11",
               "address": null,
               "cityStateZip": "La Plata, MD 20646",
               "planName": null,
@@ -5049,53 +3661,6 @@
           "location": {
             "lat": 38.53912,
             "lng": -76.97354
-          }
-        },
-        {
-          "slug": "red-hill",
-          "name": "Red Hill",
-          "stateSlug": "maryland",
-          "areaSlug": "washington-dc-area",
-          "citySlug": "martinsburg",
-          "cityName": "Martinsburg",
-          "zip": "25403",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 359990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1698,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.52769,
-            "lng": -77.98705
           }
         },
         {

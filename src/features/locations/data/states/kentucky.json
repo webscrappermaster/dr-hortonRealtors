@@ -21,8 +21,7 @@
       },
       "cities": [
         "georgetown",
-        "richmond",
-        "eminence"
+        "richmond"
       ],
       "communities": [
         {
@@ -183,7 +182,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0015",
+              "id": "kentucky-carriage-place-1061-carriage-place-drive",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -200,7 +199,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0055",
+              "id": "kentucky-carriage-place-2040-coachman-drive",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -217,7 +216,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0013",
+              "id": "kentucky-carriage-place-lot-0013-6",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -234,7 +233,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0014",
+              "id": "kentucky-carriage-place-lot-0014-7",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -251,7 +250,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0056",
+              "id": "kentucky-carriage-place-lot-0056-8",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -268,7 +267,7 @@
               "image": null
             },
             {
-              "id": "kentucky-carriage-place-lot-0050",
+              "id": "kentucky-carriage-place-lot-0050-9",
               "address": null,
               "cityStateZip": "Richmond, KY 40475",
               "planName": null,
@@ -289,53 +288,6 @@
             "lat": 37.71999,
             "lng": -84.2683
           }
-        },
-        {
-          "slug": "arbor-view",
-          "name": "Arbor View",
-          "stateSlug": "kentucky",
-          "areaSlug": "lexington-area",
-          "citySlug": "eminence",
-          "cityName": "Eminence",
-          "zip": "40019",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 259900,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.36141,
-            "lng": -85.16721
-          }
         }
       ]
     },
@@ -353,111 +305,14 @@
         "lng": -85.83554
       },
       "cities": [
-        "new-albany",
-        "jeffersonville",
         "louisville",
         "brooks",
-        "memphis",
         "shepherdsville",
         "elizabethtown",
         "shelbyville",
         "eminence"
       ],
       "communities": [
-        {
-          "slug": "koehler-woods",
-          "name": "Koehler Woods",
-          "stateSlug": "kentucky",
-          "areaSlug": "louisville",
-          "citySlug": "new-albany",
-          "cityName": "New Albany",
-          "zip": "47150",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 290900,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1257,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.34216,
-            "lng": -85.79531
-          }
-        },
-        {
-          "slug": "middle-road-commons",
-          "name": "Middle Road Commons",
-          "stateSlug": "kentucky",
-          "areaSlug": "louisville",
-          "citySlug": "jeffersonville",
-          "cityName": "Jeffersonville",
-          "zip": "47130",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 273900,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1257,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.31646,
-            "lng": -85.69888
-          }
-        },
         {
           "slug": "orell-station",
           "name": "Orell Station",
@@ -552,7 +407,7 @@
               "image": null
             },
             {
-              "id": "kentucky-orell-station-lot-46",
+              "id": "kentucky-orell-station-lot-46-3",
               "address": null,
               "cityStateZip": "Louisville, KY 40272",
               "planName": null,
@@ -569,7 +424,7 @@
               "image": null
             },
             {
-              "id": "kentucky-orell-station-lot-45",
+              "id": "kentucky-orell-station-lot-45-4",
               "address": null,
               "cityStateZip": "Louisville, KY 40272",
               "planName": null,
@@ -745,7 +600,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-49",
+              "id": "kentucky-cedar-brook-lot-49-1",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -762,7 +617,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-25",
+              "id": "kentucky-cedar-brook-lot-25-2",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -779,7 +634,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-24",
+              "id": "kentucky-cedar-brook-lot-24-3",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -796,7 +651,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-21",
+              "id": "kentucky-cedar-brook-lot-21-4",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -813,7 +668,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-20",
+              "id": "kentucky-cedar-brook-lot-20-5",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -830,7 +685,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-19",
+              "id": "kentucky-cedar-brook-lot-19-6",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -847,7 +702,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cedar-brook-lot-18",
+              "id": "kentucky-cedar-brook-lot-18-7",
               "address": null,
               "cityStateZip": "Louisville, KY 40229",
               "planName": null,
@@ -867,53 +722,6 @@
           "location": {
             "lat": 38.10681,
             "lng": -85.61006
-          }
-        },
-        {
-          "slug": "champions-run",
-          "name": "Champions Run",
-          "stateSlug": "kentucky",
-          "areaSlug": "louisville",
-          "citySlug": "memphis",
-          "cityName": "Memphis",
-          "zip": "47143",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 291900,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1953,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.49144,
-            "lng": -85.77826
           }
         },
         {
@@ -959,7 +767,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "kentucky-highland-meadows-227-cupp-circle",
+              "id": "kentucky-highland-meadows-0097",
               "address": "227 Cupp Circle",
               "cityStateZip": "Shepherdsville, KY 40165",
               "planName": null,
@@ -976,7 +784,7 @@
               "image": null
             },
             {
-              "id": "kentucky-highland-meadows-261-cupp-circle",
+              "id": "kentucky-highland-meadows-0095",
               "address": "261 Cupp Circle",
               "cityStateZip": "Shepherdsville, KY 40165",
               "planName": null,
@@ -993,7 +801,7 @@
               "image": null
             },
             {
-              "id": "kentucky-highland-meadows-273-cupp-circle",
+              "id": "kentucky-highland-meadows-0094",
               "address": "273 Cupp Circle",
               "cityStateZip": "Shepherdsville, KY 40165",
               "planName": null,
@@ -1010,7 +818,7 @@
               "image": null
             },
             {
-              "id": "kentucky-highland-meadows-lot-96",
+              "id": "kentucky-highland-meadows-lot-96-3",
               "address": null,
               "cityStateZip": "Shepherdsville, KY 40165",
               "planName": null,
@@ -1126,7 +934,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-8",
+              "id": "kentucky-cowley-farms-lot-8-3",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1143,7 +951,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-11",
+              "id": "kentucky-cowley-farms-lot-11-4",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1160,7 +968,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-12",
+              "id": "kentucky-cowley-farms-lot-12-5",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1177,7 +985,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-13",
+              "id": "kentucky-cowley-farms-lot-13-6",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1194,7 +1002,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-14",
+              "id": "kentucky-cowley-farms-lot-14-7",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1211,7 +1019,7 @@
               "image": null
             },
             {
-              "id": "kentucky-cowley-farms-lot-17",
+              "id": "kentucky-cowley-farms-lot-17-8",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1344,7 +1152,7 @@
               "image": null
             },
             {
-              "id": "kentucky-meadows-at-cowley-crossings-lot-21",
+              "id": "kentucky-meadows-at-cowley-crossings-lot-21-4",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1426,7 +1234,7 @@
               "image": null
             },
             {
-              "id": "kentucky-pheasant-glen-lot-1",
+              "id": "kentucky-pheasant-glen-lot-1-1",
               "address": null,
               "cityStateZip": "Shelbyville, KY 40065",
               "planName": null,
@@ -1443,7 +1251,7 @@
               "image": null
             },
             {
-              "id": "kentucky-pheasant-glen-lot-32",
+              "id": "kentucky-pheasant-glen-lot-32-2",
               "address": null,
               "cityStateZip": "Shelbyville, KY 40065",
               "planName": null,
@@ -1460,7 +1268,7 @@
               "image": null
             },
             {
-              "id": "kentucky-pheasant-glen-lot-25",
+              "id": "kentucky-pheasant-glen-lot-25-3",
               "address": null,
               "cityStateZip": "Shelbyville, KY 40065",
               "planName": null,
@@ -1559,7 +1367,7 @@
               "image": null
             },
             {
-              "id": "kentucky-miles-pointe-lot-27",
+              "id": "kentucky-miles-pointe-lot-27-2",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1576,7 +1384,7 @@
               "image": null
             },
             {
-              "id": "kentucky-miles-pointe-lot-14",
+              "id": "kentucky-miles-pointe-lot-14-3",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1675,7 +1483,7 @@
               "image": null
             },
             {
-              "id": "kentucky-arbor-view-lot-46",
+              "id": "kentucky-arbor-view-lot-46-2",
               "address": null,
               "cityStateZip": "Eminence, KY 40019",
               "planName": null,
@@ -1692,7 +1500,7 @@
               "image": null
             },
             {
-              "id": "kentucky-arbor-view-lot-68",
+              "id": "kentucky-arbor-view-lot-68-3",
               "address": null,
               "cityStateZip": "Eminence, KY 40019",
               "planName": null,
@@ -1709,7 +1517,7 @@
               "image": null
             },
             {
-              "id": "kentucky-arbor-view-lot-65",
+              "id": "kentucky-arbor-view-lot-65-4",
               "address": null,
               "cityStateZip": "Eminence, KY 40019",
               "planName": null,
@@ -1842,7 +1650,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-140",
+              "id": "kentucky-ashton-park-117-purse-lane",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1859,7 +1667,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-175",
+              "id": "kentucky-ashton-park-900-tristan-lane",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1876,7 +1684,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-176",
+              "id": "kentucky-ashton-park-904-tristan-lane",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1893,7 +1701,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-188",
+              "id": "kentucky-ashton-park-913-tristan-lane",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1910,7 +1718,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-136",
+              "id": "kentucky-ashton-park-lot-136-8",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1927,7 +1735,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ashton-park-lot-174",
+              "id": "kentucky-ashton-park-lot-174-9",
               "address": null,
               "cityStateZip": "Elizabethtown, KY 42701",
               "planName": null,
@@ -1966,13 +1774,8 @@
       },
       "cities": [
         "hebron",
-        "colerain-township",
-        "new-richmond",
-        "amelia",
-        "goshen-township",
         "dry-ridge",
-        "williamstown",
-        "oxford"
+        "williamstown"
       ],
       "communities": [
         {
@@ -2035,7 +1838,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ridgefield-lot-0008",
+              "id": "kentucky-ridgefield-lot-0008-1",
               "address": null,
               "cityStateZip": "Hebron, KY 41048",
               "planName": null,
@@ -2052,7 +1855,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ridgefield-lot-0010",
+              "id": "kentucky-ridgefield-lot-0010-2",
               "address": null,
               "cityStateZip": "Hebron, KY 41048",
               "planName": null,
@@ -2069,7 +1872,7 @@
               "image": null
             },
             {
-              "id": "kentucky-ridgefield-lot-0009",
+              "id": "kentucky-ridgefield-lot-0009-3",
               "address": null,
               "cityStateZip": "Hebron, KY 41048",
               "planName": null,
@@ -2089,288 +1892,6 @@
           "location": {
             "lat": 39.0692,
             "lng": -84.69882
-          }
-        },
-        {
-          "slug": "villas-at-taylor-glen",
-          "name": "Villas at Taylor Glen",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "colerain-township",
-          "cityName": "Colerain Township",
-          "zip": "45251",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 259900,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 1
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1418,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.2627,
-            "lng": -84.5873
-          }
-        },
-        {
-          "slug": "ashburn-woods",
-          "name": "Ashburn Woods",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "new-richmond",
-          "cityName": "New Richmond",
-          "zip": "45157",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 278900,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1272,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.95487,
-            "lng": -84.25854
-          }
-        },
-        {
-          "slug": "willow-grove",
-          "name": "Willow Grove",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "amelia",
-          "cityName": "Amelia",
-          "zip": "45102",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 289900,
-          "availableHomesCount": 9,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.05191,
-            "lng": -84.21948
-          }
-        },
-        {
-          "slug": "heritage-farm",
-          "name": "Heritage Farm",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "amelia",
-          "cityName": "Amelia",
-          "zip": "45102",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 383900,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.03349,
-            "lng": -84.18142
-          }
-        },
-        {
-          "slug": "lakefield-place",
-          "name": "Lakefield Place",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "goshen-township",
-          "cityName": "Goshen Township",
-          "zip": "45122",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": null,
-          "tag": null,
-          "priceFrom": 329900,
-          "availableHomesCount": 13,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.1814,
-            "lng": -84.17779
-          }
-        },
-        {
-          "slug": "lakefield-place-townhomes",
-          "name": "Towns at Lakefield Place",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "goshen-township",
-          "cityName": "Goshen",
-          "zip": "45122",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 292900,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1635,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.1844,
-            "lng": -84.17499
           }
         },
         {
@@ -2465,53 +1986,6 @@
           "location": {
             "lat": 38.66028,
             "lng": -84.58034
-          }
-        },
-        {
-          "slug": "owls-landing",
-          "name": "Owls' Landing",
-          "stateSlug": "kentucky",
-          "areaSlug": "northern-kentucky",
-          "citySlug": "oxford",
-          "cityName": "Oxford",
-          "zip": "45056",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 322900,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1498,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.49981,
-            "lng": -84.77448
           }
         }
       ]
@@ -2644,7 +2118,7 @@
               "image": null
             },
             {
-              "id": "kentucky-richpond-farms-lot-0030",
+              "id": "kentucky-richpond-farms-lot-0030-4",
               "address": null,
               "cityStateZip": "Bowling Green, KY 42101",
               "planName": null,
@@ -2743,7 +2217,7 @@
               "image": null
             },
             {
-              "id": "kentucky-hanover-run-lot-0054",
+              "id": "kentucky-hanover-run-lot-0054-2",
               "address": null,
               "cityStateZip": "Bowling Green, KY 42104",
               "planName": null,
@@ -2760,7 +2234,7 @@
               "image": null
             },
             {
-              "id": "kentucky-hanover-run-lot-0059",
+              "id": "kentucky-hanover-run-lot-0059-3",
               "address": null,
               "cityStateZip": "Bowling Green, KY 42104",
               "planName": null,

@@ -74,7 +74,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "kansas-stony-point-meadows-lot-31",
+              "id": "kansas-stony-point-meadows-709-n-86th-ter",
               "address": null,
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
@@ -91,7 +91,7 @@
               "image": null
             },
             {
-              "id": "kansas-stony-point-meadows-lot-36",
+              "id": "kansas-stony-point-meadows-710-n-86th-ter",
               "address": null,
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
@@ -108,7 +108,7 @@
               "image": null
             },
             {
-              "id": "kansas-stony-point-meadows-lot-30",
+              "id": "kansas-stony-point-meadows-713-n-86th-ter",
               "address": null,
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
@@ -125,7 +125,7 @@
               "image": null
             },
             {
-              "id": "kansas-stony-point-meadows-lot-29",
+              "id": "kansas-stony-point-meadows-717-n-86th-ter",
               "address": null,
               "cityStateZip": "Kansas City, KS 66112",
               "planName": null,
@@ -305,7 +305,7 @@
               "image": null
             },
             {
-              "id": "kansas-parkside-reserve-lot-112",
+              "id": "kansas-parkside-reserve-16798-s-loiret-st",
               "address": null,
               "cityStateZip": "Olathe, KS 66062",
               "planName": null,
@@ -322,7 +322,7 @@
               "image": null
             },
             {
-              "id": "kansas-parkside-reserve-lot-88",
+              "id": "kansas-parkside-reserve-lot-88-5",
               "address": null,
               "cityStateZip": "Olathe, KS 66062",
               "planName": null,
@@ -455,7 +455,7 @@
               "image": null
             },
             {
-              "id": "kansas-flint-meadows-lot-103",
+              "id": "kansas-flint-meadows-lot-103-4",
               "address": null,
               "cityStateZip": "De Soto, KS 66018",
               "planName": null,
@@ -472,7 +472,7 @@
               "image": null
             },
             {
-              "id": "kansas-flint-meadows-lot-117",
+              "id": "kansas-flint-meadows-lot-117-5",
               "address": null,
               "cityStateZip": "De Soto, KS 66018",
               "planName": null,
@@ -682,7 +682,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-25020-178th-ter",
+              "id": "kansas-prairie-trace-25020-178th-terr",
               "address": "25020 178th Ter",
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -699,7 +699,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-69",
+              "id": "kansas-prairie-trace-25031-178th-ter",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -716,7 +716,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-69",
+              "id": "kansas-prairie-trace-25230-w-177th-terr",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -733,7 +733,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-85",
+              "id": "kansas-prairie-trace-25243-w-177th-ter",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -750,7 +750,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-65",
+              "id": "kansas-prairie-trace-25254-w-177th-ter",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -767,7 +767,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-84",
+              "id": "kansas-prairie-trace-lot-84-8",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -784,7 +784,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-67",
+              "id": "kansas-prairie-trace-lot-67-9",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -801,7 +801,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-88",
+              "id": "kansas-prairie-trace-lot-88-10",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -818,7 +818,7 @@
               "image": null
             },
             {
-              "id": "kansas-prairie-trace-lot-93",
+              "id": "kansas-prairie-trace-lot-93-11",
               "address": null,
               "cityStateZip": "Gardner, KS 66030",
               "planName": null,
@@ -951,7 +951,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-244",
+              "id": "kansas-dayton-creek-18812-bittersweet-dr",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -968,7 +968,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-246",
+              "id": "kansas-dayton-creek-18824-bittersweet-dr",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -985,7 +985,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-295",
+              "id": "kansas-dayton-creek-20752-w-188th-st",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1002,7 +1002,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-284",
+              "id": "kansas-dayton-creek-20757-w-188th-ter",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1019,7 +1019,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-261",
+              "id": "kansas-dayton-creek-20827-w-188th-terr",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1036,7 +1036,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-255",
+              "id": "kansas-dayton-creek-20941-w-188th-ter",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1053,7 +1053,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-252",
+              "id": "kansas-dayton-creek-21011-w-188th-ter",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1070,7 +1070,7 @@
               "image": null
             },
             {
-              "id": "kansas-dayton-creek-lot-247",
+              "id": "kansas-dayton-creek-lot-247-11",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1186,7 +1186,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-20027-cornice-st",
+              "id": "kansas-woodland-crossing-20027-cornice-street",
               "address": "20027 Cornice St",
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1203,7 +1203,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-lot-56",
+              "id": "kansas-woodland-crossing-20059-cornice-st",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1220,7 +1220,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-lot-60",
+              "id": "kansas-woodland-crossing-20113-cornice-street",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1237,7 +1237,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-lot-158",
+              "id": "kansas-woodland-crossing-lot-158-6",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1254,7 +1254,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-lot-149",
+              "id": "kansas-woodland-crossing-lot-149-7",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1271,7 +1271,7 @@
               "image": null
             },
             {
-              "id": "kansas-woodland-crossing-lot-126",
+              "id": "kansas-woodland-crossing-lot-126-8",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1451,7 +1451,7 @@
               "image": null
             },
             {
-              "id": "kansas-maplewood-valley-lot-48",
+              "id": "kansas-maplewood-valley-21090-w-217th-st",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1468,7 +1468,7 @@
               "image": null
             },
             {
-              "id": "kansas-maplewood-valley-lot-50",
+              "id": "kansas-maplewood-valley-lot-50-5",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,
@@ -1485,7 +1485,7 @@
               "image": null
             },
             {
-              "id": "kansas-maplewood-valley-lot-45",
+              "id": "kansas-maplewood-valley-lot-45-6",
               "address": null,
               "cityStateZip": "Spring Hill, KS 66083",
               "planName": null,

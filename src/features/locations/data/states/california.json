@@ -26,18 +26,8 @@
         "oakdale",
         "waterford",
         "hollister",
-        "vacaville",
         "los-banos",
-        "sacramento",
-        "merced",
-        "carmichael",
-        "santa-rosa",
-        "roseville",
-        "lincoln",
-        "yuba-city",
-        "fresno",
-        "minden",
-        "carson-city"
+        "santa-rosa"
       ],
       "communities": [
         {
@@ -83,7 +73,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-aurora-at-denali-lot-288",
+              "id": "california-aurora-at-denali-2877-wrangell-street",
               "address": null,
               "cityStateZip": "Manteca, CA 95337",
               "planName": null,
@@ -148,7 +138,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-eve-at-founders-point-lot-140",
+              "id": "california-eve-at-founders-point-1421-artisan-lane",
               "address": null,
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
@@ -165,7 +155,7 @@
               "image": null
             },
             {
-              "id": "california-eve-at-founders-point-lot-231",
+              "id": "california-eve-at-founders-point-4308-frontier-way",
               "address": null,
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
@@ -182,7 +172,7 @@
               "image": null
             },
             {
-              "id": "california-eve-at-founders-point-lot-230",
+              "id": "california-eve-at-founders-point-4312-frontier-way",
               "address": null,
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
@@ -199,7 +189,7 @@
               "image": null
             },
             {
-              "id": "california-eve-at-founders-point-lot-154",
+              "id": "california-eve-at-founders-point-1425-founders-point-drive",
               "address": null,
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
@@ -216,7 +206,7 @@
               "image": null
             },
             {
-              "id": "california-eve-at-founders-point-lot-237",
+              "id": "california-eve-at-founders-point-4317-frontier-way",
               "address": null,
               "cityStateZip": "Modesto, CA 95356",
               "planName": null,
@@ -281,7 +271,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-the-crossings-lot-21",
+              "id": "california-the-crossings-1921-cecil-ridge-drive",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -298,7 +288,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-20",
+              "id": "california-the-crossings-1925-cecil-ridge-drive",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -315,7 +305,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-56",
+              "id": "california-the-crossings-1928-cecil-ridge-drive",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -332,7 +322,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-2",
+              "id": "california-the-crossings-4005-east-merle-avenue",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -349,7 +339,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-4",
+              "id": "california-the-crossings-4013-east-merle-avenue",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -366,7 +356,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-35",
+              "id": "california-the-crossings-4113-prince-charlie-court",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -383,7 +373,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-43",
+              "id": "california-the-crossings-4116-prince-charlie-court",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -400,7 +390,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-11",
+              "id": "california-the-crossings-4200-seagrave-way",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -417,7 +407,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-54",
+              "id": "california-the-crossings-1936-cecil-ridge-drive",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -434,7 +424,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-31",
+              "id": "california-the-crossings-4129-prince-charlie-court",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -451,7 +441,7 @@
               "image": null
             },
             {
-              "id": "california-the-crossings-lot-5",
+              "id": "california-the-crossings-4221-seagrave-way",
               "address": null,
               "cityStateZip": "Modesto, CA 95355",
               "planName": null,
@@ -516,7 +506,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-heritage-collection-ii-lot-047",
+              "id": "california-heritage-collection-ii-4100-teak-street",
               "address": null,
               "cityStateZip": "Riverbank, CA 95367",
               "planName": null,
@@ -533,7 +523,7 @@
               "image": null
             },
             {
-              "id": "california-heritage-collection-ii-lot-046",
+              "id": "california-heritage-collection-ii-4106-teak-street",
               "address": null,
               "cityStateZip": "Riverbank, CA 95367",
               "planName": null,
@@ -598,7 +588,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-monarch-at-saddlewood-lot-005",
+              "id": "california-monarch-at-saddlewood-2813-woodhouse-lane",
               "address": null,
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
@@ -615,7 +605,7 @@
               "image": null
             },
             {
-              "id": "california-monarch-at-saddlewood-lot-004",
+              "id": "california-monarch-at-saddlewood-2817-woodhouse-lane",
               "address": null,
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
@@ -632,7 +622,7 @@
               "image": null
             },
             {
-              "id": "california-monarch-at-saddlewood-lot-056",
+              "id": "california-monarch-at-saddlewood-2806-woodhouse-lane",
               "address": null,
               "cityStateZip": "Oakdale, CA 95361",
               "planName": null,
@@ -697,7 +687,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-trestle-lot-029",
+              "id": "california-trestle-621-moonlit-court",
               "address": null,
               "cityStateZip": "Waterford, CA 95386",
               "planName": null,
@@ -714,7 +704,7 @@
               "image": null
             },
             {
-              "id": "california-trestle-lot-028",
+              "id": "california-trestle-619-moonlit-court",
               "address": null,
               "cityStateZip": "Waterford, CA 95386",
               "planName": null,
@@ -779,7 +769,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-clover-at-santana-ranch-lot-16",
+              "id": "california-clover-at-santana-ranch-839-sienna-court",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -796,7 +786,7 @@
               "image": null
             },
             {
-              "id": "california-clover-at-santana-ranch-lot-16",
+              "id": "california-clover-at-santana-ranch-879-sienna-court",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -813,7 +803,7 @@
               "image": null
             },
             {
-              "id": "california-clover-at-santana-ranch-lot-17",
+              "id": "california-clover-at-santana-ranch-947-park-trail-court",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -830,7 +820,7 @@
               "image": null
             },
             {
-              "id": "california-clover-at-santana-ranch-lot-17",
+              "id": "california-clover-at-santana-ranch-994-park-trail-court",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -850,53 +840,6 @@
           "location": {
             "lat": 36.84711,
             "lng": -121.361
-          }
-        },
-        {
-          "slug": "lavender-glen",
-          "name": "Lavender Glen",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "vacaville",
-          "cityName": "Vacaville",
-          "zip": "95687",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1938,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.3179,
-            "lng": -122.0168
           }
         },
         {
@@ -942,7 +885,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-fairview-corners-lot-024",
+              "id": "california-fairview-corners-400-windsong-drive",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -959,7 +902,7 @@
               "image": null
             },
             {
-              "id": "california-fairview-corners-lot-028",
+              "id": "california-fairview-corners-440-windsong-drive",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -976,7 +919,7 @@
               "image": null
             },
             {
-              "id": "california-fairview-corners-lot-019",
+              "id": "california-fairview-corners-350-windsong-drive",
               "address": null,
               "cityStateZip": "Hollister, CA 95023",
               "planName": null,
@@ -1041,7 +984,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-harvest-hills-ii-lot-141",
+              "id": "california-harvest-hills-ii-1850-nettle-way",
               "address": null,
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
@@ -1058,7 +1001,7 @@
               "image": null
             },
             {
-              "id": "california-harvest-hills-ii-lot-142",
+              "id": "california-harvest-hills-ii-1854-nettle-way",
               "address": null,
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
@@ -1075,7 +1018,7 @@
               "image": null
             },
             {
-              "id": "california-harvest-hills-ii-lot-143",
+              "id": "california-harvest-hills-ii-1858-nettle-way",
               "address": null,
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
@@ -1092,7 +1035,7 @@
               "image": null
             },
             {
-              "id": "california-harvest-hills-ii-lot-144",
+              "id": "california-harvest-hills-ii-1862-nettle-way",
               "address": null,
               "cityStateZip": "Los Banos, CA 93635",
               "planName": null,
@@ -1159,288 +1102,6 @@
           "location": {
             "lat": 37.07368,
             "lng": -120.8206
-          }
-        },
-        {
-          "slug": "lucia",
-          "name": "Lucia",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "sacramento",
-          "cityName": "Sacramento",
-          "zip": "95832",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 470990,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1578,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.46978,
-            "lng": -121.4877
-          }
-        },
-        {
-          "slug": "ibiza",
-          "name": "Ibiza",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "sacramento",
-          "cityName": "Sacramento",
-          "zip": "95832",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 604990,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1924,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.47042,
-            "lng": -121.4898
-          }
-        },
-        {
-          "slug": "luna-vista",
-          "name": "Luna Vista",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "merced",
-          "cityName": "Merced",
-          "zip": "95348",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1380,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.34438,
-            "lng": -120.4952
-          }
-        },
-        {
-          "slug": "sutton-grove-ii",
-          "name": "Sutton Grove II",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "merced",
-          "cityName": "Merced",
-          "zip": "95341",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 409990,
-          "availableHomesCount": 10,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1230,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.28475,
-            "lng": -120.4323
-          }
-        },
-        {
-          "slug": "skylar",
-          "name": "Skylar",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "sacramento",
-          "cityName": "Sacramento",
-          "zip": "95834",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "final-opportunities",
-          "tag": null,
-          "priceFrom": 414990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 3
-          },
-          "baths": {
-            "min": 2,
-            "max": 2
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1296,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.62833,
-            "lng": -121.4823
-          }
-        },
-        {
-          "slug": "kestrel",
-          "name": "Kestrel",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "carmichael",
-          "cityName": "Carmichael",
-          "zip": "95608",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1705,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.64885,
-            "lng": -121.3259
           }
         },
         {
@@ -1533,7 +1194,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-stonebridge-single-family-lot-84",
+              "id": "california-stonebridge-single-family-2433-northridge-lane",
               "address": null,
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
@@ -1550,7 +1211,7 @@
               "image": null
             },
             {
-              "id": "california-stonebridge-single-family-lot-86",
+              "id": "california-stonebridge-single-family-2441-northridge-lane",
               "address": null,
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
@@ -1567,7 +1228,7 @@
               "image": null
             },
             {
-              "id": "california-stonebridge-single-family-lot-87",
+              "id": "california-stonebridge-single-family-2445-northridge-lane",
               "address": null,
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
@@ -1584,7 +1245,7 @@
               "image": null
             },
             {
-              "id": "california-stonebridge-single-family-lot-80",
+              "id": "california-stonebridge-single-family-2424-northridge-lane",
               "address": null,
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
@@ -1601,7 +1262,7 @@
               "image": null
             },
             {
-              "id": "california-stonebridge-single-family-lot-83",
+              "id": "california-stonebridge-single-family-2429-northridge-lane",
               "address": null,
               "cityStateZip": "Santa Rosa, CA 95403",
               "planName": null,
@@ -1621,382 +1282,6 @@
           "location": {
             "lat": 38.4754,
             "lng": -122.7693
-          }
-        },
-        {
-          "slug": "milazzo-at-amoruso-ranch",
-          "name": "Milazzo at Amoruso Ranch",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "roseville",
-          "cityName": "Roseville",
-          "zip": "95747",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 559990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1378,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.81049,
-            "lng": -121.385
-          }
-        },
-        {
-          "slug": "aviara-at-amoruso-ranch",
-          "name": "Aviara at Amoruso Ranch",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "roseville",
-          "cityName": "Roseville",
-          "zip": "95747",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 611990,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1825,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.81233,
-            "lng": -121.39
-          }
-        },
-        {
-          "slug": "jasper",
-          "name": "Jasper",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "lincoln",
-          "cityName": "Lincoln",
-          "zip": "95648",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 494990,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1547,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.89558,
-            "lng": -121.312
-          }
-        },
-        {
-          "slug": "montego",
-          "name": "Montego",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "yuba-city",
-          "cityName": "Yuba City",
-          "zip": "95993",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 523490,
-          "availableHomesCount": 6,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1894,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.09851,
-            "lng": -121.6557
-          }
-        },
-        {
-          "slug": "olive-lane",
-          "name": "Olive Lane",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "fresno",
-          "cityName": "Fresno",
-          "zip": "93725",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 393990,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1380,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 36.71518,
-            "lng": -119.7175
-          }
-        },
-        {
-          "slug": "indigo-sky",
-          "name": "Indigo Sky",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "minden",
-          "cityName": "Minden",
-          "zip": "89423",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 439990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1602,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 38.96784,
-            "lng": -119.7729
-          }
-        },
-        {
-          "slug": "artemis",
-          "name": "Artemis",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "carson-city",
-          "cityName": "Carson City",
-          "zip": "89705",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 554990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1720,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10806,
-            "lng": -119.7654
-          }
-        },
-        {
-          "slug": "arrow-point",
-          "name": "Arrow Point",
-          "stateSlug": "california",
-          "areaSlug": "bay-area",
-          "citySlug": "carson-city",
-          "cityName": "Carson City",
-          "zip": "89705",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 379990,
-          "availableHomesCount": 8,
-          "beds": {
-            "min": 2,
-            "max": 3
-          },
-          "baths": {
-            "min": 2,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 1,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1315,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 39.10942,
-            "lng": -119.7659
           }
         }
       ]
@@ -2021,14 +1306,7 @@
         "visalia",
         "tulare",
         "merced",
-        "los-banos",
-        "hollister",
-        "bakersfield",
-        "waterford",
-        "modesto",
-        "riverbank",
-        "oakdale",
-        "manteca"
+        "bakersfield"
       ],
       "communities": [
         {
@@ -2189,7 +1467,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-47",
+              "id": "california-stonehaven-2337-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2206,7 +1484,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-46",
+              "id": "california-stonehaven-2343-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2223,7 +1501,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-41",
+              "id": "california-stonehaven-2360-callum-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2240,7 +1518,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-14",
+              "id": "california-stonehaven-2383-callum-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2257,7 +1535,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-13",
+              "id": "california-stonehaven-2391-callum-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2274,7 +1552,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-54",
+              "id": "california-stonehaven-2340-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2291,7 +1569,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-55",
+              "id": "california-stonehaven-2346-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2308,7 +1586,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-45",
+              "id": "california-stonehaven-2349-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2325,7 +1603,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-56",
+              "id": "california-stonehaven-2352-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2342,7 +1620,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-44",
+              "id": "california-stonehaven-2355-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2359,7 +1637,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-57",
+              "id": "california-stonehaven-2358-samuel-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2376,7 +1654,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-11",
+              "id": "california-stonehaven-lot-11-15",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2393,7 +1671,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-22",
+              "id": "california-stonehaven-lot-22-16",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2410,7 +1688,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-39",
+              "id": "california-stonehaven-lot-39-17",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2427,7 +1705,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-40",
+              "id": "california-stonehaven-lot-40-18",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2444,7 +1722,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-43",
+              "id": "california-stonehaven-lot-43-19",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2461,7 +1739,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-42",
+              "id": "california-stonehaven-lot-42-20",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2478,7 +1756,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-16",
+              "id": "california-stonehaven-lot-16-21",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2495,7 +1773,7 @@
               "image": null
             },
             {
-              "id": "california-stonehaven-lot-12",
+              "id": "california-stonehaven-lot-12-22",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2675,7 +1953,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-34",
+              "id": "california-lunaria-1724-s-harris-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2692,7 +1970,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-32",
+              "id": "california-lunaria-1700-s-harris-street",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2709,7 +1987,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-49",
+              "id": "california-lunaria-1701-carson-way",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2726,7 +2004,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-31",
+              "id": "california-lunaria-204-abby-lane",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2743,7 +2021,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-30",
+              "id": "california-lunaria-207-abby-lane",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2760,7 +2038,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-34",
+              "id": "california-lunaria-213-beverly-drive",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2777,7 +2055,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-33",
+              "id": "california-lunaria-221-beverly-drive",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2794,7 +2072,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-32",
+              "id": "california-lunaria-229-beverly-drive",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2811,7 +2089,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-31",
+              "id": "california-lunaria-237-beverly-drive",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2828,7 +2106,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-8",
+              "id": "california-lunaria-lot-8-13",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2845,7 +2123,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-9",
+              "id": "california-lunaria-lot-9-14",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2862,7 +2140,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-47",
+              "id": "california-lunaria-lot-47-15",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2879,7 +2157,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-46",
+              "id": "california-lunaria-lot-46-16",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2896,7 +2174,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-45",
+              "id": "california-lunaria-lot-45-17",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2913,7 +2191,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-44",
+              "id": "california-lunaria-lot-44-18",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2930,7 +2208,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-42",
+              "id": "california-lunaria-lot-42-19",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -2947,7 +2225,7 @@
               "image": null
             },
             {
-              "id": "california-lunaria-lot-29",
+              "id": "california-lunaria-lot-29-20",
               "address": null,
               "cityStateZip": "Hanford, CA 93230",
               "planName": null,
@@ -3080,7 +2358,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-31",
+              "id": "california-westhaven-627-n-plum-ave",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3097,7 +2375,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-30",
+              "id": "california-westhaven-645-n-plum-ave",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3114,7 +2392,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-29",
+              "id": "california-westhaven-663-n-plum-ave",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3131,7 +2409,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-28",
+              "id": "california-westhaven-681-n-plum-ave",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3148,7 +2426,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-37",
+              "id": "california-westhaven-lot-37-8",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3165,7 +2443,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-41",
+              "id": "california-westhaven-lot-41-9",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3182,7 +2460,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-46",
+              "id": "california-westhaven-lot-46-10",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3199,7 +2477,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-49",
+              "id": "california-westhaven-lot-49-11",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3216,7 +2494,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-54",
+              "id": "california-westhaven-lot-54-12",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3233,7 +2511,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-39",
+              "id": "california-westhaven-lot-39-13",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3250,7 +2528,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-40",
+              "id": "california-westhaven-lot-40-14",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3267,7 +2545,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-47",
+              "id": "california-westhaven-lot-47-15",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3284,7 +2562,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-48",
+              "id": "california-westhaven-lot-48-16",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3301,7 +2579,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-55",
+              "id": "california-westhaven-lot-55-17",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3318,7 +2596,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-42",
+              "id": "california-westhaven-lot-42-18",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3335,7 +2613,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-44",
+              "id": "california-westhaven-lot-44-19",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3352,7 +2630,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-45",
+              "id": "california-westhaven-lot-45-20",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3369,7 +2647,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-50",
+              "id": "california-westhaven-lot-50-21",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3386,7 +2664,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-51",
+              "id": "california-westhaven-lot-51-22",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3403,7 +2681,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-52",
+              "id": "california-westhaven-lot-52-23",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3420,7 +2698,7 @@
               "image": null
             },
             {
-              "id": "california-westhaven-lot-53",
+              "id": "california-westhaven-lot-53-24",
               "address": null,
               "cityStateZip": "Reedley, CA 93654",
               "planName": null,
@@ -3553,7 +2831,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-21",
+              "id": "california-shepherds-ranch-7136-w-tommy-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3570,7 +2848,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-40",
+              "id": "california-shepherds-ranch-7137-w-nicholas-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3587,7 +2865,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-45",
+              "id": "california-shepherds-ranch-7138-w-nicholas-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3604,7 +2882,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-63",
+              "id": "california-shepherds-ranch-7149-w-grove-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3621,7 +2899,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-62",
+              "id": "california-shepherds-ranch-7205-w-grove-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3638,7 +2916,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-48",
+              "id": "california-shepherds-ranch-7210-w-nicholas-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3655,7 +2933,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-61",
+              "id": "california-shepherds-ranch-7211-w-grove-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3672,7 +2950,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-13",
+              "id": "california-shepherds-ranch-lot-13-11",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3689,7 +2967,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-11",
+              "id": "california-shepherds-ranch-lot-11-12",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3706,7 +2984,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-43",
+              "id": "california-shepherds-ranch-lot-43-13",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3723,7 +3001,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-46",
+              "id": "california-shepherds-ranch-lot-46-14",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3740,7 +3018,7 @@
               "image": null
             },
             {
-              "id": "california-shepherds-ranch-lot-47",
+              "id": "california-shepherds-ranch-lot-47-15",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3920,7 +3198,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-170",
+              "id": "california-owenglen-4102-n-salle-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3937,7 +3215,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-169",
+              "id": "california-owenglen-4108-n-salle-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3954,7 +3232,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-141",
+              "id": "california-owenglen-lot-141-6",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3971,7 +3249,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-137",
+              "id": "california-owenglen-lot-137-7",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -3988,7 +3266,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-175",
+              "id": "california-owenglen-lot-175-8",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4005,7 +3283,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-136",
+              "id": "california-owenglen-lot-136-9",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4022,7 +3300,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-135",
+              "id": "california-owenglen-lot-135-10",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4039,7 +3317,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-134",
+              "id": "california-owenglen-lot-134-11",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4056,7 +3334,7 @@
               "image": null
             },
             {
-              "id": "california-owenglen-lot-133",
+              "id": "california-owenglen-lot-133-12",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4121,7 +3399,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-pratt-estates-2416-w-dale-ave",
+              "id": "california-pratt-estates-2417-w-dale-ave",
               "address": "2416 W. Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4138,7 +3416,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-2421-w-dale-ave",
+              "id": "california-pratt-estates-2422-w-dale-ave",
               "address": "2421 W. Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4155,7 +3433,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-2427-w-dale-ave",
+              "id": "california-pratt-estates-2428-w-dale-ave",
               "address": "2427 W. Dale Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4189,7 +3467,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-127",
+              "id": "california-pratt-estates-2434-w-dale-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4206,7 +3484,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-126",
+              "id": "california-pratt-estates-2440-w-dale-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4223,7 +3501,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-102",
+              "id": "california-pratt-estates-2445-w-dale-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4240,7 +3518,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-103",
+              "id": "california-pratt-estates-2449-w-dale-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4257,7 +3535,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-104",
+              "id": "california-pratt-estates-4045-n-terrace-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4274,7 +3552,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-132",
+              "id": "california-pratt-estates-lot-132-9",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4291,7 +3569,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-131",
+              "id": "california-pratt-estates-lot-131-10",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4308,7 +3586,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-130",
+              "id": "california-pratt-estates-lot-130-11",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4325,7 +3603,7 @@
               "image": null
             },
             {
-              "id": "california-pratt-estates-lot-99",
+              "id": "california-pratt-estates-lot-99-12",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4458,7 +3736,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-227",
+              "id": "california-jacobglen-4042-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4475,7 +3753,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-190",
+              "id": "california-jacobglen-4043-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4492,7 +3770,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-228",
+              "id": "california-jacobglen-4048-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4509,7 +3787,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-229",
+              "id": "california-jacobglen-4104-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4526,7 +3804,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-192",
+              "id": "california-jacobglen-4105-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4543,7 +3821,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-230",
+              "id": "california-jacobglen-4112-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4560,7 +3838,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-193",
+              "id": "california-jacobglen-4113-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4577,7 +3855,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-231",
+              "id": "california-jacobglen-4120-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4594,7 +3872,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-194",
+              "id": "california-jacobglen-4121-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4611,7 +3889,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-195",
+              "id": "california-jacobglen-4129-n-duke-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4628,7 +3906,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-188",
+              "id": "california-jacobglen-lot-188-14",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4645,7 +3923,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-189",
+              "id": "california-jacobglen-lot-189-15",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4662,7 +3940,7 @@
               "image": null
             },
             {
-              "id": "california-jacobglen-lot-191",
+              "id": "california-jacobglen-lot-191-16",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4727,7 +4005,7 @@
           "floorPlans": null,
           "availableHomes": [
             {
-              "id": "california-daleglen-2327-w-taylor-ave",
+              "id": "california-daleglen-2326-w-taylor-ave",
               "address": "2327 W. Taylor Ave.",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4744,7 +4022,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-2335-w-taylor-ave",
+              "id": "california-daleglen-2334-w-taylor-ave",
               "address": "2335 W. Taylor Ave.",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4761,7 +4039,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-2341-w-taylor-ave",
+              "id": "california-daleglen-2340-w-taylor-ave",
               "address": "2341 W. Taylor Ave",
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4795,7 +4073,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-63",
+              "id": "california-daleglen-3917-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4812,7 +4090,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-64",
+              "id": "california-daleglen-3927-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4829,7 +4107,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-65",
+              "id": "california-daleglen-3933-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4846,7 +4124,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-29",
+              "id": "california-daleglen-2319-w-taylor-ave",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4863,7 +4141,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-69",
+              "id": "california-daleglen-3924-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4880,7 +4158,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-68",
+              "id": "california-daleglen-3932-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4897,7 +4175,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-67",
+              "id": "california-daleglen-3940-n-yale-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4914,7 +4192,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-25",
+              "id": "california-daleglen-lot-25-11",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4931,7 +4209,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-24",
+              "id": "california-daleglen-lot-24-12",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4948,7 +4226,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-23",
+              "id": "california-daleglen-lot-23-13",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4965,7 +4243,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-22",
+              "id": "california-daleglen-lot-22-14",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4982,7 +4260,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-19",
+              "id": "california-daleglen-lot-19-15",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -4999,7 +4277,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-62",
+              "id": "california-daleglen-lot-62-16",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -5016,7 +4294,7 @@
               "image": null
             },
             {
-              "id": "california-daleglen-lot-66",
+              "id": "california-daleglen-lot-66-17",
               "address": null,
               "cityStateZip": "Visalia, CA 93291",
               "planName": null,
@@ -5196,7 +4474,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-95",
+              "id": "california-santa-fe-trail-tradition-1200-hobble-creek-court",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5213,7 +4491,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-103",
+              "id": "california-santa-fe-trail-tradition-2815-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5230,7 +4508,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-102",
+              "id": "california-santa-fe-trail-tradition-2839-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5247,7 +4525,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-101",
+              "id": "california-santa-fe-trail-tradition-2877-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5264,7 +4542,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-100",
+              "id": "california-santa-fe-trail-tradition-2911-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5281,7 +4559,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-99",
+              "id": "california-santa-fe-trail-tradition-2933-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5298,7 +4576,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-98",
+              "id": "california-santa-fe-trail-tradition-2955-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5315,7 +4593,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-97",
+              "id": "california-santa-fe-trail-tradition-2973-monarch-dunes-avenue",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5332,7 +4610,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-59",
+              "id": "california-santa-fe-trail-tradition-lot-59-12",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5349,7 +4627,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-58",
+              "id": "california-santa-fe-trail-tradition-lot-58-13",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5366,7 +4644,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-67",
+              "id": "california-santa-fe-trail-tradition-lot-67-14",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5383,7 +4661,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-68",
+              "id": "california-santa-fe-trail-tradition-lot-68-15",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5400,7 +4678,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-53",
+              "id": "california-santa-fe-trail-tradition-lot-53-16",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5417,7 +4695,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-52",
+              "id": "california-santa-fe-trail-tradition-lot-52-17",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5434,7 +4712,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-90",
+              "id": "california-santa-fe-trail-tradition-lot-90-18",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5451,7 +4729,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-91",
+              "id": "california-santa-fe-trail-tradition-lot-91-19",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5468,7 +4746,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-92",
+              "id": "california-santa-fe-trail-tradition-lot-92-20",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5485,7 +4763,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-64",
+              "id": "california-santa-fe-trail-tradition-lot-64-21",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5502,7 +4780,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-63",
+              "id": "california-santa-fe-trail-tradition-lot-63-22",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5519,7 +4797,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-66",
+              "id": "california-santa-fe-trail-tradition-lot-66-23",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5536,7 +4814,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-61",
+              "id": "california-santa-fe-trail-tradition-lot-61-24",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5553,7 +4831,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-60",
+              "id": "california-santa-fe-trail-tradition-lot-60-25",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5570,7 +4848,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-87",
+              "id": "california-santa-fe-trail-tradition-lot-87-26",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5587,7 +4865,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-88",
+              "id": "california-santa-fe-trail-tradition-lot-88-27",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5604,7 +4882,7 @@
               "image": null
             },
             {
-              "id": "california-santa-fe-trail-tradition-lot-89",
+              "id": "california-santa-fe-trail-tradition-lot-89-28",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -5737,7 +5015,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-56",
+              "id": "california-pearl-woods-2417-s-leah-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5754,7 +5032,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-55",
+              "id": "california-pearl-woods-2427-s-leah-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5771,7 +5049,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-54",
+              "id": "california-pearl-woods-2437-s-leah-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5788,7 +5066,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-53",
+              "id": "california-pearl-woods-2447-s-leah-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5805,7 +5083,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-47",
+              "id": "california-pearl-woods-2448-s-simon-st",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5822,7 +5100,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-71",
+              "id": "california-pearl-woods-lot-71-9",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5839,7 +5117,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-70",
+              "id": "california-pearl-woods-lot-70-10",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5856,7 +5134,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-72",
+              "id": "california-pearl-woods-lot-72-11",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5873,7 +5151,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-69",
+              "id": "california-pearl-woods-lot-69-12",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5890,7 +5168,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-73",
+              "id": "california-pearl-woods-lot-73-13",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5907,7 +5185,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-68",
+              "id": "california-pearl-woods-lot-68-14",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5924,7 +5202,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-59",
+              "id": "california-pearl-woods-lot-59-15",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5941,7 +5219,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-67",
+              "id": "california-pearl-woods-lot-67-16",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5958,7 +5236,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-66",
+              "id": "california-pearl-woods-lot-66-17",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5975,7 +5253,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-61",
+              "id": "california-pearl-woods-lot-61-18",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -5992,7 +5270,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-52",
+              "id": "california-pearl-woods-lot-52-19",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -6009,7 +5287,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-48",
+              "id": "california-pearl-woods-lot-48-20",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -6026,7 +5304,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-65",
+              "id": "california-pearl-woods-lot-65-21",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -6043,7 +5321,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-62",
+              "id": "california-pearl-woods-lot-62-22",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -6060,7 +5338,7 @@
               "image": null
             },
             {
-              "id": "california-pearl-woods-lot-63",
+              "id": "california-pearl-woods-lot-63-23",
               "address": null,
               "cityStateZip": "Visalia, CA 93292",
               "planName": null,
@@ -6193,7 +5471,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-81",
+              "id": "california-juniper-court-2349-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6210,7 +5488,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-82",
+              "id": "california-juniper-court-2355-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6227,7 +5505,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-83",
+              "id": "california-juniper-court-2361-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6244,7 +5522,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-84",
+              "id": "california-juniper-court-2373-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6261,7 +5539,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-85",
+              "id": "california-juniper-court-2389-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6278,7 +5556,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-86",
+              "id": "california-juniper-court-2401-east-foster-drive",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6295,7 +5573,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-78",
+              "id": "california-juniper-court-lot-78-10",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6312,7 +5590,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-63",
+              "id": "california-juniper-court-lot-63-11",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6329,7 +5607,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-68",
+              "id": "california-juniper-court-lot-68-12",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6346,7 +5624,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-77",
+              "id": "california-juniper-court-lot-77-13",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6363,7 +5641,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-69",
+              "id": "california-juniper-court-lot-69-14",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6380,7 +5658,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-76",
+              "id": "california-juniper-court-lot-76-15",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6397,7 +5675,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-70",
+              "id": "california-juniper-court-lot-70-16",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6414,7 +5692,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-64",
+              "id": "california-juniper-court-lot-64-17",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6431,7 +5709,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-75",
+              "id": "california-juniper-court-lot-75-18",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6448,7 +5726,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-74",
+              "id": "california-juniper-court-lot-74-19",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6465,7 +5743,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-72",
+              "id": "california-juniper-court-lot-72-20",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6482,7 +5760,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-65",
+              "id": "california-juniper-court-lot-65-21",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6499,7 +5777,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-73",
+              "id": "california-juniper-court-lot-73-22",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6516,7 +5794,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-court-lot-66",
+              "id": "california-juniper-court-lot-66-23",
               "address": null,
               "cityStateZip": "Tulare, CA 93274",
               "planName": null,
@@ -6649,7 +5927,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-189",
+              "id": "california-sutton-grove-ii-3138-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6666,7 +5944,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-190",
+              "id": "california-sutton-grove-ii-3142-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6683,7 +5961,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-191",
+              "id": "california-sutton-grove-ii-3144-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6700,7 +5978,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-192",
+              "id": "california-sutton-grove-ii-3148-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6717,7 +5995,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-193",
+              "id": "california-sutton-grove-ii-3150-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6734,7 +6012,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-194",
+              "id": "california-sutton-grove-ii-3154-blue-water-drive",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6751,7 +6029,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-144",
+              "id": "california-sutton-grove-ii-lot-144-10",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6768,7 +6046,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-145",
+              "id": "california-sutton-grove-ii-lot-145-11",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6785,7 +6063,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-146",
+              "id": "california-sutton-grove-ii-lot-146-12",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6802,7 +6080,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-157",
+              "id": "california-sutton-grove-ii-lot-157-13",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6819,7 +6097,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-147",
+              "id": "california-sutton-grove-ii-lot-147-14",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6836,7 +6114,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-156",
+              "id": "california-sutton-grove-ii-lot-156-15",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6853,7 +6131,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-148",
+              "id": "california-sutton-grove-ii-lot-148-16",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6870,7 +6148,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-155",
+              "id": "california-sutton-grove-ii-lot-155-17",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6887,7 +6165,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-149",
+              "id": "california-sutton-grove-ii-lot-149-18",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6904,7 +6182,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-154",
+              "id": "california-sutton-grove-ii-lot-154-19",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6921,7 +6199,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-153",
+              "id": "california-sutton-grove-ii-lot-153-20",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6938,7 +6216,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-132",
+              "id": "california-sutton-grove-ii-lot-132-21",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6955,7 +6233,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-151",
+              "id": "california-sutton-grove-ii-lot-151-22",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6972,7 +6250,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-152",
+              "id": "california-sutton-grove-ii-lot-152-23",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -6989,7 +6267,7 @@
               "image": null
             },
             {
-              "id": "california-sutton-grove-ii-lot-131",
+              "id": "california-sutton-grove-ii-lot-131-24",
               "address": null,
               "cityStateZip": "Merced, CA 95341",
               "planName": null,
@@ -7009,100 +6287,6 @@
           "location": {
             "lat": 37.28475,
             "lng": -120.4323
-          }
-        },
-        {
-          "slug": "sol-at-southpointe",
-          "name": "Sol at Southpointe",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "los-banos",
-          "cityName": "Los Banos",
-          "zip": "93635",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1858,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.07368,
-            "lng": -120.8206
-          }
-        },
-        {
-          "slug": "harvest-hills-ii",
-          "name": "Harvest Hills II",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "los-banos",
-          "cityName": "Los Banos",
-          "zip": "93635",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 499490,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1588,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.05135,
-            "lng": -120.885
           }
         },
         {
@@ -7150,100 +6334,6 @@
           "location": {
             "lat": 37.34438,
             "lng": -120.4952
-          }
-        },
-        {
-          "slug": "fairview-corners",
-          "name": "Fairview Corners",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "hollister",
-          "cityName": "Hollister",
-          "zip": "95023",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 749490,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1898,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 36.81998,
-            "lng": -121.3623
-          }
-        },
-        {
-          "slug": "clover-at-santana-ranch",
-          "name": "Clover at Santana Ranch",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "hollister",
-          "cityName": "Hollister",
-          "zip": "95023",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 820490,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 3
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1898,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 36.84711,
-            "lng": -121.361
           }
         },
         {
@@ -7357,7 +6447,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-12",
+              "id": "california-laurelwood-13817-norman-gould-dr",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7374,7 +6464,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-13",
+              "id": "california-laurelwood-6016-kobus-st",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7391,7 +6481,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-22",
+              "id": "california-laurelwood-13708-water-lilly-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7408,7 +6498,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-21",
+              "id": "california-laurelwood-13712-water-lilly-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7425,7 +6515,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-29",
+              "id": "california-laurelwood-13902-sweetbay-dr",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7442,7 +6532,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-30",
+              "id": "california-laurelwood-13906-sweetbay-dr",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7459,7 +6549,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-26",
+              "id": "california-laurelwood-5902-southern-flower-st",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7476,7 +6566,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-25",
+              "id": "california-laurelwood-5908-southern-flower-st",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7493,7 +6583,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-24",
+              "id": "california-laurelwood-5912-southern-flower-st",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7510,7 +6600,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-27",
+              "id": "california-laurelwood-lot-27-13",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7527,7 +6617,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-23",
+              "id": "california-laurelwood-lot-23-14",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7544,7 +6634,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-37",
+              "id": "california-laurelwood-lot-37-15",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7561,7 +6651,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-28",
+              "id": "california-laurelwood-lot-28-16",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7578,7 +6668,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-20",
+              "id": "california-laurelwood-lot-20-17",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7595,7 +6685,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-8",
+              "id": "california-laurelwood-lot-8-18",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7612,7 +6702,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-6",
+              "id": "california-laurelwood-lot-6-19",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7629,7 +6719,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-5",
+              "id": "california-laurelwood-lot-5-20",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7646,7 +6736,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-4",
+              "id": "california-laurelwood-lot-4-21",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7663,7 +6753,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-19",
+              "id": "california-laurelwood-lot-19-22",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7680,7 +6770,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-18",
+              "id": "california-laurelwood-lot-18-23",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7697,7 +6787,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-16",
+              "id": "california-laurelwood-lot-16-24",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7714,7 +6804,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-17",
+              "id": "california-laurelwood-lot-17-25",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7731,7 +6821,7 @@
               "image": null
             },
             {
-              "id": "california-laurelwood-lot-14",
+              "id": "california-laurelwood-lot-14-26",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93314",
               "planName": null,
@@ -7751,53 +6841,6 @@
           "location": {
             "lat": 35.41447,
             "lng": -119.1549
-          }
-        },
-        {
-          "slug": "trestle",
-          "name": "Trestle",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "waterford",
-          "cityName": "Waterford",
-          "zip": "95386",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449490,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.64655,
-            "lng": -120.7554
           }
         },
         {
@@ -7911,7 +6954,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-7",
+              "id": "california-brooke-pointe-9004-winding-stream-ave",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -7928,7 +6971,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-20",
+              "id": "california-brooke-pointe-9007-arroyo-hondo-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -7945,7 +6988,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-16",
+              "id": "california-brooke-pointe-9010-arroyo-hondo-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -7962,7 +7005,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-5",
+              "id": "california-brooke-pointe-9012-winding-stream-ave",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -7979,7 +7022,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-3",
+              "id": "california-brooke-pointe-9020-winding-stream-ave",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -7996,7 +7039,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-21",
+              "id": "california-brooke-pointe-9011-arroyo-hondo-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8013,7 +7056,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-15",
+              "id": "california-brooke-pointe-9014-arroyo-hondo-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8030,7 +7073,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-14",
+              "id": "california-brooke-pointe-9018-arroyo-hondo-ct",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8047,7 +7090,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-1",
+              "id": "california-brooke-pointe-lot-1-12",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8064,7 +7107,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-41",
+              "id": "california-brooke-pointe-lot-41-13",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8081,7 +7124,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-8",
+              "id": "california-brooke-pointe-lot-8-14",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8098,7 +7141,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-9",
+              "id": "california-brooke-pointe-lot-9-15",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8115,7 +7158,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-10",
+              "id": "california-brooke-pointe-lot-10-16",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8132,7 +7175,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-17",
+              "id": "california-brooke-pointe-lot-17-17",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8149,7 +7192,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-6",
+              "id": "california-brooke-pointe-lot-6-18",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8166,7 +7209,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-11",
+              "id": "california-brooke-pointe-lot-11-19",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8183,7 +7226,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-12",
+              "id": "california-brooke-pointe-lot-12-20",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8200,7 +7243,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-4",
+              "id": "california-brooke-pointe-lot-4-21",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8217,7 +7260,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-13",
+              "id": "california-brooke-pointe-lot-13-22",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8234,7 +7277,7 @@
               "image": null
             },
             {
-              "id": "california-brooke-pointe-lot-2",
+              "id": "california-brooke-pointe-lot-2-23",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93311",
               "planName": null,
@@ -8367,7 +7410,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-3",
+              "id": "california-sterling-manor-ii-7610-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8384,7 +7427,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-17",
+              "id": "california-sterling-manor-ii-7421-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8401,7 +7444,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-32",
+              "id": "california-sterling-manor-ii-7424-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8418,7 +7461,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-33",
+              "id": "california-sterling-manor-ii-7500-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8435,7 +7478,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-34",
+              "id": "california-sterling-manor-ii-7506-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8452,7 +7495,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-15",
+              "id": "california-sterling-manor-ii-7509-savannah-height-avenue",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8469,7 +7512,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-16",
+              "id": "california-sterling-manor-ii-lot-16-10",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8486,7 +7529,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-35",
+              "id": "california-sterling-manor-ii-lot-35-11",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8503,7 +7546,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-24",
+              "id": "california-sterling-manor-ii-lot-24-12",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8520,7 +7563,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-13",
+              "id": "california-sterling-manor-ii-lot-13-13",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8537,7 +7580,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-2",
+              "id": "california-sterling-manor-ii-lot-2-14",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8554,7 +7597,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-22",
+              "id": "california-sterling-manor-ii-lot-22-15",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8571,7 +7614,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-10",
+              "id": "california-sterling-manor-ii-lot-10-16",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8588,7 +7631,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-21",
+              "id": "california-sterling-manor-ii-lot-21-17",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8605,7 +7648,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-4",
+              "id": "california-sterling-manor-ii-lot-4-18",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8622,7 +7665,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-9",
+              "id": "california-sterling-manor-ii-lot-9-19",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8639,7 +7682,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-17",
+              "id": "california-sterling-manor-ii-lot-17-20",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8656,7 +7699,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-5",
+              "id": "california-sterling-manor-ii-lot-5-21",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8673,7 +7716,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-8",
+              "id": "california-sterling-manor-ii-lot-8-22",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8690,7 +7733,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-6",
+              "id": "california-sterling-manor-ii-lot-6-23",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8707,7 +7750,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-7",
+              "id": "california-sterling-manor-ii-lot-7-24",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8724,7 +7767,7 @@
               "image": null
             },
             {
-              "id": "california-sterling-manor-ii-lot-23",
+              "id": "california-sterling-manor-ii-lot-23-25",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93313",
               "planName": null,
@@ -8791,53 +7834,6 @@
           "location": {
             "lat": 35.29126,
             "lng": -119.0828
-          }
-        },
-        {
-          "slug": "the-crossings",
-          "name": "The Crossings",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "modesto",
-          "cityName": "Modesto",
-          "zip": "95355",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 459490,
-          "availableHomesCount": 11,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1567,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.66924,
-            "lng": -120.9138
           }
         },
         {
@@ -9045,7 +8041,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-26",
+              "id": "california-abbey-court-8215-regis-road",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9062,7 +8058,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-23",
+              "id": "california-abbey-court-8233-regis-road",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9079,7 +8075,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-22",
+              "id": "california-abbey-court-8239-regis-road",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9096,7 +8092,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-21",
+              "id": "california-abbey-court-8305-regis-road",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9113,7 +8109,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-32",
+              "id": "california-abbey-court-lot-32-8",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9130,7 +8126,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-31",
+              "id": "california-abbey-court-lot-31-9",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9147,7 +8143,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-29",
+              "id": "california-abbey-court-lot-29-10",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9164,7 +8160,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-1",
+              "id": "california-abbey-court-lot-1-11",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9181,7 +8177,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-6",
+              "id": "california-abbey-court-lot-6-12",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9198,7 +8194,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-7",
+              "id": "california-abbey-court-lot-7-13",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9215,7 +8211,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-28",
+              "id": "california-abbey-court-lot-28-14",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9232,7 +8228,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-27",
+              "id": "california-abbey-court-lot-27-15",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9249,7 +8245,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-16",
+              "id": "california-abbey-court-lot-16-16",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9266,7 +8262,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-8",
+              "id": "california-abbey-court-lot-8-17",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9283,7 +8279,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-33",
+              "id": "california-abbey-court-lot-33-18",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9300,7 +8296,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-30",
+              "id": "california-abbey-court-lot-30-19",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9317,7 +8313,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-4",
+              "id": "california-abbey-court-lot-4-20",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9334,7 +8330,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-5",
+              "id": "california-abbey-court-lot-5-21",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9351,7 +8347,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-17",
+              "id": "california-abbey-court-lot-17-22",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9368,7 +8364,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-15",
+              "id": "california-abbey-court-lot-15-23",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9385,7 +8381,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-14",
+              "id": "california-abbey-court-lot-14-24",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9402,7 +8398,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-13",
+              "id": "california-abbey-court-lot-13-25",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9419,7 +8415,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-12",
+              "id": "california-abbey-court-lot-12-26",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9436,7 +8432,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-3",
+              "id": "california-abbey-court-lot-3-27",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9453,7 +8449,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-18",
+              "id": "california-abbey-court-lot-18-28",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9470,7 +8466,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-9",
+              "id": "california-abbey-court-lot-9-29",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9487,7 +8483,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-11",
+              "id": "california-abbey-court-lot-11-30",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9504,7 +8500,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-2",
+              "id": "california-abbey-court-lot-2-31",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9521,7 +8517,7 @@
               "image": null
             },
             {
-              "id": "california-abbey-court-lot-21",
+              "id": "california-abbey-court-lot-21-32",
               "address": null,
               "cityStateZip": "Bakersfield, CA 93307",
               "planName": null,
@@ -9541,194 +8537,6 @@
           "location": {
             "lat": 35.33642,
             "lng": -118.9314
-          }
-        },
-        {
-          "slug": "heritage-collection-ii",
-          "name": "Heritage Collection II",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "riverbank",
-          "cityName": "Riverbank",
-          "zip": "95367",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 469490,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1858,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.73408,
-            "lng": -120.9199
-          }
-        },
-        {
-          "slug": "monarch-at-saddlewood",
-          "name": "Monarch at Saddlewood",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "oakdale",
-          "cityName": "Oakdale",
-          "zip": "95361",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 471490,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1588,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.7563,
-            "lng": -120.8813
-          }
-        },
-        {
-          "slug": "eve-at-founders-point",
-          "name": "Eve at Founders Point",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "modesto",
-          "cityName": "Modesto",
-          "zip": "95356",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 499490,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1582,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.70242,
-            "lng": -121.0149
-          }
-        },
-        {
-          "slug": "aurora-at-denali",
-          "name": "Aurora at Denali",
-          "stateSlug": "california",
-          "areaSlug": "central-valley",
-          "citySlug": "manteca",
-          "cityName": "Manteca",
-          "zip": "95337",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 589490,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1898,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.78162,
-            "lng": -121.2675
           }
         }
       ]
@@ -9756,8 +8564,7 @@
         "menifee",
         "lake-elsinore",
         "winchester",
-        "wildomar",
-        "orange"
+        "wildomar"
       ],
       "communities": [
         {
@@ -9871,7 +8678,7 @@
               "image": null
             },
             {
-              "id": "california-citrus-at-bridle-ridge-lot-0066",
+              "id": "california-citrus-at-bridle-ridge-18475-lurin-avenue",
               "address": null,
               "cityStateZip": "Riverside, CA 92508",
               "planName": null,
@@ -9888,7 +8695,7 @@
               "image": null
             },
             {
-              "id": "california-citrus-at-bridle-ridge-lot-0051",
+              "id": "california-citrus-at-bridle-ridge-lot-0051-5",
               "address": null,
               "cityStateZip": "Riverside, CA 92508",
               "planName": null,
@@ -10021,7 +8828,7 @@
               "image": null
             },
             {
-              "id": "california-mystic-pointe-lot-2043",
+              "id": "california-mystic-pointe-27186-mystic-sky-ave",
               "address": null,
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
@@ -10038,7 +8845,7 @@
               "image": null
             },
             {
-              "id": "california-mystic-pointe-lot-2044",
+              "id": "california-mystic-pointe-27194-mystic-sky-ave",
               "address": null,
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
@@ -10171,7 +8978,7 @@
               "image": null
             },
             {
-              "id": "california-vantage-at-sunset-crossings-lot-2098",
+              "id": "california-vantage-at-sunset-crossings-lot-2098-4",
               "address": null,
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
@@ -10287,7 +9094,7 @@
               "image": null
             },
             {
-              "id": "california-amber-sky-at-sunset-crossings-lot-3092",
+              "id": "california-amber-sky-at-sunset-crossings-lot-3092-3",
               "address": null,
               "cityStateZip": "Moreno Valley, CA 92555",
               "planName": null,
@@ -10790,7 +9597,7 @@
               "image": null
             },
             {
-              "id": "california-sycamore-highlands-lot-1064",
+              "id": "california-sycamore-highlands-lot-1064-3",
               "address": null,
               "cityStateZip": "Corona, CA 92883",
               "planName": null,
@@ -10807,7 +9614,7 @@
               "image": null
             },
             {
-              "id": "california-sycamore-highlands-lot-1068",
+              "id": "california-sycamore-highlands-lot-1068-4",
               "address": null,
               "cityStateZip": "Corona, CA 92883",
               "planName": null,
@@ -11034,7 +9841,7 @@
               "image": null
             },
             {
-              "id": "california-laguna-pointe-lot-0139",
+              "id": "california-laguna-pointe-lot-0139-4",
               "address": null,
               "cityStateZip": "Lake Elsinore, CA 92530",
               "planName": null,
@@ -11051,7 +9858,7 @@
               "image": null
             },
             {
-              "id": "california-laguna-pointe-lot-0055",
+              "id": "california-laguna-pointe-lot-0055-5",
               "address": null,
               "cityStateZip": "Lake Elsinore, CA 92530",
               "planName": null,
@@ -11184,7 +9991,7 @@
               "image": null
             },
             {
-              "id": "california-la-ventana-lot-0084",
+              "id": "california-la-ventana-28752-calle-de-nubes",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11201,7 +10008,7 @@
               "image": null
             },
             {
-              "id": "california-la-ventana-lot-0091",
+              "id": "california-la-ventana-28668-calle-de-nubes",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11218,7 +10025,7 @@
               "image": null
             },
             {
-              "id": "california-la-ventana-lot-0083",
+              "id": "california-la-ventana-28764-calle-de-nubes",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11235,7 +10042,7 @@
               "image": null
             },
             {
-              "id": "california-la-ventana-lot-0118",
+              "id": "california-la-ventana-30558-via-sereno",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11252,7 +10059,7 @@
               "image": null
             },
             {
-              "id": "california-la-ventana-lot-0093",
+              "id": "california-la-ventana-lot-0093-8",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11351,7 +10158,7 @@
               "image": null
             },
             {
-              "id": "california-willow-pointe-at-canterwood-lot-0025",
+              "id": "california-willow-pointe-at-canterwood-lot-0025-2",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11368,7 +10175,7 @@
               "image": null
             },
             {
-              "id": "california-willow-pointe-at-canterwood-lot-0065",
+              "id": "california-willow-pointe-at-canterwood-lot-0065-3",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11385,7 +10192,7 @@
               "image": null
             },
             {
-              "id": "california-willow-pointe-at-canterwood-lot-0064",
+              "id": "california-willow-pointe-at-canterwood-lot-0064-4",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11518,7 +10325,7 @@
               "image": null
             },
             {
-              "id": "california-juniper-at-canterwood-lot-0312",
+              "id": "california-juniper-at-canterwood-lot-0312-4",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11634,7 +10441,7 @@
               "image": null
             },
             {
-              "id": "california-sycamore-at-canterwood-lot-0413",
+              "id": "california-sycamore-at-canterwood-lot-0413-3",
               "address": null,
               "cityStateZip": "Winchester, CA 92596",
               "planName": null,
@@ -11702,53 +10509,6 @@
             "lat": 33.57935,
             "lng": -117.2421
           }
-        },
-        {
-          "slug": "mabury-estates",
-          "name": "Mabury Estates",
-          "stateSlug": "california",
-          "areaSlug": "inland-empire",
-          "citySlug": "orange",
-          "cityName": "Orange",
-          "zip": "92859",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Emerald Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.81848,
-            "lng": -117.7881
-          }
         }
       ]
     },
@@ -11766,62 +10526,9 @@
         "lng": -118.2741
       },
       "cities": [
-        "orange",
-        "palmdale",
-        "jurupa-valley",
-        "fontana",
-        "corona",
-        "lake-elsinore",
-        "victorville"
+        "palmdale"
       ],
       "communities": [
-        {
-          "slug": "mabury-estates",
-          "name": "Mabury Estates",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "orange",
-          "cityName": "Orange",
-          "zip": "92859",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Emerald Series®",
-          "status": "coming-soon",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 0,
-            "max": 0
-          },
-          "baths": {
-            "min": 0,
-            "max": 0
-          },
-          "garages": {
-            "min": 0,
-            "max": 0
-          },
-          "stories": {
-            "min": 0,
-            "max": 0
-          },
-          "sqftFrom": 0,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.81848,
-            "lng": -117.7881
-          }
-        },
         {
           "slug": "the-reserve-at-quartz-hill",
           "name": "The Reserve at Quartz Hill",
@@ -11933,7 +10640,7 @@
               "image": null
             },
             {
-              "id": "california-the-reserve-at-quartz-hill-lot-0030",
+              "id": "california-the-reserve-at-quartz-hill-41838-chianti-court",
               "address": null,
               "cityStateZip": "Palmdale, CA 93551",
               "planName": null,
@@ -11954,335 +10661,6 @@
             "lat": 34.6433,
             "lng": -118.253
           }
-        },
-        {
-          "slug": "serrano-oaks",
-          "name": "Serrano Oaks",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "jurupa-valley",
-          "cityName": "Jurupa Valley",
-          "zip": "92509",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 509990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1502,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.97261,
-            "lng": -117.462
-          }
-        },
-        {
-          "slug": "dahlia-at-sierra-vista",
-          "name": "Dahlia at Sierra Vista",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "fontana",
-          "cityName": "Fontana",
-          "zip": "92336",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 538990,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1584,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 34.13843,
-            "lng": -117.4664
-          }
-        },
-        {
-          "slug": "citrus-lane",
-          "name": "Citrus Lane",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "fontana",
-          "cityName": "Fontana",
-          "zip": "92336",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "sold-out",
-          "tag": null,
-          "priceFrom": 0,
-          "availableHomesCount": 0,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1500,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 34.13239,
-            "lng": -117.4532
-          }
-        },
-        {
-          "slug": "sycamore-highlands",
-          "name": "Sycamore Highlands",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "corona",
-          "cityName": "Corona",
-          "zip": "92883",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": null,
-          "tag": null,
-          "priceFrom": 749990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1983,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.742,
-            "lng": -117.462
-          }
-        },
-        {
-          "slug": "laguna-pointe",
-          "name": "Laguna Pointe",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "lake-elsinore",
-          "cityName": "Lake Elsinore",
-          "zip": "92530",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 479990,
-          "availableHomesCount": 4,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1807,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.68718,
-            "lng": -117.3716
-          }
-        },
-        {
-          "slug": "dawson-pointe-at-west-creek",
-          "name": "Dawson Pointe at West Creek",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "victorville",
-          "cityName": "Victorville",
-          "zip": "92394",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 422990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1310,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 34.5303,
-            "lng": -117.3648
-          }
-        },
-        {
-          "slug": "kingston-at-west-creek",
-          "name": "Kingston at West Creek",
-          "stateSlug": "california",
-          "areaSlug": "los-angeles",
-          "citySlug": "victorville",
-          "cityName": "Victorville",
-          "zip": "92394",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 499595,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1890,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 34.53235,
-            "lng": -117.3647
-          }
         }
       ]
     },
@@ -12300,9 +10678,7 @@
         "lng": -117.8231
       },
       "cities": [
-        "orange",
-        "corona",
-        "jurupa-valley"
+        "orange"
       ],
       "communities": [
         {
@@ -12350,100 +10726,6 @@
           "location": {
             "lat": 33.81848,
             "lng": -117.7881
-          }
-        },
-        {
-          "slug": "sycamore-highlands",
-          "name": "Sycamore Highlands",
-          "stateSlug": "california",
-          "areaSlug": "orange-county",
-          "citySlug": "corona",
-          "cityName": "Corona",
-          "zip": "92883",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": null,
-          "tag": null,
-          "priceFrom": 749990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1983,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.742,
-            "lng": -117.462
-          }
-        },
-        {
-          "slug": "serrano-oaks",
-          "name": "Serrano Oaks",
-          "stateSlug": "california",
-          "areaSlug": "orange-county",
-          "citySlug": "jurupa-valley",
-          "cityName": "Jurupa Valley",
-          "zip": "92509",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 509990,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 2.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1502,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 33.97261,
-            "lng": -117.462
           }
         }
       ]
@@ -12579,7 +10861,7 @@
               "image": null
             },
             {
-              "id": "california-the-collection-at-campanile-lot-0013",
+              "id": "california-the-collection-at-campanile-223-via-genova",
               "address": null,
               "cityStateZip": "Cathedral City, CA 92234",
               "planName": null,
@@ -12596,7 +10878,7 @@
               "image": null
             },
             {
-              "id": "california-the-collection-at-campanile-lot-0012",
+              "id": "california-the-collection-at-campanile-224-via-genova",
               "address": null,
               "cityStateZip": "Cathedral City, CA 92234",
               "planName": null,
@@ -12712,7 +10994,7 @@
               "image": null
             },
             {
-              "id": "california-the-collection-at-sage-lot-0082",
+              "id": "california-the-collection-at-sage-lot-0082-3",
               "address": null,
               "cityStateZip": "Palm Desert, CA 92211",
               "planName": null,
@@ -12845,7 +11127,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0001",
+              "id": "california-dolfina-49599-quill-road",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -12862,7 +11144,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0005",
+              "id": "california-dolfina-lot-0005-5",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -12879,7 +11161,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0035",
+              "id": "california-dolfina-lot-0035-6",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -12896,7 +11178,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0028",
+              "id": "california-dolfina-lot-0028-7",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -12913,7 +11195,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0034",
+              "id": "california-dolfina-lot-0034-8",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -12930,7 +11212,7 @@
               "image": null
             },
             {
-              "id": "california-dolfina-lot-0029",
+              "id": "california-dolfina-lot-0029-9",
               "address": null,
               "cityStateZip": "Indio, CA 92201",
               "planName": null,
@@ -13012,7 +11294,7 @@
               "image": null
             },
             {
-              "id": "california-the-enclave-at-capistrano-81804-mission-palms-drive",
+              "id": "california-the-enclave-at-capistrano-81-804-mission-palms-drive",
               "address": "81804 Mission Palms Drive",
               "cityStateZip": "La Quinta, CA 92253",
               "planName": null,
@@ -13046,7 +11328,7 @@
               "image": null
             },
             {
-              "id": "california-the-enclave-at-capistrano-lot-0101",
+              "id": "california-the-enclave-at-capistrano-lot-0101-3",
               "address": null,
               "cityStateZip": "La Quinta, CA 92253",
               "planName": null,
@@ -13089,12 +11371,7 @@
         "roseville",
         "lincoln",
         "vacaville",
-        "yuba-city",
-        "manteca",
-        "oakdale",
-        "riverbank",
-        "modesto",
-        "waterford"
+        "yuba-city"
       ],
       "communities": [
         {
@@ -13402,7 +11679,7 @@
               "image": null
             },
             {
-              "id": "california-ibiza-lot-54",
+              "id": "california-ibiza-7962-riverflow-way",
               "address": null,
               "cityStateZip": "Sacramento, CA 95832",
               "planName": null,
@@ -13419,7 +11696,7 @@
               "image": null
             },
             {
-              "id": "california-ibiza-lot-50",
+              "id": "california-ibiza-7978-riverflow-way",
               "address": null,
               "cityStateZip": "Sacramento, CA 95832",
               "planName": null,
@@ -13733,7 +12010,7 @@
               "image": null
             },
             {
-              "id": "california-jasper-lot-77",
+              "id": "california-jasper-2629-terra-cotta-drive",
               "address": null,
               "cityStateZip": "Lincoln, CA 95648",
               "planName": null,
@@ -13913,7 +12190,7 @@
               "image": null
             },
             {
-              "id": "california-montego-lot-0049",
+              "id": "california-montego-1790-brianna-way",
               "address": null,
               "cityStateZip": "Yuba City, CA 95993",
               "planName": null,
@@ -13930,7 +12207,7 @@
               "image": null
             },
             {
-              "id": "california-montego-lot-0026",
+              "id": "california-montego-1847-sanborn-road",
               "address": null,
               "cityStateZip": "Yuba City, CA 95993",
               "planName": null,
@@ -14032,288 +12309,6 @@
           "location": {
             "lat": 39.14705,
             "lng": -121.6575
-          }
-        },
-        {
-          "slug": "aurora-at-denali",
-          "name": "Aurora at Denali",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "manteca",
-          "cityName": "Manteca",
-          "zip": "95337",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": null,
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 589490,
-          "availableHomesCount": 1,
-          "beds": {
-            "min": 4,
-            "max": 5
-          },
-          "baths": {
-            "min": 3,
-            "max": 3.5
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1898,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.78162,
-            "lng": -121.2675
-          }
-        },
-        {
-          "slug": "monarch-at-saddlewood",
-          "name": "Monarch at Saddlewood",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "oakdale",
-          "cityName": "Oakdale",
-          "zip": "95361",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 471490,
-          "availableHomesCount": 3,
-          "beds": {
-            "min": 3,
-            "max": 4
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1588,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.7563,
-            "lng": -120.8813
-          }
-        },
-        {
-          "slug": "heritage-collection-ii",
-          "name": "Heritage Collection II",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "riverbank",
-          "cityName": "Riverbank",
-          "zip": "95367",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 469490,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 4,
-            "max": 4
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1858,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.73408,
-            "lng": -120.9199
-          }
-        },
-        {
-          "slug": "eve-at-founders-point",
-          "name": "Eve at Founders Point",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "modesto",
-          "cityName": "Modesto",
-          "zip": "95356",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Tradition Series℠",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 499490,
-          "availableHomesCount": 5,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2.5,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 2,
-            "max": 2
-          },
-          "sqftFrom": 1582,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.70242,
-            "lng": -121.0149
-          }
-        },
-        {
-          "slug": "the-crossings",
-          "name": "The Crossings",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "modesto",
-          "cityName": "Modesto",
-          "zip": "95355",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 459490,
-          "availableHomesCount": 11,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1567,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.66924,
-            "lng": -120.9138
-          }
-        },
-        {
-          "slug": "trestle",
-          "name": "Trestle",
-          "stateSlug": "california",
-          "areaSlug": "sacramento",
-          "citySlug": "waterford",
-          "cityName": "Waterford",
-          "zip": "95386",
-          "address": null,
-          "phone": null,
-          "hours": null,
-          "series": "Express Series®",
-          "status": "now-selling",
-          "tag": null,
-          "priceFrom": 449490,
-          "availableHomesCount": 2,
-          "beds": {
-            "min": 3,
-            "max": 5
-          },
-          "baths": {
-            "min": 2,
-            "max": 3
-          },
-          "garages": {
-            "min": 2,
-            "max": 2
-          },
-          "stories": {
-            "min": 1,
-            "max": 2
-          },
-          "sqftFrom": 1353,
-          "cardImage": null,
-          "gallery": null,
-          "about": null,
-          "amenities": null,
-          "schools": null,
-          "lotMapUrl": null,
-          "promoSlot": null,
-          "floorPlans": null,
-          "availableHomes": null,
-          "location": {
-            "lat": 37.64655,
-            "lng": -120.7554
           }
         }
       ]
@@ -14446,7 +12441,7 @@
               "image": null
             },
             {
-              "id": "california-tesoro-square-lot-0015",
+              "id": "california-tesoro-square-lot-0015-4",
               "address": null,
               "cityStateZip": "Escondido, CA 92025",
               "planName": null,
@@ -14581,7 +12576,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0028",
+              "id": "california-dawson-pointe-at-west-creek-lot-0028-3",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14598,7 +12593,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0119",
+              "id": "california-dawson-pointe-at-west-creek-lot-0119-4",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14615,7 +12610,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0032",
+              "id": "california-dawson-pointe-at-west-creek-lot-0032-5",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14632,7 +12627,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0118",
+              "id": "california-dawson-pointe-at-west-creek-lot-0118-6",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14649,7 +12644,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0123",
+              "id": "california-dawson-pointe-at-west-creek-lot-0123-7",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14666,7 +12661,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0115",
+              "id": "california-dawson-pointe-at-west-creek-lot-0115-8",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14683,7 +12678,7 @@
               "image": null
             },
             {
-              "id": "california-dawson-pointe-at-west-creek-lot-0036",
+              "id": "california-dawson-pointe-at-west-creek-lot-0036-9",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14816,7 +12811,7 @@
               "image": null
             },
             {
-              "id": "california-kingston-at-west-creek-lot-0045",
+              "id": "california-kingston-at-west-creek-15549-tomahawk-street",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14833,7 +12828,7 @@
               "image": null
             },
             {
-              "id": "california-kingston-at-west-creek-lot-0057",
+              "id": "california-kingston-at-west-creek-lot-0057-5",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
@@ -14850,7 +12845,7 @@
               "image": null
             },
             {
-              "id": "california-kingston-at-west-creek-lot-0050",
+              "id": "california-kingston-at-west-creek-lot-0050-6",
               "address": null,
               "cityStateZip": "Victorville, CA 92394",
               "planName": null,
