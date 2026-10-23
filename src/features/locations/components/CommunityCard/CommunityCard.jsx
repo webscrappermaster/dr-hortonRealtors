@@ -5,9 +5,15 @@ import { stateSlugToAbbr } from '../../../../utils/usStates'
 import styles from './CommunityCard.module.css'
 
 const STATUS_LABEL = {
-  'now-selling':    'Now Selling',
-  'coming-soon':    'Coming Soon',
-  'move-in-ready':  'Move-In Ready',
+  'now-selling':         'Now Selling',
+  'coming-soon':         'Coming Soon',
+  'move-in-ready':       'Move-In Ready',
+  'final-opportunities': 'Final Opportunities',
+  'sold-out':            'Sold Out',
+}
+
+function slugToTitle(slug) {
+  return slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
 }
 
 function formatPrice(priceFrom) {
@@ -69,7 +75,7 @@ function CommunityCard({ community, highlighted, onHover, onHoverEnd }) {
         {status && (
           <div className={styles.statusRow}>
             <span className={`${styles.statusDot} ${styles[`status-${status}`]}`} aria-hidden="true" />
-            <span className={styles.statusLabel}>{STATUS_LABEL[status] ?? status}</span>
+            <span className={styles.statusLabel}>{STATUS_LABEL[status] ?? slugToTitle(status)}</span>
           </div>
         )}
 
