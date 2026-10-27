@@ -88,3 +88,7 @@
   background: var(--color-hero-bg);
   border-radius: var(--radius-md);
 }
+
+.whatsappWrap {
+  margin-top: var(--space-4);
+}

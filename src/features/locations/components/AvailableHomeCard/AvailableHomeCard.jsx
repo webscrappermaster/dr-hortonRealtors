@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import { getHomeImage } from '../../data/locationLoader'
 import { formatUSD, formatNumber } from '../../../../utils/formatters'
+import WhatsAppButton from '../../../../components/ui/WhatsAppButton'
+import { buildWhatsAppUrl, buildHomeMessage } from '../../../../utils/whatsapp'
 import styles from './AvailableHomeCard.module.css'
 
 const STATUS_LABEL = {
@@ -106,6 +108,15 @@ function AvailableHomeCard({ home, community }) {
 
         {/* Muestra lote solo cuando hay dirección para no duplicar con el encabezado */}
         {lot && address && <p className={styles.lot}>Lot {lot}</p>}
+
+        {!isUnderContract && (
+          <div className={styles.whatsappWrap}>
+            <WhatsAppButton
+              variant="inline"
+              url={buildWhatsAppUrl(buildHomeMessage(home, community))}
+            />
+          </div>
+        )}
       </div>
     </article>
   )

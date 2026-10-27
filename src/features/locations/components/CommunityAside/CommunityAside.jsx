@@ -1,8 +1,10 @@
 import { useState, useRef } from 'react'
 import RFIModal from '../RFIModal'
+import WhatsAppButton from '../../../../components/ui/WhatsAppButton'
+import { buildWhatsAppUrl, buildCommunityMessage } from '../../../../utils/whatsapp'
 import styles from './CommunityAside.module.css'
 
-function CommunityAside({ communityName, hours, phone }) {
+function CommunityAside({ communityName, hours, phone, community }) {
   const [showRFI, setShowRFI] = useState(false)
   const [showTWU, setShowTWU] = useState(false)
   const tourBtnRef = useRef(null)
@@ -47,6 +49,13 @@ function CommunityAside({ communityName, hours, phone }) {
           Text messaging is not available in this version.
         </p>
       )}
+
+      <div className={styles.whatsappWrap}>
+        <WhatsAppButton
+          variant="inline"
+          url={buildWhatsAppUrl(buildCommunityMessage(community ?? { name: communityName }))}
+        />
+      </div>
 
       {showRFI && (
         <RFIModal

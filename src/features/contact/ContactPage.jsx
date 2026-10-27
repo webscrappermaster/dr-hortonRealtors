@@ -1,6 +1,8 @@
 import CareTabs from '../../components/ui/CareTabs'
 import ContactForm from './components/ContactForm'
 import OfficeAccordion from './components/OfficeAccordion'
+import WhatsAppButton from '../../components/ui/WhatsAppButton'
+import { buildWhatsAppUrl, buildGeneralMessage } from '../../utils/whatsapp'
 import styles from './ContactPage.module.css'
 
 function ContactPage() {
@@ -19,6 +21,15 @@ function ContactPage() {
               <a href="#find-an-office" className={styles.blueLink}>here</a>.
             </p>
           </div>
+
+          <div className={styles.whatsappOption}>
+            <p className={styles.whatsappLabel}>Or reach us instantly on WhatsApp:</p>
+            <WhatsAppButton
+              variant="inline"
+              url={buildWhatsAppUrl(buildGeneralMessage())}
+            />
+          </div>
+
           <ContactForm />
         </div>
       </div>

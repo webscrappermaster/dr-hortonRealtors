@@ -81,6 +81,7 @@ function CommunityPage() {
               communityName={community.name}
               hours={community.hours}
               phone={community.phone}
+              community={community}
             />
             {/* Mapa pequeño con pin de la comunidad */}
             {community.location && (
