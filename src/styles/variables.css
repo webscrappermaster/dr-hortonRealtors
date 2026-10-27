@@ -59,10 +59,11 @@
   /* Status de comunidad — color del punto en poi-map / list-view */
   --color-status-coming-soon:  #01AF53;   /* verde del community-status-color inline */
 
-  /* WhatsApp */
-  --color-whatsapp:       #25D366;
-  --color-whatsapp-dark:  #1DA851;   /* hover / texto sobre fondo claro */
-  --color-whatsapp-text:  #FFFFFF;
+  /* WhatsApp — contraste verificado WCAG AA
+     #0B3B2E sobre #25D366 = 6.31:1 ✓   #0B3B2E sobre #22C55E = 5.49:1 ✓ */
+  --color-whatsapp:       #25D366;   /* verde de marca */
+  --color-whatsapp-dark:  #22C55E;   /* hover: verde más oscuro, 5.49:1 con --color-whatsapp-text */
+  --color-whatsapp-text:  #0B3B2E;   /* texto/ícono oscuro — reemplaza blanco (1.98:1 → 6.31:1) */
 
 
   /* ── TIPOGRAFÍA ───────────────────────────────────────── */
