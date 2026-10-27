@@ -59,6 +59,11 @@
   /* Status de comunidad — color del punto en poi-map / list-view */
   --color-status-coming-soon:  #01AF53;   /* verde del community-status-color inline */
 
+  /* WhatsApp */
+  --color-whatsapp:       #25D366;
+  --color-whatsapp-dark:  #1DA851;   /* hover / texto sobre fondo claro */
+  --color-whatsapp-text:  #FFFFFF;
+
 
   /* ── TIPOGRAFÍA ───────────────────────────────────────── */
 

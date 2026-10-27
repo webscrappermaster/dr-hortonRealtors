@@ -20,6 +20,11 @@ docs/reference/scraping/raw/
 docs/reference/scraping/homes-normalized.json
 docs/reference/scraping/REPORT.md
 
+# Variables de entorno (no exponer números de teléfono ni claves)
+.env
+.env.local
+.env.*.local
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
