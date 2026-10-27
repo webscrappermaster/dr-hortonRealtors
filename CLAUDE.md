@@ -183,3 +183,15 @@ node scripts/scrape/report.js
 | `under-contract` | Casa reservada, sin enlace público | Directo del HTML |
 
 Nunca usar `available` como status en componentes o JSONs de la app — solo existe en el JSON crudo del crawl.
+
+---
+
+## Contacto por WhatsApp
+
+- **Número centralizado**: definido únicamente en `.env` como `VITE_WHATSAPP_NUMBER` (solo dígitos, formato internacional sin "+"). Leído en `src/config/contact.js`. Cambiar un solo valor activa o desactiva toda la funcionalidad.
+- **Solo el número propio del proyecto**. Nunca hardcodear números de D.R. Horton ni de terceros.
+- **Sin scripts de terceros**: solo enlaces `https://wa.me/<número>?text=<mensaje>` con `target="_blank"` y `rel="noopener noreferrer"`.
+- **Sin número configurado** (`VITE_WHATSAPP_NUMBER` vacío o ausente): los botones siguen visibles pero muestran un aviso accesible en lugar de abrir wa.me.
+- **Excepción a la regla "sin tel/mailto"**: se permiten enlaces WhatsApp (`wa.me`) exclusivamente con el número del proyecto.
+- `.env` está en `.gitignore`. El repositorio incluye `.env.example` con la plantilla.
+- Plantillas de mensajes en `src/config/whatsappMessages.js`; lógica de construcción en `src/utils/whatsapp.js`.
