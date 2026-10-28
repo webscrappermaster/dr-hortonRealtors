@@ -156,22 +156,16 @@ async function main() {
     if (wt) await probe(`GET /v1/${api}/${storeId}/items?teamId=…`, wt, token)
   }
 
-  // ── 6. PATCH /items — dos variantes de body ────────────────────────────
-  // Variante A: formato actual del código { items: [{ operation, key, value }] }
-  // Variante B: formato alternativo        [{ op, key, value }]
-  console.log('\n--- 6. PATCH /items (prueba de escritura con clave __diag_test) ---')
-  const bodyA = JSON.stringify({ items: [{ operation: 'upsert', key: '__diag_test', value: 'ok' }] })
-  const bodyB = JSON.stringify([{ op: 'upsert', key: '__diag_test', value: 'ok' }])
+  // ── 6. PATCH /items — upsert { items: [{ operation, key, value }] } ─────
+  console.log('\n--- 6. PATCH /items (upsert __diag_test) ---')
+  const writeBody = JSON.stringify({ items: [{ operation: 'upsert', key: '__diag_test', value: 'ok' }] })
 
   for (const api of ['edge-config', 'global-config']) {
     const base = `https://api.vercel.com/v1/${api}/${storeId}/items`
     const wt   = withTeam(base, teamId)
 
-    await probe(`PATCH /v1/${api}/…/items  body-A`, base, token, { method: 'PATCH', body: bodyA })
-    if (wt) await probe(`PATCH /v1/${api}/…/items?teamId=…  body-A`, wt, token, { method: 'PATCH', body: bodyA })
-
-    await probe(`PATCH /v1/${api}/…/items  body-B`, base, token, { method: 'PATCH', body: bodyB })
-    if (wt) await probe(`PATCH /v1/${api}/…/items?teamId=…  body-B`, wt, token, { method: 'PATCH', body: bodyB })
+    await probe(`PATCH /v1/${api}/…/items`, base, token, { method: 'PATCH', body: writeBody })
+    if (wt) await probe(`PATCH /v1/${api}/…/items?teamId=…`, wt, token, { method: 'PATCH', body: writeBody })
   }
 
   // ── 7. Limpieza: borrar clave de prueba ────────────────────────────────
