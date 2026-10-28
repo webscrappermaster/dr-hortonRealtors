@@ -1,0 +1,192 @@
+.page {
+  min-height: 100dvh;
+  background: var(--color-hero-bg);
+  padding: var(--space-8) var(--space-page-x);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.loadingMsg {
+  color: var(--color-text-muted);
+  margin-top: var(--space-16);
+}
+
+.card {
+  background: var(--color-white);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+  padding: var(--space-10);
+  width: 100%;
+  max-width: 560px;
+  margin-top: var(--space-4);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+.heading {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-navy);
+  margin: 0;
+}
+
+.logoutBtn {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-2) var(--space-4);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+.logoutBtn:hover {
+  color: var(--color-text-primary);
+  border-color: var(--color-text-muted);
+}
+
+.fieldset {
+  border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+  margin: 0 0 var(--space-6);
+}
+
+.legend {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: var(--letter-spacing-wide);
+  padding: 0 var(--space-2);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-text-body);
+}
+
+.hint {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.inputRow {
+  display: flex;
+  gap: var(--space-3);
+}
+
+.input {
+  flex: 1;
+  padding: var(--space-3) var(--space-4);
+  font-size: var(--font-size-base);
+  border: 1px solid var(--color-border-input);
+  border-radius: var(--radius-md);
+  color: var(--color-text-primary);
+  background: var(--color-white);
+  box-sizing: border-box;
+  transition: border-color var(--transition-fast);
+  min-width: 0;
+}
+
+.input:focus {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 1px;
+  border-color: var(--color-navy);
+}
+
+.inputDate {
+  max-width: 200px;
+}
+
+.testBtn {
+  padding: var(--space-3) var(--space-5);
+  background: var(--color-whatsapp);
+  color: var(--color-whatsapp-text);
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background var(--transition-fast);
+}
+
+.testBtn:hover:not(:disabled) {
+  background: var(--color-whatsapp-dark);
+}
+
+.testBtn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.preview {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-body);
+  background: var(--color-hero-bg);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  margin: 0;
+}
+
+.preview em {
+  font-style: normal;
+  font-weight: var(--font-weight-medium);
+}
+
+.updatedAt {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: 0 0 var(--space-4);
+}
+
+.success {
+  font-size: var(--font-size-sm);
+  color: var(--color-status-coming-soon);
+  margin: 0 0 var(--space-4);
+}
+
+.error {
+  font-size: var(--font-size-sm);
+  color: var(--color-red);
+  margin: 0 0 var(--space-4);
+}
+
+.saveBtn {
+  width: 100%;
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-navy);
+  color: var(--color-white);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-semibold);
+  border: none;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-fast);
+}
+
+.saveBtn:hover:not(:disabled) {
+  background: var(--color-navy-dark);
+}
+
+.saveBtn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

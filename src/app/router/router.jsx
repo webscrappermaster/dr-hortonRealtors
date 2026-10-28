@@ -29,6 +29,13 @@ const FIXED_ROUTES = [
 
 export const router = createBrowserRouter([
   {
+    path: '/admin',
+    lazy: async () => {
+      const { default: Component } = await import('../../features/admin/AdminPage')
+      return { Component }
+    },
+  },
+  {
     path: '/',
     element: <MainLayout />,
     children: [
