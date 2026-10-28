@@ -188,13 +188,23 @@ Nunca usar `available` como status en componentes o JSONs de la app — solo exi
 
 ## Contacto por WhatsApp
 
-- **Número dinámico**: viene de `/api/settings` (Global Config en Vercel). El hook `useSiteSettings()` lo expone a todos los componentes. `VITE_WHATSAPP_NUMBER` en `.env` es solo respaldo para desarrollo local (`npm run dev` sin API).
+- **Número dinámico**: viene de `/api/settings` (Edge Config en Vercel). El hook `useSiteSettings()` lo expone a todos los componentes. `VITE_WHATSAPP_NUMBER` en `.env` es solo respaldo para desarrollo local (`npm run dev` sin API).
 - **Solo el número propio del proyecto**. Nunca hardcodear números de D.R. Horton ni de terceros.
 - **Sin scripts de terceros**: solo enlaces `https://wa.me/<número>?text=<mensaje>` con `target="_blank"` y `rel="noopener noreferrer"`.
 - **Sin número configurado**: los botones siguen visibles pero muestran un aviso accesible en lugar de abrir wa.me.
 - **Excepción a la regla "sin tel/mailto"**: se permiten enlaces WhatsApp (`wa.me`) exclusivamente con el número del proyecto.
 - `.env` está en `.gitignore`. El repositorio incluye `.env.example` con la plantilla.
 - Plantillas de mensajes en `src/config/whatsappMessages.js`; lógica de construcción en `src/utils/whatsapp.js`.
+
+### Edge Config — configuración en Vercel
+
+Lecciones aprendidas al poner en producción el store de ajustes:
+
+- **Tipo de store:** los stores con prefijo `ecfg_` son **Edge Config**. La ruta REST de escritura es `/v1/edge-config/{id}/items` (no `/v1/global-config/`).
+- **Token:** debe crearse con scope **webscrapermaster → All Projects**. Un token limitado a un proyecto específico no puede acceder al store y devuelve 403/404.
+- **`VERCEL_TEAM_ID`:** obligatorio en cuentas de equipo. Sin él, la API REST rechaza las escrituras.
+- **Redeploy:** cualquier cambio en variables de entorno de Vercel requiere un Redeploy manual para que las funciones serverless tomen los nuevos valores.
+- Guía no técnica paso a paso en `docs/guia-administradora.md`.
 
 ### RFIModal y "Request a tour"
 
