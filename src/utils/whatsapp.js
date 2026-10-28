@@ -1,4 +1,3 @@
-import { WHATSAPP_NUMBER } from '../config/contact'
 import { formatUSD } from './formatters'
 import {
   MSG_GENERAL,
@@ -6,9 +5,9 @@ import {
   MSG_HOME_TEMPLATE,
 } from '../config/whatsappMessages'
 
-export function buildWhatsAppUrl(message) {
-  if (!WHATSAPP_NUMBER) return null
-  return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`
+export function buildWhatsAppUrl(number, message) {
+  if (!number) return null
+  return `https://wa.me/${number}?text=${encodeURIComponent(message)}`
 }
 
 export function buildGeneralMessage() {

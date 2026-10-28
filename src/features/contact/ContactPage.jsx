@@ -3,9 +3,11 @@ import ContactForm from './components/ContactForm'
 import OfficeAccordion from './components/OfficeAccordion'
 import WhatsAppButton from '../../components/ui/WhatsAppButton'
 import { buildWhatsAppUrl, buildGeneralMessage } from '../../utils/whatsapp'
+import { useSiteSettings } from '../../hooks/useSiteSettings'
 import styles from './ContactPage.module.css'
 
 function ContactPage() {
+  const { whatsappNumber } = useSiteSettings()
   return (
     <div className={styles.page}>
       <CareTabs />
@@ -26,7 +28,7 @@ function ContactPage() {
             <p className={styles.whatsappLabel}>Or reach us instantly on WhatsApp:</p>
             <WhatsAppButton
               variant="inline"
-              url={buildWhatsAppUrl(buildGeneralMessage())}
+              url={buildWhatsAppUrl(whatsappNumber, buildGeneralMessage())}
             />
           </div>
 

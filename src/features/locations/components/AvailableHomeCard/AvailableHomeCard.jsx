@@ -3,6 +3,7 @@ import { getHomeImage } from '../../data/locationLoader'
 import { formatUSD, formatNumber } from '../../../../utils/formatters'
 import WhatsAppButton from '../../../../components/ui/WhatsAppButton'
 import { buildWhatsAppUrl, buildHomeMessage } from '../../../../utils/whatsapp'
+import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import styles from './AvailableHomeCard.module.css'
 
 const STATUS_LABEL = {
@@ -22,6 +23,7 @@ function StatBadge({ value, label }) {
 
 function AvailableHomeCard({ home, community }) {
   const [imgFailed, setImgFailed] = useState(false)
+  const { whatsappNumber } = useSiteSettings()
   const {
     address, cityStateZip, planName,
     price, wasPrice,
@@ -113,7 +115,7 @@ function AvailableHomeCard({ home, community }) {
           <div className={styles.whatsappWrap}>
             <WhatsAppButton
               variant="inline"
-              url={buildWhatsAppUrl(buildHomeMessage(home, community))}
+              url={buildWhatsAppUrl(whatsappNumber, buildHomeMessage(home, community))}
             />
           </div>
         )}

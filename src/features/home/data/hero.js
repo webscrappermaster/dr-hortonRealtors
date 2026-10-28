@@ -8,7 +8,7 @@ export const heroData = {
     alt: 'Hero image',  /* el original usa este alt tal cual */
   },
   heading: 'Red Tag Savings are here.',
-  subheading: 'Shop move-in ready homes by November 1.',
+  subheadingPrefix: 'Shop move-in ready homes by ',
   search: {
     placeholder: 'Search by zip, city, state, or community',
     ariaLabel: 'Search by zip, city, state, or community',

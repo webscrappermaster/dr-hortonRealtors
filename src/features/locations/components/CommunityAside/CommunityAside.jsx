@@ -2,6 +2,7 @@ import { useState, useRef } from 'react'
 import RFIModal from '../RFIModal'
 import WhatsAppButton from '../../../../components/ui/WhatsAppButton'
 import { buildWhatsAppUrl, buildCommunityMessage } from '../../../../utils/whatsapp'
+import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import styles from './CommunityAside.module.css'
 
 function CommunityAside({ communityName, hours, phone, community }) {
@@ -9,6 +10,7 @@ function CommunityAside({ communityName, hours, phone, community }) {
   const [showTWU, setShowTWU] = useState(false)
   const tourBtnRef = useRef(null)
   const twuBtnRef = useRef(null)
+  const { whatsappNumber } = useSiteSettings()
 
   return (
     <aside className={styles.aside}>
@@ -53,7 +55,7 @@ function CommunityAside({ communityName, hours, phone, community }) {
       <div className={styles.whatsappWrap}>
         <WhatsAppButton
           variant="inline"
-          url={buildWhatsAppUrl(buildCommunityMessage(community ?? { name: communityName }))}
+          url={buildWhatsAppUrl(whatsappNumber, buildCommunityMessage(community ?? { name: communityName }))}
         />
       </div>
 

@@ -3,15 +3,18 @@ import PromoBar from '../PromoBar'
 import Header from '../Header'
 import Footer from '../Footer'
 import WhatsAppButton from '../../ui/WhatsAppButton'
+import { SiteSettingsProvider } from '../../../app/providers/SiteSettingsProvider'
+import { useSiteSettings } from '../../../hooks/useSiteSettings'
 import { useScrollToTop } from '../../../hooks/useScrollToTop'
 import { useModalOpen } from '../../../hooks/useModalOpen'
 import { buildWhatsAppUrl, buildGeneralMessage } from '../../../utils/whatsapp'
 import styles from './MainLayout.module.css'
 
-function MainLayout() {
+function MainLayoutInner() {
   useScrollToTop()
   const modalOpen = useModalOpen()
-  const floatingUrl = buildWhatsAppUrl(buildGeneralMessage())
+  const { whatsappNumber } = useSiteSettings()
+  const floatingUrl = buildWhatsAppUrl(whatsappNumber, buildGeneralMessage())
 
   return (
     <>
@@ -25,6 +28,14 @@ function MainLayout() {
         <WhatsAppButton variant="floating" url={floatingUrl} />
       )}
     </>
+  )
+}
+
+function MainLayout() {
+  return (
+    <SiteSettingsProvider>
+      <MainLayoutInner />
+    </SiteSettingsProvider>
   )
 }
 
