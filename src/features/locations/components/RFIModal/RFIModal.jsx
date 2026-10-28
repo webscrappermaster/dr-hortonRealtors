@@ -4,6 +4,8 @@ import useForm from '../../../../hooks/useForm'
 import FormField from '../../../../components/ui/Form/FormField'
 import FormLayout from '../../../../components/ui/Form/FormLayout'
 import { useBodyScrollLock } from '../../../../hooks/useBodyScrollLock'
+import { useSiteSettings } from '../../../../hooks/useSiteSettings'
+import { buildWhatsAppUrl, buildRFIMessage, buildTourMessage } from '../../../../utils/whatsapp'
 import styles from './RFIModal.module.css'
 
 const INITIAL = { firstName: '', lastName: '', email: '', phone: '' }
@@ -18,9 +20,11 @@ const RULES = {
   },
 }
 
-function RFIModal({ communityName, onClose, returnFocusTo }) {
+// variant: 'info' (default) | 'tour'
+function RFIModal({ communityName, community, variant = 'info', onClose, returnFocusTo }) {
   const dialogRef = useRef(null)
   const { values, errors, submitted, handleChange, handleSubmit } = useForm(INITIAL, RULES)
+  const { whatsappNumber } = useSiteSettings()
 
   useBodyScrollLock(true)
 
@@ -48,12 +52,27 @@ function RFIModal({ communityName, onClose, returnFocusTo }) {
 
   const close = () => dialogRef.current?.close()
 
+  // El window.open debe llamarse sincrónicamente dentro del handler del clic
+  // para que el navegador lo permita sin bloquearlo como popup.
+  const onSubmitSuccess = (formValues) => {
+    if (!whatsappNumber) return
+    const message = variant === 'tour'
+      ? buildTourMessage(formValues, community)
+      : buildRFIMessage(formValues, community)
+    const url = buildWhatsAppUrl(whatsappNumber, message)
+    if (url) {
+      window.open(url, '_blank', 'noopener,noreferrer')
+    }
+  }
+
+  const modalTitle = variant === 'tour' ? 'Request a Tour' : 'Request Information'
+
   return createPortal(
     <dialog ref={dialogRef} className={styles.dialog} aria-labelledby="rfi-modal-title">
       <div className={styles.content}>
         <div className={styles.header}>
           <div>
-            <h2 id="rfi-modal-title" className={styles.title}>Request Information</h2>
+            <h2 id="rfi-modal-title" className={styles.title}>{modalTitle}</h2>
             {communityName && (
               <p className={styles.subtitle}>{communityName}</p>
             )}
@@ -79,12 +98,19 @@ function RFIModal({ communityName, onClose, returnFocusTo }) {
             </div>
           ) : (
             <FormLayout
-              onSubmit={handleSubmit()}
+              onSubmit={handleSubmit(onSubmitSuccess)}
               columns={2}
               actions={
-                <button type="submit" className={styles.submitBtn}>
-                  Send request
-                </button>
+                <>
+                  <button type="submit" className={styles.submitBtn}>
+                    Send request
+                  </button>
+                  <p className={styles.waNotice}>
+                    {whatsappNumber
+                      ? 'When you send this request, WhatsApp will open with your details so you can send them to us.'
+                      : 'WhatsApp contact will be available soon.'}
+                  </p>
+                </>
               }
             >
               <FormField

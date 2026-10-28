@@ -62,6 +62,8 @@ function CommunityAside({ communityName, hours, phone, community }) {
       {showRFI && (
         <RFIModal
           communityName={communityName}
+          community={community}
+          variant="tour"
           onClose={() => setShowRFI(false)}
           returnFocusTo={tourBtnRef}
         />

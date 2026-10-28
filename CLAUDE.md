@@ -188,10 +188,17 @@ Nunca usar `available` como status en componentes o JSONs de la app — solo exi
 
 ## Contacto por WhatsApp
 
-- **Número centralizado**: definido únicamente en `.env` como `VITE_WHATSAPP_NUMBER` (solo dígitos, formato internacional sin "+"). Leído en `src/config/contact.js`. Cambiar un solo valor activa o desactiva toda la funcionalidad.
+- **Número dinámico**: viene de `/api/settings` (Global Config en Vercel). El hook `useSiteSettings()` lo expone a todos los componentes. `VITE_WHATSAPP_NUMBER` en `.env` es solo respaldo para desarrollo local (`npm run dev` sin API).
 - **Solo el número propio del proyecto**. Nunca hardcodear números de D.R. Horton ni de terceros.
 - **Sin scripts de terceros**: solo enlaces `https://wa.me/<número>?text=<mensaje>` con `target="_blank"` y `rel="noopener noreferrer"`.
-- **Sin número configurado** (`VITE_WHATSAPP_NUMBER` vacío o ausente): los botones siguen visibles pero muestran un aviso accesible en lugar de abrir wa.me.
+- **Sin número configurado**: los botones siguen visibles pero muestran un aviso accesible en lugar de abrir wa.me.
 - **Excepción a la regla "sin tel/mailto"**: se permiten enlaces WhatsApp (`wa.me`) exclusivamente con el número del proyecto.
 - `.env` está en `.gitignore`. El repositorio incluye `.env.example` con la plantilla.
 - Plantillas de mensajes en `src/config/whatsappMessages.js`; lógica de construcción en `src/utils/whatsapp.js`.
+
+### RFIModal y "Request a tour"
+
+- **No son simulados**: al pulsar "Send request", validan el formulario y abren WhatsApp con nombre, apellido, email, teléfono (opcional), nombre de comunidad y URL de la página.
+- **Sin almacenamiento**: los datos del formulario no se guardan en ningún lugar (ni API, ni consola).
+- El aviso "When you send this request, WhatsApp will open…" aparece siempre debajo del botón de envío para que el cliente sepa lo que ocurrirá.
+- Sin número configurado: el formulario valida y muestra el agradecimiento, pero no abre WhatsApp; el aviso lo indica antes de enviar.

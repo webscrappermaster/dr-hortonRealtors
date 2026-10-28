@@ -129,3 +129,12 @@
   background: var(--color-navy-dark);
   outline: none;
 }
+
+/* ── WhatsApp notice ─────────────────────────────────────── */
+
+.waNotice {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  margin: var(--space-3) 0 0;
+  line-height: var(--line-height-normal);
+}
