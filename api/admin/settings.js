@@ -49,7 +49,16 @@ export default async function handler(req, res) {
     const { updatedAt } = await updateSettings(body)
     return res.status(200).json({ ok: true, updatedAt })
   } catch (err) {
-    console.error('Error al actualizar ajustes:', err.message)
-    return res.status(500).json({ error: 'No se pudieron guardar los ajustes' })
+    const msg = err.message ?? ''
+    console.error('Error al actualizar ajustes:', msg)
+    let clientMsg = 'Could not save settings. Please try again.'
+    if (msg === 'ENV_MISSING') {
+      clientMsg = 'Storage not configured — check GLOBAL_CONFIG_ID and VERCEL_ACCESS_TOKEN in Vercel.'
+    } else if (msg.includes('GC_WRITE_FAILED:404')) {
+      clientMsg = 'Storage not found — check GLOBAL_CONFIG_ID and VERCEL_TEAM_ID in Vercel.'
+    } else if (msg.includes('GC_WRITE_FAILED:401') || msg.includes('GC_WRITE_FAILED:403')) {
+      clientMsg = 'Storage access denied — check VERCEL_ACCESS_TOKEN in Vercel.'
+    }
+    return res.status(500).json({ error: clientMsg })
   }
 }

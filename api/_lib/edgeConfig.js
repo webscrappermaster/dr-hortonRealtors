@@ -28,7 +28,7 @@ export async function getSettings() {
 export async function updateSettings({ whatsappNumber, promoDeadline }) {
   const configId = process.env.GLOBAL_CONFIG_ID
   const token = process.env.VERCEL_ACCESS_TOKEN
-  if (!configId || !token) throw new Error('GLOBAL_CONFIG_ID o VERCEL_ACCESS_TOKEN no configurados')
+  if (!configId || !token) throw new Error('ENV_MISSING')
 
   const updatedAt = new Date().toISOString()
 
@@ -37,7 +37,12 @@ export async function updateSettings({ whatsappNumber, promoDeadline }) {
   if (promoDeadline !== undefined) items.push({ operation: 'upsert', key: 'promoDeadline', value: promoDeadline })
   items.push({ operation: 'upsert', key: 'updatedAt', value: updatedAt })
 
-  const res = await fetch(`https://api.vercel.com/v1/global-config/${configId}/items`, {
+  // Las cuentas Hobby/Team requieren ?teamId para las llamadas a la API REST de Vercel
+  const url = new URL(`https://api.vercel.com/v1/global-config/${configId}/items`)
+  const teamId = process.env.VERCEL_TEAM_ID
+  if (teamId) url.searchParams.set('teamId', teamId)
+
+  const res = await fetch(url.toString(), {
     method: 'PATCH',
     headers: {
       Authorization: `Bearer ${token}`,
@@ -47,8 +52,12 @@ export async function updateSettings({ whatsappNumber, promoDeadline }) {
   })
 
   if (!res.ok) {
-    const text = await res.text().catch(() => '')
-    throw new Error(`Global Config write failed: ${res.status} ${text}`)
+    let errorCode = String(res.status)
+    try {
+      const json = await res.json()
+      errorCode = json?.error?.code ?? String(res.status)
+    } catch { /* mantener el status como código de error */ }
+    throw new Error(`GC_WRITE_FAILED:${res.status}:${errorCode}`)
   }
 
   return { updatedAt }
