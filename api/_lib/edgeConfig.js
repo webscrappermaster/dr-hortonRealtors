@@ -37,8 +37,8 @@ export async function updateSettings({ whatsappNumber, promoDeadline }) {
   if (promoDeadline !== undefined) items.push({ operation: 'upsert', key: 'promoDeadline', value: promoDeadline })
   items.push({ operation: 'upsert', key: 'updatedAt', value: updatedAt })
 
-  // Las cuentas Hobby/Team requieren ?teamId para las llamadas a la API REST de Vercel
-  const url = new URL(`https://api.vercel.com/v1/global-config/${configId}/items`)
+  // Los stores ecfg_* son Edge Config; la ruta de escritura es /v1/edge-config/
+  const url = new URL(`https://api.vercel.com/v1/edge-config/${configId}/items`)
   const teamId = process.env.VERCEL_TEAM_ID
   if (teamId) url.searchParams.set('teamId', teamId)
 
