@@ -36,4 +36,13 @@ export default defineConfig([
       sourceType: 'module',
     },
   },
+  /* Configuración de Playwright y tests: entorno Node con globals de proceso. */
+  {
+    files: ['playwright.config.js', 'tests/**/*.js'],
+    extends: [js.configs.recommended],
+    languageOptions: {
+      globals: { ...globals.node, ...globals.nodeBuiltin },
+      sourceType: 'module',
+    },
+  },
 ])

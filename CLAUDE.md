@@ -196,6 +196,30 @@ Nunca usar `available` como status en componentes o JSONs de la app — solo exi
 - `.env` está en `.gitignore`. El repositorio incluye `.env.example` con la plantilla.
 - Plantillas de mensajes en `src/config/whatsappMessages.js`; lógica de construcción en `src/utils/whatsapp.js`.
 
+### Fechas de la promoción Red Tag
+
+Todos los ajustes de fecha viven en `/api/settings` (Edge Config) y se consumen con `useSiteSettings()`.
+
+| Campo | Descripción |
+|---|---|
+| `promoDeadline` | Fecha límite ISO (`YYYY-MM-DD`). Controla si la promo está activa. |
+| `promoStartDate` | Fecha de inicio ISO, **opcional**. Si se omite, el formato es "Through Dec 1". |
+
+Funciones centralizadas en `src/utils/promoDates.js`:
+
+- `isPromoActive(deadline)` — `true` si hoy ≤ deadline (comparación local, sin UTC offset).
+- `formatPromoRange(startDate, deadline)` — devuelve "Oct 9 – Dec 1" (con start) o "Through Dec 1" (sin start).
+- `formatLong(iso)` — "December 1" para el subheading del Hero.
+
+Cuando la promo expira:
+- **PromoBar**: se oculta completamente (`return null`).
+- **FeatureGrid** (tarjeta Red Tag): no muestra el párrafo de fecha.
+- **RedTagHero**: span de dateRange queda vacío.
+
+Tests de verificación: `tests/promo-dates.spec.js` (Playwright, 11 casos). Ejecutar con `npm test`.
+
+---
+
 ### Edge Config — configuración en Vercel
 
 Lecciones aprendidas al poner en producción el store de ajustes:

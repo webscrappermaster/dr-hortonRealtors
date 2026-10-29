@@ -89,8 +89,16 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
    - **Número de WhatsApp**: solo dígitos en formato internacional sin `+`
      (ejemplo Colombia: `573001234567`, ejemplo EE. UU.: `14155551234`).
      El botón "Probar" abre WhatsApp con un mensaje de prueba para verificarlo.
-   - **Fecha de la promoción**: el selector muestra el texto tal como aparecerá
-     en la página de inicio ("Shop move-in ready homes by **December 1.**").
+   - **Sección Promo — Fecha de inicio** *(opcional)*: si se llena, la promoción
+     aparecerá como rango ("Oct 9 – Dec 1"). Si se deja vacío, solo se muestra
+     la fecha de cierre ("Through Dec 1").
+   - **Sección Promo — Fecha de cierre**: controla cuándo expira la promoción.
+     Cuando la fecha pasa, el PromoBar desaparece y las tarjetas dejan de mostrar fechas.
+   - La sección de vista previa bajo las fechas muestra exactamente el texto que
+     verá el visitante en el Hero, en la tarjeta Red Tag y en la barra de promo.
+   - **Redes sociales — Facebook / Instagram**: pega la URL completa
+     (p. ej. `https://www.facebook.com/drhortonrealtors`). Si se deja vacío,
+     el ícono no aparece en el pie de página.
 4. Haz clic en **Guardar**. El cambio se aplica de inmediato en todo el sitio
    sin necesidad de redesplegar.
 
