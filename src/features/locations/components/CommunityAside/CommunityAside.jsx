@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react'
 import RFIModal from '../RFIModal'
 import WhatsAppButton from '../../../../components/ui/WhatsAppButton'
-import { buildWhatsAppUrl, buildCommunityMessage } from '../../../../utils/whatsapp'
+import { buildWhatsAppUrl, buildCommunityMessage, buildTextWithUsMessage } from '../../../../utils/whatsapp'
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import styles from './CommunityAside.module.css'
 
@@ -26,6 +26,12 @@ function CommunityAside({ communityName, hours, community }) {
       >
         Request a tour
       </button>
+
+      <WhatsAppButton
+        variant="inline"
+        label="Text With Us"
+        url={buildWhatsAppUrl(whatsappNumber, buildTextWithUsMessage(community ?? { name: communityName }))}
+      />
 
       <div className={styles.whatsappWrap}>
         <WhatsAppButton

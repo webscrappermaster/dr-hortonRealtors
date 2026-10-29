@@ -1,3 +1,6 @@
+export const MSG_TEXT_WITH_US_TEMPLATE =
+  'Hi! I\'m interested in the {communityName} community in {cityName}, {stateSlug}. I\'d love to chat — can you help me?'
+
 export const MSG_GENERAL =
   'Hello! I\'d like to get more information about your available homes.'
 

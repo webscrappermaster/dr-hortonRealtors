@@ -5,6 +5,7 @@ import {
   MSG_HOME_TEMPLATE,
   MSG_RFI_TEMPLATE,
   MSG_TOUR_TEMPLATE,
+  MSG_TEXT_WITH_US_TEMPLATE,
 } from '../config/whatsappMessages'
 
 export function buildWhatsAppUrl(number, message) {
@@ -35,6 +36,13 @@ export function buildHomeMessage(home, community) {
     .replace('{stateSlug}', community?.stateSlug ?? '')
     .replace('{price}', price)
     .replace('{url}', url)
+}
+
+export function buildTextWithUsMessage(community) {
+  return MSG_TEXT_WITH_US_TEMPLATE
+    .replace('{communityName}', community?.name ?? '')
+    .replace('{cityName}', community?.cityName ?? '')
+    .replace('{stateSlug}', community?.stateSlug ?? '')
 }
 
 // Formularios de solicitud — no almacenan datos en ningún lado
