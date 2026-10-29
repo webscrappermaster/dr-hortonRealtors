@@ -6,6 +6,9 @@ import {
   MSG_RFI_TEMPLATE,
   MSG_TOUR_TEMPLATE,
   MSG_TEXT_WITH_US_TEMPLATE,
+  MSG_MAINTENANCE,
+  MSG_LAND_CONTACT,
+  MSG_WARRANTY_TEMPLATE,
 } from '../config/whatsappMessages'
 
 export function buildWhatsAppUrl(number, message) {
@@ -35,6 +38,31 @@ export function buildHomeMessage(home, community) {
     .replace('{cityName}', community?.cityName ?? '')
     .replace('{stateSlug}', community?.stateSlug ?? '')
     .replace('{price}', price)
+    .replace('{url}', url)
+}
+
+export function buildMaintenanceMessage() {
+  return MSG_MAINTENANCE
+}
+
+export function buildLandContactMessage() {
+  return MSG_LAND_CONTACT
+}
+
+export function buildWarrantyMessage(values) {
+  const phone = values.homePhone || values.cellPhone || values.workPhone || ''
+  const phoneLine = phone ? `Phone: ${phone}\n` : ''
+  const address = values.notListed
+    ? `${values.noAddress}, ${values.noCity}, ${values.noState} ${values.noZip}`
+    : values.address
+  const url = typeof window !== 'undefined' ? window.location.href : ''
+  return MSG_WARRANTY_TEMPLATE
+    .replace('{firstName}', values.firstName.trim())
+    .replace('{lastName}', values.lastName.trim())
+    .replace('{email}', values.email.trim())
+    .replace('{phoneLine}', phoneLine)
+    .replace('{address}', address.trim())
+    .replace('{requestDetails}', values.requestDetails.trim())
     .replace('{url}', url)
 }
 

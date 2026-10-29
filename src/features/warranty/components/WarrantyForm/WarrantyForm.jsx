@@ -2,6 +2,8 @@ import { useState, useRef, useEffect } from 'react'
 import FormField from '../../../../components/ui/Form/FormField'
 import FormSelect from '../../../../components/ui/Form/FormSelect'
 import { US_STATES } from '../../../../utils/usStates'
+import { useSiteSettings } from '../../../../hooks/useSiteSettings'
+import { buildWhatsAppUrl, buildWarrantyMessage } from '../../../../utils/whatsapp'
 import styles from './WarrantyForm.module.css'
 
 /* Sugerencias de dirección de ejemplo — no conectan a ningún servicio externo.
@@ -403,6 +405,7 @@ function WarrantyForm() {
   const [errors, setErrors] = useState({})
   const [submitted, setSubmitted] = useState(false)
   const stepTitleRef = useRef(null)
+  const { whatsappNumber } = useSiteSettings()
 
   /* estado derivado: sugerencias mock cuando ZIP tiene 5 dígitos válidos */
   const suggestions = !values.notListed && /^\d{5}$/.test(values.zip)
@@ -497,6 +500,10 @@ function WarrantyForm() {
       setErrors(errs)
       return
     }
+    const waUrl = buildWhatsAppUrl(whatsappNumber, buildWarrantyMessage(values))
+    if (waUrl) {
+      window.open(waUrl, '_blank', 'noopener,noreferrer')
+    }
     setSubmitted(true)
   }
 
@@ -504,7 +511,10 @@ function WarrantyForm() {
     return (
       <div className={styles.thanks} role="status" aria-live="polite">
         <h2 className={styles.thanksHeading}>Thank you for your warranty request!</h2>
-        <p>Your request has been received. Your local Customer Care team will review it and follow up with you shortly.</p>
+        {whatsappNumber
+          ? <p>WhatsApp has opened with your request details. Our team will follow up with you shortly.</p>
+          : <p>Your request has been received. Our Customer Care team will get back to you soon.</p>
+        }
       </div>
     )
   }
@@ -557,9 +567,16 @@ function WarrantyForm() {
           </button>
         )}
         {step === 3 && (
-          <button type="submit" className={styles.nextBtn}>
-            Submit
-          </button>
+          <>
+            <p className={styles.waNotice}>
+              {whatsappNumber
+                ? 'When you submit, WhatsApp will open with your request details. Photos and files can be sent directly in the chat.'
+                : 'WhatsApp contact will be available soon. Your request will be recorded.'}
+            </p>
+            <button type="submit" className={styles.nextBtn}>
+              Submit
+            </button>
+          </>
         )}
       </div>
     </form>
