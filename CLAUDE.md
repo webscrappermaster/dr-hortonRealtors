@@ -195,6 +195,10 @@ Nunca usar `available` como status en componentes o JSONs de la app — solo exi
 - **Excepción a la regla "sin tel/mailto"**: se permiten enlaces WhatsApp (`wa.me`) exclusivamente con el número del proyecto.
 - `.env` está en `.gitignore`. El repositorio incluye `.env.example` con la plantilla.
 - Plantillas de mensajes en `src/config/whatsappMessages.js`; lógica de construcción en `src/utils/whatsapp.js`.
+- **`window.open()` sincrónico**: siempre llamar desde el manejador de clic directo (no en callbacks ni `setTimeout`) para evitar bloqueo de popups en navegadores. Ver `ContactForm`, `WarrantyForm`.
+- **Sin número**: no abrir WhatsApp; mostrar aviso accesible; el formulario sigue siendo funcional.
+- **Formularios con WA**: `ContactForm` (`/contact-us-page`), `WarrantyForm` (`/warranty`), `RFIModal`, `TourModal`. Todos usan `buildWhatsAppUrl` + su plantilla específica. Ninguno almacena datos (sin API, sin console.log, sin localStorage).
+- **`requestDetails` largos**: recortar a 1 000 caracteres con `...` para que la URL de `wa.me` no falle (límite práctico del protocolo).
 
 ### Fechas de la promoción Red Tag
 
