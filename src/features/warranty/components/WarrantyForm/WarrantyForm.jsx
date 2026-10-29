@@ -4,6 +4,7 @@ import FormSelect from '../../../../components/ui/Form/FormSelect'
 import { US_STATES } from '../../../../utils/usStates'
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import { buildWhatsAppUrl, buildWarrantyMessage } from '../../../../utils/whatsapp'
+import { DISCLAIMER_WA } from '../../../../config/legalTexts'
 import styles from './WarrantyForm.module.css'
 
 /* Sugerencias de dirección de ejemplo — no conectan a ningún servicio externo.
@@ -327,6 +328,7 @@ function Step3({ values, errors, onChange, onFilesChange }) {
           aria-required="true"
           aria-invalid={errors.requestDetails ? 'true' : undefined}
           aria-describedby={errors.requestDetails ? 'requestDetails-err' : undefined}
+          autoComplete="off"
           placeholder="Please describe the service request in this space. IMPORTANT: If you have multiple requests, please list them all here."
         />
         {errors.requestDetails && (
@@ -391,10 +393,7 @@ function Step3({ values, errors, onChange, onFilesChange }) {
         <p className={styles.fieldError} role="alert">{errors.files}</p>
       )}
 
-      <p className={styles.disclaimer}>
-        By making this submission, you agree that D.R. Horton and its affiliates may process
-        the personal information you have provided as stated in our Privacy Policy.
-      </p>
+      <p className={styles.disclaimer}>{DISCLAIMER_WA}</p>
     </div>
   )
 }
@@ -501,9 +500,8 @@ function WarrantyForm() {
       return
     }
     const waUrl = buildWhatsAppUrl(whatsappNumber, buildWarrantyMessage(values))
-    if (waUrl) {
-      window.open(waUrl, '_blank', 'noopener,noreferrer')
-    }
+    if (waUrl) window.open(waUrl, '_blank', 'noopener,noreferrer')
+    setValues(INITIAL)
     setSubmitted(true)
   }
 
@@ -568,11 +566,7 @@ function WarrantyForm() {
         )}
         {step === 3 && (
           <>
-            <p className={styles.waNotice}>
-              {whatsappNumber
-                ? 'When you submit, WhatsApp will open with your request details. Photos and files can be sent directly in the chat.'
-                : 'WhatsApp contact will be available soon. Your request will be recorded.'}
-            </p>
+            <p className={styles.waNotice}>{DISCLAIMER_WA}</p>
             <button type="submit" className={styles.nextBtn}>
               Submit
             </button>

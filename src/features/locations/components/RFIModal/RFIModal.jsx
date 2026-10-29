@@ -6,6 +6,7 @@ import FormLayout from '../../../../components/ui/Form/FormLayout'
 import { useBodyScrollLock } from '../../../../hooks/useBodyScrollLock'
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import { buildWhatsAppUrl, buildRFIMessage, buildTourMessage } from '../../../../utils/whatsapp'
+import { DISCLAIMER_WA } from '../../../../config/legalTexts'
 import styles from './RFIModal.module.css'
 
 const INITIAL = { firstName: '', lastName: '', email: '', phone: '' }
@@ -23,7 +24,7 @@ const RULES = {
 // variant: 'info' (default) | 'tour'
 function RFIModal({ communityName, community, variant = 'info', onClose, returnFocusTo }) {
   const dialogRef = useRef(null)
-  const { values, errors, submitted, handleChange, handleSubmit } = useForm(INITIAL, RULES)
+  const { values, errors, submitted, handleChange, handleSubmit, clearValues } = useForm(INITIAL, RULES)
   const { whatsappNumber } = useSiteSettings()
 
   useBodyScrollLock(true)
@@ -55,14 +56,14 @@ function RFIModal({ communityName, community, variant = 'info', onClose, returnF
   // El window.open debe llamarse sincrónicamente dentro del handler del clic
   // para que el navegador lo permita sin bloquearlo como popup.
   const onSubmitSuccess = (formValues) => {
-    if (!whatsappNumber) return
-    const message = variant === 'tour'
-      ? buildTourMessage(formValues, community)
-      : buildRFIMessage(formValues, community)
-    const url = buildWhatsAppUrl(whatsappNumber, message)
-    if (url) {
-      window.open(url, '_blank', 'noopener,noreferrer')
+    if (whatsappNumber) {
+      const message = variant === 'tour'
+        ? buildTourMessage(formValues, community)
+        : buildRFIMessage(formValues, community)
+      const url = buildWhatsAppUrl(whatsappNumber, message)
+      if (url) window.open(url, '_blank', 'noopener,noreferrer')
     }
+    clearValues()
   }
 
   const modalTitle = variant === 'tour' ? 'Request a Tour' : 'Request Information'
@@ -91,7 +92,7 @@ function RFIModal({ communityName, community, variant = 'info', onClose, returnF
           {submitted ? (
             <div className={styles.thanks}>
               <p className={styles.thanksTitle}>Thank you!</p>
-              <p>A D.R. Horton representative will be in touch shortly.</p>
+              <p>Your message has been sent via WhatsApp. We&apos;ll be in touch shortly.</p>
               <button type="button" className={styles.doneBtn} onClick={close}>
                 Close
               </button>
@@ -105,11 +106,7 @@ function RFIModal({ communityName, community, variant = 'info', onClose, returnF
                   <button type="submit" className={styles.submitBtn}>
                     Send request
                   </button>
-                  <p className={styles.waNotice}>
-                    {whatsappNumber
-                      ? 'When you send this request, WhatsApp will open with your details so you can send them to us.'
-                      : 'WhatsApp contact will be available soon.'}
-                  </p>
+                  <p className={styles.waNotice}>{DISCLAIMER_WA}</p>
                 </>
               }
             >

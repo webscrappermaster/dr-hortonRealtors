@@ -54,7 +54,14 @@ function useForm(initialValues = {}, validationRules = {}) {
     setSubmitted(false)
   }
 
-  return { values, errors, submitted, handleChange, handleSubmit, reset }
+  /* Limpia campos y errores sin tocar el estado submitted — útil al enviar
+     formularios que muestran la pantalla de agradecimiento por separado. */
+  function clearValues() {
+    setValues(initialValues)
+    setErrors({})
+  }
+
+  return { values, errors, submitted, handleChange, handleSubmit, reset, clearValues }
 }
 
 export default useForm

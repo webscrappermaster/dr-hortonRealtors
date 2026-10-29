@@ -9,5 +9,4 @@ export const movingInOptions = [
   { value: '6 months to a year', label: '6 months to a year' },
 ]
 
-export const disclaimer =
-  'By making this submission, you agree that D.R. Horton and its affiliates may process the personal information you have provided to respond to your inquiry and provide you with related information. You may revoke this consent at any time as described in our Privacy Policy.'
+export { DISCLAIMER_SITE as disclaimer } from '../../../config/legalTexts'

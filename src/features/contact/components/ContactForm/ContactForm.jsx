@@ -5,6 +5,7 @@ import { inquiryTypes } from '../../data/inquiryTypes'
 import { US_STATES } from '../../../../utils/usStates'
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import { buildWhatsAppUrl, buildContactMessage } from '../../../../utils/whatsapp'
+import { DISCLAIMER_WA } from '../../../../config/legalTexts'
 import styles from './ContactForm.module.css'
 
 const PHONE_RE = /^[\d\s().+-]{7,}$/
@@ -77,6 +78,7 @@ function ContactForm() {
     const waUrl = buildWhatsAppUrl(whatsappNumber, buildContactMessage(values, inquiryLabel))
     if (waUrl) window.open(waUrl, '_blank', 'noopener,noreferrer')
 
+    setValues(INITIAL)
     setSubmitted(true)
   }
 
@@ -227,6 +229,7 @@ function ContactForm() {
           aria-required="true"
           aria-invalid={errors.requestDetails ? 'true' : undefined}
           aria-describedby={errors.requestDetails ? 'requestDetails-error' : undefined}
+          autoComplete="off"
         />
         {errors.requestDetails && (
           <p id="requestDetails-error" className={styles.fieldError} role="alert">
@@ -235,16 +238,7 @@ function ContactForm() {
         )}
       </div>
 
-      <p className={styles.disclaimer}>
-        By making this submission, you agree that D.R. Horton and its affiliates may process
-        the personal information you have provided as stated in our Privacy Policy.
-      </p>
-
-      <p className={styles.waNotice}>
-        {whatsappNumber
-          ? 'When you submit, WhatsApp will open with your details so you can send them to us.'
-          : 'WhatsApp contact will be available soon.'}
-      </p>
+      <p className={styles.disclaimer}>{DISCLAIMER_WA}</p>
 
       <div className={styles.actions}>
         <button type="submit" className={styles.submit}>Submit</button>

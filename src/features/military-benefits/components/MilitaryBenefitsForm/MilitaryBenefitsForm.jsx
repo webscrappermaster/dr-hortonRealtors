@@ -4,6 +4,7 @@ import {
   militaryBranchOptions,
   installationsByBranch,
 } from '../../data/militaryBenefits'
+import { DISCLAIMER_SITE as disclaimer } from '../../../../config/legalTexts'
 import styles from './MilitaryBenefitsForm.module.css'
 
 const INITIAL = {
@@ -32,9 +33,6 @@ const RULES = {
   },
   branch: { required: true, requiredMsg: 'Military branch is required.' },
 }
-
-const disclaimer =
-  'By making this submission, you agree that D.R. Horton and its affiliates may process the personal information you have provided as stated in our Privacy Policy.'
 
 function formatPhone(value) {
   const digits = value.replace(/\D/g, '').slice(0, 10)
