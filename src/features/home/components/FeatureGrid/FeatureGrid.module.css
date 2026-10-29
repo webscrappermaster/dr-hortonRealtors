@@ -41,6 +41,13 @@
   margin-top: auto;    /* empuja el contenido al pie del tile */
 }
 
+.tileDate {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-semibold);
+  color: var(--color-primary);
+  margin: 0 0 var(--space-2);
+}
+
 .heading {
   font-size: 1.1875rem;  /* ~19px */
   font-weight: var(--font-weight-bold);

@@ -3,15 +3,8 @@ import SearchBar from '../../../../components/ui/SearchBar'
 import { useLocationSearch } from '../../../locations/hooks/useLocationSearch'
 import { heroData } from '../../data/hero'
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
+import { formatLong } from '../../../../utils/promoDates'
 import styles from './Hero.module.css'
-
-const dateFormatter = new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric' })
-
-// Parsea como fecha local para evitar desfase de zona horaria con fechas ISO
-function parseLocalDate(iso) {
-  const [y, m, d] = iso.split('-').map(Number)
-  return new Date(y, m - 1, d)
-}
 
 function Hero() {
   const navigate = useNavigate()
@@ -19,8 +12,7 @@ function Hero() {
   const { promoDeadline } = useSiteSettings()
   const { image, heading, subheadingPrefix, search: searchCfg, mapButton } = heroData
 
-  const formattedDate = dateFormatter.format(parseLocalDate(promoDeadline))
-  const subheading = `${subheadingPrefix}${formattedDate}.`
+  const subheading = `${subheadingPrefix}${formatLong(promoDeadline)}.`
 
   return (
     <section className={styles.hero} aria-labelledby="hero-heading">

@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom'
 import VimeoTile from '../VimeoTile'
 import { redTagTile, secondaryTiles } from '../../data/featureTiles'
 import heartIcon from '../../../../assets/icons/heart.svg'
+import { useSiteSettings } from '../../../../hooks/useSiteSettings'
+import { formatPromoRange, isPromoActive } from '../../../../utils/promoDates'
 import styles from './FeatureGrid.module.css'
 
 /* Renderiza un CTA interno o externo según `cta.external`. */
@@ -45,6 +47,10 @@ function Heading({ text, hasHeart, className }) {
 }
 
 function FeatureGrid() {
+  const { promoDeadline, promoStartDate } = useSiteSettings()
+  const active = isPromoActive(promoDeadline)
+  const dateRange = active ? formatPromoRange(promoStartDate, promoDeadline) : ''
+
   return (
     <section className={styles.wrapper} aria-label="Explore featured programs">
       <div className={styles.grid}>
@@ -56,6 +62,7 @@ function FeatureGrid() {
             fallbackSlides={redTagTile.fallbackSlides}
           />
           <div className={styles.content}>
+            {dateRange && <p className={styles.tileDate}>{dateRange}</p>}
             <h2 className={styles.heading}>{redTagTile.heading}</h2>
             <p className={styles.description}>{redTagTile.description}</p>
             <CtaLink cta={redTagTile.cta} className={styles.cta} />

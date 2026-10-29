@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom'
 import { promoBarData } from '../data/promoBar'
 import RedTagBadge from '../../ui/RedTagBadge'
+import { useSiteSettings } from '../../../hooks/useSiteSettings'
+import { formatPromoRange, isPromoActive } from '../../../utils/promoDates'
 import styles from './PromoBar.module.css'
 
 /* Flecha real del original: viewBox 0 0 15 15. */
@@ -20,15 +22,23 @@ const PromoArrow = () => (
 )
 
 function PromoBar() {
-  const { message, cta, to, ariaLabel } = promoBarData
+  const { promoDeadline, promoStartDate } = useSiteSettings()
+
+  if (!isPromoActive(promoDeadline)) return null
+
+  const dateRange = formatPromoRange(promoStartDate, promoDeadline)
+  const message = dateRange
+    ? `${promoBarData.message} ${dateRange}.`
+    : promoBarData.message
+  const ariaLabel = `Red Tag Event: ${message} ${promoBarData.cta}`
 
   return (
     <div className={styles.bar} role="complementary" aria-label="Oferta promocional">
-      <Link to={to} className={styles.link} aria-label={ariaLabel}>
+      <Link to={promoBarData.to} className={styles.link} aria-label={ariaLabel}>
         <RedTagBadge className={styles.badge} />
         <span className={styles.message}>{message}</span>
         <span className={styles.cta}>
-          {cta}
+          {promoBarData.cta}
           <PromoArrow />
         </span>
       </Link>

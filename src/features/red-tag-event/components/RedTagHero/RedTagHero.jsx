@@ -2,7 +2,7 @@ import logoRte from '../../../../assets/brand/L1_Red-Tag-Event_Logo_Red.svg'
 import heroImg from '../../../../assets/images/red-tag-event/desktop-landingv2.webp'
 import styles from './RedTagHero.module.css'
 
-function RedTagHero({ dateRange = 'Oct 9 – Nov 1', formAnchor = '#rte-form' }) {
+function RedTagHero({ dateRange = '', formAnchor = '#rte-form' }) {
   return (
     <section className={styles.hero} aria-labelledby="rte-heading">
       <div className={styles.imageCol} aria-hidden="true">
