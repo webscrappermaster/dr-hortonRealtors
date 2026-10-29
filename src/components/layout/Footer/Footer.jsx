@@ -4,9 +4,12 @@ import SiteMap from './SiteMap'
 import LegalModal from '../../ui/LegalModal'
 import {
   footerSections,
-  socialLinks,
+  staticSocialLinks,
+  facebookIcon,
+  instagramIcon,
   copyright,
 } from '../data/footer'
+import { useSiteSettings } from '../../../hooks/useSiteSettings'
 import styles from './Footer.module.css'
 
 /* Link interno (<Link>) o externo (<a target="_blank">). */
@@ -26,10 +29,11 @@ function FooterLink({ item }) {
   return <Link to={item.to}>{item.label}</Link>
 }
 
-function SocialList({ className }) {
+function SocialList({ className, links }) {
+  if (!links.length) return null
   return (
     <ul className={`${styles.social} ${className ?? ''}`} aria-label="Social media">
-      {socialLinks.map(({ label, to, icon }) => (
+      {links.map(({ label, to, icon }) => (
         <li key={label}>
           <a
             href={to}
@@ -108,13 +112,20 @@ function Footer() {
   const openModal = (cfg) => setModal(cfg)
   const closeModal = () => setModal(null)
 
+  const { facebookUrl, instagramUrl } = useSiteSettings()
+  const socialLinks = [
+    facebookUrl  && { label: 'Facebook',  to: facebookUrl,  icon: facebookIcon  },
+    instagramUrl && { label: 'Instagram', to: instagramUrl, icon: instagramIcon },
+    ...staticSocialLinks,
+  ].filter(Boolean)
+
   return (
     <footer className={styles.footer} role="contentinfo">
       <SiteMap />
 
       <div className={styles.topBar}>
         <div className={styles.frame}>
-          <SocialList className={styles.socialMobile} />
+          <SocialList className={styles.socialMobile} links={socialLinks} />
 
           <div className={styles.topRow}>
             <nav className={styles.footerNav} aria-label="Footer navigation">
@@ -145,7 +156,7 @@ function Footer() {
               </ul>
             </nav>
 
-            <SocialList className={styles.socialDesktop} />
+            <SocialList className={styles.socialDesktop} links={socialLinks} />
           </div>
         </div>
       </div>

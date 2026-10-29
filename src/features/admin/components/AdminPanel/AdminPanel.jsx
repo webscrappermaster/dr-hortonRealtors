@@ -19,6 +19,8 @@ function formatUpdatedAt(iso) {
 function AdminPanel({ onLogout }) {
   const [whatsappNumber, setWhatsappNumber] = useState('')
   const [promoDeadline, setPromoDeadline] = useState('')
+  const [facebookUrl, setFacebookUrl] = useState('')
+  const [instagramUrl, setInstagramUrl] = useState('')
   const [updatedAt, setUpdatedAt] = useState(null)
   const [loading, setLoading] = useState(true)
   const [saving, setSaving] = useState(false)
@@ -30,6 +32,8 @@ function AdminPanel({ onLogout }) {
       .then(data => {
         setWhatsappNumber(data.whatsappNumber ?? '')
         setPromoDeadline(data.promoDeadline ?? '')
+        setFacebookUrl(data.facebookUrl ?? '')
+        setInstagramUrl(data.instagramUrl ?? '')
         setUpdatedAt(data.updatedAt)
         setLoading(false)
       })
@@ -49,6 +53,8 @@ function AdminPanel({ onLogout }) {
     const body = {}
     if (whatsappNumber) body.whatsappNumber = whatsappNumber
     if (promoDeadline) body.promoDeadline = promoDeadline
+    body.facebookUrl = facebookUrl
+    body.instagramUrl = instagramUrl
     try {
       const res = await fetch('/api/admin/settings', {
         method: 'PUT',
@@ -159,6 +165,43 @@ function AdminPanel({ onLogout }) {
                   Preview: <em>Shop move-in ready homes by {previewDate}.</em>
                 </p>
               )}
+            </div>
+          </fieldset>
+
+          {/* Social media */}
+          <fieldset className={styles.fieldset}>
+            <legend className={styles.legend}>Social media</legend>
+            <div className={styles.field}>
+              <label htmlFor="fb-url" className={styles.label}>
+                Facebook URL
+              </label>
+              <p className={styles.hint}>
+                Must start with https://facebook.com/ or https://www.facebook.com/. Leave empty to hide the icon.
+              </p>
+              <input
+                id="fb-url"
+                type="url"
+                value={facebookUrl}
+                onChange={e => setFacebookUrl(e.target.value.trim())}
+                className={styles.input}
+                placeholder="https://www.facebook.com/yourpage"
+              />
+            </div>
+            <div className={styles.field}>
+              <label htmlFor="ig-url" className={styles.label}>
+                Instagram URL
+              </label>
+              <p className={styles.hint}>
+                Must start with https://instagram.com/ or https://www.instagram.com/. Leave empty to hide the icon.
+              </p>
+              <input
+                id="ig-url"
+                type="url"
+                value={instagramUrl}
+                onChange={e => setInstagramUrl(e.target.value.trim())}
+                className={styles.input}
+                placeholder="https://www.instagram.com/yourhandle"
+              />
             </div>
           </fieldset>
 

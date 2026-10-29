@@ -48,9 +48,10 @@ export const legalLinks = [
   { label: 'EPA Consent Decree',           to: '/epa-consent-decree', internal: true },
 ]
 
-export const socialLinks = [
-  { label: 'Facebook',  to: 'https://www.facebook.com/DRHorton.Homes',   icon: facebookIcon  },
-  { label: 'Instagram', to: 'https://www.instagram.com/drhorton/',       icon: instagramIcon },
+/* Facebook e Instagram se gestionan en /admin y vienen de useSiteSettings(). */
+export { facebookIcon, instagramIcon }
+
+export const staticSocialLinks = [
   { label: 'LinkedIn',  to: 'https://www.linkedin.com/company/dr-horton/', icon: linkedinIcon },
   { label: 'Pinterest', to: 'https://www.pinterest.com/drhortonhomes/',  icon: pinterestIcon },
 ]

@@ -4,7 +4,9 @@ import { updateSettings } from '../_lib/edgeConfig.js'
 
 const PHONE_RE = /^\d{8,15}$/
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/
-const ALLOWED_FIELDS = new Set(['whatsappNumber', 'promoDeadline'])
+const ALLOWED_FIELDS = new Set(['whatsappNumber', 'promoDeadline', 'facebookUrl', 'instagramUrl'])
+const FACEBOOK_RE = /^https:\/\/(www\.)?facebook\.com\//
+const INSTAGRAM_RE = /^https:\/\/(www\.)?instagram\.com\//
 
 export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store')
@@ -42,6 +44,24 @@ export default async function handler(req, res) {
     const date = new Date(body.promoDeadline)
     if (isNaN(date.getTime())) {
       return res.status(400).json({ error: 'promoDeadline: fecha no válida' })
+    }
+  }
+
+  if (body.facebookUrl !== undefined) {
+    if (typeof body.facebookUrl !== 'string') {
+      return res.status(400).json({ error: 'facebookUrl debe ser texto' })
+    }
+    if (body.facebookUrl !== '' && !FACEBOOK_RE.test(body.facebookUrl)) {
+      return res.status(400).json({ error: 'facebookUrl: debe ser una URL https de facebook.com, o vacío' })
+    }
+  }
+
+  if (body.instagramUrl !== undefined) {
+    if (typeof body.instagramUrl !== 'string') {
+      return res.status(400).json({ error: 'instagramUrl debe ser texto' })
+    }
+    if (body.instagramUrl !== '' && !INSTAGRAM_RE.test(body.instagramUrl)) {
+      return res.status(400).json({ error: 'instagramUrl: debe ser una URL https de instagram.com, o vacío' })
     }
   }
 
