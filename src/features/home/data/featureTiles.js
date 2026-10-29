@@ -10,13 +10,12 @@ export const redTagTile = {
   vimeoId: '1204948807',
   vimeoTitle: 'RTE-Sign_Q426',
   heading: 'Better pricing. Extra perks. More ways to save.',
-  description: 'The Red Tag Event brings big savings for a limited time. See what’s available near you.',
+  description: "The Red Tag Event brings big savings for a limited time. See what's available near you.",
   cta: {
     label: 'See deals',
-    to: 'https://www.drhorton.com/red-tag-event',
-    external: true,
-    ariaLabel: 'It’s time for the Red Tag Event.',
-    title: 'Opens a new window',
+    to: '/red-tag-event',
+    external: false,
+    ariaLabel: 'Red Tag Event: see deals on move-in ready homes.',
   },
   fallbackSlides: [
     { src: slide1, alt: 'Vista frontal de una casa D.R. Horton con cartel Red Tag' },
@@ -26,12 +25,12 @@ export const redTagTile = {
   ],
 }
 
-/* 4 tarjetas de la cuadrícula secundaria (2 columnas × 2 filas). */
+/* 4 tarjetas de la cuadrícula secundaria (2 columnas x 2 filas). */
 export const secondaryTiles = [
   {
     id: 'smart-home',
     heading: 'Stay connected to home.',
-    description: 'Check out what’s behind the door of America’s Smart Home.',
+    description: "Check out what's behind the door of America's Smart Home.",
     hasTopSquares: true,
     cta: {
       label: 'Learn more',
@@ -44,9 +43,9 @@ export const secondaryTiles = [
   {
     id: 'real-estate-agents',
     heading: 'We ❤ real estate agents',
-    hasHeart: true,  /* el "❤" es realmente el SVG heart.svg; el componente lo inyecta */
+    hasHeart: true,
     hasTopSquares: true,
-    description: 'We want to work with you to find your clients’ new homes.',
+    description: "We want to work with you to find your clients' new homes.",
     cta: {
       label: 'Work with us',
       to: '/real-estate-agents',
@@ -58,7 +57,7 @@ export const secondaryTiles = [
   {
     id: 'military-benefits',
     heading: 'Military buyers',
-    description: 'We’re proud to build homes for those who serve.',
+    description: "We're proud to build homes for those who serve.",
     hasTopSquares: true,
     cta: {
       label: 'Find your home',
@@ -71,7 +70,7 @@ export const secondaryTiles = [
   {
     id: 'submit-story',
     heading: 'Submit your story',
-    description: 'We all love to see our homebuyers’ smiling faces.',
+    description: "We all love to see our homebuyers' smiling faces.",
     cta: {
       label: 'Tell your story',
       to: 'https://customerportal.drhorton.com/myStory',
