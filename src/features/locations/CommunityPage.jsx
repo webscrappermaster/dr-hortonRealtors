@@ -80,7 +80,6 @@ function CommunityPage() {
             <CommunityAside
               communityName={community.name}
               hours={community.hours}
-              phone={community.phone}
               community={community}
             />
             {/* Mapa pequeño con pin de la comunidad */}

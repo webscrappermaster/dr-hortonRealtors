@@ -5,11 +5,9 @@ import { buildWhatsAppUrl, buildCommunityMessage } from '../../../../utils/whats
 import { useSiteSettings } from '../../../../hooks/useSiteSettings'
 import styles from './CommunityAside.module.css'
 
-function CommunityAside({ communityName, hours, phone, community }) {
+function CommunityAside({ communityName, hours, community }) {
   const [showRFI, setShowRFI] = useState(false)
-  const [showTWU, setShowTWU] = useState(false)
   const tourBtnRef = useRef(null)
-  const twuBtnRef = useRef(null)
   const { whatsappNumber } = useSiteSettings()
 
   return (
@@ -28,29 +26,6 @@ function CommunityAside({ communityName, hours, phone, community }) {
       >
         Request a tour
       </button>
-
-      <div className={styles.contactRow}>
-        {phone && (
-          <a href={`tel:${phone.replace(/\D/g, '')}`} className={styles.phone}>
-            {phone}
-          </a>
-        )}
-
-        <button
-          ref={twuBtnRef}
-          type="button"
-          className={styles.twuBtn}
-          onClick={() => setShowTWU(v => !v)}
-        >
-          Text With Us
-        </button>
-      </div>
-
-      {showTWU && (
-        <p className={styles.twuNotice} role="status">
-          Text messaging is not available in this version.
-        </p>
-      )}
 
       <div className={styles.whatsappWrap}>
         <WhatsAppButton

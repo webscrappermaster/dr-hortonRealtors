@@ -2799,7 +2799,7 @@
           "cityName": "Jefferson",
           "zip": "30549",
           "address": "126 Bullock Pass, Jefferson, GA 30549",
-          "phone": "770-373-4505",
+          "phone": null,
           "hours": "Mon–Sat 10:00 AM–6:00 PM | Sun 12:00 PM–6:00 PM",
           "series": "Express Series",
           "status": "now-selling",

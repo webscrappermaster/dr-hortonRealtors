@@ -9,14 +9,6 @@ function OfficeCard({ office }) {
       <address className={styles.officeAddress}>
         {office.address && <span>{office.address}</span>}
         {office.city && <span>{office.city}</span>}
-        {office.phone && (
-          <span>{office.phone}</span>
-        )}
-        {office.phoneAlt && (
-          <span>
-            {office.phoneAltLabel ? `${office.phoneAltLabel}: ` : ''}{office.phoneAlt}
-          </span>
-        )}
         {office.email && (
           <span>{office.email}</span>
         )}
@@ -64,7 +56,7 @@ function OfficeAccordion() {
       <div className={styles.header}>
         <h2 className={styles.heading}>Find an Office</h2>
         <p className={styles.lead}>
-          For the address and telephone number of the division or region office in your area,
+          For the address of the division or region office in your area,
           please select from the options below.
         </p>
       </div>
