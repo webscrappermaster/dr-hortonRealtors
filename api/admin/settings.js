@@ -88,8 +88,8 @@ export default async function handler(req, res) {
   }
 
   try {
-    const { updatedAt } = await updateSettings(body)
-    return res.status(200).json({ ok: true, updatedAt })
+    const saved = await updateSettings(body)
+    return res.status(200).json({ ok: true, saved })
   } catch (err) {
     const msg = err.message ?? ''
     console.error('Error al actualizar ajustes:', msg)

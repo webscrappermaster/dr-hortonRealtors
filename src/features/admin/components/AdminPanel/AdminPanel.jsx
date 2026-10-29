@@ -59,12 +59,26 @@ function AdminPanel({ onLogout }) {
         body: JSON.stringify(body),
       })
       const data = await res.json()
-      if (res.ok) {
-        setUpdatedAt(data.updatedAt)
-        setFeedback({ type: 'success', msg: 'Settings saved successfully.' })
-      } else {
+      if (!res.ok) {
         setFeedback({ type: 'error', msg: data.error ?? 'Failed to save settings.' })
+        return
       }
+
+      /* Recargar desde el servidor para confirmar que la escritura llegó a Edge Config */
+      const freshRes = await fetch('/api/settings', { cache: 'no-store' })
+      if (freshRes.ok) {
+        const fresh = await freshRes.json()
+        setWhatsappNumber(fresh.whatsappNumber ?? '')
+        setPromoDeadline(fresh.promoDeadline ?? '')
+        setPromoStartDate(fresh.promoStartDate ?? '')
+        setFacebookUrl(fresh.facebookUrl ?? '')
+        setInstagramUrl(fresh.instagramUrl ?? '')
+        setUpdatedAt(fresh.updatedAt)
+      } else {
+        /* Si el GET falla, al menos mostrar el updatedAt que devolvió el PUT */
+        setUpdatedAt(data.saved?.updatedAt ?? null)
+      }
+      setFeedback({ type: 'success', msg: 'Settings saved successfully.' })
     } catch {
       setFeedback({ type: 'error', msg: 'Connection error. Please try again.' })
     } finally {
