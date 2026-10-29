@@ -1,12 +1,6 @@
 import { useState, useEffect } from 'react'
+import { formatLong, formatPromoRange, isPromoActive } from '../../../../utils/promoDates'
 import styles from './AdminPanel.module.css'
-
-const dateFormatter = new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric' })
-
-function parseLocalDate(iso) {
-  const [y, m, d] = iso.split('-').map(Number)
-  return new Date(y, m - 1, d)
-}
 
 function formatUpdatedAt(iso) {
   if (!iso) return null
@@ -19,6 +13,7 @@ function formatUpdatedAt(iso) {
 function AdminPanel({ onLogout }) {
   const [whatsappNumber, setWhatsappNumber] = useState('')
   const [promoDeadline, setPromoDeadline] = useState('')
+  const [promoStartDate, setPromoStartDate] = useState('')
   const [facebookUrl, setFacebookUrl] = useState('')
   const [instagramUrl, setInstagramUrl] = useState('')
   const [updatedAt, setUpdatedAt] = useState(null)
@@ -32,6 +27,7 @@ function AdminPanel({ onLogout }) {
       .then(data => {
         setWhatsappNumber(data.whatsappNumber ?? '')
         setPromoDeadline(data.promoDeadline ?? '')
+        setPromoStartDate(data.promoStartDate ?? '')
         setFacebookUrl(data.facebookUrl ?? '')
         setInstagramUrl(data.instagramUrl ?? '')
         setUpdatedAt(data.updatedAt)
@@ -53,6 +49,7 @@ function AdminPanel({ onLogout }) {
     const body = {}
     if (whatsappNumber) body.whatsappNumber = whatsappNumber
     if (promoDeadline) body.promoDeadline = promoDeadline
+    body.promoStartDate = promoStartDate
     body.facebookUrl = facebookUrl
     body.instagramUrl = instagramUrl
     try {
@@ -80,9 +77,10 @@ function AdminPanel({ onLogout }) {
     onLogout()
   }
 
-  const previewDate = promoDeadline
-    ? dateFormatter.format(parseLocalDate(promoDeadline))
-    : null
+  const active = isPromoActive(promoDeadline)
+  const heroPreview   = promoDeadline ? `Shop move-in ready homes by ${formatLong(promoDeadline)}.` : null
+  const rangePreview  = promoDeadline ? formatPromoRange(promoStartDate || '', promoDeadline) : null
+  const promoBarText  = active ? `Save big on homes near you. ${rangePreview}` : null
 
   if (loading) {
     return (
@@ -146,12 +144,27 @@ function AdminPanel({ onLogout }) {
             </div>
           </fieldset>
 
-          {/* Promo deadline */}
+          {/* Promo dates */}
           <fieldset className={styles.fieldset}>
-            <legend className={styles.legend}>Promo deadline</legend>
+            <legend className={styles.legend}>Promo</legend>
+            <div className={styles.field}>
+              <label htmlFor="promo-start" className={styles.label}>
+                Start date <span className={styles.optionalTag}>(optional)</span>
+              </label>
+              <p className={styles.hint}>
+                Leave empty to show "Through [end date]" instead of a date range.
+              </p>
+              <input
+                id="promo-start"
+                type="date"
+                value={promoStartDate}
+                onChange={e => setPromoStartDate(e.target.value)}
+                className={`${styles.input} ${styles.inputDate}`}
+              />
+            </div>
             <div className={styles.field}>
               <label htmlFor="promo-date" className={styles.label}>
-                Date
+                End date (deadline)
               </label>
               <input
                 id="promo-date"
@@ -160,12 +173,26 @@ function AdminPanel({ onLogout }) {
                 onChange={e => setPromoDeadline(e.target.value)}
                 className={`${styles.input} ${styles.inputDate}`}
               />
-              {previewDate && (
-                <p className={styles.preview} aria-live="polite">
-                  Preview: <em>Shop move-in ready homes by {previewDate}.</em>
-                </p>
-              )}
             </div>
+
+            {promoDeadline && (
+              <div className={styles.previews} aria-live="polite">
+                <p className={styles.previewsLabel}>Preview</p>
+                <dl className={styles.previewList}>
+                  <dt>Hero</dt>
+                  <dd><em>{heroPreview}</em></dd>
+                  <dt>Red Tag card</dt>
+                  <dd><em>{rangePreview}</em></dd>
+                  <dt>PromoBar</dt>
+                  <dd>
+                    {active
+                      ? <em>{promoBarText} · Act now →</em>
+                      : <span className={styles.previewExpired}>Hidden — promo deadline has passed.</span>
+                    }
+                  </dd>
+                </dl>
+              </div>
+            )}
           </fieldset>
 
           {/* Social media */}

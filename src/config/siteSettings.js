@@ -3,6 +3,7 @@
 export const DEFAULT_SETTINGS = {
   whatsappNumber: null,
   promoDeadline: '2026-11-01',
+  promoStartDate: '',
   facebookUrl: '',
   instagramUrl: '',
 }

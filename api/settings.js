@@ -15,6 +15,7 @@ export default async function handler(req, res) {
     return res.status(200).json({
       whatsappNumber: DEFAULT_SETTINGS.whatsappNumber,
       promoDeadline: DEFAULT_SETTINGS.promoDeadline,
+      promoStartDate: DEFAULT_SETTINGS.promoStartDate,
       facebookUrl: DEFAULT_SETTINGS.facebookUrl,
       instagramUrl: DEFAULT_SETTINGS.instagramUrl,
       updatedAt: null,

@@ -4,7 +4,7 @@ import { updateSettings } from '../_lib/edgeConfig.js'
 
 const PHONE_RE = /^\d{8,15}$/
 const DATE_RE = /^\d{4}-\d{2}-\d{2}$/
-const ALLOWED_FIELDS = new Set(['whatsappNumber', 'promoDeadline', 'facebookUrl', 'instagramUrl'])
+const ALLOWED_FIELDS = new Set(['whatsappNumber', 'promoDeadline', 'promoStartDate', 'facebookUrl', 'instagramUrl'])
 const FACEBOOK_RE = /^https:\/\/(www\.)?facebook\.com\//
 const INSTAGRAM_RE = /^https:\/\/(www\.)?instagram\.com\//
 
@@ -44,6 +44,28 @@ export default async function handler(req, res) {
     const date = new Date(body.promoDeadline)
     if (isNaN(date.getTime())) {
       return res.status(400).json({ error: 'promoDeadline: fecha no válida' })
+    }
+  }
+
+  if (body.promoStartDate !== undefined) {
+    if (typeof body.promoStartDate !== 'string') {
+      return res.status(400).json({ error: 'promoStartDate debe ser texto' })
+    }
+    if (body.promoStartDate !== '') {
+      if (!DATE_RE.test(body.promoStartDate)) {
+        return res.status(400).json({ error: 'promoStartDate: formato ISO requerido (YYYY-MM-DD)' })
+      }
+      const start = new Date(body.promoStartDate)
+      if (isNaN(start.getTime())) {
+        return res.status(400).json({ error: 'promoStartDate: fecha no válida' })
+      }
+      // si ambas fechas llegan en el mismo request, verificar que start < deadline
+      if (body.promoDeadline) {
+        const end = new Date(body.promoDeadline)
+        if (start >= end) {
+          return res.status(400).json({ error: 'promoStartDate debe ser anterior a promoDeadline' })
+        }
+      }
     }
   }
 
