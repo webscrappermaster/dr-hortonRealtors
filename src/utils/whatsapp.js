@@ -9,6 +9,7 @@ import {
   MSG_MAINTENANCE,
   MSG_LAND_CONTACT,
   MSG_WARRANTY_TEMPLATE,
+  MSG_CONTACT_TEMPLATE,
 } from '../config/whatsappMessages'
 
 export function buildWhatsAppUrl(number, message) {
@@ -71,6 +72,31 @@ export function buildTextWithUsMessage(community) {
     .replace('{communityName}', community?.name ?? '')
     .replace('{cityName}', community?.cityName ?? '')
     .replace('{stateSlug}', community?.stateSlug ?? '')
+}
+
+/* Formulario de contacto — no almacena datos en ningún lugar.
+   inquiryLabel: etiqueta legible del tipo de consulta (no el value del select).
+   requestDetails se recorta a 1 000 caracteres para que la URL de wa.me no falle. */
+export function buildContactMessage(values, inquiryLabel) {
+  const phoneLine          = values.phone?.trim()          ? `Phone: ${values.phone.trim()}\n`                    : ''
+  const secondaryPhoneLine = values.secondaryPhone?.trim() ? `Secondary Phone: ${values.secondaryPhone.trim()}\n` : ''
+  const addressLine        = values.address?.trim()        ? `Address: ${values.address.trim()}\n`                : ''
+  const url     = typeof window !== 'undefined' ? window.location.href : ''
+  const details = values.requestDetails.trim()
+  const truncated = details.length > 1000 ? `${details.slice(0, 997)}...` : details
+
+  return MSG_CONTACT_TEMPLATE
+    .replace('{inquiryType}',        inquiryLabel ?? values.inquiryType)
+    .replace('{firstName}',          values.firstName.trim())
+    .replace('{lastName}',           values.lastName.trim())
+    .replace('{phoneLine}',          phoneLine)
+    .replace('{secondaryPhoneLine}', secondaryPhoneLine)
+    .replace('{email}',              values.email.trim())
+    .replace('{addressLine}',        addressLine)
+    .replace('{state}',              values.state)
+    .replace('{city}',               values.city.trim())
+    .replace('{requestDetails}',     truncated)
+    .replace('{url}',                url)
 }
 
 // Formularios de solicitud — no almacenan datos en ningún lado

@@ -28,6 +28,19 @@ export const MSG_WARRANTY_TEMPLATE =
   '(I will send any photos or files directly in this chat.)\n' +
   'Page: {url}'
 
+export const MSG_CONTACT_TEMPLATE =
+  "Hi! I'd like to get in touch with D.R. Horton.\n\n" +
+  'Inquiry Type: {inquiryType}\n' +
+  'Name: {firstName} {lastName}\n' +
+  '{phoneLine}' +
+  '{secondaryPhoneLine}' +
+  'Email: {email}\n' +
+  '{addressLine}' +
+  'State: {state}\n' +
+  'City: {city}\n\n' +
+  'Message:\n{requestDetails}\n\n' +
+  'Page: {url}'
+
 // Plantillas para formularios de solicitud (RFIModal y Request a tour)
 export const MSG_RFI_TEMPLATE =
   'Hello! I\'d like to request information about {communityName}.\n\n' +
